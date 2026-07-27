@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-07-27T16:02:59+00:00",
-  "ok": true,
+  "checked_at": "2026-07-27T16:06:34+00:00",
+  "ok": false,
   "incidents": [
     {
       "road": "",
@@ -10,5 +10,8 @@
       "road_tokens": []
     }
   ],
-  "source": "https://infocar.dgt.es/datex2/lod/dgt/incidencias.rdf"
+  "source": "https://infocar.dgt.es/datex2/lod/dgt/incidencias.rdf",
+  "stale": true,
+  "error": "incomplete_dgt_dataset",
+  "coverage_warning": "El fichero DGT se descargó, pero no se han podido interpretar suficientes incidencias para verificar rutas con seguridad."
 }
