@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0d10" />
+  <meta name="color-scheme" content="dark" />
+  <title>Incendios Centro · Madrid · Ávila · Toledo</title>
+  <style>
+:root{--bg:#090b0e;--panel:#11151a;--panel2:#151a20;--text:#f5f7fa;--muted:#9da7b2;--line:#28303a;--orange:#ff6a2a;--red:#ff3b30;--amber:#ffb020;--green:#35d07f;--blue:#56a8ff;--radius:22px;--shadow:0 24px 60px rgba(0,0,0,.35)}
+*{box-sizing:border-box}html{background:var(--bg);scroll-behavior:smooth}body{margin:0;background:radial-gradient(900px 500px at 10% -10%,rgba(255,106,42,.16),transparent 60%),radial-gradient(700px 500px at 100% 0%,rgba(86,168,255,.08),transparent 60%),var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;min-height:100vh}.noise{position:fixed;inset:0;pointer-events:none;opacity:.025;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.95' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.55'/%3E%3C/svg%3E");z-index:99}.topbar{height:78px;position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;padding:0 max(24px,calc((100vw - 1380px)/2));backdrop-filter:blur(18px);background:rgba(9,11,14,.78);border-bottom:1px solid rgba(255,255,255,.07)}.brand{display:flex;gap:12px;align-items:center}.brandmark{width:42px;height:42px;color:var(--orange);display:grid;place-items:center}.brandmark svg{width:36px}.brandname{font-weight:850;letter-spacing:.08em;font-size:14px}.brandsub{color:var(--muted);font-size:12px;margin-top:2px}.top-actions{display:flex;gap:10px;align-items:center}.live-pill{display:flex;gap:8px;align-items:center;border:1px solid rgba(53,208,127,.25);background:rgba(53,208,127,.08);color:#b9f6d3;border-radius:999px;padding:9px 12px;font-size:11px;font-weight:800;letter-spacing:.07em}.live-dot{width:8px;height:8px;background:var(--green);border-radius:50%;box-shadow:0 0 0 0 rgba(53,208,127,.5);animation:live 1.8s infinite}@keyframes live{70%{box-shadow:0 0 0 8px rgba(53,208,127,0)}100%{box-shadow:0 0 0 0 rgba(53,208,127,0)}}.icon-btn{width:38px;height:38px;border:1px solid var(--line);border-radius:12px;background:#12161b;color:var(--text);display:grid;place-items:center;cursor:pointer}.icon-btn:hover{border-color:#46505d}.icon-btn svg{width:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.icon-btn.spinning svg{animation:spin .7s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}.shell{width:min(1380px,calc(100% - 48px));margin:32px auto 120px}.glass{background:linear-gradient(180deg,rgba(23,28,34,.92),rgba(16,20,25,.92));border:1px solid rgba(255,255,255,.08);box-shadow:var(--shadow)}.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:16px}.hero-main{border-radius:30px;padding:42px;min-height:300px;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden}.hero-main:after{content:"";position:absolute;width:360px;height:360px;border-radius:50%;right:-80px;top:-180px;background:radial-gradient(circle,rgba(255,106,42,.28),rgba(255,106,42,0) 70%);filter:blur(12px)}.eyebrow,.section-kicker,.critical-kicker{font-size:11px;font-weight:800;letter-spacing:.13em;color:#aab4bf}.eyebrow{display:flex;align-items:center;gap:8px}.pulse{width:7px;height:7px;border-radius:50%;background:var(--orange);box-shadow:0 0 16px var(--orange)}h1{font-size:clamp(42px,6vw,82px);line-height:.93;letter-spacing:-.055em;margin:20px 0 18px;max-width:760px}h1 span{color:var(--orange)}.hero-main p{max-width:720px;margin:0;color:#bac3cc;font-size:17px;line-height:1.6}.hero-meta{display:flex;gap:9px;margin-top:26px;color:#7f8a96;font-size:12px}.emergency-card{border-radius:30px;padding:30px;background:linear-gradient(155deg,#ff4b31,#b41619 70%);box-shadow:0 24px 60px rgba(191,25,25,.24);display:flex;flex-direction:column;justify-content:space-between;min-height:300px}.emergency-label{font-size:11px;font-weight:900;letter-spacing:.15em}.emergency-number{font-size:96px;letter-spacing:-.08em;font-weight:900;line-height:.8}.emergency-copy{font-size:13px;line-height:1.5;color:#ffe0da}.province-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:16px 0}.province-card{background:#11151a;border:1px solid var(--line);border-radius:20px;padding:18px 20px;display:flex;align-items:center;justify-content:space-between;cursor:pointer;transition:.2s}.province-card:hover{transform:translateY(-2px);border-color:#46505d}.province-left{display:flex;align-items:center;gap:12px}.province-badge{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;background:#1c2229;font-weight:850}.province-name{font-weight:800}.province-status{font-size:11px;color:var(--muted);margin-top:4px}.province-count{font-size:24px;font-weight:900}.critical{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:18px;align-items:center;padding:18px 20px;border-radius:20px;margin:16px 0;border-left:3px solid var(--red)}.critical-icon{width:42px;height:42px;border-radius:13px;background:rgba(255,59,48,.15);color:#ff746c;display:grid;place-items:center;font-size:22px;font-weight:900}.critical-title{font-weight:820;font-size:15px;margin-top:4px}.critical-meta{font-size:12px;color:var(--muted);margin-top:5px}.critical-link{color:#ff8b84;text-decoration:none;font-size:12px;font-weight:800;white-space:nowrap}.toolbar{display:grid;grid-template-columns:minmax(280px,1fr) auto;gap:14px;padding:14px;border-radius:18px;margin:22px 0 10px;box-shadow:none}.searchbox{height:46px;display:flex;align-items:center;gap:10px;background:#0e1216;border:1px solid var(--line);border-radius:14px;padding:0 14px}.searchbox svg{width:18px;fill:none;stroke:#7f8a96;stroke-width:2}.searchbox input{width:100%;border:0;outline:0;background:transparent;color:var(--text);font-size:14px}.searchbox input::placeholder{color:#69737f}.filters{display:flex;gap:8px}.filters select{height:46px;border-radius:14px;border:1px solid var(--line);background:#0e1216;color:#dce1e6;padding:0 34px 0 12px;font-size:12px;outline:none}.tabs{display:flex;gap:5px;overflow:auto;padding:10px 0 0;border-bottom:1px solid var(--line);scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}.tab{background:transparent;color:#7f8a96;border:0;padding:14px 15px 13px;font-weight:800;font-size:12px;cursor:pointer;position:relative;white-space:nowrap}.tab.active{color:#fff}.tab.active:after{content:"";position:absolute;left:12px;right:12px;bottom:-1px;height:2px;background:var(--orange);border-radius:2px}.view{display:none}.view.active{display:block}.section-heading{display:flex;align-items:end;justify-content:space-between;margin:30px 0 14px}.section-heading h2{font-size:27px;letter-spacing:-.035em;margin:4px 0 0}.result-count{color:var(--muted);font-size:12px}.feed{display:grid;gap:10px}.item{position:relative;display:grid;grid-template-columns:86px minmax(0,1fr) 148px;gap:18px;align-items:center;background:#101419;border:1px solid var(--line);border-radius:20px;padding:17px 18px;transition:.2s}.item:hover{background:#13181e;border-color:#46505d;transform:translateY(-1px)}.item.official{background:linear-gradient(90deg,rgba(86,168,255,.07),#101419 36%);border-left:3px solid var(--blue)}.item.critical-item{background:linear-gradient(90deg,rgba(255,59,48,.09),#101419 40%);border-left:3px solid var(--red)}.timebox{border-right:1px solid var(--line);padding-right:16px}.time{font-size:20px;font-weight:900;letter-spacing:-.03em}.date{font-size:11px;color:#7f8a96;margin-top:4px}.item-tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:7px}.tag{font-size:9px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:5px 7px;background:#1b2128;color:#aeb7c1}.tag.official{background:rgba(86,168,255,.12);color:#87c2ff}.tag.alert{background:rgba(255,59,48,.14);color:#ff817a}.tag.madrid{color:#f7b38e}.tag.avila{color:#9cc6ff}.tag.toledo{color:#9ee8bf}.item-title{font-size:15px;font-weight:800;line-height:1.35}.item-summary{font-size:12px;line-height:1.55;color:#929da9;margin-top:6px;max-width:900px}.sourcebox{text-align:right}.source-name{font-size:12px;font-weight:850}.source-town{font-size:11px;color:#7f8a96;margin-top:4px}.open-link{display:inline-block;margin-top:9px;font-size:11px;text-decoration:none;color:#aeb7c1;border:1px solid #343d47;border-radius:9px;padding:6px 8px}.open-link:hover{color:#fff;border-color:#576370}.town-grid,.source-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.town-card,.source-card{background:#101419;border:1px solid var(--line);border-radius:20px;padding:18px}.town-top{display:flex;justify-content:space-between;gap:10px}.town-name{font-weight:850}.town-province{font-size:10px;color:var(--muted);margin-top:4px;text-transform:uppercase;letter-spacing:.08em}.town-number{font-size:24px;font-weight:900;color:#e7ebef}.town-last{font-size:11px;color:#7f8a96;border-top:1px solid var(--line);padding-top:12px;margin-top:13px}.source-card{display:flex;flex-direction:column;gap:11px}.source-head{display:flex;align-items:center;justify-content:space-between}.verified{font-size:9px;font-weight:900;letter-spacing:.08em;background:rgba(53,208,127,.1);color:#72e5a5;padding:5px 7px;border-radius:999px}.official-source{background:rgba(86,168,255,.1);color:#8dc6ff}.source-card h3{margin:0;font-size:14px}.source-card p{margin:0;color:#8e99a5;font-size:11px;line-height:1.5}.source-card a{color:#d7dde3;text-decoration:none;font-size:11px}.empty{padding:30px;border:1px dashed #343d47;border-radius:18px;color:#7f8a96;text-align:center}.mobile-nav{display:none}
+@media(max-width:950px){.shell{width:min(100% - 28px,1380px);margin-top:18px}.topbar{padding:0 14px}.hero-grid{grid-template-columns:1fr}.emergency-card{min-height:180px;display:grid;grid-template-columns:1fr auto;grid-template-rows:auto 1fr}.emergency-number{font-size:76px;grid-column:2;grid-row:1/3}.emergency-copy{align-self:end;max-width:520px}.toolbar{grid-template-columns:1fr}.filters{overflow:auto}.filters select{flex:0 0 auto}.item{grid-template-columns:72px minmax(0,1fr)}.sourcebox{grid-column:2;text-align:left;display:flex;align-items:center;gap:10px}.open-link{margin-top:0}.town-grid,.source-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){body{padding-bottom:72px}.topbar{height:68px}.brandmark{width:34px}.brandmark svg{width:31px}.brandname{font-size:12px}.brandsub{font-size:10px}.live-pill{padding:8px 9px;font-size:9px}.shell{width:calc(100% - 20px);margin:10px auto 30px}.hero-main{padding:26px 22px;min-height:260px;border-radius:24px}.hero-main p{font-size:14px}.hero-meta{font-size:10px;flex-wrap:wrap}h1{font-size:48px}.emergency-card{border-radius:24px;padding:22px}.emergency-number{font-size:64px}.emergency-copy{font-size:11px;padding-right:10px}.province-strip{grid-template-columns:1fr;gap:7px}.province-card{padding:12px 14px;border-radius:16px}.province-badge{width:34px;height:34px}.province-count{font-size:20px}.critical{grid-template-columns:42px 1fr;padding:14px;gap:10px}.critical-link{grid-column:2}.toolbar{padding:10px;margin-top:14px}.filters{gap:6px}.filters select{height:40px}.tabs{display:none}.section-heading{margin-top:22px}.section-heading h2{font-size:23px}.item{grid-template-columns:1fr;padding:15px;border-radius:17px;gap:10px}.timebox{border-right:0;border-bottom:1px solid var(--line);padding:0 0 9px;display:flex;align-items:center;gap:8px}.time{font-size:15px}.date{margin:0}.sourcebox{grid-column:1}.item-summary{font-size:11px}.town-grid,.source-grid{grid-template-columns:1fr}.mobile-nav{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;bottom:0;left:0;right:0;height:67px;background:rgba(10,12,15,.95);backdrop-filter:blur(18px);z-index:60;border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}.mobile-tab{border:0;background:transparent;color:#717c87;font-size:9px;font-weight:800;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px}.mobile-tab span{font-size:17px}.mobile-tab.active{color:#fff}.mobile-tab.active span{color:var(--orange)}}
+
+</style>
+</head>
+<body>
+  <div class="noise"></div>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brandmark" aria-hidden="true">
+        <svg viewBox="0 0 48 48"><path d="M26.5 3.8c1.8 8.6-5.7 10.2-2.7 17.2 1.3 3 4 4.4 6.6 2.9 4-2.2 4.4-8.5 3.2-12.1 7 5.7 10.1 13 8.5 20.1C40.2 40.1 33.3 45 24 45 13.7 45 6 38.8 6 29.5c0-8.4 5-14.5 12.7-20.9-.7 6.7 1.2 9.2 3.5 8.2 3-1.4 4.9-6.5 4.3-13z" fill="currentColor"/></svg>
+      </div>
+      <div>
+        <div class="brandname">INCENDIOS CENTRO</div>
+        <div class="brandsub">Madrid · Ávila · Toledo</div>
+      </div>
+    </div>
+    <div class="top-actions">
+      <div class="live-pill"><span class="live-dot"></span><span id="liveText">MODO LOCAL</span></div>
+      <button class="icon-btn" id="refreshBtn" title="Actualizar" aria-label="Actualizar">
+        <svg viewBox="0 0 24 24"><path d="M20 6v5h-5M4 18v-5h5M5.7 9A7 7 0 0 1 18 6l2 5M18.3 15A7 7 0 0 1 6 18l-2-5"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero-grid">
+      <article class="hero-main glass">
+        <div class="eyebrow"><span class="pulse"></span> CENTRO OPERATIVO DE INFORMACIÓN</div>
+        <h1>Lo importante, <span>antes.</span></h1>
+        <p>Noticias contrastadas y avisos oficiales de incendios organizados por provincia, municipio, fuente, fecha y hora.</p>
+        <div class="hero-meta">
+          <span id="lastUpdate">Última carga: ahora</span>
+          <span class="separator">•</span>
+          <span id="connectionMode">Instantánea local disponible</span>
+        </div>
+      </article>
+      <article class="emergency-card">
+        <div class="emergency-label">EMERGENCIAS</div>
+        <div class="emergency-number">112</div>
+        <div class="emergency-copy">Ante peligro inmediato, llama al 112. No uses esta app como sustituto de una alerta oficial.</div>
+      </article>
+    </section>
+
+    <section class="province-strip" id="provinceStrip"></section>
+
+    <section class="critical glass" id="criticalBox">
+      <div class="critical-icon">!</div>
+      <div>
+        <div class="critical-kicker">ALERTA OFICIAL DESTACADA</div>
+        <div class="critical-title" id="criticalTitle">Cargando información oficial…</div>
+        <div class="critical-meta" id="criticalMeta"></div>
+      </div>
+      <a id="criticalLink" class="critical-link" href="#" target="_blank" rel="noopener">Ver fuente oficial ↗</a>
+    </section>
+
+    <section class="toolbar glass">
+      <div class="searchbox">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+        <input id="searchInput" type="search" placeholder="Buscar municipio, incendio, carretera, medio…" autocomplete="off" />
+      </div>
+      <div class="filters">
+        <select id="provinceFilter" aria-label="Provincia"><option value="all">Todas las provincias</option><option>Madrid</option><option>Ávila</option><option>Toledo</option></select>
+        <select id="typeFilter" aria-label="Tipo"><option value="all">Todo</option><option value="official">Solo oficial</option><option value="news">Solo noticias</option></select>
+        <select id="timeFilter" aria-label="Periodo"><option value="all">Todo el periodo</option><option value="24">Últimas 24 h</option><option value="48">Últimas 48 h</option><option value="168">Últimos 7 días</option></select>
+      </div>
+    </section>
+
+    <nav class="tabs" aria-label="Secciones">
+      <button class="tab active" data-tab="now">Ahora</button>
+      <button class="tab" data-tab="official">Alertas oficiales</button>
+      <button class="tab" data-tab="news">Noticias</button>
+      <button class="tab" data-tab="towns">Municipios</button>
+      <button class="tab" data-tab="sources">Fuentes</button>
+    </nav>
+
+    <section id="view-now" class="view active">
+      <div class="section-heading"><div><span class="section-kicker">EN ORDEN CRONOLÓGICO</span><h2>Última hora</h2></div><div id="resultCount" class="result-count"></div></div>
+      <div class="feed" id="mainFeed"></div>
+    </section>
+
+    <section id="view-official" class="view">
+      <div class="section-heading"><div><span class="section-kicker">ADMINISTRACIONES PÚBLICAS</span><h2>Alertas oficiales</h2></div></div>
+      <div class="feed" id="officialFeed"></div>
+    </section>
+
+    <section id="view-news" class="view">
+      <div class="section-heading"><div><span class="section-kicker">MEDIOS VERIFICADOS</span><h2>Noticias</h2></div></div>
+      <div class="feed" id="newsFeed"></div>
+    </section>
+
+    <section id="view-towns" class="view">
+      <div class="section-heading"><div><span class="section-kicker">POR LOCALIDAD</span><h2>Municipios afectados o citados</h2></div></div>
+      <div class="town-grid" id="townGrid"></div>
+    </section>
+
+    <section id="view-sources" class="view">
+      <div class="section-heading"><div><span class="section-kicker">TRAZABILIDAD</span><h2>Fuentes monitorizadas</h2></div></div>
+      <div class="source-grid" id="sourceGrid"></div>
+    </section>
+  </main>
+
+  <nav class="mobile-nav">
+    <button class="mobile-tab active" data-tab="now"><span>◉</span>Ahora</button>
+    <button class="mobile-tab" data-tab="official"><span>!</span>Oficial</button>
+    <button class="mobile-tab" data-tab="news"><span>▤</span>Noticias</button>
+    <button class="mobile-tab" data-tab="towns"><span>⌖</span>Pueblos</button>
+  </nav>
+
+  <script>
+const SEED = {
+  generated_at: "2026-07-27T13:45:00+02:00",
+  items: [
+    {id:"of-mad-1",type:"official",severity:"critical",province:"Madrid",town:"Sierra Oeste",published:"2026-07-27T10:30:00+02:00",source:"Comunidad de Madrid · ASEM 112",title:"Situación Operativa 3 de INFOMA26 y seguimiento oficial del incendio de Sierra Oeste",summary:"Actualización oficial: el incendio sigue afectando a municipios de la Sierra Oeste, con confinamientos, evacuaciones, cortes de carreteras y operativo reforzado.",url:"https://www.comunidad.madrid/seguridad-emergencias-asem-112/incendio-forestal-sierra-oeste-ifsierraoeste-julio-2026"},
+    {id:"of-clm-1",type:"official",severity:"alert",province:"Toledo",town:"La Iglesuela del Tiétar",published:"2026-07-27T12:00:00+02:00",source:"Gobierno de Castilla-La Mancha",title:"Castilla-La Mancha consolida un perímetro de seguridad de 30 km en apoyo a Ávila y Madrid",summary:"El Gobierno regional informa de trabajos para frenar el avance por el sur y de una posible desescalada progresiva siempre condicionada a la evolución del incendio.",url:"https://www.castillalamancha.es/actualidad/notasdeprensa/castilla-la-mancha-consolida-un-perimetro-de-seguridad-de-30-kilometros-apoyando-avila-y-madrid-en"},
+    {id:"of-pc-1",type:"official",severity:"alert",province:"Madrid",town:"Madrid / Ávila / Toledo",published:"2026-07-27T09:00:00+02:00",source:"Protección Civil y Emergencias",title:"Red de Alerta Nacional y avisos oficiales de Protección Civil",summary:"Acceso directo a las alertas oficiales estatales y recomendaciones de Protección Civil. La app mantiene esta fuente separada del flujo de medios.",url:"https://www.proteccioncivil.es/"},
+    {id:"of-av-1",type:"official",severity:"alert",province:"Ávila",town:"Provincia de Ávila",published:"2026-07-27T08:00:00+02:00",source:"Junta de Castilla y León · INFOCAL",title:"Parte diario oficial de incendios forestales de Castilla y León",summary:"Fuente de datos abiertos de la Junta con municipio, nivel/IGR, situación, medios de extinción, superficie y horas de actualización. El servidor local la consulta automáticamente.",url:"https://analisis.datosabiertos.jcyl.es/explore/dataset/incendios-forestales/map/"},
+    {id:"of-infocam-1",type:"official",severity:"alert",province:"Toledo",town:"Provincia de Toledo",published:"2026-07-27T08:00:00+02:00",source:"INFOCAM · Castilla-La Mancha",title:"Mapa y situación oficial de incendios forestales de Castilla-La Mancha",summary:"Portal oficial con incendios significativos, estado, localización, medios y boletín de riesgo por incendio forestal.",url:"https://infocam.castillalamancha.es/"},
+    {id:"news-efe-1",type:"news",severity:"info",province:"Madrid",town:"Madrid / Ávila / Toledo",published:"2026-07-27T12:30:00+02:00",source:"EFE",title:"Treinta y ocho localidades evacuadas y siete confinadas por fuegos en Madrid, Ávila y Toledo",summary:"EFE recopila la actualización del Ministerio del Interior sobre municipios evacuados y confinados en las tres provincias afectadas.",url:"https://efe.com/espana/2026-07-27/evacuados-incendios-espana/"},
+    {id:"news-rtve-1",type:"news",severity:"info",province:"Ávila",town:"Burgohondo",published:"2026-07-27T11:02:00+02:00",source:"RTVE",title:"Leve mejoría en los incendios de Madrid y Ávila, que siguen activos",summary:"La información de RTVE señala una evolución algo más favorable, aunque continúan los focos activos y miles de personas fuera de sus viviendas.",url:"https://www.rtve.es/noticias/20260727/incendios-madrid-avila-desalojados-hectareas/17169953.shtml"},
+    {id:"news-efe-2",type:"news",severity:"info",province:"Ávila",town:"Burgohondo",published:"2026-07-27T10:45:00+02:00",source:"EFE",title:"El incendio de Ávila afronta una situación de leve mejoría tras una noche complicada por el viento",summary:"El foco iniciado en Burgohondo continúa bajo vigilancia con especial atención a las zonas de Mijares, Gavilanes, Casavieja, La Adrada, Sotillo y Piedralaves.",url:"https://efe.com/espana/2026-07-27/evolucion-del-incendio-en-avila/"},
+    {id:"news-efe-3",type:"news",severity:"info",province:"Madrid",town:"Sierra Oeste",published:"2026-07-27T10:15:00+02:00",source:"EFE",title:"El fuego en Madrid disminuye su avance, pero sigue activo y sin estabilizar",summary:"EFE recoge que el incendio mantiene varios frentes y que el operativo centra la atención en el entorno del pantano de San Juan.",url:"https://efe.com/espana/2026-07-27/evolucion-incendios-comunidad-madrid/"},
+    {id:"news-efe-4",type:"news",severity:"alert",province:"Madrid",town:"Red viaria",published:"2026-07-27T09:55:00+02:00",source:"EFE · DGT",title:"Los incendios mantienen cortadas decenas de vías secundarias en Madrid, Ávila y Toledo",summary:"Información sobre carreteras afectadas y recomendación de consultar los canales oficiales de Tráfico antes de cualquier desplazamiento.",url:"https://efe.com/espana/2026-07-27/carreteras-cortadas-incendios-forestales-espana/"},
+    {id:"news-ep-1",type:"news",severity:"info",province:"Madrid",town:"Sierra Oeste",published:"2026-07-27T08:58:00+02:00",source:"Europa Press",title:"La evolución de los incendios de Ávila y Madrid es positiva, pero avanza despacio",summary:"Seguimiento en directo del operativo y de los focos activos en Madrid, Ávila y Toledo.",url:"https://www.europapress.es/sociedad/noticia-ultima-hora-incendios-forestales-espana-directo-focos-activos-zonas-afectadas-evacuaciones-20260724081326.html"},
+    {id:"news-rtve-2",type:"news",severity:"info",province:"Madrid",town:"Madrid / Ávila / Toledo",published:"2026-07-26T23:45:00+02:00",source:"RTVE",title:"Mejoran los fuegos del centro de España tras una jornada de enorme impacto",summary:"Directo de RTVE con evolución, evacuaciones, confinamientos y balance de los incendios de Madrid, Ávila y Toledo.",url:"https://www.rtve.es/noticias/20260726/incendios-espana-hoy-ultima-hora-directo/17169680.shtml"},
+    {id:"news-efe-5",type:"news",severity:"info",province:"Toledo",town:"Almorox",published:"2026-07-26T18:00:00+02:00",source:"EFE",title:"El fuego obliga a evacuar municipios de Ávila, Madrid y Toledo",summary:"Seguimiento de la ampliación de las zonas evacuadas y confinadas, incluyendo localidades de Toledo vinculadas a la propagación del incendio.",url:"https://efe.com/espana/2026-07-26/evolucion-incendios-madrid-avila-toledo/"}
+  ],
+  sources: [
+    {name:"Comunidad de Madrid · ASEM 112",kind:"official",area:"Madrid",url:"https://www.comunidad.madrid/112",desc:"Emergencias, INFOMA, evacuaciones, confinamientos y recomendaciones."},
+    {name:"Junta de Castilla y León · INFOCAL",kind:"official",area:"Ávila",url:"https://analisis.datosabiertos.jcyl.es/explore/dataset/incendios-forestales/map/",desc:"Parte diario oficial en datos abiertos con estado y medios de extinción."},
+    {name:"INFOCAM · Castilla-La Mancha",kind:"official",area:"Toledo",url:"https://infocam.castillalamancha.es/",desc:"Mapa, situación actual, incendios significativos y boletín de riesgo."},
+    {name:"Protección Civil y Emergencias",kind:"official",area:"España",url:"https://www.proteccioncivil.es/",desc:"Red de Alerta Nacional y avisos estatales."},
+    {name:"DGT",kind:"official",area:"Carreteras",url:"https://www.dgt.es/conoce-el-estado-del-trafico/",desc:"Estado y restricciones de tráfico actualizadas."},
+    {name:"AEMET",kind:"official",area:"Meteorología",url:"https://www.aemet.es/",desc:"Avisos meteorológicos y riesgo asociado a condiciones extremas."},
+    {name:"EFE",kind:"media",area:"General",url:"https://efe.com/",desc:"Agencia de noticias."},
+    {name:"RTVE",kind:"media",area:"General",url:"https://www.rtve.es/noticias/",desc:"Servicio público de información."},
+    {name:"Europa Press",kind:"media",area:"General",url:"https://www.europapress.es/",desc:"Agencia de noticias."},
+    {name:"Cadena SER",kind:"media",area:"General / local",url:"https://cadenaser.com/",desc:"Cobertura nacional y local."},
+    {name:"Onda Cero",kind:"media",area:"General / local",url:"https://www.ondacero.es/",desc:"Cobertura nacional y local."},
+    {name:"Telemadrid",kind:"media",area:"Madrid",url:"https://www.telemadrid.es/",desc:"Cobertura autonómica de Madrid."},
+    {name:"Diario de Ávila",kind:"media",area:"Ávila",url:"https://www.diariodeavila.es/",desc:"Cobertura local de la provincia de Ávila."},
+    {name:"La Tribuna de Toledo",kind:"media",area:"Toledo",url:"https://www.latribunadetoledo.es/",desc:"Cobertura local de Toledo."}
+  ]
+};
+
+let DATA = structuredClone(SEED);
+let activeTab = "now";
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+
+function esc(v=""){return String(v).replace(/[&<>'"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));}
+function parseDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?new Date(0):d;}
+function fmtTime(v){return new Intl.DateTimeFormat("es-ES",{hour:"2-digit",minute:"2-digit"}).format(parseDate(v));}
+function fmtDate(v){return new Intl.DateTimeFormat("es-ES",{day:"2-digit",month:"short"}).format(parseDate(v)).replace('.','');}
+function relTime(v){const ms=Date.now()-parseDate(v);const h=Math.max(0,Math.round(ms/36e5)); if(h<1)return "hace menos de 1 h"; if(h<24)return `hace ${h} h`; const d=Math.round(h/24);return `hace ${d} d`}
+function provClass(p){return p==="Ávila"?"avila":p==="Toledo"?"toledo":"madrid";}
+
+function getFiltered(type=null){
+  const q=$("#searchInput").value.trim().toLowerCase();
+  const prov=$("#provinceFilter").value;
+  const ftype=$("#typeFilter").value;
+  const hours=$("#timeFilter").value;
+  const now=Date.now();
+  return DATA.items.filter(x=>{
+    if(type && x.type!==type)return false;
+    if(prov!=="all" && x.province!==prov)return false;
+    if(ftype!=="all" && x.type!==ftype)return false;
+    if(hours!=="all" && now-parseDate(x.published)>Number(hours)*36e5)return false;
+    if(q && !`${x.title} ${x.summary} ${x.source} ${x.town} ${x.province}`.toLowerCase().includes(q))return false;
+    return true;
+  }).sort((a,b)=>parseDate(b.published)-parseDate(a.published));
+}
+
+function itemHTML(x){
+  const isOff=x.type==="official";
+  const cls=`item ${isOff?'official':''} ${x.severity==='critical'?'critical-item':''}`;
+  return `<article class="${cls}">
+    <div class="timebox"><div class="time">${fmtTime(x.published)}</div><div class="date">${fmtDate(x.published)}</div></div>
+    <div class="itembody">
+      <div class="item-tags"><span class="tag ${isOff?'official':''}">${isOff?'FUENTE OFICIAL':'NOTICIA'}</span>${x.severity==='critical'||x.severity==='alert'?'<span class="tag alert">ALERTA</span>':''}<span class="tag ${provClass(x.province)}">${esc(x.province)}</span></div>
+      <div class="item-title">${esc(x.title)}</div>
+      <div class="item-summary">${esc(x.summary||'')}</div>
+    </div>
+    <div class="sourcebox"><div><div class="source-name">${esc(x.source)}</div><div class="source-town">${esc(x.town||x.province)} · ${relTime(x.published)}</div></div><a class="open-link" target="_blank" rel="noopener" href="${esc(x.url)}">Abrir fuente ↗</a></div>
+  </article>`;
+}
+function renderList(el,arr){el.innerHTML=arr.length?arr.map(itemHTML).join(''):'<div class="empty">No hay resultados con estos filtros.</div>';}
+
+function renderProvinceStrip(){
+  const provs=["Madrid","Ávila","Toledo"];
+  $("#provinceStrip").innerHTML=provs.map(p=>{
+    const arr=DATA.items.filter(x=>x.province===p);const off=arr.filter(x=>x.type==='official').length;
+    return `<button class="province-card" data-province="${p}"><div class="province-left"><div class="province-badge">${p[0]}</div><div><div class="province-name">${p}</div><div class="province-status">${off} fuentes/avisos oficiales · ${arr.length} entradas</div></div></div><div class="province-count">${arr.length}</div></button>`
+  }).join('');
+  $$(".province-card").forEach(b=>b.onclick=()=>{$("#provinceFilter").value=b.dataset.province;switchTab('now');render();window.scrollTo({top:520,behavior:'smooth'})});
+}
+function renderCritical(){
+  const c=DATA.items.filter(x=>x.type==='official').sort((a,b)=>(b.severity==='critical')-(a.severity==='critical')||parseDate(b.published)-parseDate(a.published))[0];
+  if(!c)return;
+  $("#criticalTitle").textContent=c.title;$("#criticalMeta").textContent=`${c.source} · ${c.town} · ${fmtTime(c.published)} · ${fmtDate(c.published)}`;$("#criticalLink").href=c.url;
+}
+function renderTowns(){
+  const map=new Map();
+  getFiltered().forEach(x=>{const key=x.town||x.province;if(!map.has(key))map.set(key,{name:key,province:x.province,count:0,last:x.published});const a=map.get(key);a.count++;if(parseDate(x.published)>parseDate(a.last))a.last=x.published});
+  const arr=[...map.values()].sort((a,b)=>b.count-a.count||parseDate(b.last)-parseDate(a.last));
+  $("#townGrid").innerHTML=arr.length?arr.map(t=>`<button class="town-card" data-town="${esc(t.name)}"><div class="town-top"><div><div class="town-name">${esc(t.name)}</div><div class="town-province">${esc(t.province)}</div></div><div class="town-number">${t.count}</div></div><div class="town-last">Última referencia ${relTime(t.last)} · ${fmtTime(t.last)}</div></button>`).join(''):'<div class="empty">Sin municipios para estos filtros.</div>';
+  $$(".town-card").forEach(b=>b.onclick=()=>{$("#searchInput").value=b.dataset.town;switchTab('now');render()});
+}
+function renderSources(){
+  $("#sourceGrid").innerHTML=DATA.sources.map(s=>`<article class="source-card"><div class="source-head"><h3>${esc(s.name)}</h3><span class="verified ${s.kind==='official'?'official-source':''}">${s.kind==='official'?'OFICIAL':'VERIFICADA'}</span></div><p>${esc(s.desc)}</p><div class="town-province">${esc(s.area)}</div><a target="_blank" rel="noopener" href="${esc(s.url)}">Abrir fuente ↗</a></article>`).join('');
+}
+function render(){
+  const all=getFiltered();renderList($("#mainFeed"),all);renderList($("#officialFeed"),getFiltered('official'));renderList($("#newsFeed"),getFiltered('news'));$("#resultCount").textContent=`${all.length} entradas`;renderProvinceStrip();renderCritical();renderTowns();renderSources();
+}
+function switchTab(tab){activeTab=tab;$$('.view').forEach(v=>v.classList.toggle('active',v.id===`view-${tab}`));$$('.tab,.mobile-tab').forEach(b=>b.classList.toggle('active',b.dataset.tab===tab));}
+$$('.tab,.mobile-tab').forEach(b=>b.addEventListener('click',()=>switchTab(b.dataset.tab)));
+['#searchInput','#provinceFilter','#typeFilter','#timeFilter'].forEach(s=>$(s).addEventListener(s==='#searchInput'?'input':'change',render));
+
+async function refreshLive(manual=false){
+  const btn=$("#refreshBtn");btn.classList.add('spinning');
+  try{
+    if(manual){try{await fetch('/api/refresh',{method:'POST',cache:'no-store'});}catch{} }
+    const r=await fetch(`/api/feed?ts=${Date.now()}`,{cache:'no-store'});
+    if(!r.ok)throw new Error('offline');
+    const live=await r.json();
+    if(live && Array.isArray(live.items) && live.items.length){DATA=live;$("#liveText").textContent='ACTUALIZACIÓN EN VIVO';$("#connectionMode").textContent='Servidor local conectado';$("#lastUpdate").textContent=`Última carga: ${new Intl.DateTimeFormat('es-ES',{hour:'2-digit',minute:'2-digit'}).format(new Date(live.generated_at||Date.now()))}`;render();}
+  }catch(e){$("#liveText").textContent='MODO LOCAL';$("#connectionMode").textContent='Instantánea local disponible';}
+  finally{btn.classList.remove('spinning')}
+}
+$("#refreshBtn").onclick=()=>refreshLive(true);
+render();refreshLive(false);setInterval(()=>refreshLive(false),180000);
+
+</script>
+</body>
+</html>

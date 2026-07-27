@@ -1,0 +1,16 @@
+INCENDIOS CENTRO
+
+ABRIR DIRECTAMENTE EN CUALQUIER DISPOSITIVO:
+- IncendiosNews_ABRIR_DIRECTO.html
+Es un único archivo: no depende de carpetas CSS/JS y muestra la instantánea contrastada incluida.
+
+DATOS EN VIVO CON ACTUALIZACIÓN AUTOMÁTICA:
+- Mac: doble clic en start.command
+- Windows: doble clic en start.bat
+Se abre http://127.0.0.1:8000
+
+MÓVIL/TABLET EN LA MISMA WIFI CON DATOS EN VIVO:
+- deja el servidor abierto en el ordenador
+- abre desde el móvil: http://IP-DEL-ORDENADOR:8000
+
+También puedes abrir index.html directamente desde la carpeta.
