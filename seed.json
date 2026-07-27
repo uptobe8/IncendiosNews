@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-07-27T17:30:00+02:00",
+  "items": [
+    {
+      "id": "tm-valdemaqueda-2707-1633",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Valdemaqueda",
+      "published": "2026-07-27T16:33:00+02:00",
+      "source": "Telemadrid",
+      "title": "Valdemaqueda evacúa a sus cerca de 900 vecinos ante el avance del incendio de la Sierra Oeste",
+      "summary": "Telemadrid actualiza a las 16:33 el desalojo de Valdemaqueda tras la alerta EsAlert por el avance del incendio.",
+      "url": "https://www.telemadrid.es/noticias/madrid/Valdemaqueda-evacua-a-sus-cerca-de-900-vecinos-ante-el-avance-del-incendio-de-la-Sierra-Oeste-0-2910908899--20260727022306.html"
+    },
+    {
+      "id": "ep-carreteras-2707-1547",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Madrid · Ávila · Toledo",
+      "published": "2026-07-27T15:47:00+02:00",
+      "source": "Europa Press",
+      "title": "Los incendios cortan 47 carreteras de Madrid, Ávila, Toledo y Castellón",
+      "summary": "Europa Press recoge la actualización de la DGT sobre vías afectadas y la recomendación de evitar desplazamientos por las zonas afectadas.",
+      "url": "https://www.europapress.es/sociedad/noticia-incendios-cortan-47-carreteras-madrid-avila-toledo-castellon-20260727154638.html"
+    },
+    {
+      "id": "ep-presa-2707-1402",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Ávila",
+      "published": "2026-07-27T14:02:00+02:00",
+      "source": "Europa Press",
+      "title": "El fuego obliga a declarar el escenario 0 en la presa de El Pajarero (Ávila), que se une a Burguillo y Charco del Cura",
+      "summary": "La Confederación Hidrográfica del Tajo declara escenario 0 por dificultades de acceso y evolución de los incendios.",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-fuego-obliga-declarar-escenario-presa-pajarero-avila-une-burguillo-charco-cura-20260727140231.html"
+    },
+    {
+      "id": "rtve-madrid-avila-2707-1102",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Madrid · Ávila",
+      "published": "2026-07-27T11:02:00+02:00",
+      "source": "RTVE",
+      "title": "Leve mejoría en los incendios de Madrid y Ávila, que siguen activos y con miles de personas desalojadas",
+      "summary": "RTVE informa de una leve mejoría, aunque los incendios siguen activos y continúan miles de personas desalojadas.",
+      "url": "https://www.rtve.es/noticias/20260727/incendios-madrid-avila-desalojados-hectareas/17169953.shtml"
+    },
+    {
+      "id": "dsn-2707",
+      "type": "official",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Madrid · Ávila · Toledo",
+      "published": "2026-07-27T08:00:00+02:00",
+      "source": "Departamento de Seguridad Nacional",
+      "title": "NACIONAL – INCENDIOS FORESTALES",
+      "summary": "Balance oficial estatal de los incendios forestales que afectan a Ávila, Madrid y Toledo.",
+      "url": "https://www.dsn.gob.es/es/actualidad/Ultima-hora/nacional-iiff-27jul2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Comunidad de Madrid · ASEM 112",
+      "kind": "official",
+      "area": "Madrid",
+      "url": "https://www.comunidad.madrid/112",
+      "desc": "Emergencias, INFOMA, evacuaciones, confinamientos y recomendaciones.",
+      "image": "https://images.unsplash.com/photo-1779170009831-617acbef8fb1?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    },
+    {
+      "name": "Junta de Castilla y León · INFOCAL",
+      "kind": "official",
+      "area": "Ávila",
+      "url": "https://analisis.datosabiertos.jcyl.es/explore/dataset/incendios-forestales/map/",
+      "desc": "Parte oficial de incendios forestales y medios de extinción.",
+      "image": "https://images.unsplash.com/photo-1642920361365-7dc86c7c9a5f?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    },
+    {
+      "name": "INFOCAM · Castilla-La Mancha",
+      "kind": "official",
+      "area": "Toledo",
+      "url": "https://infocam.castillalamancha.es/",
+      "desc": "Mapa, incendios significativos y boletín oficial de riesgo.",
+      "image": "https://images.unsplash.com/photo-1677517661318-64bee6394ade?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    },
+    {
+      "name": "DGT · Estado del tráfico",
+      "kind": "official",
+      "area": "Carreteras",
+      "url": "https://www.dgt.es/conoce-el-estado-del-trafico/informacion-e-incidencias-de-trafico/",
+      "desc": "Incidencias y cortes actualizados por los Centros de Gestión de Tráfico.",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    },
+    {
+      "name": "Protección Civil y Emergencias",
+      "kind": "official",
+      "area": "España",
+      "url": "https://www.proteccioncivil.es/",
+      "desc": "Red de Alerta Nacional y recomendaciones oficiales.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    },
+    {
+      "name": "AEMET",
+      "kind": "official",
+      "area": "Meteorología",
+      "url": "https://www.aemet.es/",
+      "desc": "Avisos meteorológicos oficiales.",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    },
+    {
+      "name": "Departamento de Seguridad Nacional",
+      "kind": "official",
+      "area": "España",
+      "url": "https://www.dsn.gob.es/es/actualidad/Ultima-hora",
+      "desc": "Balances oficiales estatales de última hora.",
+      "image": "https://images.unsplash.com/photo-1473445361085-b9a07f55608b?auto=format&fit=crop&fm=jpg&q=74&w=1600"
+    }
+  ]
+}

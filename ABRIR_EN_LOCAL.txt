@@ -1,0 +1,15 @@
+MAC: doble clic en start.command
+WINDOWS: doble clic en start.bat
+
+La aplicación abre en http://127.0.0.1:8765
+
+ACTUALIZACIÓN REAL MIENTRAS ESTÁ ABIERTA
+- Cron de noticias: cada 60 segundos.
+- El navegador comprueba si hay novedades cada 20 segundos.
+- DGT: cron cada 5 minutos, alineado con la frecuencia oficial declarada por su conjunto SRTI DATEX II.
+- Botón "Actualizar ahora": dispara una comprobación inmediata.
+
+RUTAS
+La sección "¿Puedo llegar hasta allí?" calcula el trayecto con OpenStreetMap/OSRM y cruza el recorrido con incidencias del servicio oficial DGT SRTI DATEX II.
+"No consta corte" no significa acceso garantizado: puede haber cortes locales, controles de emergencia o cambios posteriores.
+Ante dudas de tráfico: 011. Emergencias: 112.
