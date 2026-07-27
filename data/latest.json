@@ -1,13 +1,88 @@
 {
-  "generated_at": null,
-  "items": [],
+  "generated_at": "2026-07-27T15:45:00+02:00",
+  "items": [
+    {
+      "id": "efe-evacuados-20260727",
+      "type": "news",
+      "severity": "alert",
+      "province": "Madrid",
+      "town": "Madrid · Ávila · Toledo",
+      "published": "2026-07-27T13:00:00+02:00",
+      "source": "EFE",
+      "title": "Treinta y ocho localidades evacuadas y siete confinadas por los incendios de Madrid, Ávila y Toledo",
+      "summary": "EFE recoge datos actualizados del Ministerio del Interior: 38 localidades evacuadas, además de cuatro urbanizaciones, y siete poblaciones confinadas en las tres provincias afectadas.",
+      "url": "https://efe.com/espana/2026-07-27/evacuados-incendios-espana/"
+    },
+    {
+      "id": "rtve-mejoria-20260727",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo y entorno",
+      "published": "2026-07-27T11:02:00+02:00",
+      "source": "RTVE",
+      "title": "Leve mejoría en los incendios de Madrid y Ávila, que siguen activos",
+      "summary": "RTVE informa de una evolución algo más favorable, aunque continúan focos activos y miles de personas permanecen fuera de sus viviendas.",
+      "url": "https://www.rtve.es/noticias/20260727/incendios-madrid-avila-desalojados-hectareas/17169953.shtml"
+    },
+    {
+      "id": "efe-avila-20260727",
+      "type": "news",
+      "severity": "alert",
+      "province": "Ávila",
+      "town": "Burgohondo · Mijares · Gavilanes · Casavieja · La Adrada · Sotillo · Piedralaves",
+      "published": "2026-07-27T10:45:00+02:00",
+      "source": "EFE",
+      "title": "El incendio de Ávila afronta una situación de leve mejoría tras una noche complicada por el viento",
+      "summary": "El incendio de Burgohondo continúa bajo vigilancia con especial atención a los sectores oeste y sur después de varios saltos de línea provocados por el viento.",
+      "url": "https://efe.com/espana/2026-07-27/evolucion-del-incendio-en-avila/"
+    },
+    {
+      "id": "efe-madrid-20260727",
+      "type": "news",
+      "severity": "alert",
+      "province": "Madrid",
+      "town": "Sierra Oeste · Pantano de San Juan",
+      "published": "2026-07-27T10:15:00+02:00",
+      "source": "EFE",
+      "title": "El fuego en Madrid disminuye su avance, pero sigue activo y sin estabilizar con tres frentes",
+      "summary": "Los incendios de la Comunidad de Madrid han disminuido su avance, aunque continúan activos y sin estabilizar. El frente más activo se sitúa al norte del pantano de San Juan.",
+      "url": "https://efe.com/espana/2026-07-27/evolucion-incendios-comunidad-madrid/"
+    },
+    {
+      "id": "efe-carreteras-20260727",
+      "type": "news",
+      "severity": "alert",
+      "province": "Madrid",
+      "town": "Red viaria de Madrid · Ávila · Toledo",
+      "published": "2026-07-27T09:30:00+02:00",
+      "source": "EFE · DGT",
+      "title": "Los incendios mantienen cortadas decenas de carreteras secundarias",
+      "summary": "La información difundida con datos de la DGT señala numerosos tramos afectados por los incendios. Antes de desplazarse debe consultarse el estado oficial del tráfico.",
+      "url": "https://efe.com/espana/"
+    },
+    {
+      "id": "asem-sierra-oeste-20260724",
+      "type": "official",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Sierra Oeste",
+      "published": "2026-07-24T14:30:00+02:00",
+      "source": "Comunidad de Madrid · ASEM 112",
+      "title": "Información oficial del incendio forestal Sierra Oeste",
+      "summary": "La Comunidad de Madrid mantiene una página oficial de seguimiento del incendio de Sierra Oeste con evolución, municipios afectados, confinamientos, evacuaciones, carreteras, recomendaciones y medios desplegados.",
+      "url": "https://www.comunidad.madrid/seguridad-emergencias-asem-112/incendio-forestal-sierra-oeste-ifsierraoeste-julio-2026"
+    }
+  ],
   "sources": [
-    {"name":"ASEM 112 / Comunidad de Madrid","kind":"official","area":"Madrid","url":"https://www.comunidad.madrid/servicios/seguridad-emergencias"},
+    {"name":"ASEM 112 / Comunidad de Madrid","kind":"official","area":"Madrid","url":"https://www.comunidad.madrid/seguridad-emergencias-asem-112"},
     {"name":"INFOCAL / Junta de Castilla y León","kind":"official","area":"Ávila","url":"https://medioambiente.jcyl.es/"},
     {"name":"INFOCAM / Castilla-La Mancha","kind":"official","area":"Toledo","url":"https://infocam.castillalamancha.es/"},
     {"name":"Protección Civil","kind":"official","area":"España","url":"https://www.proteccioncivil.es/"},
     {"name":"DGT","kind":"official","area":"Carreteras","url":"https://www.dgt.es/conoce-el-estado-del-trafico/"},
-    {"name":"AEMET","kind":"official","area":"Meteorología","url":"https://www.aemet.es/"}
+    {"name":"AEMET","kind":"official","area":"Meteorología","url":"https://www.aemet.es/"},
+    {"name":"EFE","kind":"media","area":"España","url":"https://efe.com/"},
+    {"name":"RTVE","kind":"media","area":"España","url":"https://www.rtve.es/noticias/"}
   ],
   "errors": []
 }
