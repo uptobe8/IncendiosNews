@@ -1,8 +1,14 @@
 {
-  "checked_at": null,
-  "ok": false,
-  "stale": true,
-  "incidents": [],
-  "source": "https://infocar.dgt.es/datex2/lod/dgt/incidencias.rdf",
-  "error": "pending_first_automatic_update"
+  "checked_at": "2026-07-27T16:02:59+00:00",
+  "ok": true,
+  "incidents": [
+    {
+      "road": "",
+      "description": "EnvironmentalObstruction · Validity · OverallPeriod · Instant · rockfalls",
+      "lat": null,
+      "lon": null,
+      "road_tokens": []
+    }
+  ],
+  "source": "https://infocar.dgt.es/datex2/lod/dgt/incidencias.rdf"
 }
