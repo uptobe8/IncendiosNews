@@ -1,0 +1,8 @@
+{
+  "checked_at": null,
+  "ok": false,
+  "stale": true,
+  "incidents": [],
+  "source": "https://infocar.dgt.es/datex2/lod/dgt/incidencias.rdf",
+  "error": "pending_first_automatic_update"
+}
