@@ -1,0 +1,11 @@
+const demo = [
+  {official:true, province:'Madrid', town:'Villa del Prado', source:'ASEM 112', time:'14:18', title:'Actualización oficial de emergencia', summary:'Registro preparado para mostrar avisos oficiales priorizados y trazables.'},
+  {official:false, province:'Toledo', town:'Almorox', source:'Medio verificado', time:'13:52', title:'Seguimiento informativo del incendio', summary:'Las noticias aparecen separadas de las comunicaciones oficiales.'},
+  {official:false, province:'Ávila', town:'Ávila', source:'Medio verificado', time:'13:31', title:'Última información publicada', summary:'Cada entrada conserva medio, URL, población, provincia, fecha y hora.'}
+];
+export default function Home(){return <main className="wrap">
+  <section className="hero"><div><div className="eyebrow">Monitorización en tiempo real</div><h1>FireWatch Centro</h1><div className="muted">Madrid · Ávila · Toledo — alertas oficiales y noticias verificadas, sin mezclar.</div></div><span className="badge">Actualización automática</span></section>
+  <section className="grid"><div className="card"><div className="muted">Alertas oficiales</div><div className="metric">—</div></div><div className="card"><div className="muted">Noticias verificadas</div><div className="metric">—</div></div><div className="card"><div className="muted">Poblaciones afectadas</div><div className="metric">—</div></div><div className="card"><div className="muted">Fuentes activas</div><div className="metric">—</div></div></section>
+  <section className="cols"><div className="panel"><div className="eyebrow">Cronología</div>{demo.map((x,i)=><article className="item" key={i}><div className="meta"><span className={x.official?'badge official':'badge'}>{x.official?'OFICIAL':'NOTICIA'}</span><span>{x.province}</span><span>{x.town}</span><span>{x.source}</span><span>{x.time}</span></div><div className="title">{x.title}</div><div className="muted">{x.summary}</div></article>)}</div>
+  <aside className="panel"><div className="eyebrow">Filtros previstos</div><p>Provincia</p><p>Población</p><p>Fuente</p><p>Día y hora</p><p>Solo alertas oficiales</p><p>Incendio / incidente</p><hr style={{borderColor:'#303640'}}/><div className="muted">Los datos reales se alimentan desde Convex mediante el motor de ingestión incluido.</div></aside></section>
+</main>}
