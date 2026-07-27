@@ -1,117 +1,25 @@
 <!doctype html>
-<html lang="es">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <meta name="theme-color" content="#0b0d10" />
-  <meta name="color-scheme" content="dark" />
-  <title>Incendios Centro · Madrid · Ávila · Toledo</title>
-  <link rel="stylesheet" href="assets/app.css" />
-</head>
+<html lang="es" data-theme="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#ffffff"><title>IncendiosNews · Madrid · Ávila · Toledo</title><link rel="stylesheet" href="assets/app.css"></head>
 <body>
-  <div class="noise"></div>
-  <header class="topbar">
-    <div class="brand">
-      <div class="brandmark" aria-hidden="true">
-        <svg viewBox="0 0 48 48"><path d="M26.5 3.8c1.8 8.6-5.7 10.2-2.7 17.2 1.3 3 4 4.4 6.6 2.9 4-2.2 4.4-8.5 3.2-12.1 7 5.7 10.1 13 8.5 20.1C40.2 40.1 33.3 45 24 45 13.7 45 6 38.8 6 29.5c0-8.4 5-14.5 12.7-20.9-.7 6.7 1.2 9.2 3.5 8.2 3-1.4 4.9-6.5 4.3-13z" fill="currentColor"/></svg>
-      </div>
-      <div>
-        <div class="brandname">INCENDIOS CENTRO</div>
-        <div class="brandsub">Madrid · Ávila · Toledo</div>
-      </div>
-    </div>
-    <div class="top-actions">
-      <div class="live-pill"><span class="live-dot"></span><span id="liveText">MODO LOCAL</span></div>
-      <button class="icon-btn" id="refreshBtn" title="Actualizar" aria-label="Actualizar">
-        <svg viewBox="0 0 24 24"><path d="M20 6v5h-5M4 18v-5h5M5.7 9A7 7 0 0 1 18 6l2 5M18.3 15A7 7 0 0 1 6 18l-2-5"/></svg>
-      </button>
-    </div>
-  </header>
+<header class="topbar"><a class="brand" href="#inicio" data-view="home"><span class="mark">◒</span><span><strong>IncendiosNews</strong><small>Madrid · Ávila · Toledo</small></span></a><div class="header-actions"><span class="status" id="statusText"><i></i> Datos verificados</span><button class="theme-btn" id="themeBtn" aria-label="Cambiar modo">☾ <span>Modo nocturno</span></button></div></header>
+<main id="homeView" class="view active">
+<section class="hero-photo"><div class="hero-overlay"><p class="kicker">INFORMACIÓN DE EMERGENCIA · FUENTES CONTRASTADAS</p><h1>Todo lo importante,<br><em>de un vistazo.</em></h1><p class="hero-copy">Entra por imagen. Llega a la información que necesitas en dos toques.</p><div class="hero-chips"><button data-target="official">Alertas oficiales</button><button data-target="news">Última hora</button><a href="tel:112">Emergencias 112</a></div></div></section>
+<section class="visual-grid" aria-label="Navegación principal">
+<button class="tile tile-wide tile-alert" data-target="official"><span class="tile-label">ALERTAS OFICIALES</span><span class="tile-title">Avisos de administraciones públicas</span><span class="tile-meta" id="officialCount">Cargando…</span></button>
+<button class="tile tile-wide tile-news" data-target="news"><span class="tile-label">EN TIEMPO REAL</span><span class="tile-title">Todas las noticias</span><span class="tile-action">Ver lista completa →</span></button>
+<button class="tile tile-province madrid" data-province="Madrid"><span class="tile-label">PROVINCIA</span><span class="tile-title">Madrid</span><span class="tile-meta" id="madridCount"></span></button>
+<button class="tile tile-province avila" data-province="Ávila"><span class="tile-label">PROVINCIA</span><span class="tile-title">Ávila</span><span class="tile-meta" id="avilaCount"></span></button>
+<button class="tile tile-province toledo" data-province="Toledo"><span class="tile-label">PROVINCIA</span><span class="tile-title">Toledo</span><span class="tile-meta" id="toledoCount"></span></button>
+<button class="tile tile-road" data-target="mobility"><span class="tile-label">DESPLAZAMIENTOS</span><span class="tile-title">Evacuaciones y carreteras</span><span class="tile-action">Información verificada →</span></button>
+<button class="tile tile-map" data-target="sources"><span class="tile-label">FUENTES PRIMARIAS</span><span class="tile-title">Mapas y organismos oficiales</span><span class="tile-action">Abrir fuentes →</span></button>
+<button class="tile tile-help" data-target="safety"><span class="tile-label">QUÉ HACER</span><span class="tile-title">Consejos oficiales</span><span class="tile-action">Ver recomendaciones →</span></button>
+</section>
+<section class="home-last"><div><p class="kicker">ACTUALIZACIÓN</p><h2>Últimos contenidos verificados</h2></div><button class="text-btn" data-target="news">Ver todas las noticias →</button></section><div class="preview-row" id="previewRow"></div>
+</main>
 
-  <main class="shell">
-    <section class="hero-grid">
-      <article class="hero-main glass">
-        <div class="eyebrow"><span class="pulse"></span> CENTRO OPERATIVO DE INFORMACIÓN</div>
-        <h1>Lo importante, <span>antes.</span></h1>
-        <p>Noticias contrastadas y avisos oficiales de incendios organizados por provincia, municipio, fuente, fecha y hora.</p>
-        <div class="hero-meta">
-          <span id="lastUpdate">Última carga: ahora</span>
-          <span class="separator">•</span>
-          <span id="connectionMode">Instantánea local disponible</span>
-        </div>
-      </article>
-      <article class="emergency-card">
-        <div class="emergency-label">EMERGENCIAS</div>
-        <div class="emergency-number">112</div>
-        <div class="emergency-copy">Ante peligro inmediato, llama al 112. No uses esta app como sustituto de una alerta oficial.</div>
-      </article>
-    </section>
+<main id="listView" class="view list-page"><div class="list-head"><button class="back" data-target="home">← Inicio</button><div><p class="kicker" id="listKicker">ACTUALIDAD</p><h1 id="listTitle">Noticias en tiempo real</h1><p id="listSub">Solo fuentes identificadas y contrastadas.</p></div></div><div class="filters"><div class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar pueblo, carretera, incendio o medio"></div><select id="provinceFilter"><option value="all">Todas las provincias</option><option>Madrid</option><option>Ávila</option><option>Toledo</option></select><select id="sourceFilter"><option value="all">Todas las fuentes</option></select><button id="refreshBtn">Actualizar</button></div><div class="list-meta"><span id="resultCount"></span><span id="updatedAt"></span></div><section id="feed" class="news-list"></section></main>
 
-    <section class="province-strip" id="provinceStrip"></section>
+<main id="sourcesView" class="view list-page"><div class="list-head"><button class="back" data-target="home">← Inicio</button><div><p class="kicker">TRAZABILIDAD</p><h1>Fuentes oficiales</h1><p>Acceso directo a los organismos que publican información primaria.</p></div></div><div id="sourceCards" class="source-cards"></div></main>
 
-    <section class="critical glass" id="criticalBox">
-      <div class="critical-icon">!</div>
-      <div>
-        <div class="critical-kicker">ALERTA OFICIAL DESTACADA</div>
-        <div class="critical-title" id="criticalTitle">Cargando información oficial…</div>
-        <div class="critical-meta" id="criticalMeta"></div>
-      </div>
-      <a id="criticalLink" class="critical-link" href="#" target="_blank" rel="noopener">Ver fuente oficial ↗</a>
-    </section>
-
-    <section class="toolbar glass">
-      <div class="searchbox">
-        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
-        <input id="searchInput" type="search" placeholder="Buscar municipio, incendio, carretera, medio…" autocomplete="off" />
-      </div>
-      <div class="filters">
-        <select id="provinceFilter" aria-label="Provincia"><option value="all">Todas las provincias</option><option>Madrid</option><option>Ávila</option><option>Toledo</option></select>
-        <select id="typeFilter" aria-label="Tipo"><option value="all">Todo</option><option value="official">Solo oficial</option><option value="news">Solo noticias</option></select>
-        <select id="timeFilter" aria-label="Periodo"><option value="all">Todo el periodo</option><option value="24">Últimas 24 h</option><option value="48">Últimas 48 h</option><option value="168">Últimos 7 días</option></select>
-      </div>
-    </section>
-
-    <nav class="tabs" aria-label="Secciones">
-      <button class="tab active" data-tab="now">Ahora</button>
-      <button class="tab" data-tab="official">Alertas oficiales</button>
-      <button class="tab" data-tab="news">Noticias</button>
-      <button class="tab" data-tab="towns">Municipios</button>
-      <button class="tab" data-tab="sources">Fuentes</button>
-    </nav>
-
-    <section id="view-now" class="view active">
-      <div class="section-heading"><div><span class="section-kicker">EN ORDEN CRONOLÓGICO</span><h2>Última hora</h2></div><div id="resultCount" class="result-count"></div></div>
-      <div class="feed" id="mainFeed"></div>
-    </section>
-
-    <section id="view-official" class="view">
-      <div class="section-heading"><div><span class="section-kicker">ADMINISTRACIONES PÚBLICAS</span><h2>Alertas oficiales</h2></div></div>
-      <div class="feed" id="officialFeed"></div>
-    </section>
-
-    <section id="view-news" class="view">
-      <div class="section-heading"><div><span class="section-kicker">MEDIOS VERIFICADOS</span><h2>Noticias</h2></div></div>
-      <div class="feed" id="newsFeed"></div>
-    </section>
-
-    <section id="view-towns" class="view">
-      <div class="section-heading"><div><span class="section-kicker">POR LOCALIDAD</span><h2>Municipios afectados o citados</h2></div></div>
-      <div class="town-grid" id="townGrid"></div>
-    </section>
-
-    <section id="view-sources" class="view">
-      <div class="section-heading"><div><span class="section-kicker">TRAZABILIDAD</span><h2>Fuentes monitorizadas</h2></div></div>
-      <div class="source-grid" id="sourceGrid"></div>
-    </section>
-  </main>
-
-  <nav class="mobile-nav">
-    <button class="mobile-tab active" data-tab="now"><span>◉</span>Ahora</button>
-    <button class="mobile-tab" data-tab="official"><span>!</span>Oficial</button>
-    <button class="mobile-tab" data-tab="news"><span>▤</span>Noticias</button>
-    <button class="mobile-tab" data-tab="towns"><span>⌖</span>Pueblos</button>
-  </nav>
-
-  <script src="assets/app.js"></script>
-</body>
-</html>
+<main id="safetyView" class="view list-page"><div class="list-head"><button class="back" data-target="home">← Inicio</button><div><p class="kicker">SEGURIDAD</p><h1>Consejos oficiales</h1><p>En una emergencia, sigue siempre las instrucciones del 112 y de Protección Civil.</p></div></div><div class="safety-grid"><a class="safety-card" href="tel:112"><strong>112</strong><span>Emergencia inmediata</span></a><a class="safety-card" target="_blank" rel="noopener" href="https://www.comunidad.madrid/seguridad-emergencias-asem-112/incendio-forestal-sierra-oeste-ifsierraoeste-julio-2026"><strong>ASEM 112</strong><span>Recomendaciones y situación oficial</span></a><a class="safety-card" target="_blank" rel="noopener" href="https://www.proteccioncivil.es/"><strong>Protección Civil</strong><span>Red de Alerta Nacional</span></a></div></main>
+<footer><span>IncendiosNews</span><span>Las alertas oficiales se muestran separadas de las noticias.</span></footer><script src="assets/app.js"></script></body></html>

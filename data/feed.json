@@ -1,77 +1,41 @@
 {
-  "generated_at": "2026-07-27T15:55:00+02:00",
+  "generated_at": "2026-07-27T14:25:32+00:00",
   "items": [
     {
-      "id": "of-mad-sierra",
+      "id": "live-mad",
       "type": "official",
       "severity": "critical",
       "province": "Madrid",
       "town": "Sierra Oeste",
-      "published": "2026-07-24T14:30:00+02:00",
+      "published": "2026-07-27T14:25:22+00:00",
       "source": "Comunidad de Madrid · ASEM 112",
       "title": "Seguimiento oficial del incendio forestal de Sierra Oeste",
-      "summary": "Página oficial de ASEM 112 con evolución, municipios afectados, evacuaciones, confinamientos, carreteras y recomendaciones.",
+      "summary": "Página oficial de ASEM 112 con evolución, municipios afectados, evacuaciones, confinamientos y recomendaciones.",
       "url": "https://www.comunidad.madrid/seguridad-emergencias-asem-112/incendio-forestal-sierra-oeste-ifsierraoeste-julio-2026"
     },
     {
-      "id": "of-int-toledo",
-      "type": "official",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-07-25T12:00:00+02:00",
-      "source": "Ministerio del Interior",
-      "title": "Interior amplía a Toledo la emergencia de interés nacional por los incendios forestales",
-      "summary": "Comunicado oficial del Ministerio del Interior sobre la ampliación de la emergencia de interés nacional a Toledo.",
-      "url": "https://www.interior.gob.es/opencms/eu/detalle/articulo/Interior-amplia-a-la-provincia-de-Toledo-la-declaracion-de-emergencia-de-interes-nacional-por-los-incendios-forestales/"
-    },
-    {
-      "id": "of-clm-sio3",
-      "type": "official",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-07-25T13:00:00+02:00",
-      "source": "Gobierno de Castilla-La Mancha",
-      "title": "Castilla-La Mancha eleva la emergencia a Situación Operativa 3 en Toledo",
-      "summary": "Información oficial sobre la integración en el Mando Operativo Integrado y la elevación a Situación Operativa 3.",
-      "url": "https://www.castillalamancha.es/actualidad/notasdeprensa/castilla-la-mancha-se-integra-en-el-mando-operativo-integrado-de-incendios-forestales-y-eleva-la"
-    },
-    {
-      "id": "of-infocam",
+      "id": "live-infocam",
       "type": "official",
       "severity": "alert",
       "province": "Toledo",
       "town": "Provincia de Toledo",
-      "published": "2026-07-25T08:00:00+02:00",
+      "published": "2026-07-27T14:25:22+00:00",
       "source": "INFOCAM · Castilla-La Mancha",
-      "title": "Mapa y boletín oficial de riesgo por incendio forestal",
-      "summary": "Portal oficial de INFOCAM con mapa de incendios, últimos incendios significativos y boletín de riesgo.",
+      "title": "Mapa y situación oficial de incendios forestales de Castilla-La Mancha",
+      "summary": "INFOCAM publica mapa, últimos incendios significativos y boletín oficial de riesgo.",
       "url": "https://infocam.castillalamancha.es/"
     },
     {
-      "id": "of-avila",
+      "id": "live-infocal",
       "type": "official",
       "severity": "alert",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-07-27T08:00:00+02:00",
+      "published": "2026-07-27T14:25:22+00:00",
       "source": "Junta de Castilla y León · INFOCAL",
       "title": "Partes oficiales de incendios forestales de Castilla y León",
-      "summary": "Datos abiertos de la Junta de Castilla y León con partes de incendios activos; la fuente indica actualización dos veces al día.",
+      "summary": "Fuente oficial de datos abiertos de incendios forestales, actualizada dos veces al día.",
       "url": "https://analisis.datosabiertos.jcyl.es/explore/dataset/incendios-forestales/information/"
-    },
-    {
-      "id": "of-madrid-112",
-      "type": "official",
-      "severity": "alert",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-23T12:00:00+02:00",
-      "source": "Comunidad de Madrid · 112",
-      "title": "Situación crítica de incendios forestales múltiples en la Comunidad de Madrid",
-      "summary": "Actualidad oficial publicada por el 112 de la Comunidad de Madrid sobre la situación de incendios forestales.",
-      "url": "https://www.comunidad.madrid/112"
     },
     {
       "id": "news-efe-2707",
@@ -120,6 +84,54 @@
       "title": "Se elevan los municipios evacuados por el fuego en Ávila, Madrid y Toledo",
       "summary": "Seguimiento de EFE de evacuaciones y confinamientos en las provincias afectadas.",
       "url": "https://efe.com/espana/2026-07-26/evolucion-incendios-madrid-avila-toledo/"
+    },
+    {
+      "id": "of-clm-sio3",
+      "type": "official",
+      "severity": "critical",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-07-25T13:00:00+02:00",
+      "source": "Gobierno de Castilla-La Mancha",
+      "title": "Castilla-La Mancha eleva la emergencia a Situación Operativa 3 en Toledo",
+      "summary": "Información oficial sobre la integración en el Mando Operativo Integrado y la elevación a Situación Operativa 3.",
+      "url": "https://www.castillalamancha.es/actualidad/notasdeprensa/castilla-la-mancha-se-integra-en-el-mando-operativo-integrado-de-incendios-forestales-y-eleva-la"
+    },
+    {
+      "id": "of-int-toledo",
+      "type": "official",
+      "severity": "critical",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-07-25T12:00:00+02:00",
+      "source": "Ministerio del Interior",
+      "title": "Interior amplía a Toledo la emergencia de interés nacional por los incendios forestales",
+      "summary": "Comunicado oficial del Ministerio del Interior sobre la ampliación de la emergencia de interés nacional a Toledo.",
+      "url": "https://www.interior.gob.es/opencms/eu/detalle/articulo/Interior-amplia-a-la-provincia-de-Toledo-la-declaracion-de-emergencia-de-interes-nacional-por-los-incendios-forestales/"
+    },
+    {
+      "id": "of-infocam",
+      "type": "official",
+      "severity": "alert",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-07-25T08:00:00+02:00",
+      "source": "INFOCAM · Castilla-La Mancha",
+      "title": "Mapa y boletín oficial de riesgo por incendio forestal",
+      "summary": "Portal oficial de INFOCAM con mapa de incendios, últimos incendios significativos y boletín de riesgo.",
+      "url": "https://infocam.castillalamancha.es/"
+    },
+    {
+      "id": "of-madrid-112",
+      "type": "official",
+      "severity": "alert",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-07-23T12:00:00+02:00",
+      "source": "Comunidad de Madrid · 112",
+      "title": "Situación crítica de incendios forestales múltiples en la Comunidad de Madrid",
+      "summary": "Actualidad oficial publicada por el 112 de la Comunidad de Madrid sobre la situación de incendios forestales.",
+      "url": "https://www.comunidad.madrid/112"
     }
   ],
   "sources": [
