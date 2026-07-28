@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-28T03:01:48+02:00",
+  "generated_at": "2026-07-28T06:19:44+02:00",
   "items": [
+    {
+      "id": "39c9af243c36c03d93",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-28T06:05:16+02:00",
+      "source": "La Razón",
+      "title": "Incendios en España, en directo: los operativos mantienen la vigilancia en Madrid, Ávila, Toledo y Castellón",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ1FKR2E5ZWttdnVMYjFRVzdxb2hDNW44WHR6bnl1M1I1cklxVjlrcmJWNUF5X0pTSkJhZU5fTDB5TTM5dWhYMVBUd2R4NnZ1dEM0RXVCOFpBNTZtOWpPZ2c0bGtkRUJNc1JHeGZ1QjZKaGtoY1YyU3BlNzRJM21qVmtsempVOFpmeFljQUFDWl9mM3hBbVRLQlRwQmtMeTJMRldkQ3FMZzFxYVJBTl9OYWZQa3daZUdQN0lRLXZQTTdLMWJkYnZNLWdQQmF3NUFLTnJzOEdfSm9ldnNiUFJVR2RGb1Nqd1ZkSmx1bQ?oc=5"
+    },
+    {
+      "id": "fb8cbb906b69169a6f",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Almorox",
+      "published": "2026-07-28T05:30:01+02:00",
+      "source": "EL PAÍS",
+      "title": "Un año más, incendio en Almorox",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaG9VcFF2czdtQWlSY3ZqeUQwdG5aRlV4bmpMVnFsNC1DYzZZTmJqVjRHM0pOYnlHZm03YjZjRmVQbHloOGw0N08zOHhjeV9JSmJOVUQzZzBVdHdiSXJaTGUtaEdxTkhwMWlaMUhkVFFOVnZnUFpFMDJPdHQ5TFp2WUJkclNFZw?oc=5"
+    },
+    {
+      "id": "2853cc97a861bc3b32",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-28T03:50:26+02:00",
+      "source": "Diario de Ávila",
+      "title": "Incendio de Burgohondo: El fuego sigue sin control",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3hVUE1fTndZcVpHbkwydEd0X1Q4aFYwVGJwclBDMWoxdzNzQVZJel9tWHB2NVJhSDVDVW5Tck9yVEVtYTRLRWd6dndZLWtrWlRnTXAyWlBnNVhMbXVENFFsREI2ZVZpQkkwVFR3SWJRUm1LcGY5LTdmYURoYTFJT1pwRE55S2k4Vk1fYnpCOHdoeVNlN1dpcGNCaUw5SE0wUjI0YjBGdkhaenNuc25rQW9tWmhHc09yd0UtbV9wNW1sV21RSlZnMU93?oc=5"
+    },
+    {
+      "id": "06d7bae95fbb055fb8",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-28T02:38:37+02:00",
+      "source": "Onda Cero",
+      "title": "Extremadura duplica su despliegue de apoyo a la extinción del incendio de Ávila y Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYjFvelppTUxnOEdQY0N5bjk4ZUctN2ZRTzZwMTZJUGY3VWVPdVI1bnhzOVNpa043YVhVcnJ6LXRqejlSTHFGQ2NsVm9uRmhxbUxhQk1NZ0xQaDltT2NtaDRPUkN2Tm9tLXI4TkQ4NGNOMUV4ejhMR1lwTzNBeDlHMElOaGV3akhIU1BiN0d6TWRUY1Z6clB0Z0NyeGRzTkI3WmZTU1RWM1ZaczBkTk1JNlNrM25pb0NwREczRmdJYlZoSTBUcC1IUGJXTXlsVjlzaTFZZnhCOFN3V1dPUjdROXhWT19yRVdEZnFXeXkwUWlqUdIB8gFBVV95cUxQYjFvelppTUxnOEdQY0N5bjk4ZUctN2ZRTzZwMTZJUGY3VWVPdVI1bnhzOVNpa043YVhVcnJ6LXRqejlSTHFGQ2NsVm9uRmhxbUxhQk1NZ0xQaDltT2NtaDRPUkN2Tm9tLXI4TkQ4NGNOMUV4ejhMR1lwTzNBeDlHMElOaGV3akhIU1BiN0d6TWRUY1Z6clB0Z0NyeGRzTkI3WmZTU1RWM1ZaczBkTk1JNlNrM25pb0NwREczRmdJYlZoSTBUcC1IUGJXTXlsVjlzaTFZZnhCOFN3V1dPUjdROXhWT19yRVdEZnFXeXkwUWlqUQ?oc=5"
+    },
     {
       "id": "dd371f99af4ba41226",
       "type": "news",
@@ -14,16 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjl1ZkJpZm1uOTY5ZVZSdm1CaFJzaTNDRDd3NVh1aUlxanJwZG9vcTZKUWNWMVBMN2xWdFQ2Wjlob0VYZk5wN2ZLVUxBQ1BmMUF4ZGNNOGdPbHJ5RmxoNmhoeDRsWElLRE1VWWhjcnFvSGV6eGQxZzBxV01YUTBZWU9ydW44b05yOXlFd0NQUVZvMEZxZ1ZNWFdMQ0xvbUFIMWVNX2R1aDBlN1lEbDF4VUFybmxTSUY1c1FGekc1UFhRdXhoaHlpeWtGR1ZZeGhOUlQydS1QZWZQbmhQR3ZRQU5iQkZ3UEZ4WXpjTjVFUXdjRFNtcVNlZHRXTmxxT3lP?oc=5"
     },
     {
-      "id": "ea34b57e6a6d3813f1",
+      "id": "d01b6f49311cd57282",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-07-28T00:46:02+02:00",
-      "source": "Diario de Ávila",
-      "title": "Incendio de Burgohondo: El fuego sigue sin control",
+      "published": "2026-07-28T00:47:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta garantiza alimento sin límite para el ganado afectado por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3hVUE1fTndZcVpHbkwydEd0X1Q4aFYwVGJwclBDMWoxdzNzQVZJel9tWHB2NVJhSDVDVW5Tck9yVEVtYTRLRWd6dndZLWtrWlRnTXAyWlBnNVhMbXVENFFsREI2ZVZpQkkwVFR3SWJRUm1LcGY5LTdmYURoYTFJT1pwRE55S2k4Vk1fYnpCOHdoeVNlN1dpcGNCaUw5SE0wUjI0YjBGdkhaenNuc25rQW9tWmhHc09yd0UtbV9wNW1sV21RSlZnMU93?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHV5dVNzUFRnRVU1YWNYZ1ZxaUw2RGNZNlZWN210cGFBb1JZdlhvUWR6aDN6bmpmYTBDMFV2eVp3YjNkWlpiSjEybXR4ZFI0WktsM013Tkk0VVItRW5CbURxU1NuMnhLRHA1Tl84VFRqeXNTSUJpOEJzUW9Qd0h0WDcyZ0lRZUc3Sl9YN1EzWlVsVFBUNmN1QkR6M2lyUWJJR1UwNkZFcEdOeVhnaVlqZWhEdVVCVVAxcUNlNG1TMnpYeklFS2xVcVk5Sy1zbUhES25J?oc=5"
     },
     {
       "id": "991427995728edcb38",
@@ -62,6 +110,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUkoyOW5MQld4anA1dzQzVUg2UmRFclJReEs5LURwNEpfbTJ5V0ZhdDZBUUk3dFNMUVlNMFp5VkFOQ3FYLXZ5OTNDYm1tWTRtS1hfNVNCRUhiUlh4RXVBdnZvY201aUx0djFJX0J4eVk4YkFPckM2V09HdTZBU2RUcmp2VGVGT05hcUEwNm1GMXh5bjhnNDU3clJQM0JhZ1BOVFhieFBLYnAzcEtwenE1X1R5UmFNSmYwbEpicW5ITlJWd3NEckdBYy0zbTdTRTRmaUhneWowbTBHY3VIaThlNVNBN05NaGJEc3lWVjhmYkFyZFVPUTE2c0N5SHd5Tmdhcy1YLUFCdE1NWkRDcXB1QnZ2Z0M0bkpTdFVsTDBNbEZndWx4LU00cXJJdnBKZzV1SnFXSkdod0dOOEdmdVJGWNIBwAJBVV95cUxQUkoyOW5MQld4anA1dzQzVUg2UmRFclJReEs5LURwNEpfbTJ5V0ZhdDZBUUk3dFNMUVlNMFp5VkFOQ3FYLXZ5OTNDYm1tWTRtS1hfNVNCRUhiUlh4RXVBdnZvY201aUx0djFJX0J4eVk4YkFPckM2V09HdTZBU2RUcmp2VGVGT05hcUEwNm1GMXh5bjhnNDU3clJQM0JhZ1BOVFhieFBLYnAzcEtwenE1X1R5UmFNSmYwbEpicW5ITlJWd3NEckdBYy0zbTdTRTRmaUhneWowbTBHY3VIaThlNVNBN05NaGJEc3lWVjhmYkFyZFVPUTE2c0N5SHd5Tmdhcy1YLUFCdE1NWkRDcXB1QnZ2Z0M0bkpTdFVsTDBNbEZndWx4LU00cXJJdnBKZzV1SnFXSkdod0dOOEdmdVJGWA?oc=5"
     },
     {
+      "id": "bafd1761172c18814f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-27T23:39:38+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo entra en una fase más \"favorable\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLTFQcFF5UzV6cXpLS3ZVcXBqd0s4Z0VKLVJQZVk1SjZaODlfeFcyOUVmOTJBekxNbWhtTmFNMWlHNkl5V0g4ZUpSemJiT3Y0VzZJOWZmcTlKQW5RUXN6NGMxcXhUNVN1OXd3eXRuaExwUWZxdUJ2ZFpZWEVJRElmNFZtNmppalZfQ1hVXzNFc2pZYWdSam5CVkZsR0JSYU95VkFFLQ?oc=5"
+    },
+    {
       "id": "2e0da216057a921002",
       "type": "news",
       "severity": "critical",
@@ -72,18 +132,6 @@
       "title": "Última hora de los incendios forestales en España, en directo: evacuaciones, confinamientos y últimas noticias hoy",
       "summary": "Los incendios forestales que afectan a la Comunidad de Madrid han reducido su avance durante la noche,...",
       "url": "https://www.europapress.es/sociedad/noticia-ultima-hora-incendios-forestales-espana-directo-focos-activos-zonas-afectadas-evacuaciones-20260724081326.html"
-    },
-    {
-      "id": "7375660abe13b923d6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-07-27T23:09:08+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "La Junta garantiza alimento sin límite para el ganado afectado por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHV5dVNzUFRnRVU1YWNYZ1ZxaUw2RGNZNlZWN210cGFBb1JZdlhvUWR6aDN6bmpmYTBDMFV2eVp3YjNkWlpiSjEybXR4ZFI0WktsM013Tkk0VVItRW5CbURxU1NuMnhLRHA1Tl84VFRqeXNTSUJpOEJzUW9Qd0h0WDcyZ0lRZUc3Sl9YN1EzWlVsVFBUNmN1QkR6M2lyUWJJR1UwNkZFcEdOeVhnaVlqZWhEdVVCVVAxcUNlNG1TMnpYeklFS2xVcVk5Sy1zbUhES25J?oc=5"
     },
     {
       "id": "fc74583052404372d4",
@@ -120,18 +168,6 @@
       "title": "Vecinos de nueve municipios toledanos afectados por el fuego de Ávila, Almorox y Madrid regresan a sus casas",
       "summary": "La dirección operativa de la emergencia Nivel 3, a cargo de la Unidad Militar de Emergencia del Gobierno, de...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-vecinos-nueve-municipios-toledanos-afectados-fuego-avila-almorox-madrid-regresan-casas-20260727222905.html"
-    },
-    {
-      "id": "ec19ac11530b07c2bc",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-27T22:33:32+02:00",
-      "source": "Madrid Actual",
-      "title": "El operativo focaliza sus esfuerzos en el río Cofio para estabilizar el incendio en la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3JVMC1pMUhxTkd6eEtEOEVSWEhCVVRtdDBJOElMckZZTWZEZEplaFJJRUcwcTNPQXQxMEZxV2wxV3kzc1lCN0FDUVlqaVhUd19GQ3FXU3FvQ0d3NndJSEhwcldzd0R1QTdNZk9lNlRLaS04NTlaZC1YMVg4cGx2Y2RIa25UeExvU1EyLVpDSWRsWV9CLWxCbG1wRmRNSVZLNEdaN1g0OXFZWWRORjZ2SnpyNzVrbHFnc3lIbmJxSldNWnRDSUNzbDJ6U3Z0SVF2OV9z?oc=5"
     },
     {
       "id": "9fa71c140a04456bc0",
@@ -360,18 +396,6 @@
       "title": "Decretan el confinamiento del municipio de Las Navas del Marqués (Ávila) por el incendio",
       "summary": "El mando único ha decretado esta tarde el confinamiento del municipio abulense de Las Navas del Marqués...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-decretan-confinamiento-municipio-navas-marques-avila-20260727195552.html"
-    },
-    {
-      "id": "c978c0c77b639dbdaf",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-27T19:39:44+02:00",
-      "source": "Telemadrid",
-      "title": "La Comunidad de Madrid aumenta un 38% la inversión en la lucha contra los incendios",
-      "summary": "La Comunidad de Madrid ha incrementado un 38% la inversión en prevención y extinción de incendios forestales desde 2019, hasta alcanzar los 52,7...",
-      "url": "https://www.telemadrid.es/programas/hablamos-de-madrid/La-Comunidad-de-Madrid-aumenta-un-38-la-inversion-en-la-lucha-contra-los-incendios-2-2910928913--20260727073944.html"
     },
     {
       "id": "4aaccfe9733b1a78dc",
@@ -648,18 +672,6 @@
       "title": "El incendio de la Sierra Oeste reduce su avance durante la noche, aunque aún no está estabilizado",
       "summary": "Los incendios forestales que afectan a la Comunidad de Madrid han reducido su avance durante la noche,...",
       "url": "https://www.europapress.es/madrid/noticia-incendio-sierra-oeste-reduce-avance-noche-aun-no-estabilizado-20260727092357.html"
-    },
-    {
-      "id": "0a33140ebf8c770975",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-27T15:19:42+02:00",
-      "source": "Telemadrid",
-      "title": "Alerta por la situación \"endemoniada\" del incendio de Ávila en el entorno del pantano de San Juan",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaDB3V3IzSWptenJhMlEzb2VReFBMMGZ4bnk1endNUmN5OHBBMTRDVl9yeS1aVDBVQk9ZX2stX0s5X2pXSHdlWXB6REVRaVc1dE8xSHY1bm9zRFc4TzF2bHRZWm5la0JwUU04d3YxQUJEeTdNNTdQRnIwVW5RUjFFU0FkYVNFMlplY3NYNUphaHh4Z204dGtubTQ2al9uZWtKY2pZakNRNzd6Vi05VE9CNEI1YVlPOEJFQmhONjN6NVZMOUJjMUd6bEZnOFIwMlZwbG9BMm5YT3lUcUo5TlZrRTBlNjdaS0QzSWFMTUhXR3pOWFIwbkJILXBKRVkxNlZVa05lZFhnYVFmY0xV0gGSAkFVX3lxTE5KMHFmTnpIamJLNzNRRlVRSnBrdkk4M2ptZVBvcXc5dDJOLVFUSVNtUDhfZEVzWFJyRkhJVnpISEN5TFJzbUZld1FTTTN6WmdDcU50el9zY2JhV2JWbXIwZEdfeFdLbXd4TC1CaWlobC1mUURyaXVqSWRpLWRLX2VYWk9YTXRsMDB4VzlVZGw3N0Z0eEtQUVExT29pMmE5eG13MkRiVTZyVWxoZlRId1YxMmpISUtvQlRzS2dqYU5reUFqVWhHMnVUZkxOUU9MUzRZemlqdTlKM1FORllpeUlmT2RYMFJVSEVDYUd4dWdsb0FRSUpIRkZSYzlsOW56NkpVaXlRcnE3Y3NEcXZJSnFDVUE?oc=5"
     },
     {
       "id": "ff3665b5d8fc008c9e",
@@ -1166,18 +1178,6 @@
       "url": "https://www.europapress.es/madrid/noticia-13-carreteras-madrilenas-permanecen-afectadas-incendio-sierra-oeste-cortes-totales-parciales-20260727080707.html"
     },
     {
-      "id": "b98b72623d49d36fd2",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-27T08:25:18+02:00",
-      "source": "20Minutos",
-      "title": "Consulta las carreteras secundarias cortadas al tráfico en Madrid, Ávila, Toledo y Castellón",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORDVnNUsyWWZMZXNqSTZDYUp5WDVhVkYxSkVPZ3NtWWQzVzFkaVlVY0lSenFlWVkyczEtTzV3ZGFRdEJsdFI0dTBnVndqZE9MVDlJMldXd3NINWZiVjBhX1Z2a2ZQb1MyaGJkMTQ1T19lemZyX09uNmktVFdVcTBsMzVPTVRWcmI1WXVlNjhJVnVJWHU0REJ1c2dUV2xyTDNwb09MWVdpRnJPYll4alhFMTNvSjlodWloQ2FJd2JSVmx4am56cGdlYjN3Y9IB0AFBVV95cUxNMVFQaG5OcTMzbXZfYXNDcG1nQUFMYUR2Z3JJZTlaeDNGUjRZQ0NlT1ZweUtRbi1taUlvTm1QSFlFXzJRRU5FSFRzeEZTYkN2Z2tiN0tkYmxZa1Q3bHN1SXV2dEFEckUyN3JlZ3RMbG5WNnFCOWpIbDM1eGsyOE10Tnc4Ql9NY0lqeWdhMDdBc0c3emJYQ3hYNDczS0psalIzLTFGTmxsd21qVTlYeFB0eHFXRFp0SUZmMHpFWUhjdFc3WUx0RWdSV000eENqcU5M?oc=5"
-    },
-    {
       "id": "03caad1b5a9eba0ef4",
       "type": "news",
       "severity": "critical",
@@ -1212,18 +1212,6 @@
       "title": "Los incendios, contenidos pero no controlados: el fuego de Ávila ya es el mayor de la historia de España",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmdTbUJSQXh1U2RlOUQ4YzY2cGRkel82dVlMX3VfQlJqeTdGNms4bndNVHB4amE2LW1TSkt2M202VkFnMUR6dlhzUDRiV1owYV9iU0pQTjhERzNsTnFhQTRkTElwN0dHd0pwMFF4UVVBaGZSNjVTY3NXQ1ZxRGhGTTl1RzNmMGpvekd2TzhZdUZTRy1PNlFPWW1QSHRndVFXR3oxMXdQMWh6TUNVWUdmZUVHb3Z3SFpoZ1RPRzdWaEhMYzA4MDdUR2RGUFlmOWJiNHNBQl9hTUI5azVn?oc=5"
-    },
-    {
-      "id": "9f66bf66e1b3d70900",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-07-27T05:00:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Los incendios evacúan a más de 5.000 personas en Toledo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnI4RUtyTEhXbHI5VGFKbzhkbUpwS2lTcHNaaWRNaTVLMU1zSTI5U2VmNWI5TzR5N19sbzNka0djQmtHQ1lycV90cGFOdkZzZWVuX0pEZVlSQXRoaDRvS2pKYWNoLUwyLTdoZEZyazQxaXMtMHpfMUdfTzROalRlMkxDckVyOXVzYkJTQlhtQ2hoTExMX1ptQ1NvemZxOUctS1VmQWltOE9ZRnhnVkI5RVVoeTlXSXVETHNya2YwR01kSnFVLVE0RUcxZy0yVTd0RlFjemE3NA?oc=5"
     },
     {
       "id": "f8a5e1c3894c7f1dec",
@@ -1315,11 +1303,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 108
+      "items": 112
     },
     "direct_media": {
       "ok": true,
-      "items": 30
+      "items": 29
     }
   },
   "refresh_seconds": 300
