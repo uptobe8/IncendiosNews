@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-28T01:37:43+02:00",
+  "generated_at": "2026-07-28T03:01:48+02:00",
   "items": [
+    {
+      "id": "dd371f99af4ba41226",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-28T01:46:13+02:00",
+      "source": "Onda Cero",
+      "title": "El incendio de Ávila, ya el mayor de la historia de España: \"No se puede echar de menos lo que no se conoce\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjl1ZkJpZm1uOTY5ZVZSdm1CaFJzaTNDRDd3NVh1aUlxanJwZG9vcTZKUWNWMVBMN2xWdFQ2Wjlob0VYZk5wN2ZLVUxBQ1BmMUF4ZGNNOGdPbHJ5RmxoNmhoeDRsWElLRE1VWWhjcnFvSGV6eGQxZzBxV01YUTBZWU9ydW44b05yOXlFd0NQUVZvMEZxZ1ZNWFdMQ0xvbUFIMWVNX2R1aDBlN1lEbDF4VUFybmxTSUY1c1FGekc1UFhRdXhoaHlpeWtGR1ZZeGhOUlQydS1QZWZQbmhQR3ZRQU5iQkZ3UEZ4WXpjTjVFUXdjRFNtcVNlZHRXTmxxT3lP?oc=5"
+    },
     {
       "id": "ea34b57e6a6d3813f1",
       "type": "news",
@@ -38,16 +50,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGZ6TnVrTGswZF8zRU9YQTQwTjlnYkpsNlVVS09qWEpPc2pxWVloUHExdnkwM1JJZ3U2R1pYRGZkNTNKS3JCSGUzNmtXUGtKTnJIeGREODBMT1lBcjhwWDlOQk9fVHUyZzdaSlRZZjVuT2wtaWdhUzN1TWtDY0VUT29lbnRZU1hDYTNJaEJwUWcxNXlTRGhaLUkzek1qeXhLT1o3MW1vYlk4azNIWUE?oc=5"
     },
     {
-      "id": "c544da79ff31b7a8e3",
+      "id": "ae164fa57e6903e721",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-07-27T23:54:07+02:00",
+      "published": "2026-07-27T23:58:09+02:00",
       "source": "Cadena SER",
       "title": "Los equipos de emergencia trabajan contrarreloj para controlar los incendios de Madrid, Ávila y La Vall d'Uixó ante la llegada de una nueva ola de calor",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdEM2cTVORmpuSHAxY2ZpTVREZFBSTEVIbUZycHREYUxWTmZDcTVzLThTRS1XTF9qS3hVYnFNZkc3Z3YxVmJsWnVkVGRRa3BWNGpYajNNNnpqdFRMSEJTQkRDbU96X1JseklqQ2R0ajNNemF3ZHN0QlhyRFBkRkF0b1RtZXo0QUFVZ1FvNzZJeGtBdUpRdTN4emFLeFlITGpxQnMwVHkxLXRXUXlQZDdLSGV5Qi1KZzFMcFlwTE4wZVR1Q2RwbGhPenpSYWNhU3dkbmx3ZUdnU0p3eGxsN2xuVU5IOXFEUU1Sd0RheXZUdUtDWlNMbGVnd3Q2LWViS2E1UDB4VDBGNzRfLVczMlA2bWNPMzB3Unl3czRhQTV2TzlKR2puS2laTW9qYjbSAcACQVVfeXFMUFJKMjluTEJXeGpwNXc0M1VINlJkRXJSUXhLOS1EcDRKX20yeVdGYXQ2QVFJN3RTTFFZTTBaeVZBTkNxWC12eTkzQ2JtbVk0bUtYXzVTQkVIYlJYeEV1QXZ2b2NtNWlMdHYxSV9CeHlZOGJBT3JDNldPR3U2QVNkVHJqdlRlRk9OYXFBMDZtRjF4eW44ZzQ1N3JSUDNCYWdQTlRYYnhQS2JwM3BLcHpxNV9UeVJhTUpmMGxKYnFuSE5SVndzRHJHQWMtM203U0U0ZmlIZ3lqMG0wR2N1SGk4ZTVTQTdOTWhiRHN5VlY4ZmJBcmRVT1ExNnNDeUh3eU5nYXMtWC1BQnRNTVpEQ3FwdUJ2dmdDNG5KU3RVbEwwTWxGZ3VseC1NNHFySXZwSmc1dUpxV0pHaHdHTjhHZnVSRlg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUkoyOW5MQld4anA1dzQzVUg2UmRFclJReEs5LURwNEpfbTJ5V0ZhdDZBUUk3dFNMUVlNMFp5VkFOQ3FYLXZ5OTNDYm1tWTRtS1hfNVNCRUhiUlh4RXVBdnZvY201aUx0djFJX0J4eVk4YkFPckM2V09HdTZBU2RUcmp2VGVGT05hcUEwNm1GMXh5bjhnNDU3clJQM0JhZ1BOVFhieFBLYnAzcEtwenE1X1R5UmFNSmYwbEpicW5ITlJWd3NEckdBYy0zbTdTRTRmaUhneWowbTBHY3VIaThlNVNBN05NaGJEc3lWVjhmYkFyZFVPUTE2c0N5SHd5Tmdhcy1YLUFCdE1NWkRDcXB1QnZ2Z0M0bkpTdFVsTDBNbEZndWx4LU00cXJJdnBKZzV1SnFXSkdod0dOOEdmdVJGWNIBwAJBVV95cUxQUkoyOW5MQld4anA1dzQzVUg2UmRFclJReEs5LURwNEpfbTJ5V0ZhdDZBUUk3dFNMUVlNMFp5VkFOQ3FYLXZ5OTNDYm1tWTRtS1hfNVNCRUhiUlh4RXVBdnZvY201aUx0djFJX0J4eVk4YkFPckM2V09HdTZBU2RUcmp2VGVGT05hcUEwNm1GMXh5bjhnNDU3clJQM0JhZ1BOVFhieFBLYnAzcEtwenE1X1R5UmFNSmYwbEpicW5ITlJWd3NEckdBYy0zbTdTRTRmaUhneWowbTBHY3VIaThlNVNBN05NaGJEc3lWVjhmYkFyZFVPUTE2c0N5SHd5Tmdhcy1YLUFCdE1NWkRDcXB1QnZ2Z0M0bkpTdFVsTDBNbEZndWx4LU00cXJJdnBKZzV1SnFXSkdod0dOOEdmdVJGWA?oc=5"
     },
     {
       "id": "2e0da216057a921002",
@@ -194,18 +206,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXp6bTdQaG91MnB3SFdIOC1iUUJpRlphemRGLWNiX0dxWVRkQnJFeHVxbExscXZYSEhsamdHYzdVM3VqdWVBbnNSaGkydzBwT1hhVmJTUUxzRzBSVDZDdkxvbVVDeFNPYnFOeERqMndXcVBHM2F5S3U3VXRxUExWM202ZEpmeUlHVl9EUkxDREVpZzZDS0djR1YtaHdCUVZrdnJva2cydGE1aTFtMmpBR1lUSnVaTlYwdHNLMGlyTnVNU29GSHJN?oc=5"
     },
     {
-      "id": "15c136f9d3f25b12e7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-07-27T21:45:33+02:00",
-      "source": "Diario de Ávila",
-      "title": "Sigue en directo la evolución del incendio de Burgohondo (Ávila)",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3hVUE1fTndZcVpHbkwydEd0X1Q4aFYwVGJwclBDMWoxdzNzQVZJel9tWHB2NVJhSDVDVW5Tck9yVEVtYTRLRWd6dndZLWtrWlRnTXAyWlBnNVhMbXVENFFsREI2ZVZpQkkwVFR3SWJRUm1LcGY5LTdmYURoYTFJT1pwRE55S2k4Vk1fYnpCOHdoeVNlN1dpcGNCaUw5SE0wUjI0YjBGdkhaenNuc25rQW9tWmhHc09yd0UtbV9wNW1sV21RSlZnMU93?oc=5"
-    },
-    {
       "id": "421c8425745e6c7651",
       "type": "news",
       "severity": "info",
@@ -252,18 +252,6 @@
       "title": "Levantan la evacuación de 9 de los 11 pueblos de Toledo desalojados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmotdTlDalphSDNkWFJpaktDLUg5TE40WVc4R1Q0VVhmYzJUMktUSmVpcHl2djdQa04xQnlnQzNaeFpsRjc1NTJ1cDNLMFZBalpyb2tkV182RGZmY0dST21IdmZfc0djaVpHWEpqMlE2NW1WdGU5RXNZc3NBM0M4VzB5QjgxUXFkSEhoYjltWE92XzRDYUQwTDdSdnhvLXRLZXpvYnBHTTVhdmc2eWpLX3RvZFlfZUE5WFlDZFlYZGllUmtYVEM40gHbAUFVX3lxTE1RZHZoMUVNNEtuMkQ4aEwyVERXVFFXdlI5VU5nd3dwcTFkYWpkR1dDMThfRTdxSWFKWk9sOEc3SHY1dHp2bEVzY3FsS0VQcnFaNHhNZGE3LVhCLWNfajZrbkVaZGNUSHduUGpaeXA2Unh0U001YWJXbmV5cnlQUG1FMUpKRFhpTE1WQmZPbXhWM2FySHZhWHVLUGRpbUpORXdUVTUzQ2dTNkd3ZmhvSFg0UnVBY2Q1UnBZWHdWN1VvX2FvV1FkenVaVGkxSzR1aEU3ZFRjdlNiLUJZMA?oc=5"
-    },
-    {
-      "id": "d9599a4fb8e98d9c04",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-27T21:09:00+02:00",
-      "source": "RTVE.es",
-      "title": "Incendios en Madrid, Ávila y Castellón hoy, en directo | Última hora",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeklLYm10amxITkk0VTdtZERseVlidl8yY3FhaVdINDVCOU9ob0JjZXMzY2s1VUdEbEVIMTBWY0tBb0hSenpJX09mX2ZfTklPY1hJdW9HTWlESkljTmdnTy10Ukx2alJ5blhjZkpVejMwZENhcERfLVlUekF1bVpIcEdSTkpNYXRyMWt3cUt6eXJ5SWJBcXhQdQ?oc=5"
     },
     {
       "id": "e4770820124df63b91",
@@ -662,6 +650,18 @@
       "url": "https://www.europapress.es/madrid/noticia-incendio-sierra-oeste-reduce-avance-noche-aun-no-estabilizado-20260727092357.html"
     },
     {
+      "id": "0a33140ebf8c770975",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-27T15:19:42+02:00",
+      "source": "Telemadrid",
+      "title": "Alerta por la situación \"endemoniada\" del incendio de Ávila en el entorno del pantano de San Juan",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaDB3V3IzSWptenJhMlEzb2VReFBMMGZ4bnk1endNUmN5OHBBMTRDVl9yeS1aVDBVQk9ZX2stX0s5X2pXSHdlWXB6REVRaVc1dE8xSHY1bm9zRFc4TzF2bHRZWm5la0JwUU04d3YxQUJEeTdNNTdQRnIwVW5RUjFFU0FkYVNFMlplY3NYNUphaHh4Z204dGtubTQ2al9uZWtKY2pZakNRNzd6Vi05VE9CNEI1YVlPOEJFQmhONjN6NVZMOUJjMUd6bEZnOFIwMlZwbG9BMm5YT3lUcUo5TlZrRTBlNjdaS0QzSWFMTUhXR3pOWFIwbkJILXBKRVkxNlZVa05lZFhnYVFmY0xV0gGSAkFVX3lxTE5KMHFmTnpIamJLNzNRRlVRSnBrdkk4M2ptZVBvcXc5dDJOLVFUSVNtUDhfZEVzWFJyRkhJVnpISEN5TFJzbUZld1FTTTN6WmdDcU50el9zY2JhV2JWbXIwZEdfeFdLbXd4TC1CaWlobC1mUURyaXVqSWRpLWRLX2VYWk9YTXRsMDB4VzlVZGw3N0Z0eEtQUVExT29pMmE5eG13MkRiVTZyVWxoZlRId1YxMmpISUtvQlRzS2dqYU5reUFqVWhHMnVUZkxOUU9MUzRZemlqdTlKM1FORllpeUlmT2RYMFJVSEVDYUd4dWdsb0FRSUpIRkZSYzlsOW56NkpVaXlRcnE3Y3NEcXZJSnFDVUE?oc=5"
+    },
+    {
       "id": "ff3665b5d8fc008c9e",
       "type": "news",
       "severity": "info",
@@ -888,18 +888,6 @@
       "title": "Marlaska advierte de que el miércoles empeoran las condiciones de extinción en Ávila y Madrid",
       "summary": "El ministro del Interior, Fernando Grande Marlaska, ha señalado este lunes que hay \"control sobre la...",
       "url": "https://www.europapress.es/nacional/noticia-marlaska-dice-hay-control-emergencia-fuego-avila-madrid-admite-avanzan-despacio-20260727114413.html"
-    },
-    {
-      "id": "8ab276a7e46543de34",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-27T12:30:17+02:00",
-      "source": "Telemadrid",
-      "title": "Un incendio junto a las vías paraliza la alta velocidad entre Madrid y Barcelona",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNejgxWkpTMk5jdk9lNWpGR1IyUHZLa1FoakNHWFNfRFlvRVZMWlp1NVRqVmdhOXppYlZDT2JRMmdVR1o2YmZxUmdNQW84a1pRMzd2MXJVYll3Nnc2aFpGTXNVVlREWkdXMUVuWHZKODl0XzBmMzZKTV9mdG95UlV3UDdHRVZZT2d3RHV4R3V2U05rc2ZOaGUxcVNTWDJBMWVsME5sQThjRzFlOWxTQV9iaWwyYmdlVkpGLWdBV18xY2NwOFJ4TTBoYlZOSzBTd0Q5cEtaNE1mVC1zZThLRjVwTEVJbnVwRFhhTFZHTThoSzJhUdIB8gFBVV95cUxNejgxWkpTMk5jdk9lNWpGR1IyUHZLa1FoakNHWFNfRFlvRVZMWlp1NVRqVmdhOXppYlZDT2JRMmdVR1o2YmZxUmdNQW84a1pRMzd2MXJVYll3Nnc2aFpGTXNVVlREWkdXMUVuWHZKODl0XzBmMzZKTV9mdG95UlV3UDdHRVZZT2d3RHV4R3V2U05rc2ZOaGUxcVNTWDJBMWVsME5sQThjRzFlOWxTQV9iaWwyYmdlVkpGLWdBV18xY2NwOFJ4TTBoYlZOSzBTd0Q5cEtaNE1mVC1zZThLRjVwTEVJbnVwRFhhTFZHTThoSzJhUQ?oc=5"
     },
     {
       "id": "7497c44a1b21f9742a",
@@ -1321,13 +1309,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 109
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 108
     },
     "direct_media": {
       "ok": true,
