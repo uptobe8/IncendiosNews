@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T03:03:55+02:00",
+  "generated_at": "2026-07-29T06:24:55+02:00",
   "items": [
     {
-      "id": "d5a3c8f012f25e39fc",
+      "id": "1110ec28397839d362",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-07-29T01:01:36+02:00",
+      "published": "2026-07-29T04:04:11+02:00",
       "source": "Diario de Ávila",
       "title": "Sigue en directo la evolución del incendio de Burgohondo (Ávila)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -108,18 +108,6 @@
       "title": "La situación en Ávila se mantiene \"favorable\" tras la \"contención\" del incendio",
       "summary": "Mañueco defiende el esfuerzo realizado por la Junta en materia de prevención y la inversión en limpieza de...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-evolucion-incendio-avila-mantiene-favorable-barcones-pide-ultimo-esfuerzo-afectados-20260728220915.html"
-    },
-    {
-      "id": "e529319b3fb2c3d23e",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-07-28T21:43:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "El incendio de Almorox reduce sus riesgos y baja a Nivel 1",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWRIMldEcXAtQjdyWXRtbXJfeHZFb2s1TW4yVU5yOUI0SDBKdUxQWDk1OWRTcE5MbmFZRkZMUWR4Ykh2RTBIVEJlZ2JnTkdKeEE1ZjRac2c3REM0cDhuaHI2UXh1ZEhIcWQ3bUk4VmFnbG5MM01iX216Qzc0SFR5aEp4dUxGTFppeFdFUWlHalhEeTNSdkJWSHhwVjFzbHZQM3Npd21ackVfdER4NVdkVS1PWXhGTW1fQ2tHYlNFQzJHMmltdDhnN1g3bmRQT3U4czZCTW14RWRoeXc?oc=5"
     },
     {
       "id": "7ea8173fd9dd5dc951",
@@ -842,6 +830,18 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ09wNWUtYmlkNE43OWpBUU1DNXhKcWJhSDZGVXFlcHNaZ2dQWTF2REt6Rl9kWHY5N0k0bnkxVmc1SDgtZ1YtNnBQRXZ5dWZWR3BVVlpEN01fMmU3cFNHYmZQcUV1SmxUeWcxaE82YnVVSmk0SV83VWhyVVBqQmFIeTlSZHJTdzRCZDdaLWdvYk5VV1J5RGdnbnBPOWp2ajdDYVlQbFV3aGdPdXhORWxLclduM1dPMll5ZVNVUG5vQk4zWVdtc1lwVGF1cXdSbWpMYjRqQUdPX0JNT0p4aHRZSVZMM18zOXVpYy1NVmRyb0ZWNnZ2SkVUWW0zRjBsRjdSUDlJRVp6WDFpX2kyNGp2YWc2TmJFQdIBlgJBVV95cUxPZ09wNWUtYmlkNE43OWpBUU1DNXhKcWJhSDZGVXFlcHNaZ2dQWTF2REt6Rl9kWHY5N0k0bnkxVmc1SDgtZ1YtNnBQRXZ5dWZWR3BVVlpEN01fMmU3cFNHYmZQcUV1SmxUeWcxaE82YnVVSmk0SV83VWhyVVBqQmFIeTlSZHJTdzRCZDdaLWdvYk5VV1J5RGdnbnBPOWp2ajdDYVlQbFV3aGdPdXhORWxLclduM1dPMll5ZVNVUG5vQk4zWVdtc1lwVGF1cXdSbWpMYjRqQUdPX0JNT0p4aHRZSVZMM18zOXVpYy1NVmRyb0ZWNnZ2SkVUWW0zRjBsRjdSUDlJRVp6WDFpX2kyNGp2YWc2TmJFQQ?oc=5"
     },
     {
+      "id": "37ac28762b6edd7eb9",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Almorox",
+      "published": "2026-07-28T09:02:33+02:00",
+      "source": "ABC",
+      "title": "Vecinos de Almorox: «Piensas que todo tu esfuerzo puede desaparecer; el fuego rodeó mis negocios»",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmVldkRtLUZmVzJCWWJaeE1kamIxM3Zza3YwS1FibWROaWtfeGlCUTNRbURmSk1nWEJZTjBpQjI4QzhralBLU3RmdFlaNVl2bGl5LW9sVzVCN0RpaGVJdVFaaUd4ZTJITS12ZlQxekh4LWVUYl9tTHpndU5MSFk3bkhMUHlNQmR6ekdYVFdRUmd4d1JQcVBiR3FuRkM5blo2akZoU0ZfTFlOaDM4V1lUT3M2VXFjQlNsSFBQYXcwTFJuZ2NOWEl0TTE3aXRDcjJQc0dFQk9B?oc=5"
+    },
+    {
       "id": "28ad5b068174b9a580",
       "type": "news",
       "severity": "info",
@@ -936,30 +936,6 @@
       "title": "Parten desde Jerez bomberos de la provincia para colaborar en la extinción del incendio de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ1RmZzlZSmxsRGktOGg5TzRldFU4QWRPV2pYQ2tSeGE5Ym04MVV3NVVPdUdHLTRXVmVydjJzUGoxNGQxbnlVNUg1OUtzbmRxLXEtODM1VVN0OXdwUjlIS0dSSmxadVc0NHhpeGM1WEh6RW53dlVSdkR6S3k0MVJTSkZaWmdSRk5IZTIzYVBfVnh3ZXdiejkyRjlncTJNdVZqZkx0ZGY0a2J0U3Ntb0xQOU5vM0VQQ0lvU3lSMVc1TFEzR2dXeUdDVmZxRWQ4ajBxTGJkSUIzOVNOTlBUZUszcXNHM1RBeVXSAfsBQVVfeXFMTTk5ODdaRTJYN3NoZFcyQ3JoaHJxUjdacXBmZ250YUxEY2dpMTRobVFqQVRLTXl3RXl1OExSNl9TekZ3UVhhV3Y5SjJCdjBSWFdPR2hJV2NNU1BwY1RnNmdvNnpoZF81UTVkc1VNN3FuVVNFSFozaGJETVl6ZDM4VkgwWmdlc3hPUEZpY3NZLUh3a0NfcW9xYnJ4ZWZiT3Rvblh1MGJxRV9kLTZNd0kyLUJidjE1cXFmM2ZCWEFLR0RWYjNJOGM0WHNNQ3F6eWZ2VnhDNFRHc3UxVEhFZnNpT0FGM0FmWVcyZE1GaG5qaHU4UkR6STBsVXQxcWM?oc=5"
-    },
-    {
-      "id": "fb8cbb906b69169a6f",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-07-28T05:30:01+02:00",
-      "source": "EL PAÍS",
-      "title": "Un año más, incendio en Almorox",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaG9VcFF2czdtQWlSY3ZqeUQwdG5aRlV4bmpMVnFsNC1DYzZZTmJqVjRHM0pOYnlHZm03YjZjRmVQbHloOGw0N08zOHhjeV9JSmJOVUQzZzBVdHdiSXJaTGUtaEdxTkhwMWlaMUhkVFFOVnZnUFpFMDJPdHQ5TFp2WUJkclNFZ9IBmgFBVV95cUxNaXZTcFNtZC1hVnJfQndCVkxGUHlzc0RsZHA4bW5OZ21GZHlIdC1xODN1MWFrNFJ1Z3RSeE52LVVVeFhXaDJmTnYxMmg4eVVKZFpmc245aDY3N3dtbkVLVnZDa254aXZUMkNaSXhDczF2SFc2bTJkSzc5d3RxV2hFSG95QUZKQlpzUHA1MU9jNC1nbnRRdFlLUVZR?oc=5"
-    },
-    {
-      "id": "963280d1d842d83d73",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-07-28T05:00:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Piden la ayuda de la UME para controlar el incendio de Almorox",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMkw1bWxxYkFnOEJvSjltQ3drSzVwR0ExajhDMU50c2JDMjYwX2o4ZXBrTGpUcExlVjNRQjhhclctQXRxUEQyM2NGOVJxdkRrcDVORmo2bHhtSHEwRVZxRXNlWHVDb01VSHJRZ2lLT19ITndleVZZWTFmREtsNzcxSVNtV2xDRExhS3k5NzBVQ3BWUl8wVldBVHNtSXpIdkdfSDVjYkhGSHU0azlLY3UzaHotdU80YkRNZ3BCU0x2WDFELU5COUFvZHhXcDRaZ293cTNlQU1DVEh5My1HNjlJTQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -1087,7 +1063,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 91
+      "items": 90
     },
     "direct_media": {
       "ok": true,
