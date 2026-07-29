@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T01:33:05+02:00",
+  "generated_at": "2026-07-29T03:03:55+02:00",
   "items": [
     {
       "id": "d5a3c8f012f25e39fc",
@@ -50,16 +50,28 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnIzaXY2T2FBYW93akVYQ1U3QUR6dHlUemx2YVNWN0dkeGVLNzRydl9oSVIxeDNSWnhUelpsendKTDJWdGlSbWFldWx4QWpMVXdHZXhNZ05nSXJCSEhGNWFTM3NLWUxsR0MyR29pSXlKd1FJcGN3SEx4em5tMm9STnM5a25EQUZzdlhZYng2Z29adi1od2NsN1pNVXNZMmt0SGlsX1FISzVNU2QwZ2VHN3ZTbUxjTWM?oc=5"
     },
     {
-      "id": "c1bc7c5a794b7cff4e",
+      "id": "0c90a885997567a32a",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-07-28T23:28:03+02:00",
+      "published": "2026-07-28T23:30:34+02:00",
       "source": "Tribuna de Ávila",
       "title": "Mañueco afirma que el incendio de Burgohondo no ha ampliado su perímetro",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjFQQzhBQnJESVNzQ0pSbXpYcW5xRGl3LVg2bmNkOW9pSTljTFRMMmM5czlpWmFnZEdXTm5va2plazA2d1BJcUgtLXZRUEJDNlpuNGFtQm4yUnE0enc0Y1htY2Y5MkV1X2g1ZkVTaEE1MEVJWHlFZlE3UFU1LVc4WGx2UWJmeC16LTUtd20tazFnM0ZIV0xPckIxWHNJbnJzSlU4em5fSTZGZlczU2twWk1wX1VwMkVX?oc=5"
+    },
+    {
+      "id": "4dce680a6868a252e9",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-28T23:04:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Sanidad actualiza el protocolo de asistencia para afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjZHZ05rZk52YWFaSW9ISC1OeE1QTzc0eU1LTDUwZHdtdlpodm1pSTlaUVlHSGNLQlI1Q3BKOGUzZ2Yzc014dW9iUzJkUmFfcjdfZzc2NlF4ZHFTeWpaMkdiVWI3MVFYNW1odFZWLV91SHFnNjJVVDY2X2lRVUFTRUF2X3haNU5MTi14YUVmRURCdFNYUDJFWUVpOHN3bGs5UjhPLUpWNTNFZFd4LS1YN2JzSmhUdzFhQndwSThzTzBnbkRHWENvWXZ6WTJ6ZUk?oc=5"
     },
     {
       "id": "af8859baa234b9dc29",
@@ -86,18 +98,6 @@
       "url": "https://www.telemadrid.es/noticias/madrid/DIRECTO-Fin-a-la-evacuacion-de-diez-municipios-en-Madrid-y-cinco-en-Avila-12-2910128959--20260724084710.html"
     },
     {
-      "id": "479f0bee3008f79dbe",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-07-28T22:21:23+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Sanidad actualiza el protocolo de asistencia para afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjZHZ05rZk52YWFaSW9ISC1OeE1QTzc0eU1LTDUwZHdtdlpodm1pSTlaUVlHSGNLQlI1Q3BKOGUzZ2Yzc014dW9iUzJkUmFfcjdfZzc2NlF4ZHFTeWpaMkdiVWI3MVFYNW1odFZWLV91SHFnNjJVVDY2X2lRVUFTRUF2X3haNU5MTi14YUVmRURCdFNYUDJFWUVpOHN3bGs5UjhPLUpWNTNFZFd4LS1YN2JzSmhUdzFhQndwSThzTzBnbkRHWENvWXZ6WTJ6ZUk?oc=5"
-    },
-    {
       "id": "66fb6fe324152073a0",
       "type": "news",
       "severity": "info",
@@ -108,6 +108,18 @@
       "title": "La situación en Ávila se mantiene \"favorable\" tras la \"contención\" del incendio",
       "summary": "Mañueco defiende el esfuerzo realizado por la Junta en materia de prevención y la inversión en limpieza de...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-evolucion-incendio-avila-mantiene-favorable-barcones-pide-ultimo-esfuerzo-afectados-20260728220915.html"
+    },
+    {
+      "id": "e529319b3fb2c3d23e",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Almorox",
+      "published": "2026-07-28T21:43:00+02:00",
+      "source": "La Tribuna de Toledo",
+      "title": "El incendio de Almorox reduce sus riesgos y baja a Nivel 1",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWRIMldEcXAtQjdyWXRtbXJfeHZFb2s1TW4yVU5yOUI0SDBKdUxQWDk1OWRTcE5MbmFZRkZMUWR4Ykh2RTBIVEJlZ2JnTkdKeEE1ZjRac2c3REM0cDhuaHI2UXh1ZEhIcWQ3bUk4VmFnbG5MM01iX216Qzc0SFR5aEp4dUxGTFppeFdFUWlHalhEeTNSdkJWSHhwVjFzbHZQM3Npd21ackVfdER4NVdkVS1PWXhGTW1fQ2tHYlNFQzJHMmltdDhnN1g3bmRQT3U4czZCTW14RWRoeXc?oc=5"
     },
     {
       "id": "7ea8173fd9dd5dc951",
@@ -240,6 +252,18 @@
       "title": "Evacuados más de 1.300 afectados por los incendios en la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZHVLYzVCSXctMFVZdWxYM0RZUlBSX3IwbFVtOUR3NnQ1RWZVVFVDVU1RbmJJUmZHRnJBaFpVaTFqYUZObXAtYVJ5YmxHYTdMZkJVZ2l0M3VyVXRJU0ZiX0pCb1FSWklLVElMOUhnZDh3VksteFdLZkRkZU9QU05BYU5DMjExMl9VUWF1V3BCeE9xSkNXT2pzb1B5ckVxTTdmU1JoSk93Uk9wVlUxU1BkRXVjNmkwTk9mUFNNOWRpaTVpaDdtb2tmQ3VnRHRrSzlubjZ1XzFMVm9jLWNFbjRyVTIxVkpZWnpoN0g5OUVyY9IB7wFBVV95cUxPZHVLYzVCSXctMFVZdWxYM0RZUlBSX3IwbFVtOUR3NnQ1RWZVVFVDVU1RbmJJUmZHRnJBaFpVaTFqYUZObXAtYVJ5YmxHYTdMZkJVZ2l0M3VyVXRJU0ZiX0pCb1FSWklLVElMOUhnZDh3VksteFdLZkRkZU9QU05BYU5DMjExMl9VUWF1V3BCeE9xSkNXT2pzb1B5ckVxTTdmU1JoSk93Uk9wVlUxU1BkRXVjNmkwTk9mUFNNOWRpaTVpaDdtb2tmQ3VnRHRrSzlubjZ1XzFMVm9jLWNFbjRyVTIxVkpZWnpoN0g5OUVyYw?oc=5"
+    },
+    {
+      "id": "682bfadc35ed03b61f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-28T18:41:22+02:00",
+      "source": "ABC",
+      "title": "Así se ve la evolución de los incendios de Madrid y Ávila desde el espacio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0R2ZkNaenBDX3lrQ2cxTk5BZXZnMkxMSGpjTUo1UFBDQTJfUlVGYU9DTnJJUkJSTm9hT1hUNWFvei1XeTRnTmFSMmdoQ0psN0RpWTBxRm1DZzdJWWtsQVpqVkh2TFltMnBXYlFpeXE5dGlIZDVmZ21XWW5TRl9WS0s4ZGJaRllzTzMwOVQyWDloYTFVY2fSAZsBQVVfeXFMTlBuSjdtQVVsWEFqQ194U0c5T3ZxWkdSOGFzbFFhbHpOcHFwZnBHbEg2bzBhZjcxM0ZnNUNISzJ3RTRrNG5wV09FelNLT2UwR3BPd0pBMk41b0J2R3ZwbUczd0pzRlo0YkpDTXhFYlpkRFJQbmlCNkU1ZG4ySlQzbHhMNGpyTG50VG5ubjM2M2VwckN0Mjk4cll3MjQ?oc=5"
     },
     {
       "id": "dbec655442c3d18992",
@@ -936,18 +960,6 @@
       "title": "Piden la ayuda de la UME para controlar el incendio de Almorox",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMkw1bWxxYkFnOEJvSjltQ3drSzVwR0ExajhDMU50c2JDMjYwX2o4ZXBrTGpUcExlVjNRQjhhclctQXRxUEQyM2NGOVJxdkRrcDVORmo2bHhtSHEwRVZxRXNlWHVDb01VSHJRZ2lLT19ITndleVZZWTFmREtsNzcxSVNtV2xDRExhS3k5NzBVQ3BWUl8wVldBVHNtSXpIdkdfSDVjYkhGSHU0azlLY3UzaHotdU80YkRNZ3BCU0x2WDFELU5COUFvZHhXcDRaZ293cTNlQU1DVEh5My1HNjlJTQ?oc=5"
-    },
-    {
-      "id": "dd371f99af4ba41226",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-28T01:46:13+02:00",
-      "source": "Onda Cero",
-      "title": "El incendio de Ávila, ya el mayor de la historia de España: \"No se puede echar de menos lo que no se conoce\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjl1ZkJpZm1uOTY5ZVZSdm1CaFJzaTNDRDd3NVh1aUlxanJwZG9vcTZKUWNWMVBMN2xWdFQ2Wjlob0VYZk5wN2ZLVUxBQ1BmMUF4ZGNNOGdPbHJ5RmxoNmhoeDRsWElLRE1VWWhjcnFvSGV6eGQxZzBxV01YUTBZWU9ydW44b05yOXlFd0NQUVZvMEZxZ1ZNWFdMQ0xvbUFIMWVNX2R1aDBlN1lEbDF4VUFybmxTSUY1c1FGekc1UFhRdXhoaHlpeWtGR1ZZeGhOUlQydS1QZWZQbmhQR3ZRQU5iQkZ3UEZ4WXpjTjVFUXdjRFNtcVNlZHRXTmxxT3lP?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
