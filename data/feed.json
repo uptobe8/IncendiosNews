@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T01:10:12+02:00",
+  "generated_at": "2026-07-30T02:10:20+02:00",
   "items": [
     {
       "id": "e9f7a5b2ecde014cda",
@@ -12,6 +12,18 @@
       "title": "Sigue en directo la evolución del incendio de Burgohondo (Ávila)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWnVwdDg3T0RNWlNNRDlWVkhTTWFjRFd0UURuNDhwMXlHQ0ZENjhMWGp2QWhROEgtRkZRWDhYeVdNSlVsczBnYVphbTNremgwUEJBNHpIOTNZTEJzdko3eWVQRjlHQ2o3S0R1bHlqdUVtWXo0Zm5rNFM3WnhXcUs1dVljaXpSU0NPVU5QNWMzQk1xbGNrSEQ2YURmZTZKMXZTZ0x4QU4wbENBM3EzOTI0VFRBWlVKZzMxT3V4ckdURTB1eDkyNDlSZzdlNlRYYlRXYVlsaQ?oc=5"
+    },
+    {
+      "id": "93bda865bc3fb06be7",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-29T23:59:00+02:00",
+      "source": "RTVE.es",
+      "title": "Resumen de los incendios en España el 29 de Julio: Los evacuados de Madrid y Ávila vuelven a casa, el fuego de Castellón avanza y emergen nuevos focos en Zamora y León",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnIzaXY2T2FBYW93akVYQ1U3QUR6dHlUemx2YVNWN0dkeGVLNzRydl9oSVIxeDNSWnhUelpsendKTDJWdGlSbWFldWx4QWpMVXdHZXhNZ05nSXJCSEhGNWFTM3NLWUxsR0MyR29pSXlKd1FJcGN3SEx4em5tMm9STnM5a25EQUZzdlhZYng2Z29adi1od2NsN1pNVXNZMmt0SGlsX1FISzVNU2QwZ2VHN3ZTbUxjTWM?oc=5"
     },
     {
       "id": "a87a7a95c18244f040",
@@ -52,14 +64,14 @@
     {
       "id": "e1b0c992da8bc6e5a6",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-07-29T21:31:42+02:00",
       "source": "Europa Press",
       "title": "La Comunidad cierra la totalidad de los 24 puntos de acogida habilitados por el incendio de Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGZwRTBMd2tOUFFMeHBMel9ZTjNMcjZQWFNOdHhmcjZyeGt3Tnk0X1FLbHd3c3NRc0Q5dGlWdk1tNXlnTDdYTVpZT0lNV1R2ZDE1MGJvZnh0WWdLcGNOUWx5ckpxQ1NIWlN6bV9RNlZtZUliVFZDS3diU2U0dk1tdGd6MkRFOXcwSWRfby12aC0yZUZDbDJSMGRKZlNkWUxPdnNCaXJTMDAxYkVwWUVYYWFHUkNSNGhNTjhIVWU3NGI0bUxWNHoxb1JMZWxKRVlObnpQMENydw?oc=5"
+      "summary": "La Comunidad de Madrid ha cerrado este miércoles la totalidad de los 24 puntos de acogida habilitados con...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-cierra-totalidad-24-puntos-acogida-habilitados-incendio-sierra-oeste-20260729213142.html"
     },
     {
       "id": "ebfaf8679439f932fd",
@@ -108,6 +120,18 @@
       "title": "DIRECTO | Alegría y también tristeza en la vuelta a casa de los evacuados por los incendios en Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcjJFU3ZuUXZJOW9qdTVRczlrRnNadFludmVLR2hoMTRHbkMxODN4dU9DZEM3N0Fma0lZbnBhRDR3V205Qk9iTnBJMUZEVnhXMFVVLUhyaXUzSE1ySHo2aFhwMkJmRTdkclpxNW0yM0VVSm54VEkxalBrblNPZUp3T0UzTmYza09feTdKZUFtN0dNQkFXVFpzZzRzV3BJVUZ1NFVsNmthbE5wNnFDaWs3ekVmMnp2U2F4RlVPOGxIVmVaMHMtaGRhME52bHotOTdnRTNTY1E2ZDNxWk1rWm5WODdpdFFfaEN4Y2U3cHVpX1hCNG1BekhfYUtkWUlnSzlHVnpDenNGb9IBjAJBVV95cUxNOGRtSGZyVFZPM0ZHQzF4TmJpd29JYlJ6clNzZjQ2dmcwMTJ4cWg5RkYtV3JxY1d2VVVkLTRUNWtQZ1AxSkxRY3QwZGEtOHh0UjEzSm5yeUdvQmgzRUN5Z1NSbEVPUHpJYTFIMnV5SHNBNWNnVjZRc21zeXJ2cVJyUjZNMDl4R0FVUE80UVduWXl5WlBTTlVSUWd1dnZQdVpkSVdEeWdNSklnel93cEtzRU1DazM5M1ZwdTg0TVNMVlFTMDAxVmpVSU56aXdfQlR5ckV1OTFiMDBlV25lNS1NWkJ4cnNJbWVpYkpVd241NGVjejBMc3JNUm9IajdDcnFBNHN4RTdBOFIwcVM0?oc=5"
+    },
+    {
+      "id": "c34a5e67d542badc33",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-29T19:51:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo \"no se ha movido ni un centímetro\" durante la noche",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUFMcW1PVHYxWV9tYzFVLWpjeHlnSzc3dzdGc184MUR3Q0k2SUNrbURvcE1uRkpnVUUtdVZRa1ZHMWJKd2E4TkZLWE5BMG5iVGNjVGd4eWYzeFA4eG82Vld6dXhydWRQSEV1M25GNzhQcFlFUkl3X1JUM05uTTJmVnV3TElYSWhqcGVIVGFzVTBvNkhYNFd5ZUt4NXF6VDZ4TkM0a0NldVhRV0NiU294N2xhdmYwMkZyODhJeQ?oc=5"
     },
     {
       "id": "b041e4b62eb36a8ce3",
@@ -362,18 +386,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSlAyQXRkaTV6QUgzV00tSFhPZllxSmUzUEx3WWVqNmltTnZGcUx2NFFITy1CSzU1U3hWbjVLY2tRTi1fZmxjWng2RXd6bndEWTVHYUdHU2dpUFlBbGRmRU1lMk5URXlUeHJYaE5yYWt6Vm9tNlhPQXR6aDlWVzVLVWtOOWg2cU9HS190RHpxS1VCcGdpWmNFT2JsZDFKXy13Mm5xLWlaMmFQeElfcHQ5X3hHeGtscjU2NDNvcENzU1lwR0NVVHRDQXdjWG9JQ1BybjdheGp2NA?oc=5"
     },
     {
-      "id": "375a93e1eae8698482",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-29T14:35:02+02:00",
-      "source": "Europa Press",
-      "title": "Estabilizado el incendio de la Sierra Oeste de Madrid y se levantan las evacuaciones y confinamientos en Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVFaUExMdktPSUZzRkNvdnFyUnNxNW5sVHljOVhpTVNBU3kzU0lDcVVQRUE3S1hNRWVsX0tTQkNNYlg3eEN5YjBwT2xaRGJLdFB5SkVkV3ZWUExRZjBMNU5SUDNMNlB6SmRVcVJvQjQ0NmRTNWRWaHg2QlotR3h3NS1YVmo0NC1ZR0JkVDJFRnN1QUFqbGJGdExoWUcyZFYxM2N4Zmt3RXZNLW1zQXEzWGxDb0o0WmlZYVZrN1YxN1otTzJ3eGYyTzk3ZUJOWTZHM2tRTnFyZ1FLT0VHajJr?oc=5"
-    },
-    {
       "id": "62ca4e4601d1b121cf",
       "type": "news",
       "severity": "info",
@@ -396,18 +408,6 @@
       "title": "El incendio de la Sierra Oeste sigue evolucionando bien, sin reproducciones durante la noche",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMjZTWElpVUh2eU9EcnVFQndVUUZCUTBOVEFQLXlZRE04UWN3alRFSThrR091N243SkY1VFhqX3JLQnVZNEpmTV8tc3ZjMTNGNWhsdVFyNzBaVEhBa3R5WTVOdEhYTkEtMFk1SzFIMGdMY2dKVlF6UURjZGhrOWE0ZUEwcml6SlY3WENfNWdVTm14bFgzUmxMcG1SQ0dHeUNPM0p5a1VvWnIySHBQVmRDTElNajFPVkFZZzdyRUxONEtfMGhGcHVtRDUxZ3ozUV9sWmJVcUhBOEEzQUVQYVp1RlRzV2oxRWhBMGxBNnF1dFFvd3lVdTZvTmZmNTZYYUFh0gGAAkFVX3lxTFAyNlNYSWlVSHZ5T0RydUVCd1VRRkJRME5UQVAteVlETThRY3dqVEVJOGtHT3U3bjdKRjVUWGpfcktCdVk0SmZNXy1zdmMxM0Y1aGx1UXI3MFpUSEFrdHlZNU50SFhOQS0wWTVLMUgwZ0xjZ0pWUXpRRGNkaGs5YTRlQTByaXpKVjdYQ181Z1VObXhsWDNSbExwbVJDR0d5Q08zSnlrVW9acjJIcFBWZENMSU1qMU9WQVlnN3JFTE40S18waEZwdW1ENTFnejNRX2xaYlVxSEE4QTNBRVBhWnVGVHNXajFFaEEwbEE2cXV0UW93eVV1Nm9OZmY1NlhhQWE?oc=5"
-    },
-    {
-      "id": "9b24353dabf997f4e6",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-29T14:21:32+02:00",
-      "source": "Europa Press",
-      "title": "Ayuso cifra en 27.000 las hectáreas arrasadas por el incendio de la Sierra Oeste, que ha destruido unas 100 viviendas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR0JDUmhZLTBjUWxqTWwyeVFZMXNidVNvUmVFZlVRb1I2aGR0VXZOcG5ybzV5MmJSYzllT3JsdHI3Nmt6emhiNndndV9TUVA3cjctLVBoVWl2dUh2dmJ0ZFZLTk05TFhwNUFlSTNqMGprWTcwbG5KbXJYbzNBd1JjWXVjMVBJcnJEUVlYS3BjUVFzdHJhQ0EtVVRybXV3a2VDQ2FIcnJGOWZaVmYwc1Y0YlFkb194cUk4ZWlHY3N5bnJrTUZ0OGRjb0xDaVV6Tk9DQzZJX05RSXpDa0ZIblE?oc=5"
     },
     {
       "id": "0dee0d4df6b3d57549",
@@ -554,30 +554,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXROSUh0QTRIbDhnTllwekJUUkt3OTkwWUliRzNmdjlzTzJOWXl0VGhVbl9LVmlTQ3dQcGtEUzI5RkRMUmZneHBsV1hSOXY0Q1Nzc1ZKc2tHMGRDX1NyNG5TeklyTnNIeHIxMHJKOUNzMHBwUFBIUGh2M0dfM2taQnBvVmQ1VFZtdHBkb3k5X3NYX3pOZngtY3pfSTJxYUJWS05WeE1neXpIRGpfNFpMWnpnclpQMk1YMFFpd2kwOFUzYnF6QTVsaWE5UEZOZFBH0gHkAUFVX3lxTFBjNkZnUExMbXhXMnR1UWFSalBvalN4ek9tZzR4RXBlSUNYdlVNMjg1MzFXTjM0Y05nLV8yUHE4RjEya2huZFZFbG1jbW1tbGNXNnFwbWhRSXFwUndlY0VDQ0ZaWlJrNkZCTHFpbjdoUmVxTE0tTFB4QW5pXzhQWk5vWFJKcEZZOVlneWtQQm8tM2hRLXA0RkpZUXJxcEh0MUU0LTRPZF95WHY0REFsQ29rbm9leWZ2UUQ0eDltV3JUSDg2cGd5UElGM3c2OXFyRmNiZVh3WjItRFlPYjBuZEVyeDl2Nw?oc=5"
     },
     {
-      "id": "185cfd092f839d2b32",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-29T10:51:48+02:00",
-      "source": "Europa Press",
-      "title": "La evolución favorable del fuego en Ávila abre la puerta a nuevos realojos mientras se refuerza la vigilancia",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN3RNYTlyUy0xR1p2T3cyX2xCd2VKcW9WT2dTeFVrODhJYTM4WVh4a2dBaS1qRXVxYVNIcXo5b1hodWpveUpCRUN3NVRXaTd5SFZGM2d1TWpmUVB0c1NNbmd4alAwYjBlTmtGYkRoRHVQaW10UWZaRVVqbmV0TnRvZzFlRkZ6WXlXd1kxdE1TbzRLbzNBQUtBeER3VDRrQ1oxN1F5dXo5NHlzNnVlekpaWGZid25HQUEwc1NjNnBsdW5VdjJzZUFMVFhuQkpKemgzbnZMLWNuNnlYX01Tb1pucmxnZw?oc=5"
-    },
-    {
-      "id": "ab853f93288d550a1d",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-29T10:48:08+02:00",
-      "source": "Telemadrid",
-      "title": "Cinco carreteras de Madrid afectadas por el incendio siguen cortadas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3ZvRTIxeGVJczdTQW1EMjhRNXpYRUlDUlFPek5vRTZKZGFzUk5zbm9iQXBCMWdpcDJma00wWTJXREJnMWN4U1I5MjY3ZzF5UDZZcW54RmZyTEM2M3VITFVVZk92ZXlxaGFPVC0tQXVIYTZiZjBNWlFnVld1MWtKMkVmMy1KSlREMGpJME1lb3BqNWRwS2JCYzlPMDNOVGtjRDdBX2N6MTVvLUtCam03LXFvcndTUTVRQThDUHdSVWI0YUV0VG9vbXNTT1dhZndiZWdTOTFlUWI0VHNn0gHiAUFVX3lxTE1Dd0FabDFvOWRuenNzSmRlSTFKQ1l3VWhSTEYxanhwVXBycEEzTHE1VmlLM19GWmFsYXRKeXE3RGlyenEwQWxkdnhEV2JfRlcwUjZGTDhkWFZHQmRvQ1FfS29WZGM5Y2xfWkJ3R0VqODFmRFNlRU1Jc1FwelpOMmFnRS1WdlhTdk8wUFJ1aGQ1azBqczJZNUxMQW8wMjJEaHU5NzR2NmlVd0h1MVdwVnBzWWU4S1UxcHc5Y1MzTzhkc1JPVlVvNktvOTdGZ1lrcnY3N2l0WUpsS1NIVlJFRXJablE?oc=5"
-    },
-    {
       "id": "a78a377be9592284ff",
       "type": "news",
       "severity": "info",
@@ -638,18 +614,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUVJUG5pdi00TWNJUU14bEFZajRuRVpCRHMwN3ktT0M2VkRhbHBPcEstUDdjZlpuVkgtb3dYeFc2MENfcTc1RHlDRWpMNG9sT2JnWng0SWlscE8yWTZJTlFZYlRqT05sZExMVzlReFZzeVN1Y0c3YUdIemM1TWpBSVQ3WW5EWVo3bDQzRkY2Y2V3eFh1UFpTeDlueWJUOE9QdGpvS2dHWlF4d0VJNXU3OHhZTlFQV01ncmRPMkltbEo3ZU5aYm5zTXBnRnQwX3VncjRkTWxn?oc=5"
     },
     {
-      "id": "e00ebea2dcd9767402",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-29T09:40:59+02:00",
-      "source": "Europa Press",
-      "title": "El incendio de la Sierra Oeste enfrenta un \"día clave\" para evitar reactivaciones y encaminarse a la estabilización",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa19MemZSS01YYVVjVlFfOEVDenVENDlmZTRteW5xTnhpY1hHbWg0Z2l2SGVGdGo3VGNSLTBueW11d1lUT1lkb1h0RzQ1WnljaV9ZR2w4ZU9udUtfQXp2bkRzeFowQ0FSYzlPdjlzSmR6bkYtQXlHaWxJR2RHNjdHYzVMZkdOTkZDRmRPWUkybV8zTkxLMVNrNWpNVGtMNnFRcTcxY2VJUC1RTzhNOFVuSElYUWpUUElaYk1VTkZ1UGJNWGU3UG15dHpVVG16TkNwbVZjTnlEU1QwdE02OV83Z25WRldpUQ?oc=5"
-    },
-    {
       "id": "fddad498de4c28a870",
       "type": "news",
       "severity": "info",
@@ -660,18 +624,6 @@
       "title": "Los incendios cierran 29 carreteras en cuatro comunidades",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0Y0VWtfMUZVY1BQNXNNMXo0NkVtSkZNTzNQRDVEZkxFNDVIQTlyeFFCSU5zM2ZPeEVwbFpDWDFvMVhwbG5Pcm1EcnRqVnQwbzhMWlFuc3IyeGlmVnREUk5EYVpOQU80MC1ORVctRkYxVFBhV08yai1GdEtWcWpLbTRXZDVxc0ozUkdVTTFoOExWMnUwWVdiLXJCSVk2WjI0ek1EUF83VWhxWUVVWHk2WE5rS1dPTjdzOEpyNk9hU1ZqYWhZb0FFNWJMdVpPWFRTZnN0bm56R3dLNC1U?oc=5"
-    },
-    {
-      "id": "8fb921b442c60a888a",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-29T09:19:50+02:00",
-      "source": "Europa Press",
-      "title": "Los incendios forestales mantienen cortadas 29 carreteras secundarias de Madrid, Ávila, Toledo y Castellón",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWV6bzFScWJVS2lIM3pYQzZXYTZwWF9UTjd6X3NjRlE3b3NQZm95MGs2WjFqTjBnNTJNLUZQaVJuemYyZTdGbU9WLVRjaS10UHlvcFZZdzJVdkdjS09VUDB6YlhEenJLZE1yQ2x4QW90MnpIZThOZW9MTGl5N0tDd2J3dG5Fb05wX0o0Q2F3bUJ6Vmk1TzlYbVI4OUFnSjItbWFSaXZuSm9KRF9NSFlEOE5hRGdQODEyRVRaWmo5TGlUcXBsSHY2UzdQV255NjFubkRWSGVsZ0dKVW10YlFNWDBWNG5CSDQ3ejFHQzhuUnU?oc=5"
     },
     {
       "id": "89664f5065590b3c53",
@@ -823,7 +775,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 58
+      "items": 53
     },
     "direct_media": {
       "ok": true,
