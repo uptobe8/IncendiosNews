@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T00:50:48+02:00",
+  "generated_at": "2026-08-01T01:48:16+02:00",
   "items": [
     {
       "id": "435979830d8e927f39",
@@ -35,7 +35,7 @@
       "source": "La Razón",
       "title": "Tres miembros de la UME heridos al volcar su camión en Robledo de Chavela",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW1qQzVYRzlJXzFpTzRuWTUtNzI0RXpBZGI1YnB2LXRlUTdDLVVYeXItdm5XZDI5eFUyTVZlbUhZUkpzTE1yUnFBR1p3MGNJbnhuYm1fOTBRMTQzZmptVV93aWFuMHdGdDZOQUdzTlJFSzRvU2lVdHdEakg2eHJqRENBV1c2aTRfbkh5WUl5d2pFbUNob3k0MU8yTEtkRnFUbl93dUJEcE53VDVMUEJZQmNjUDkzNHZwZGxxYWVCODnSAdQBQVVfeXFMTnlZcUJMZzNkVERhZXJvWFBDU005Y3Z5Wnlid3ZzM2FadVNTQUhaRzZGZG5DYk1NZWF0T2prd01DVjJzN0N1Tkd5Rlc2ZFpEeTdjaHJQcWNsa0ZRSVNteXFlV3Z5TTR3OUgyUjQ0MUpwcjBGem9seXlGQUlzYTJKX3BFUUhhdTJCSVh3ZjNjUUl5Vm9nME93N3h6N0lXT0RCc0kzZEZ1SU9zdHRKcHh4UVJwb05kekY5WjNvNUE5X3h4blpHVU92ZWU3amxfcTZ6YUhIZDE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVlxQkxnM2RURGFlcm9YUENTTTljdnlaeWJ3dnMzYVp1U1NBSFpHNkZkbkNiTU1lYXRPamt3TUNWMnM3Q3VOR3lGVzZkWkR5N2NoclBxY2xrRlFJU215cWVXdnlNNHc5SDJSNDQxSnByMEZ6b2x5eUZBSXNhMkpfcEVRSGF1MkJJWHdmM2NRSXlWb2cwT3c3eHo3SVdPREJzSTNkRnVJT3N0dEpweHhRUnBvTmR6RjlaM281QTlfeHhuWkdVT3ZlZTdqbF9xNnphSEhkMdIB1AFBVV95cUxOeVlxQkxnM2RURGFlcm9YUENTTTljdnlaeWJ3dnMzYVp1U1NBSFpHNkZkbkNiTU1lYXRPamt3TUNWMnM3Q3VOR3lGVzZkWkR5N2NoclBxY2xrRlFJU215cWVXdnlNNHc5SDJSNDQxSnByMEZ6b2x5eUZBSXNhMkpfcEVRSGF1MkJJWHdmM2NRSXlWb2cwT3c3eHo3SVdPREJzSTNkRnVJT3N0dEpweHhRUnBvTmR6RjlaM281QTlfeHhuWkdVT3ZlZTdqbF9xNnphSEhkMQ?oc=5"
     },
     {
       "id": "02705b58f3210259a3",
@@ -50,6 +50,18 @@
       "url": "https://www.telemadrid.es/noticias/madrid/Un-camion-de-la-UME-vuelca-y-deja-dos-heridos-graves-y-uno-leve-en-Robledo-de-Chavela-0-2912108789--20260731104519.html"
     },
     {
+      "id": "53641145c41d281e5d",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-31T22:38:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Los últimos 288 mayores evacuados por el incendio ya han regresado a sus residencias",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUmFsdnhTM25PR1A0ZHcwLTZQZmNwRTJQTzgwZ2xSTUF1VnhLNUtkVmhHOUZ6MVIxVUs4bWxsQTJ3TkwyZnQ0amU4dnlxdjdwb3lUeTl4ZGxFZG1zdTZsNlA4VlpMM1ZUbzY1YWl3YzlEbWk5Q3hrOXB6Wk1SMzlFMTBfenNpbFFnTUdoQ0ZReTFka3ZEdTdPWXhLZnh6TDZJSzlkd0hPS0N2RFVkTUg4SVkzdTEyT1RwMTRzN1dCM2tNbWtEblpTRA?oc=5"
+    },
+    {
       "id": "478b9458934a0fa72e",
       "type": "news",
       "severity": "info",
@@ -60,18 +72,6 @@
       "title": "La Junta pide a los voluntarios no acceder por libre a la zona quemada del incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSlVhMzlHSEpBb3lUM0lYVFJPRS05bFkzT20zV1JRVURSN0NOUVBfTnRpQVZUVlBNUl9rdEZyODhqdUtIT2EwNHlhUnc5TzEyYTNQNFNkUFRzRFduZ2w3b0lvb1Z2NXotcVRCaHBZbngyYjcwVWdOeFdJZHRjR25NZ3BSTXBOaUl4Q0o1UVFTRmRHaDMySFhrTU56MkhyUjlYY0RJVTdGZERELVdWTW5HeUpOYlZnU2F5YUUxRzVnckxiQ3ZlX2dJ?oc=5"
-    },
-    {
-      "id": "7d924f90582738ef39",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-31T21:46:27+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Los últimos 288 mayores evacuados por el incendio ya han regresado a sus residencias",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUmFsdnhTM25PR1A0ZHcwLTZQZmNwRTJQTzgwZ2xSTUF1VnhLNUtkVmhHOUZ6MVIxVUs4bWxsQTJ3TkwyZnQ0amU4dnlxdjdwb3lUeTl4ZGxFZG1zdTZsNlA4VlpMM1ZUbzY1YWl3YzlEbWk5Q3hrOXB6Wk1SMzlFMTBfenNpbFFnTUdoQ0ZReTFka3ZEdTdPWXhLZnh6TDZJSzlkd0hPS0N2RFVkTUg4SVkzdTEyT1RwMTRzN1dCM2tNbWtEblpTRA?oc=5"
     },
     {
       "id": "967a2fe85df931c716",
@@ -203,19 +203,7 @@
       "source": "El Español",
       "title": "La UME deja huella en el pueblo de Almorox con un precioso gesto de despedida tras lograr estabilizar el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOHlsQVhLMnk4YVVnXzRnZVZ0LW1qMDNlWXRPdEZmTzFKLUZtaHRUQUxha1ZrbUMzSTB5N1Q4TjdVdjNPSGxQMjdtVGFtMEV0alB6eFpFTmc5OVhwLTZpVlN6MDZRcnF5RHNPQi05YlNCeE1Rc0djNzhGdEV4aVN1dzJqdmRfaENMVTktV2VmNkJRd1V4VmwxR1czTTYtSUxTMG9DNHE2XzJYOEJXUUtfcXhVaFM5NmFZSWNZRV9aZndfUlRCaEl1Uk94b2JlQkxjMm1oMjlIMTBnWUlzQlRBZktnWTYtSE4waVBST3FzNkN5Vm40Qm9MWDZWMWlYbWpTcDc1eVRxYzZQVnhrNlNGR0NzUnhMMU5LUHZoMG1VWdIBnwJBVV95cUxQOHlsQVhLMnk4YVVnXzRnZVZ0LW1qMDNlWXRPdEZmTzFKLUZtaHRUQUxha1ZrbUMzSTB5N1Q4TjdVdjNPSGxQMjdtVGFtMEV0alB6eFpFTmc5OVhwLTZpVlN6MDZRcnF5RHNPQi05YlNCeE1Rc0djNzhGdEV4aVN1dzJqdmRfaENMVTktV2VmNkJRd1V4VmwxR1czTTYtSUxTMG9DNHE2XzJYOEJXUUtfcXhVaFM5NmFZSWNZRV9aZndfUlRCaEl1Uk94b2JlQkxjMm1oMjlIMTBnWUlzQlRBZktnWTYtSE4waVBST3FzNkN5Vm40Qm9MWDZWMWlYbWpTcDc1eVRxYzZQVnhrNlNGR0NzUnhMMU5LUHZoMG1VWQ?oc=5"
-    },
-    {
-      "id": "6805291d309eec6f55",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-31T15:51:49+02:00",
-      "source": "La Vanguardia",
-      "title": "Casi 1.600 casas quemadas en los incendios del centro de España, la mayoría en Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjBNWVZ2WVlxUEFZeGNOa0tKYVNQeGRBVGtzMFJwVEN6NHhtR1YtQzJha3dVZ0h4MkhWcFBub2NWRF9qa0JPQVR5NkxSOWdIazBYRXEwRFZMRkY2bVpISkw1b1VXRHdEQkdZTWl4QjM2RTNjaTM4TkNrVk5VRmJ1VmNPVTJ5LUlSQ0F5NWxlWVBqNGRsdTdTM3Nqb0xkVk91VU56Qy1sRmo2bXlSaXNRejJ1TWdnV03SAbwBQVVfeXFMTTBKNXVtSnJPYlFPby1RRmhzcWsyci1rTE9TVlFXZDRJeWk3S0tUV3N6VTQzZndkVGZIWlRsNktnQkdaVExVZk9FRUNiTFhKS1Q5UzV5N0Fzam1mZEplQlRGVUJiQzc4eDg5ZER4YXpLUHZFUVh4MmU3Wlg4RVVrTmk1NVplSGJOZFpLdXp1XzFzVGlDd3VPcmJvWkdvWEQtVHJEaW5tZzl3WmlSNnlqTHJSUjRxT0htcWVtSVY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVFFHcjgxcjRoZnNrOGZnUUdVd1RWcVdKQjhERHFDQmMxU1RtUDVtV2cxdmJ1azBNeUUybHVDNzhxaFRPYWJLUDhCVG9jWVZSb250RzBBRGUtSlcwMFl0RW5PeGlNdXBYTDVYYlJseWVybGszRGplNW9KcXVPQ21KUWplU1NlY3JyZWlxbE5PakRTRHNSZm0wRC1zSWx0aXoyMXV4THc4S1FiOUFkdll3YThPQUJrLV9NMEI4SGFjZldzb1E3eWVuT2JTcGxjQlZtSWRlQkJiV1JfN0JveElmYW4wU2N0anVDMUFETURxc2FfRjJ4WVF5ZW1hYU16cWhCUGJEdVlCcmZ4MHZVVWRnYTZJTF90aHJ5SXfSAZ8CQVVfeXFMUDh5bEFYSzJ5OGFVZ180Z2VWdC1tajAzZVl0T3RGZk8xSi1GbWh0VEFMYWtWa21DM0kweTdUOE43VXYzT0hsUDI3bVRhbTBFdGpQenhaRU5nOTlYcC02aVZTejA2UXJxeURzT0ItOWJTQnhNUXNHYzc4RnRFeGlTdXcyanZkX2hDTFU5LVdlZjZCUXdVeFZsMUdXM002LUlMUzBvQzRxNl8yWDhCV1FLX3F4VWhTOTZhWUljWUVfWmZ3X1JUQmhJdVJPeG9iZUJMYzJtaDI5SDEwZ1lJc0JUQWZLZ1k2LUhOMGlQUk9xczZDeVZuNEJvTFg2VjFpWG1qU3A3NXlUcWM2UFZ4azZTRkdDc1J4TDFOS1B2aDBtVVk?oc=5"
     },
     {
       "id": "a44d00a8a1c28d23c2",
@@ -288,18 +276,6 @@
       "title": "El PSOE de Madrid pide formalmente visitar el ático de Chamberí que la Comunidad venderá por los incendios",
       "summary": "MADRID, 31 (EUROPA PRESS) La portavoz del PSOE en la Asamblea de Madrid, Mar Espinar, ha pedido al...",
       "url": "https://www.europapress.es/madrid/noticia-portavoz-psoe-pide-formalmente-visitar-atico-chamberi-comunidad-vendera-incendios-20260731083951.html"
-    },
-    {
-      "id": "82081bfc7a70c15a1c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-31T11:42:40+02:00",
-      "source": "La Vanguardia",
-      "title": "Madrid restringe algunos autobuses hacia los pueblos afectados por el incendio hacia la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUE5OX2EzcHMxSm9GelBYdWZFTnRvZXlwQTFxQkxrQWdCQ3M0ZTU4VFR3VjB4Q19uUEM3MHZJaGZuelJCQ2s5dkVsWEdNN0NvQkc3RG1pQW40Tk04aWcyYkRPb2psVWZJVVJsSlpNaEUyVlE1a19VOVF5SkxET3VZYUdIQ1NHOFZ2RE5jbG5MNmRTZHVISHBhYXRaajByOF83TjVxQWJvZkY2MWVFd2RaT1piM0IzX1p5bHpCbGozQV90SXRqaFUwcy1LVdIB0AFBVV95cUxPdDhEeXhwQno1UGliS2tqMjU3SENLanJPamF2eHZIdmx2ZnE4S2hRUzlsYlhhY3dyWk1lUlBFcTJtSnFEUlFIQV9JYWEwMjU0bm92U29BUVl4ald6Ty01QWdaRFluUGVFX1hFOGFmWmhldjdLY0JJQkZMMjZsTUhnUm9kaTliQ0hwTmU4bzIyNVFUNlJTUnNBWGRJckRCZ3pDZzFyUjRfaXRqYlp0dHJPa0NRdUE0MXh2YXM1ZUlQUV8xOGFMcDBneUxFTEN5Wk41?oc=5"
     },
     {
       "id": "a699645b135f784a2f",
@@ -547,7 +523,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 39
+      "items": 37
     },
     "direct_media": {
       "ok": true,
