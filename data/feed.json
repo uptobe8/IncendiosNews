@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-31T23:52:06+02:00",
+  "generated_at": "2026-08-01T00:50:48+02:00",
   "items": [
+    {
+      "id": "435979830d8e927f39",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-07-31T23:22:22+02:00",
+      "source": "Telemadrid",
+      "title": "DIRECTO | Los bomberos vigilan rebrotes y conatos de incendio en la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQalN3WnJjdndXWEZjazhYa213Sk8tSERIVkNFWTg2bU1pMTdiaEZnek02RGtaZ3NLaTVNY05CTi1HS3pWcFRvTllYUWYtakFxSXRkS3B2MUFQQS14RVJfMlY5RVBoMktfRmNjeVJGX3JadFltb3NNTFB0VDFaNzlqUFVlOHF1QVIzd2lNUEtmZDUtUF9VQTgxRDgwdFZXR1V0T0VoLXBwdnBjakVBRUdQT2tWWFJQSFQ0NkI0MGxwWVNmWW56U2xzM0N1NDllbGlzY1JEdnRvQmZBUjA2UlB6Y1RlX1lYd0JZRDdnMGltQl9PT0RZMFlDQzVJb0QwaXlOM2NaRmVNWXl6YkJxZWR1QW1jLS1yN3ZZRTFTVNIB8AFBVV95cUxPVFVfUk5iemlWZHZETnVieGc5aVdSNW1kLVdTQlFoOThxWkdXRHNvR2poRzhKcDUzck8wek56cXZaUXNzRXRabGY5MlBzNVZWTVpBTE5rTndIYUgwTXB2VW56VDl2eWZRaTYwU1U0ZXV6VTZlTWNHVHJERk1PR3JIYjlrOHJEYzZoZkZkZmZlZW5nUU5WZ2s5NmtjWVBzQ21ESjdhSkpXUExwTG9yZWZ0a0hYb2pnVnJsYkxKNlZ6eGg1TE9nRHdxaVFYYm9taFJCVHF5cmxyX3BCUExlcUt1X0doLVhGSG5uOXMxMU11b2Y?oc=5"
+    },
     {
       "id": "0a3f295daf4094120f",
       "type": "news",
@@ -192,18 +204,6 @@
       "title": "La UME deja huella en el pueblo de Almorox con un precioso gesto de despedida tras lograr estabilizar el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOHlsQVhLMnk4YVVnXzRnZVZ0LW1qMDNlWXRPdEZmTzFKLUZtaHRUQUxha1ZrbUMzSTB5N1Q4TjdVdjNPSGxQMjdtVGFtMEV0alB6eFpFTmc5OVhwLTZpVlN6MDZRcnF5RHNPQi05YlNCeE1Rc0djNzhGdEV4aVN1dzJqdmRfaENMVTktV2VmNkJRd1V4VmwxR1czTTYtSUxTMG9DNHE2XzJYOEJXUUtfcXhVaFM5NmFZSWNZRV9aZndfUlRCaEl1Uk94b2JlQkxjMm1oMjlIMTBnWUlzQlRBZktnWTYtSE4waVBST3FzNkN5Vm40Qm9MWDZWMWlYbWpTcDc1eVRxYzZQVnhrNlNGR0NzUnhMMU5LUHZoMG1VWdIBnwJBVV95cUxQOHlsQVhLMnk4YVVnXzRnZVZ0LW1qMDNlWXRPdEZmTzFKLUZtaHRUQUxha1ZrbUMzSTB5N1Q4TjdVdjNPSGxQMjdtVGFtMEV0alB6eFpFTmc5OVhwLTZpVlN6MDZRcnF5RHNPQi05YlNCeE1Rc0djNzhGdEV4aVN1dzJqdmRfaENMVTktV2VmNkJRd1V4VmwxR1czTTYtSUxTMG9DNHE2XzJYOEJXUUtfcXhVaFM5NmFZSWNZRV9aZndfUlRCaEl1Uk94b2JlQkxjMm1oMjlIMTBnWUlzQlRBZktnWTYtSE4waVBST3FzNkN5Vm40Qm9MWDZWMWlYbWpTcDc1eVRxYzZQVnhrNlNGR0NzUnhMMU5LUHZoMG1VWQ?oc=5"
-    },
-    {
-      "id": "6ba906ae6e5c5538df",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-31T16:22:33+02:00",
-      "source": "Telemadrid",
-      "title": "DIRECTO | Los bomberos vigilan rebrotes y conatos de incendio en la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLV9QNHdCNFNibnZ6YmRCVXVjVWJ1S2hCQy1Scjk2ZnJ3Q19Td3Z6VjlqbEstT2J0NUVtUXZGWHVTWlpmdzVYaTNvV1JybkFtSHVCSmRHT0prZEFGOGhkMGtCMEFtd0FWeHIxZDZWOHJaWTlDTDFGdE9TZWVTdnk2UXdsWVg2Uk8yZmQ5N0dXNEc3Sy10dWp4QzFfNmxYLTV0Z2Z1aWE1MDBtM3FONWpIMFE4MGVuVmRURkRkMXlad3VoT1RWbDVVQUdGRjZYVmozUS02TDVfU1EzUE1vVTNYSDY0T1hSVXRIWFFsMGRB0gHwAUFVX3lxTE9UVV9STmJ6aVZkdkROdWJ4ZzlpV1I1bWQtV1NCUWg5OHFaR1dEc29HamhHOEpwNTNyTzB6TnpxdlpRc3NFdFpsZjkyUHM1VlZNWkFMTmtOd0hhSDBNcHZVbnpUOXZ5ZlFpNjBTVTRldXpVNmVNY0dUckRGTU9HckhiOWs4ckRjNmhmRmRmZmVlbmdRTlZnazk2a2NZUHNDbURKN2FKSldQTHBMb3JlZnRrSFhvamdWcmxiTEo2Vnp4aDVMT2dEd3FpUVhib21oUkJUcXlybHJfcEJQTGVxS3VfR2gtWEZIbm45czExTXVvZg?oc=5"
     },
     {
       "id": "6805291d309eec6f55",
@@ -541,13 +541,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 38
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 39
     },
     "direct_media": {
       "ok": true,
