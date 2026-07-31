@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-31T21:48:39+02:00",
+  "generated_at": "2026-07-31T22:47:51+02:00",
   "items": [
+    {
+      "id": "02705b58f3210259a3",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Robledo de Chavela",
+      "published": "2026-07-31T22:45:19+02:00",
+      "source": "Telemadrid",
+      "title": "Un camión de la UME vuelca y deja dos heridos graves y uno leve en Robledo de Chavela",
+      "summary": "Emergencias 112 Comunidad de Madrid ha informado este viernes de que un camión de la Unidad Militar de Emergencias (UME) ha volcado esta tarde,...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Un-camion-de-la-UME-vuelca-y-deja-dos-heridos-graves-y-uno-leve-en-Robledo-de-Chavela-0-2912108789--20260731104519.html"
+    },
+    {
+      "id": "7d924f90582738ef39",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-07-31T21:46:27+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Los últimos 288 mayores evacuados por el incendio ya han regresado a sus residencias",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUmFsdnhTM25PR1A0ZHcwLTZQZmNwRTJQTzgwZ2xSTUF1VnhLNUtkVmhHOUZ6MVIxVUs4bWxsQTJ3TkwyZnQ0amU4dnlxdjdwb3lUeTl4ZGxFZG1zdTZsNlA4VlpMM1ZUbzY1YWl3YzlEbWk5Q3hrOXB6Wk1SMzlFMTBfenNpbFFnTUdoQ0ZReTFka3ZEdTdPWXhLZnh6TDZJSzlkd0hPS0N2RFVkTUg4SVkzdTEyT1RwMTRzN1dCM2tNbWtEblpTRA?oc=5"
+    },
     {
       "id": "967a2fe85df931c716",
       "type": "news",
@@ -98,18 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOalo1Z1FZVk5rV2p1MklEbjZLUElfenc0ZzE3NUR3bnJHMEwyMFpTTnNlVnZZY0g1QXluT2FqX09iNFoxTkc0RFpjSWRNZVAwalhmVUdkMlNXVUZ3SEtlSF9KSVY4YXpfLU05UU1CUktHenREVElwTUxkd3FwaXdYalFmeFg2TUZGRVkwbFgxZ2pXMVZIdDM4N2s0RHpuNWFUZ1doWXV0aEpKN2c4S1RCTXFJb2Exa1hueWRySVI3Vl9wdWdHaTY3ZGppUUo?oc=5"
     },
     {
-      "id": "5b68b292b1e2d9a42a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Chapinería",
-      "published": "2026-07-31T18:54:34+02:00",
-      "source": "El Mundo",
-      "title": "El incendio forestal de Madrid carboniza 120 coches de cine en Chapinería que se alquilaban para rodajes: \"He perdido 700.000 euros y no sé si lo recuperaré\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTSUlpMWI2ODQ0dkhQOGpEZmphVWlnbC14R0t5aGdRWENfREhrXzVnbHU4UEM1YlEteldtTW50b2dtWVZENk8tVGZmWXFPVU50eXlQenVWcXZ0UUFTZV9wbEZ0VHFocE5xdThGMGV4Zml0S1d6a0l5dG9n0gF6QVVfeXFMUEU0OGhHbkloZ3pPUkZDUV9fczFJamJxbVJROTE0cFE4RE9Gd0lyUFRSRzJkb3lJRlhYMHpaeUlsd2ZOQTdZak9Na2RibVhiMV92LURPNGNPcDkwaHN2ZUxJMHdFc0N4N2d0VUJVQ00yWkJHQWlLZC1ON2c?oc=5"
-    },
-    {
       "id": "f5501dc876b37e8236",
       "type": "news",
       "severity": "info",
@@ -168,6 +180,18 @@
       "title": "Casi 1.600 casas quemadas en los incendios del centro de España, la mayoría en Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjBNWVZ2WVlxUEFZeGNOa0tKYVNQeGRBVGtzMFJwVEN6NHhtR1YtQzJha3dVZ0h4MkhWcFBub2NWRF9qa0JPQVR5NkxSOWdIazBYRXEwRFZMRkY2bVpISkw1b1VXRHdEQkdZTWl4QjM2RTNjaTM4TkNrVk5VRmJ1VmNPVTJ5LUlSQ0F5NWxlWVBqNGRsdTdTM3Nqb0xkVk91VU56Qy1sRmo2bXlSaXNRejJ1TWdnV03SAbwBQVVfeXFMTTBKNXVtSnJPYlFPby1RRmhzcWsyci1rTE9TVlFXZDRJeWk3S0tUV3N6VTQzZndkVGZIWlRsNktnQkdaVExVZk9FRUNiTFhKS1Q5UzV5N0Fzam1mZEplQlRGVUJiQzc4eDg5ZER4YXpLUHZFUVh4MmU3Wlg4RVVrTmk1NVplSGJOZFpLdXp1XzFzVGlDd3VPcmJvWkdvWEQtVHJEaW5tZzl3WmlSNnlqTHJSUjRxT0htcWVtSVY?oc=5"
+    },
+    {
+      "id": "a44d00a8a1c28d23c2",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-31T15:30:50+02:00",
+      "source": "Cadena SER",
+      "title": "Impulsan una campaña de recogida de alimentos para la fauna afectada por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMDVOWkFoLWM3QThUOVdsNUw0MGcyc0luY3ZOdGlRdDlfbzFVXzVLbGFYcU1WVzhUS284RkJYNUd2TU80b2tqc3I3VDdIUm1zUlNMTmZGNW1Pd1NEaDBvZEpXbFNteHhyRDhRbHc3NnVzdTd4eE1sdFR6bmQ4SmRBZVB0ODUzUmM5M3ZPblIzdTJncmVrdlBPTzZNZDVRM3o5eXd6XzFuZ3gtVkNNbGhOcnF5WHF5V1UzQkRjMjlwRU1fUFZsSWhFSmtaenBOZjJZRmRzbFhqZU13Q1pFdU1nZzlYaWpINUFKM01QRdIBgAJBVV95cUxOMGhFa1RlTlhEaW5DRDF6Yk9GRk54REtLN2RSTXhaZkswRGU3N3U5WFhfRFhQY3hDa1BnYmI0VmNrUXFoSzJaelFzXzl2X21YMEluZ0ZpdW5HS0djQUhDbGRaTWFLTV9BbEhVMkdWeDFKWTVWdk56eGxwa0dHNV90WlM2Z1Y5a1YxRXY3a0R6QTdGeG5jeEwyeEVwQ0NYZ2tQbThhazdZZVY5a2hib3ZWOVppdGw1dFRzZFBHSG8wSUFCZ2xDYnBMOW5ieExJeWVsdk5TdmM2cWlPWUZreTh4OGFhTlptVHJOZ05EWGQ4RUVDRW02LVNkdDZBaTh4V19z?oc=5"
     },
     {
       "id": "e51e86bfd89bc8b1a8",
@@ -324,30 +348,6 @@
       "title": "Cebreros pierde más de 6.000 hectáreas en su quinto gran fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbENqUHd1dEo4QmswYW5CYTFzM2Y3SzctY0E2T3JCWURpYU9wQ3pkSmpROEQ3cUduZFUtSGllNEFqZWUycGk2dzhoWTlNVUM5Q3pxRzB6NG85ZnlMa0pBS3VqMnRaOUptX29uQ1hGTmRqVkItQjVFejByNzRCY1hEaUVxSXRDWGc4QW5GalB2YXRSbGZTbm9lY0tJdWdxenJLNG40UzZVR0tfQnQ0a3otVXZ6ZFpjR3dxbVlEQm4xVERDSDRtUjBNcF9tYUZtZEN6T3FXY3g3bENBejg?oc=5"
-    },
-    {
-      "id": "cd3a2c53d99a16d868",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-07-30T22:32:10+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "El incendio de Burgohondo (Ávila) no registra avances pero se vigila por posibles rebrotes",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEUFNYeldnWmhpTkhweExpRGZTaEx1VWFKb0RRMGIxX0xranFMbU45elBXRnBvX3UzTzM3VHFnLVIzUUw5OUNSMHQ0bG00V0lTZ0JzODJJaFY0R1ZnZUNKWG1OVEpjSFFFcUhmSm4xRTEwMkoyYVJUN2hn?oc=5"
-    },
-    {
-      "id": "2d6295d36dc18da2f8",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-07-30T21:56:10+02:00",
-      "source": "ABC",
-      "title": "El incendio de Almorox baja al nivel 0 tras ocho días activo y quemar 270 hectáreas en la provincia",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDJJdnVfUW5rVF90cnZUdzFtRVRNTjZSTC0wOVQzWGtaNjV4ZU1YaTdreDFyUFpFaG1vQ01fRUFad0ktbGFic0VZc0JvNnZzY2dZcmtGVXFuNDNEVXNWbDZ3U292OW1RTG94bTAwN09LUDQ5dUtoXzVxVzJpejRVaVlzN3pFR2QzTXhZWUZsU1RXZ2dZMXhJTmVMc1p4ZEJlc0dHcFUtYmdwVWhaeTI5aGEwSnpjWW05MjZHTmhMVVU0bFU?oc=5"
     },
     {
       "id": "696093d7467c301e6d",
@@ -511,11 +511,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "direct_media": {
       "ok": true,
-      "items": 9
+      "items": 10
     }
   },
   "refresh_seconds": 300
