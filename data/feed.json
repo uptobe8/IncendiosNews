@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-01T12:59:13+02:00",
+  "generated_at": "2026-08-01T14:07:14+02:00",
   "items": [
     {
-      "id": "7c71f0ef0edbe24a15",
+      "id": "073dec4c740fb18a48",
       "type": "news",
       "severity": "info",
-      "province": "Madrid",
-      "town": "Robledo de Chavela",
-      "published": "2026-08-01T12:57:42+02:00",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-01T14:02:46+02:00",
       "source": "Europa Press",
-      "title": "Un camión de la UME vuelca y deja dos heridos graves y uno leve en Robledo de Chavela",
-      "summary": "Emergencias 112 Comunidad de Madrid ha informado este viernes de que un camión de la Unidad Militar de...",
-      "url": "https://www.europapress.es/madrid/noticia-camion-ume-vuelca-deja-dos-heridos-graves-leve-robledo-chavela-madrid-20260731223300.html"
+      "title": "Greenpeace documenta desde el aire las zonas quemadas por los incendios en Toledo, Madrid, Ávila, Segovia y Guadalajara",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOWx3aFEtNHJmSTRHVFZRODBxX1loX0dZT0xuOTZ3Wm5WWHpwLUNlczBBcHBVZ1Q1Q1ZJSW83eVlQb0ZNUE5nOThtalNWbVgzOWJwWDFhajNCMEpEUWg4T2xDZGVMdTlHdVF6cDBLSE0xRXNsbHJESkZhNlNVMUVMdU1MdnBhb2M2RXpzRHQ1N3ktY1hFMUpJNWdfRGxrVHdzd2c1VVFWOFpHMUNvWmduTkEzZEVGY0VTQjEwNDFSUHNUWkdmdGhtWVRjZEdhd0ZrQ3hPZWJQMjRxN1k4UzRVMVJyUjB5bHhGeGZFMU5TRGVnQjQ?oc=5"
     },
     {
-      "id": "e7e38b4f59f8104268",
+      "id": "f5cbff3792b2fb7186",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-01T12:53:01+02:00",
+      "published": "2026-08-01T12:55:40+02:00",
       "source": "Europa Press",
       "title": "El Sermas realizó alrededor de 3.900 atenciones y 21 ingresos hospitalarios durante los incendios en la Sierra Oeste",
       "summary": "El Servicio Madrileño de Salud (Sermas) realizó cerca de 3.900 intervenciones sanitarias derivadas de los...",
@@ -48,6 +48,18 @@
       "title": "Tareas de supervisión de los puntos calientes del incendio en la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpsc0Zkb1NlN1RDblJfeDFuNGphZWh3UTNVSzkweUNqUWZ6ZUlHQ3hMcWt2MTh2cnljLXN6R21tdDBkQ3h4eFJEYTNUcFNDYU55djJIcnhhaENaVlhHVzlNNk1UQW00NHBWbm1STTVjMFZSQ19sQ0xrd3BCYVZWMk1nQmlqbjVNci1JazNSa1VTbTU1S0cyNWhMUjhWZzREMm5keEJXZFdFQQ?oc=5"
+    },
+    {
+      "id": "39a0084dd38eec51bc",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T12:27:29+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo sigue estabilizado y espera quedar controlado en próximos días",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZEYzktWmlEYUw5aTAzaHlLbE82dzh1OGlOdmk5d3ZDdlljRXFsRW5XdUM3WXVyOUJiTU1Fd0NpSWw5djhoczNQOW94SXREcTlmZEs3QkhRXzNNa3lUNFNfT0dWZVVobHkzNWtfem1xU24zTkE2TnVTaUpIN0dSSjJJc0k2U0JVS09IazBKUGEtams0RWh6WlV3WE5paTlQMjk4dVJjRkdQOUxnMkpKOUR2MmFWbWcwQUdmRjJWdE9CREp6cUFLWGl2R0x1UQ?oc=5"
     },
     {
       "id": "196f4c90dc3b5ef34f",
@@ -95,7 +107,7 @@
       "source": "La Vanguardia",
       "title": "Los incendios dan un respiro: estabilizados los de Zamora y Madrid, mientras los bomberos refrescan la zona quemada en la Vall d'Uixó",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEtfanh1OXFMS29CVlBHU2RtX1dJRWZLN1d6bjR3dDdsa3R1RThkaUs2dTRnQ2RYSEJVU2pUQXFHdzVHSmgzZ3QteHEyaHB2YjM5YURoWkdlWERJRmZldGszLVR3clVhZ01QNWxTMkV6eVpQZlZlOGdCMDgxY0o4S0pIeS03V3hBbWpFYk44X3JFZkZ3Z08tZmxNdGw3SzJqZktISTRibnRnaEc4N0syMVJQN0h1bE9iZkxVeU9xTVA4Sk4xSk44SzNhMEdmMU41dWJPMFY3RktfbzYxcjZHRWRLNFjSAeoBQVVfeXFMUGZJYkllMFhxd05NVkxOLThYUHd3SElNUlVOT2lhcHN3dVpJNk9xVzBfZnpfb3k5aGlkRUFzbmt6Yjg1VmZfY0p3b3o4WTF2MjVwQ1ZzX0xITHFNX1RtTnBWZXhja2hiU3BweXNCeFU2bXFuWjdGd1c5cU51b2hnZ0h0dmJYR010S0l6SE50TzZVWmp6OGJGb0tYMFB4UGZrblJWczVIazlqWHV0czc4YXQwSDlxV3k1RThLM01JZVppODJtWTVWZzlYbEJEdVF2N3FSUmdKemlTMEhUelRjOFdVOVBCbElhQlRB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZkliSWUwWHF3Tk1WTE4tOFhQd3dISU1SVU5PaWFwc3d1Wkk2T3FXMF9mel9veTloaWRFQXNua3piODVWZl9jSndvejhZMXYyNXBDVnNfTEhMcU1fVG1OcFZleGNraGJTcHB5c0J4VTZtcW5aN0Z3VzlxTnVvaGdnSHR2YlhHTXRLSXpITnRPNlVaano4YkZvS1gwUHhQZmtuUlZzNUhrOWpYdXRzNzhhdDBIOXFXeTVFOEszTUllWmk4Mm1ZNVZnOVhsQkR1UXY3cVJSZ0p6aVMwSFR6VGM4V1U5UEJsSWFCVEHSAeoBQVVfeXFMUGZJYkllMFhxd05NVkxOLThYUHd3SElNUlVOT2lhcHN3dVpJNk9xVzBfZnpfb3k5aGlkRUFzbmt6Yjg1VmZfY0p3b3o4WTF2MjVwQ1ZzX0xITHFNX1RtTnBWZXhja2hiU3BweXNCeFU2bXFuWjdGd1c5cU51b2hnZ0h0dmJYR010S0l6SE50TzZVWmp6OGJGb0tYMFB4UGZrblJWczVIazlqWHV0czc4YXQwSDlxV3k1RThLM01JZVppODJtWTVWZzlYbEJEdVF2N3FSUmdKemlTMEhUelRjOFdVOVBCbElhQlRB?oc=5"
     },
     {
       "id": "49d8005ade390281bf",
@@ -194,6 +206,18 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlpSWHgwejNKYmRpWjZfYTIyRVF1a1FYZnpfcHZTREVSLXFsV1BvcS15NXpuNlVQRXMwV0Q4SzlzdlV4Tlg4MkhnVk1Ucm1yQi1yNWdxMzdSXzd6QlQyNlVuUWZvekZTRlZrcTg5N0ZMdHdYZ08zdGM3S1ZERGxFWlNvcGc3cUVLZHlSVExKSkZqVXFQY3VKWVdZc21LTWExcDl6ZTRsT0dCVWl0bi1mVENQWE5FaktlajNldnpIOFRBV3NYWGtWSlNyN2g5TG4wMnkwZHFtU2wtZw?oc=5"
     },
     {
+      "id": "3cd76fde2c973cefcd",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-31T21:39:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo mantiene la vigilancia por riesgo de reactivaciones",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXNnM1F5amZLUHBZdGtvV0lKcFd3bDZTdlljWENyZUNUQzNLMGRjNG02NzdMMGl3WmV5SUllbVRLR3RUY2F1TGFOY3RLTHBwSHA1bkROZHRPa3h4LUlPT0s4YWY2bzdTME9rSFFuNzU4emxOVTdQOW9XWEtBTFRPRmpBcU1fZS1jaHB5cmJJQnhaOVZqclJ4RFNmdU5EU2xNNUh0VWUtam9OZUNkQl9RdUkzNDdpU2U4T1p0Mzh1TQ?oc=5"
+    },
+    {
       "id": "967a2fe85df931c716",
       "type": "news",
       "severity": "info",
@@ -240,6 +264,18 @@
       "title": "Se reactiva el incendio de San Martín de Valdeiglesias",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObE50bmFzUG95ZEpOMEtxZDVNR05lVmpFQldwSWZsYTNaeWJPZXlOTGNfN2N1aExjZXJHRGdSUTZKZnV0NTRNRlRRdndRMlRTXzhyZW9QbjY1QXdSR0VXeWFSenlaZUNTODhnTkkyNUxHaFhzVnFnVlhBc3JfckFwRzY5b0VweTFETERrQlV1OGUyU0RJaC1ZakpyV253SUI1YURaalQtWUlXbi1LVUM1RVNNaVE4QklNUFB4YnZ5SjVXVm40SndjMVk0bjVnLThzMk1LTUd30gHbAUFVX3lxTFBlMHBMMms0MDZ2R19tVW5IOFZoMDgybVF6NDN1WHNBWDhxY1Rfck54R1FXdEIyanVWeUVnRHRUMXpuUEVHMFV4SWx0RXlfd0swV3N1Q2hVaXd3SEg5elFldmVFT3FKaTg0ZXVTNmRlcmlKWG9SQndKbC1pSHRfc2dyTl9ESjBNRThBaDJua0lMRHRhbFAzYVlLWHd4aURSZ0FpRkdVZGNRcFdvdEUxRFpKY1VzRHd5anZSaHdxclVNRHcyeUE0WnJIUHZvaUlmMEhQOTBhd3JZU1ZvTQ?oc=5"
+    },
+    {
+      "id": "3136c2a59c1606e54c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-07-31T18:56:56+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El Ayuntamiento de Ávila muestra su apoyo a los afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOalo1Z1FZVk5rV2p1MklEbjZLUElfenc0ZzE3NUR3bnJHMEwyMFpTTnNlVnZZY0g1QXluT2FqX09iNFoxTkc0RFpjSWRNZVAwalhmVUdkMlNXVUZ3SEtlSF9KSVY4YXpfLU05UU1CUktHenREVElwTUxkd3FwaXdYalFmeFg2TUZGRVkwbFgxZ2pXMVZIdDM4N2s0RHpuNWFUZ1doWXV0aEpKN2c4S1RCTXFJb2Exa1hueWRySVI3Vl9wdWdHaTY3ZGppUUo?oc=5"
     },
     {
       "id": "5b68b292b1e2d9a42a",
@@ -463,7 +499,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 30
+      "items": 35
     },
     "direct_media": {
       "ok": true,
