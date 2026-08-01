@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-01T03:20:14+02:00",
+  "generated_at": "2026-08-01T06:43:37+02:00",
   "items": [
+    {
+      "id": "08f2f34017cbc435b6",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-01T05:30:01+02:00",
+      "source": "EL PAÍS",
+      "title": "Reconstrucción visual | Así avanzó el fuego en Madrid y Ávila, día a día",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjB5QWJhOHpyNlgxX0pnLUZRWGlxMW45THBIblhPMmVOWF9CT2J6eHJHQVlQMUNtSW9GTTdkcGtlT0NhQ0tXVnE4MTFRMWItdjJFc1ZVLVNyX2FaMlJlaU54NkY2c3VWbzdZUThPZnJRMDVrRnJGMGt5OVdPY0JoOU9LeUhOaDZ0TUE0TXY1YXdjd1JTUEVndGVldmlNdmNCeEZKQy1qa0kxZFNDSmkyZg?oc=5"
+    },
+    {
+      "id": "e951fcd015686d35aa",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-01T04:23:45+02:00",
+      "source": "telemadrid.es",
+      "title": "DIRECTO | Los bomberos vigilan rebrotes y conatos de incendio en la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOXVZS1dHNk5DUEJoN1ZwUkV2azdoX051N3lXZXYweEx6NEhDek05dFBxdUdPSUFmb2poZ0MwWi1LcXhNdVhqT3F2Qm54QUR3OWM1alZJSFQwajNpTW92WHIxai1QNXZXZEc5NFZpa24zU3Nub0NkTjFKRVQzZE5HNmprQWlUdFlfVzVHVHZkNllCd09FbXlTd2NTWURKSTg0aWNpTjN6WllwdTdWTDNUZ2dXUVh4a010TGU5bDZTZTI4N1liLW5oVTA4UGxQVlJEOTdNRV9ya1dRd0RudnpqVFZEQ1dLRzlQandtcXItSWp3UzNV0gHwAUFVX3lxTE9UVV9STmJ6aVZkdkROdWJ4ZzlpV1I1bWQtV1NCUWg5OHFaR1dEc29HamhHOEpwNTNyTzB6TnpxdlpRc3NFdFpsZjkyUHM1VlZNWkFMTmtOd0hhSDBNcHZVbnpUOXZ5ZlFpNjBTVTRldXpVNmVNY0dUckRGTU9HckhiOWs4ckRjNmhmRmRmZmVlbmdRTlZnazk2a2NZUHNDbURKN2FKSldQTHBMb3JlZnRrSFhvamdWcmxiTEo2Vnp4aDVMT2dEd3FpUVhib21oUkJUcXlybHJfcEJQTGVxS3VfR2gtWEZIbm45czExTXVvZg?oc=5"
+    },
+    {
+      "id": "72fe9228e3ac9f2f97",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Robledo de Chavela",
+      "published": "2026-08-01T02:53:52+02:00",
+      "source": "El Mundo",
+      "title": "Tres miembros de la UME heridos al volcar su camión en Robledo de Chavela (Madrid)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZWU4eDBzam5lMjhfYzBWWE1NM3kxNjY2T0UxWkFIekVybkx2a3FFa1NxOWVMdDFhdURJV0g3SWZGZEVhSDVFczllVF9ub1NjTzNXMWg3TTVRN1FXa25yTkp0Ty16S0YwaU5QSjNkWkFCdWVSb3NwdVdR0gF6QVVfeXFMTndlZTh4MHNqbmUyOF9jMFZYTU0zeTE2NjZPRTFaQUh6RXJuTHZrcUVrU3E5ZUx0MWF1RElXSDdJZkZkRWFINUVzOWVUX25vU2NPM1cxaDdNNVE3UVdrbnJOSnRPLXpLRjBpTlBKM2RaQUJ1ZVJvc3B1V1E?oc=5"
+    },
     {
       "id": "8805b48ed9e08b206e",
       "type": "news",
@@ -24,18 +60,6 @@
       "title": "Recorrido por el Madrid sepultado bajo la ceniza del mayor incendio de la Historia: \"El pueblo salva al pueblo\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlpSWHgwejNKYmRpWjZfYTIyRVF1a1FYZnpfcHZTREVSLXFsV1BvcS15NXpuNlVQRXMwV0Q4SzlzdlV4Tlg4MkhnVk1Ucm1yQi1yNWdxMzdSXzd6QlQyNlVuUWZvekZTRlZrcTg5N0ZMdHdYZ08zdGM3S1ZERGxFWlNvcGc3cUVLZHlSVExKSkZqVXFQY3VKWVdZc21LTWExcDl6ZTRsT0dCVWl0bi1mVENQWE5FaktlajNldnpIOFRBV3NYWGtWSlNyN2g5TG4wMnkwZHFtU2wtZ9IB3wFBVV95cUxOcXdqTFRYODJiMTdMQnFUSmNjMEs1SnluRkQtZFdyT0J1eFhPbTBaRG5MM2dGYU5rV0tZbHdRaXR3VHJhQkF6cjBVTGoyUFc0RlpfQnNfWFViTnVMMHBxVUQ3T3hBLUIwb0N3ZS1XMUEzOTZDN0xkMGZ3dGdpME1xcGU4Q2gyODhaRUNoUHJvMEs3Z3N6a2xNa2VsQlZDYzZWb0EwLUdxSXZFRXJzbjlzSW9RQnlaOERVeXZOTGZEdldOZzd0OUl1VVBQdm1XNnE1blFZNXpxSldOcEJSUEc0?oc=5"
-    },
-    {
-      "id": "b2488c843c81edc1b9",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-31T23:22:22+02:00",
-      "source": "telemadrid.es",
-      "title": "DIRECTO | Los bomberos vigilan rebrotes y conatos de incendio en la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQalN3WnJjdndXWEZjazhYa213Sk8tSERIVkNFWTg2bU1pMTdiaEZnek02RGtaZ3NLaTVNY05CTi1HS3pWcFRvTllYUWYtakFxSXRkS3B2MUFQQS14RVJfMlY5RVBoMktfRmNjeVJGX3JadFltb3NNTFB0VDFaNzlqUFVlOHF1QVIzd2lNUEtmZDUtUF9VQTgxRDgwdFZXR1V0T0VoLXBwdnBjakVBRUdQT2tWWFJQSFQ0NkI0MGxwWVNmWW56U2xzM0N1NDllbGlzY1JEdnRvQmZBUjA2UlB6Y1RlX1lYd0JZRDdnMGltQl9PT0RZMFlDQzVJb0QwaXlOM2NaRmVNWXl6YkJxZWR1QW1jLS1yN3ZZRTFTVNIB8AFBVV95cUxPVFVfUk5iemlWZHZETnVieGc5aVdSNW1kLVdTQlFoOThxWkdXRHNvR2poRzhKcDUzck8wek56cXZaUXNzRXRabGY5MlBzNVZWTVpBTE5rTndIYUgwTXB2VW56VDl2eWZRaTYwU1U0ZXV6VTZlTWNHVHJERk1PR3JIYjlrOHJEYzZoZkZkZmZlZW5nUU5WZ2s5NmtjWVBzQ21ESjdhSkpXUExwTG9yZWZ0a0hYb2pnVnJsYkxKNlZ6eGg1TE9nRHdxaVFYYm9taFJCVHF5cmxyX3BCUExlcUt1X0doLVhGSG5uOXMxMU11b2Y?oc=5"
     },
     {
       "id": "28d7be1e6a510ae2f8",
@@ -170,6 +194,18 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOalo1Z1FZVk5rV2p1MklEbjZLUElfenc0ZzE3NUR3bnJHMEwyMFpTTnNlVnZZY0g1QXluT2FqX09iNFoxTkc0RFpjSWRNZVAwalhmVUdkMlNXVUZ3SEtlSF9KSVY4YXpfLU05UU1CUktHenREVElwTUxkd3FwaXdYalFmeFg2TUZGRVkwbFgxZ2pXMVZIdDM4N2s0RHpuNWFUZ1doWXV0aEpKN2c4S1RCTXFJb2Exa1hueWRySVI3Vl9wdWdHaTY3ZGppUUo?oc=5"
     },
     {
+      "id": "5b68b292b1e2d9a42a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Chapinería",
+      "published": "2026-07-31T18:54:34+02:00",
+      "source": "El Mundo",
+      "title": "El incendio forestal de Madrid carboniza 120 coches de cine en Chapinería que se alquilaban para rodajes: \"He perdido 700.000 euros y no sé si lo recuperaré\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTSUlpMWI2ODQ0dkhQOGpEZmphVWlnbC14R0t5aGdRWENfREhrXzVnbHU4UEM1YlEteldtTW50b2dtWVZENk8tVGZmWXFPVU50eXlQenVWcXZ0UUFTZV9wbEZ0VHFocE5xdThGMGV4Zml0S1d6a0l5dG9n0gF6QVVfeXFMUEU0OGhHbkloZ3pPUkZDUV9fczFJamJxbVJROTE0cFE4RE9Gd0lyUFRSRzJkb3lJRlhYMHpaeUlsd2ZOQTdZak9Na2RibVhiMV92LURPNGNPcDkwaHN2ZUxJMHdFc0N4N2d0VUJVQ00yWkJHQWlLZC1ON2c?oc=5"
+    },
+    {
       "id": "f5501dc876b37e8236",
       "type": "news",
       "severity": "info",
@@ -240,30 +276,6 @@
       "title": "Incendios: Madrid reparte más de 130.000 kilos de comida y 60.000 litros de agua para los animales silvestres",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON3o1S3RVM2tzT0ZhdzJQNWN1cFJTVXhqODNfRTU3SXpkSHk0TnNGMzhGUnZJS2k1a2NFSzd4T1Z0bFIyeXNNck4ycFFvTlBVcUhWZWZmVm9faEg4bFZqYmh1TjJib0xvWFgwdGpKUE9ONnRFWTZyRHlSR1JhRUZPYU5VMmk3bWpYRGhYaXdRX29KR1Btem92RDhlakY0cHdsdzAzN29vOW9pQmdKZDV6cEhQYlVBXzlZZzlWYWI4T0YyNmM5N3VmTkxra2pJZnQzZ1hMS0tHMUFwYnY5Mkp1Vm5FcjRheDBPemfSAf4BQVVfeXFMT2lnaXdoOEl0MWpHRjVxWXcxQ09EZFpSOUN5RXJkZFdGYkppS1d6dXRiQ2c2S1pWUHhUYVJUOE9iNi0xS3VaWGUwQmxyV0s1c1l5WTN0TTUyQXBDY2NLWXZWZ01ReFJSQ0s4cFY4RmFOUkxqa0FBdFNsRGZNOW1ZbFFocjhYWjNRcW9CdEpZSURLbWF5QUR1aFF4am9MR0pCUkZRMlppRFVZUlJHVFBKRFh3ZG1jZkU5Z3RtZTZiZTJyTV9CeTZ6WmtET0twYVpOdEhib2xKQ21IanZjcW9xamtJMFZiRF9fdDFPenBkd2Nwd0RiS29YenYwYW5hR3c?oc=5"
-    },
-    {
-      "id": "5bb779fe372da7097f",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-07-31T14:24:52+02:00",
-      "source": "Europa Press",
-      "title": "Carrefour y Cruz Roja asisten a más de 2.700 personas afectadas por los incendios de Madrid, Toledo y Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU0tsRk9CM3ZGSzJsbzJIYUQtanZYaGZGMWJmMlNqS0VVN0dOTXAycGNxWW05VHptS3VLWTJwbVp5T2xnbnp1aVJDWC0yUWJSTkJrZTE5VTNhU1RkdllfLUpkQ1dKa0dxd2xYbHZYR3A4a0txb3lYU25BaGJuRWZtLVpTZHNoWUE1X2FNY0d1TDl3R2NSRHFQUmlkN3FFcDdBZHZkTmEwX1g3S2MySjdhTVJsMnRuTWpOTDNxaUloVlkxSERRUWs3VExQYWRER2VVR0NQZ0VHY2JENUpHUWxRbVNJTVY0eTVNaUMtZ2tseDdtTEpE?oc=5"
-    },
-    {
-      "id": "5867582ee97ce45112",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-31T14:22:08+02:00",
-      "source": "Europa Press",
-      "title": "Arrancan los trabajos de limpieza y de análisis de daños en los municipios afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0tUWmF0bDNZWU9hcUlfWFBHdXdDMkRTU1p6Y2NoNnJjOHRQZ2hJRTBmRUlyN3c4QldKVlJRSHE2Um4wM3pDei11WEoxaFRCSGVjdXJsZ2E4MTZKZTVvV1ZfcFUzbklLWUxuMWVsY2xGSWJGVlBKMmhEV2RpYmd1Y25jdWlYTHlzSUJtTVFpSEZQV1k1eE80SlFJcnNzOUF4dE5GYUZMYi12U1lQRFlhX0pBVWJaSFVSSWY1cURmdWlqbEtpRFlRc1pBaEdRTnNmY25MSm91U3NISmExVldR?oc=5"
     },
     {
       "id": "8695997c1ec19d9195",
@@ -348,42 +360,6 @@
       "title": "José Manuel Serrano: héroes y miserables tras los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXlqOEFpb1lxQlFnTExUMWJUT2JVaTQ0RG94dG9sTkdSYVNTbGpFUi1jNGZRT1JIRWloSWNEclQ3dDNOdUIybnZUdl9CR241T29XaGpEYVl4eWMxbmlvVUV5cl9oY29sSWc0SWxoRkRrZFhTM05Zejh0Ul8yQ1dkQV9OZXkzNmkwT3lneGpXaUZNUkptNTBBMWxHZXBENkhkc3ZNWlNzVnJRUlI5dmx0dXF6YWZ3ZTJKeWRGSHBnMlhXMnhSNEY3MW8zNjE?oc=5"
-    },
-    {
-      "id": "5d6e433f9013ed8e4e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-07-31T05:40:59+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo mantiene estable su perímetro por segundo día consecutivo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0pua3ZTcGNqTVkxMDFZanJza3dtOEF2bmIyRzJOWWx5anNCWlNpQUhydWY2YWRUNTQ5Q3k2MGE4eUI3ZzdZVmFPaUFpSnRDZWVMSFJ3cnZVdFIzMEZ4S2c4RUN4c2xUR2htUlprZVgwbkx5R3BfaFh1WmZmVnJ2aXlPSVJObm9OVXRidUprN1FYcVQ4emJDVkhPdkxGY2o4RXA3M1U2Vm4yWmlLLVpHNWN1aWdoX09FazZybndoREpraFBPZGJz?oc=5"
-    },
-    {
-      "id": "145b88d53f22a62c96",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-07-31T05:00:00+02:00",
-      "source": "20minutos.es",
-      "title": "El incendio de Sierra Oeste rozó una tragedia mayor: amenazaba núcleos con un millón de madrileños y se dirigía a Guadarrama y Gredos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWnZ6NUdCdVdVTlVkcmJvZFB4c2pRNlVmdUJNRUpJeE5mVU96cy1ZcTQ0N3ZTZ2VIbk15Q0VPY0J4WkFVQjIxSWlKVUVLSTlWVFFteDdsUWp6UldfZjJTVDZ0enh3MHRZSFNqbWY4ZDhtc296anJ5Q2Rmbnh4NEJGMTVCMFhlTEdkSW1hSnFEWmVsRFk3Z2cwbS0taUNEY1JyOEM0SExwWmhiWFBGNHBQci1kQXFNSi1pTVN4M0l3LW8wbURQRm11Rm51UzJaSVdzSHFHaXdudEUzOUJxTVNfUkVhbmlsdw?oc=5"
-    },
-    {
-      "id": "6c5da1fe741128b0a6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Cebreros",
-      "published": "2026-07-31T05:00:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Cebreros pierde más de 6.000 hectáreas en su quinto gran fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbENqUHd1dEo4QmswYW5CYTFzM2Y3SzctY0E2T3JCWURpYU9wQ3pkSmpROEQ3cUduZFUtSGllNEFqZWUycGk2dzhoWTlNVUM5Q3pxRzB6NG85ZnlMa0pBS3VqMnRaOUptX29uQ1hGTmRqVkItQjVFejByNzRCY1hEaUVxSXRDWGc4QW5GalB2YXRSbGZTbm9lY0tJdWdxenJLNG40UzZVR0tfQnQ0a3otVXZ6ZFpjR3dxbVlEQm4xVERDSDRtUjBNcF9tYUZtZEN6T3FXY3g3bENBejg?oc=5"
     },
     {
       "id": "696093d7467c301e6d",
