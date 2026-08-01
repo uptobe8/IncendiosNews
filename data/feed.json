@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-08-01T16:50:06+02:00",
+  "generated_at": "2026-08-01T17:47:24+02:00",
   "items": [
     {
-      "id": "194c7d6e135a934a99",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Fresnedillas de la Oliva",
-      "published": "2026-08-01T14:36:56+02:00",
-      "source": "Telemadrid",
-      "title": "La herida del fuego en Fresnedilla de la Oliva",
-      "summary": "Hectáreas y más hectáreas arrasadas. Es la imagen que ha dejado el fuego en Fresnedillas de la Oliva. Es el cuarto municipio con más superficie...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/La-herida-del-fuego-en-Fresnedilla-de-la-Oliva-2-2912428733--20260801023655.html"
-    },
-    {
-      "id": "f1fbc4daaf767fc2a9",
+      "id": "000c5ac0fb0beb494e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-01T14:27:18+02:00",
+      "published": "2026-08-01T17:38:06+02:00",
+      "source": "Telemadrid",
+      "title": "La Comunidad de Madrid garantiza los suministros esenciales en los municipios afectados por los incendios",
+      "summary": "La Comunidad de Madrid informó este sábado de que ha mantenido reuniones con los alcaldes de las 17 localidades afectadas por los incendios de la...",
+      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-garantiza-los-suministros-esenciales-en-los-municipios-afectados-por-los-incendios-0-2912408750--20260801053805.html"
+    },
+    {
+      "id": "225f0d68f91e1d01ee",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T16:27:18+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo sigue estabilizado y espera quedar controlado en próximos días",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZEYzktWmlEYUw5aTAzaHlLbE82dzh1OGlOdmk5d3ZDdlljRXFsRW5XdUM3WXVyOUJiTU1Fd0NpSWw5djhoczNQOW94SXREcTlmZEs3QkhRXzNNa3lUNFNfT0dWZVVobHkzNWtfem1xU24zTkE2TnVTaUpIN0dSSjJJc0k2U0JVS09IazBKUGEtams0RWh6WlV3WE5paTlQMjk4dVJjRkdQOUxnMkpKOUR2MmFWbWcwQUdmRjJWdE9CREp6cUFLWGl2R0x1UQ?oc=5"
+    },
+    {
+      "id": "98afc03e7c85cd2a90",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-01T14:27:17+02:00",
       "source": "Telemadrid",
       "title": "40 efectivos refrescan el perímetro de incendio Sierra Oeste de Madrid",
-      "summary": "Siguen los trabajos para acabar con el fuego de la Sierra Oeste de Madrid, el punto más complicado sigue siendo el entrono del pantano de San...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/40-efectivos-refrescan-el-perimetro-de-incendio-Sierra-Oeste-de-Madrid-2-2912428730--20260801022717.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0dqOE55X0VyeWczX0QwV0VlcEhOMEhqQW9lMmk5VWVLa3pDVU92bks0OGUyb2N0dzNOZWVKd2FOSXF0aWxNRFVObXhwVXZCSHJWcFJmRm1RWS1ad3NIUEdmRHZYcGVwRGpXdTY4OGZIalcwTmFiLTgyR2hpS29mUUM1U3VacjN0TGljNE8tRmlyMjRhUHlzVWllbjE4NWFWQmJRSk10cEF4c1I3WGZualdiekktOGh4WUQtR21XLXZyMVA3LXI1c1VJSDQwcmUyRkRDUzJKclJuTDRhUEVvbEVmcERhUVlzWDdGTU1fckpzVS1wN3AxbHJxeWdvSTE50gGAAkFVX3lxTE9vR2o4TnlfRXJ5ZzNfRDBXRWVwSE4wSGpBb2UyaTlVZUtrekNVT3ZuSzQ4ZTJvY3R3M05lZUp3YU5JcXRpbE1EVU5teHBVdkJIclZwUmZGbVFZLVp3c0hQR2ZEdlhwZXBEald1Njg4ZkhqVzBOYWItODJHaGlLb2ZRQzVTdVpyM3RMaWM0Ty1GaXIyNGFQeXNVaWVuMTg1YVZCYlFKTXRwQXhzUjdYZm5qV2J6SS04aHhZRC1HbVctdnIxUDctcjVzVUlINDByZTJGRENTMkpyUm5MNGFQRW9sRWZwRGFRWXNYN0ZNTV9ySnNVLXA3cDFscnF5Z29JMTk?oc=5"
     },
     {
       "id": "073dec4c740fb18a48",
@@ -50,40 +62,28 @@
       "url": "https://www.europapress.es/madrid/noticia-sermas-realizo-alrededor-3900-atenciones-21-ingresos-hospitalarios-incendios-sierra-oeste-20260801125301.html"
     },
     {
-      "id": "68c013932d24b79449",
+      "id": "c5bd09c264abb4f62b",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-01T12:46:39+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "El incendio de Burgohondo recibe el refuerzo de 50 efectivos llegados de Catar con dos helicópteros",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjFETi1xX21ENUVGeEtndVFMSGE1M1RzQjJsbUJZX0lEby1wbWI3aXNpZ2FXZngyRm5xeUdHakIwM3FoWXBuMXNYWDdMWE0xcDVkdkhoV29lRHNlVmtuZ0p3ekZaMUVPY3hHelVnaXZ5XzZ0WmJqbmI2cmJhTC1KZWQ4X2tuNktUdDF4OUtEZUYycHU5ZGFqUVB3Mm1vRkYteHhQNUR3Sk1xSE9QbzA1dHNhbml3eFNVcW1ENmtTdTY?oc=5"
     },
     {
-      "id": "491b527e71f71e1ea6",
+      "id": "961a4a093b1544bccc",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-01T12:43:01+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "Tareas de supervisión de los puntos calientes del incendio en la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpsc0Zkb1NlN1RDblJfeDFuNGphZWh3UTNVSzkweUNqUWZ6ZUlHQ3hMcWt2MTh2cnljLXN6R21tdDBkQ3h4eFJEYTNUcFNDYU55djJIcnhhaENaVlhHVzlNNk1UQW00NHBWbm1STTVjMFZSQ19sQ0xrd3BCYVZWMk1nQmlqbjVNci1JazNSa1VTbTU1S0cyNWhMUjhWZzREMm5keEJXZFdFQQ?oc=5"
-    },
-    {
-      "id": "39a0084dd38eec51bc",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T12:27:29+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo sigue estabilizado y espera quedar controlado en próximos días",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZEYzktWmlEYUw5aTAzaHlLbE82dzh1OGlOdmk5d3ZDdlljRXFsRW5XdUM3WXVyOUJiTU1Fd0NpSWw5djhoczNQOW94SXREcTlmZEs3QkhRXzNNa3lUNFNfT0dWZVVobHkzNWtfem1xU24zTkE2TnVTaUpIN0dSSjJJc0k2U0JVS09IazBKUGEtams0RWh6WlV3WE5paTlQMjk4dVJjRkdQOUxnMkpKOUR2MmFWbWcwQUdmRjJWdE9CREp6cUFLWGl2R0x1UQ?oc=5"
     },
     {
       "id": "40dd53101fd643bfff",
@@ -146,18 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHVvM1lTclRzVFRNVHVGTlNaeHZza0FiYkxXU2JESHd2eDNvbWpNSl9fLWQxRE9kQml6R21TeFBYRno5WGFpdDNTUXlMTFNMSlFoeWJuYV9nYmlidnBYQzFJdHFLTWhfN0dCX2ZGVkZGUHh1amU3NkJjc1pGdl80Tkd2QWd2cmduS1p5NUxXVWpXaUlWWEx0Y19qYURnR1BTSDA3VlhJaXR4ZXVPTlNuTDU5VUtOV0lfNUVsQTdzWXRfdzlrTTJ2R0xaa1JJMVlMZU81RTJ1UkFnWXJ3eVVBeXo5Q0FSZnfSAfsBQVVfeXFMUDlyMDktWHJtbUVoMmVaTzNxMnhTd25JdXV0Q3ppQVNOd0FXNXA1VG1fNHl1MnNsa0lIUkllTXJPb2NQOGZEY0xoc3BMUmlzeWNhbmQ4eDdYQnZtSVBQbzVoWnRvTXpOY3hsU1doa0xZN0d2NFI1ZGNvbEVhWFQxaFN6eVAzcWlNcVQxanBXdFVSX0dZWHdrYzZhX3AwX1dkdC10b0lxcE9VTVp1eGFyS01Bc0FZTzBPT2FpMndLNElhNUJ2NDZZNGpobDRXN1U4LTluM1dyb3JGaHpMZHd1cmw5LURlcTBnWm5ZZml3aXFyVTRDTjVmV2V0VWc?oc=5"
     },
     {
-      "id": "88c377721a67059973",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T10:33:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Incendio Sierra Oeste: 40 dotaciones continúan extinción",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWVSUUtQekZIZXpJcEZhcTE4MG9vQVMtTWNjSmZBVHVmRHQzUUtqTGp3aVg4NFYtdDJIRlFxaEsxV1YtNTdTZWpDMGI1OXNrWFpFd0hCakJxLXp4bGs2Zi15WGhTSTctMEZ6c0duSC0zOUlra2F4d3lkWlliZmJWMU5lV2xrSDU5UGZFazRfaWlwdmlQaHhweDdFQ2pHV1ZrSVlaLS1tcEttU3paYkppVFVGaWlwNWxMN2otTGcycXduLXdBZFNuVGlybEJTTmZ2?oc=5"
-    },
-    {
       "id": "518044a72e00b3615a",
       "type": "news",
       "severity": "info",
@@ -182,13 +170,13 @@
       "url": "https://www.europapress.es/madrid/noticia-carnero-lana-perro-refugiado-piscina-otra-cara-incendios-sierra-oeste-20260801090050.html"
     },
     {
-      "id": "a271ab2dc03c845862",
+      "id": "4f0e28780325859606",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-01T08:49:42+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "DIRECTO | Los bomberos vigilan rebrotes y conatos de incendio en la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPLVM4eXhuWFhTVWh3OURjS194ZXlUSW1vZG5uTDN6X0FEODA4NEJQdi1Xb1RkckdVQ013T0Qwbk5nTk01c0kwSVNETjBCOFdXQjAxaXhRT1hObWVpNU9PVmJFNWdKbS1MWkpNTGV0NlVWX3BGeUhBekNUTWtyb05DNWg0a0NCUHZGYjNnU01vcG9ELWdYd3NIZ01nRVRGb2d1Y1FkZnVSZUptVzhXN2wzbUkxZ3A4WmFkV2VDNkF0NEdxUjNBVktwdHdDSE5vSDZacC0wbWc3Q3EtU1ItYjZPaXplQ2ZPSHl6ZFJRV2hSRnZ1Vi0waVktaHZIaUtuOVF2T0xxaGFpTHNuNEh6QW1JUkdHYzU4RDNGMWhNQw?oc=5"
@@ -206,6 +194,18 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjB5QWJhOHpyNlgxX0pnLUZRWGlxMW45THBIblhPMmVOWF9CT2J6eHJHQVlQMUNtSW9GTTdkcGtlT0NhQ0tXVnE4MTFRMWItdjJFc1ZVLVNyX2FaMlJlaU54NkY2c3VWbzdZUThPZnJRMDVrRnJGMGt5OVdPY0JoOU9LeUhOaDZ0TUE0TXY1YXdjd1JTUEVndGVldmlNdmNCeEZKQy1qa0kxZFNDSmkyZg?oc=5"
     },
     {
+      "id": "72fe9228e3ac9f2f97",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Robledo de Chavela",
+      "published": "2026-08-01T02:53:52+02:00",
+      "source": "El Mundo",
+      "title": "Tres miembros de la UME heridos al volcar su camión en Robledo de Chavela (Madrid)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RRjVXSGlVNzdjcmdWNFhIeTBLOGlDLXdNdlJ0RWVYYldsbnZNZU81bU5hTWlYMnA4clU0UTJvLUJxUjRfR1Z6M2tGblpYU1NpNnlJZGpCMTAzaDRQOE5Ra0lPaWxnbTEzR2l4aFItUndQWXJxeHNsSUNn0gF6QVVfeXFMTndlZTh4MHNqbmUyOF9jMFZYTU0zeTE2NjZPRTFaQUh6RXJuTHZrcUVrU3E5ZUx0MWF1RElXSDdJZkZkRWFINUVzOWVUX25vU2NPM1cxaDdNNVE3UVdrbnJOSnRPLXpLRjBpTlBKM2RaQUJ1ZVJvc3B1V1E?oc=5"
+    },
+    {
       "id": "c8a672fef6d66b743d",
       "type": "news",
       "severity": "info",
@@ -218,13 +218,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlpSWHgwejNKYmRpWjZfYTIyRVF1a1FYZnpfcHZTREVSLXFsV1BvcS15NXpuNlVQRXMwV0Q4SzlzdlV4Tlg4MkhnVk1Ucm1yQi1yNWdxMzdSXzd6QlQyNlVuUWZvekZTRlZrcTg5N0ZMdHdYZ08zdGM3S1ZERGxFWlNvcGc3cUVLZHlSVExKSkZqVXFQY3VKWVdZc21LTWExcDl6ZTRsT0dCVWl0bi1mVENQWE5FaktlajNldnpIOFRBV3NYWGtWSlNyN2g5TG4wMnkwZHFtU2wtZ9IB3wFBVV95cUxOcXdqTFRYODJiMTdMQnFUSmNjMEs1SnluRkQtZFdyT0J1eFhPbTBaRG5MM2dGYU5rV0tZbHdRaXR3VHJhQkF6cjBVTGoyUFc0RlpfQnNfWFViTnVMMHBxVUQ3T3hBLUIwb0N3ZS1XMUEzOTZDN0xkMGZ3dGdpME1xcGU4Q2gyODhaRUNoUHJvMEs3Z3N6a2xNa2VsQlZDYzZWb0EwLUdxSXZFRXJzbjlzSW9RQnlaOERVeXZOTGZEdldOZzd0OUl1VVBQdm1XNnE1blFZNXpxSldOcEJSUEc0?oc=5"
     },
     {
-      "id": "cf0e5444ad958eda45",
+      "id": "02705b58f3210259a3",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Robledo de Chavela",
       "published": "2026-07-31T22:45:19+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Un camión de la UME vuelca y deja dos heridos graves y uno leve en Robledo de Chavela",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZDNlNTh0VFN0Yjg3MmhYUW5yQUpDeHFiR1ZTU25PdzIyUDc1VzFMcEdHNFJZVF9jeWtMcW5aa0FCNERoNncxTVZ2bm9BbDJGdFk2OFYtQ1U4U3hMZkg2UC1tZ2ZaQmdscGIxaUlnRmNYUnIwazJva19ETEJEXzgxeHRSUlY2T0RPb0dmSHFFaVBWUkM3ZXdtbHIzUzE3MGt4Slc4VEpCT0tOeDMwWUJiX0lkUkhJbEY1M21Ed1lQd0NIVnN2bFlROGFMdFVDYUJ0NUxRUnhya1haUHZGWFU1Zk9uQUlMV0trMjk5NndZZTFyWkhUTFcwYtIB-AFBVV95cUxQZDNlNTh0VFN0Yjg3MmhYUW5yQUpDeHFiR1ZTU25PdzIyUDc1VzFMcEdHNFJZVF9jeWtMcW5aa0FCNERoNncxTVZ2bm9BbDJGdFk2OFYtQ1U4U3hMZkg2UC1tZ2ZaQmdscGIxaUlnRmNYUnIwazJva19ETEJEXzgxeHRSUlY2T0RPb0dmSHFFaVBWUkM3ZXdtbHIzUzE3MGt4Slc4VEpCT0tOeDMwWUJiX0lkUkhJbEY1M21Ed1lQd0NIVnN2bFlROGFMdFVDYUJ0NUxRUnhya1haUHZGWFU1Zk9uQUlMV0trMjk5NndZZTFyWkhUTFcwYg?oc=5"
@@ -242,13 +242,13 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXNnM1F5amZLUHBZdGtvV0lKcFd3bDZTdlljWENyZUNUQzNLMGRjNG02NzdMMGl3WmV5SUllbVRLR3RUY2F1TGFOY3RLTHBwSHA1bkROZHRPa3h4LUlPT0s4YWY2bzdTME9rSFFuNzU4emxOVTdQOW9XWEtBTFRPRmpBcU1fZS1jaHB5cmJJQnhaOVZqclJ4RFNmdU5EU2xNNUh0VWUtam9OZUNkQl9RdUkzNDdpU2U4T1p0Mzh1TQ?oc=5"
     },
     {
-      "id": "967a2fe85df931c716",
+      "id": "25669d817911613a34",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-07-31T21:01:02+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "Veinte dotaciones terrestres y nueve medios aéreos refrescan la zona del incendio en Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamFVUkVOWEdlRHdPcjhaNllac0NORmZlRXdGUS1MTTR5d2NOcnZCUm1jWjdVb0Y3V0dwNHlwcEpuMXFscmpmbEFoeENzZ0NoTTdTZzZMWndmU1JxNGoxMzhrNXNvNW92ZF96a1lfU1pQRnJONHhyNF8yV2k1RmxNcVhwY2xRQzJYQ2pGVGhnQ1hMN3RhR0tkOTZhY3NvWFlpZF9JeUlOaG9Uejg?oc=5"
@@ -278,13 +278,13 @@
       "url": "https://www.europapress.es/castilla-lamancha/noticia-extinguido-incendio-declarado-jueves-villarejo-montalban-toledo-20260731193841.html"
     },
     {
-      "id": "8223d662d1de63dc28",
+      "id": "488983993a032c6737",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "San Martín de Valdeiglesias",
       "published": "2026-07-31T19:35:32+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Se reactiva el incendio de San Martín de Valdeiglesias",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObE50bmFzUG95ZEpOMEtxZDVNR05lVmpFQldwSWZsYTNaeWJPZXlOTGNfN2N1aExjZXJHRGdSUTZKZnV0NTRNRlRRdndRMlRTXzhyZW9QbjY1QXdSR0VXeWFSenlaZUNTODhnTkkyNUxHaFhzVnFnVlhBc3JfckFwRzY5b0VweTFETERrQlV1OGUyU0RJaC1ZakpyV253SUI1YURaalQtWUlXbi1LVUM1RVNNaVE4QklNUFB4YnZ5SjVXVm40SndjMVk0bjVnLThzMk1LTUd30gHbAUFVX3lxTFBlMHBMMms0MDZ2R19tVW5IOFZoMDgybVF6NDN1WHNBWDhxY1Rfck54R1FXdEIyanVWeUVnRHRUMXpuUEVHMFV4SWx0RXlfd0swV3N1Q2hVaXd3SEg5elFldmVFT3FKaTg0ZXVTNmRlcmlKWG9SQndKbC1pSHRfc2dyTl9ESjBNRThBaDJua0lMRHRhbFAzYVlLWHd4aURSZ0FpRkdVZGNRcFdvdEUxRFpKY1VzRHd5anZSaHdxclVNRHcyeUE0WnJIUHZvaUlmMEhQOTBhd3JZU1ZvTQ?oc=5"
@@ -302,6 +302,18 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOalo1Z1FZVk5rV2p1MklEbjZLUElfenc0ZzE3NUR3bnJHMEwyMFpTTnNlVnZZY0g1QXluT2FqX09iNFoxTkc0RFpjSWRNZVAwalhmVUdkMlNXVUZ3SEtlSF9KSVY4YXpfLU05UU1CUktHenREVElwTUxkd3FwaXdYalFmeFg2TUZGRVkwbFgxZ2pXMVZIdDM4N2s0RHpuNWFUZ1doWXV0aEpKN2c4S1RCTXFJb2Exa1hueWRySVI3Vl9wdWdHaTY3ZGppUUo?oc=5"
     },
     {
+      "id": "5b68b292b1e2d9a42a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Chapinería",
+      "published": "2026-07-31T18:54:34+02:00",
+      "source": "El Mundo",
+      "title": "El incendio forestal de Madrid carboniza 120 coches de cine en Chapinería que se alquilaban para rodajes: \"He perdido 700.000 euros y no sé si lo recuperaré\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTSUlpMWI2ODQ0dkhQOGpEZmphVWlnbC14R0t5aGdRWENfREhrXzVnbHU4UEM1YlEteldtTW50b2dtWVZENk8tVGZmWXFPVU50eXlQenVWcXZ0UUFTZV9wbEZ0VHFocE5xdThGMGV4Zml0S1d6a0l5dG9n0gF6QVVfeXFMUEU0OGhHbkloZ3pPUkZDUV9fczFJamJxbVJROTE0cFE4RE9Gd0lyUFRSRzJkb3lJRlhYMHpaeUlsd2ZOQTdZak9Na2RibVhiMV92LURPNGNPcDkwaHN2ZUxJMHdFc0N4N2d0VUJVQ00yWkJHQWlLZC1ON2c?oc=5"
+    },
+    {
       "id": "f5501dc876b37e8236",
       "type": "news",
       "severity": "info",
@@ -312,18 +324,6 @@
       "title": "Los parques de ocio de la Sierra Oeste, en busca de esperanza tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHBLVFpPVk9Pcm5CMUNGQ2RHQzMtZktvdmwzUWtHNHJILVVCZFFLdlZzd2hCV3MzY29KVGFXTFNRWjdZZEUzTFQtSTdpVHdGRW9NYm5kblJKUy1uckh0SFU4OGlYUVFkbG4wMFVnNUhzNHdRWXJ5SmQ3QXBqbFptZUdsaWk0c2UxUV9EV29vX09pNlFfNXd5VWlTcXlaZWV4MVZCcTE3dE9JVEJ1WENDaWJtdkhQNUhqalJmTHgtYlNYOWtZbW9EQ1JlT09VQdIBzgFBVV95cUxNSHBLVFpPVk9Pcm5CMUNGQ2RHQzMtZktvdmwzUWtHNHJILVVCZFFLdlZzd2hCV3MzY29KVGFXTFNRWjdZZEUzTFQtSTdpVHdGRW9NYm5kblJKUy1uckh0SFU4OGlYUVFkbG4wMFVnNUhzNHdRWXJ5SmQ3QXBqbFptZUdsaWk0c2UxUV9EV29vX09pNlFfNXd5VWlTcXlaZWV4MVZCcTE3dE9JVEJ1WENDaWJtdkhQNUhqalJmTHgtYlNYOWtZbW9EQ1JlT09VQQ?oc=5"
-    },
-    {
-      "id": "a320d5059a1a719813",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-07-31T17:40:48+02:00",
-      "source": "El Español",
-      "title": "La UME deja huella en el pueblo de Almorox con un precioso gesto de despedida tras lograr estabilizar el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVFFHcjgxcjRoZnNrOGZnUUdVd1RWcVdKQjhERHFDQmMxU1RtUDVtV2cxdmJ1azBNeUUybHVDNzhxaFRPYWJLUDhCVG9jWVZSb250RzBBRGUtSlcwMFl0RW5PeGlNdXBYTDVYYlJseWVybGszRGplNW9KcXVPQ21KUWplU1NlY3JyZWlxbE5PakRTRHNSZm0wRC1zSWx0aXoyMXV4THc4S1FiOUFkdll3YThPQUJrLV9NMEI4SGFjZldzb1E3eWVuT2JTcGxjQlZtSWRlQkJiV1JfN0JveElmYW4wU2N0anVDMUFETURxc2FfRjJ4WVF5ZW1hYU16cWhCUGJEdVlCcmZ4MHZVVWRnYTZJTF90aHJ5SXfSAZ8CQVVfeXFMUDh5bEFYSzJ5OGFVZ180Z2VWdC1tajAzZVl0T3RGZk8xSi1GbWh0VEFMYWtWa21DM0kweTdUOE43VXYzT0hsUDI3bVRhbTBFdGpQenhaRU5nOTlYcC02aVZTejA2UXJxeURzT0ItOWJTQnhNUXNHYzc4RnRFeGlTdXcyanZkX2hDTFU5LVdlZjZCUXdVeFZsMUdXM002LUlMUzBvQzRxNl8yWDhCV1FLX3F4VWhTOTZhWUljWUVfWmZ3X1JUQmhJdVJPeG9iZUJMYzJtaDI5SDEwZ1lJc0JUQWZLZ1k2LUhOMGlQUk9xczZDeVZuNEJvTFg2VjFpWG1qU3A3NXlUcWM2UFZ4azZTRkdDc1J4TDFOS1B2aDBtVVk?oc=5"
     },
     {
       "id": "8e391a4061190e087c",
@@ -451,11 +451,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 31
+      "items": 33
     },
     "direct_media": {
       "ok": true,
-      "items": 9
+      "items": 7
     }
   },
   "refresh_seconds": 300
