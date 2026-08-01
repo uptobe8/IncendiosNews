@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:59:20+02:00",
+  "generated_at": "2026-08-02T00:03:04+02:00",
   "items": [
     {
       "id": "a96c6f51f8de18807b",
@@ -12,6 +12,18 @@
       "title": "El incendio de Sierra Oeste se mantiene estabilizado, con pequeñas reproducciones de \"escasa importancia\"",
       "summary": "El incendio forestal declarado en la Sierra Oeste madrileña continúa este sábado estabilizado en fase de...",
       "url": "https://www.europapress.es/madrid/noticia-40-efectivos-siguen-refrescando-perimetro-incendio-sierra-oeste-especial-atencion-embalse-san-juan-20260801103036.html"
+    },
+    {
+      "id": "24d0e237da00b5df20",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "La Adrada",
+      "published": "2026-08-01T22:47:23+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Un nuevo incendio obliga a desalojar urbanizaciones en La Adrada",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXlWTVZGVTdPRU0zSzRrRW5YUUhJMUlac0w0ejMzNXZ6LTgzTDJ0dF9hSFV0aUpiXzc3YmdCdFk3TzkwNFIwN01qbE1xZDVSalprX3hfOF9FeFlIYjdyRW44NXAyZ3F2UGd5VTd5b1g4YU83cGdkRHgydkdsQmdyVXR3NndpemVoNUhVcm1WR1A4eDlFdnVST3QycDJSWVkybTFJOFNMWnpxb1lQQ0E?oc=5"
     },
     {
       "id": "9d9f1d40daf6723de8",
@@ -40,26 +52,26 @@
     {
       "id": "d08cca45053f20977e",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
       "province": "Ávila",
-      "town": "Burgohondo",
+      "town": "Provincia de Ávila",
       "published": "2026-08-01T22:09:57+02:00",
       "source": "Europa Press",
       "title": "La mejora de los incendios de León y Zamora alivia la presión del operativo, que se mantiene alerta en Ávila",
-      "summary": "El fuego de Veguellina baja a IGR 1 y permite el regreso de los evacuados, mientras Burgohondo obliga a...",
+      "summary": "Castilla y León afronta la noche con un escenario más favorable en los principales incendios forestales que...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-mejora-incendios-leon-zamora-alivia-presion-operativo-mantiene-alerta-avila-20260801220957.html"
     },
     {
-      "id": "36b60b2582d3a61cd4",
+      "id": "dbb05c9b295c4553ef",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-01T22:00:43+02:00",
+      "published": "2026-08-01T22:00:45+02:00",
       "source": "Cadena SER",
       "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMWZsYzhpSXJtYVV4U0hkQUx4ZWotMWlwb211eDZPRkZfWWtuZHVxZlRwSk8wRzJZX1F5UURlMTJHNy1MWElqNGVPUlN6c3hIQzRtb3c1NDhkQUVQRGlMMk9ZZjNNSnpvQUxMT2t4LW9fSXNPSWhEV21NM08ydThYMG9LOWs4Vy1LZ3Y3a3VVLWlJTXBSRVF5Zlg1eHBwYmtEOUU3SUFzNTBEdFpNZjY0UGo3TlRqN1Nla1dIY0JwbzhFOVhETG9uYXFyRk80Z25ndEJQQmRWMGI3bFBNSE4wZnVLNnZnd3ZpTFlDVjJZWDg2NFQzY0Y4b0ZxTFBTVDFWcGFuUEQyR1NORkRqcmIyX3lReV9YanFqdXFpRGdraUpuVmPSAaMCQVVfeXFMTTFmbGM4aUlybWFVeFNIZEFMeGVqLTFpcG9tdXg2T0ZGX1lrbmR1cWZUcEpPMEcyWV9ReVFEZTEyRzctTFhJajRlT1JTenN4SEM0bW93NTQ4ZEFFUERpTDJPWWYzTUp6b0FMTE9reC1vX0lzT0loRFdtTTNPMnU4WDBvSzlrOFctS2d2N2t1VS1pSU1wUkVReWZYNXhwcGJrRDlFN0lBczUwRHRaTWY2NFBqN05UajdTZWtXSGNCcG84RTlYRExvbmFxckZPNGduZ3RCUEJkVjBiN2xQTUhOMGZ1SzZ2Z3d2aUxZQ1YyWVg4NjRUM2NGOG9GcUxQU1QxVnBhblBEMkdTTkZEanJiMl95UXlfWGpxanVxaURna2lKblZj?oc=5"
     },
     {
       "id": "1e87a1b338447ef485",
@@ -194,6 +206,18 @@
       "url": "https://www.europapress.es/madrid/noticia-sermas-realizo-alrededor-3900-atenciones-21-ingresos-hospitalarios-incendios-sierra-oeste-20260801125301.html"
     },
     {
+      "id": "68c013932d24b79449",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T12:46:39+02:00",
+      "source": "ABC",
+      "title": "El incendio de Burgohondo recibe el refuerzo de 50 efectivos llegados de Catar con dos helicópteros",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjFETi1xX21ENUVGeEtndVFMSGE1M1RzQjJsbUJZX0lEby1wbWI3aXNpZ2FXZngyRm5xeUdHakIwM3FoWXBuMXNYWDdMWE0xcDVkdkhoV29lRHNlVmtuZ0p3ekZaMUVPY3hHelVnaXZ5XzZ0WmJqbmI2cmJhTC1KZWQ4X2tuNktUdDF4OUtEZUYycHU5ZGFqUVB3Mm1vRkYteHhQNUR3Sk1xSE9QbzA1dHNhbml3eFNVcW1ENmtTdTY?oc=5"
+    },
+    {
       "id": "491b527e71f71e1ea6",
       "type": "news",
       "severity": "info",
@@ -228,18 +252,6 @@
       "title": "De un carnero sin lana a un perro refugiado en una piscina: la otra cara de los incendios de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkZYTFVHSlZXcW5zRDNYQXV0YXFzZkJjV00wUE5rcjhGZ3hzOGYwSEFiWk5OdkotRmJpSFlEZHJmcF90VXRmWFV5WjZnOUx1ZVgxVkYzcUpnRUg4OF9DTHBNbDNTWVJDUkJDZFB6VDdMX0RudXc4RTRsLXdkMzdGbUJjbnNSZUNVZFRQQTloM2Q2a05qWkpodUx4WE91Y2c2M1pxRElMbEw0blo1dXU5c2hXNWMya2E5RFJrT0g0cHdienB1S0E?oc=5"
-    },
-    {
-      "id": "45b83c9a5d6d77ab1c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T10:47:07+02:00",
-      "source": "La Razón",
-      "title": "El pantano de San Juan, objetivo de los 40 efectivos que refrescan el perímetro del incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHVvM1lTclRzVFRNVHVGTlNaeHZza0FiYkxXU2JESHd2eDNvbWpNSl9fLWQxRE9kQml6R21TeFBYRno5WGFpdDNTUXlMTFNMSlFoeWJuYV9nYmlidnBYQzFJdHFLTWhfN0dCX2ZGVkZGUHh1amU3NkJjc1pGdl80Tkd2QWd2cmduS1p5NUxXVWpXaUlWWEx0Y19qYURnR1BTSDA3VlhJaXR4ZXVPTlNuTDU5VUtOV0lfNUVsQTdzWXRfdzlrTTJ2R0xaa1JJMVlMZU81RTJ1UkFnWXJ3eVVBeXo5Q0FSZnfSAfsBQVVfeXFMUDlyMDktWHJtbUVoMmVaTzNxMnhTd25JdXV0Q3ppQVNOd0FXNXA1VG1fNHl1MnNsa0lIUkllTXJPb2NQOGZEY0xoc3BMUmlzeWNhbmQ4eDdYQnZtSVBQbzVoWnRvTXpOY3hsU1doa0xZN0d2NFI1ZGNvbEVhWFQxaFN6eVAzcWlNcVQxanBXdFVSX0dZWHdrYzZhX3AwX1dkdC10b0lxcE9VTVp1eGFyS01Bc0FZTzBPT2FpMndLNElhNUJ2NDZZNGpobDRXN1U4LTluM1dyb3JGaHpMZHd1cmw5LURlcTBnWm5ZZml3aXFyVTRDTjVmV2V0VWc?oc=5"
     },
     {
       "id": "43fd282c4243927c76",
@@ -300,18 +312,6 @@
       "title": "Tres miembros de la UME heridos al volcar su camión en Robledo de Chavela (Madrid)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RRjVXSGlVNzdjcmdWNFhIeTBLOGlDLXdNdlJ0RWVYYldsbnZNZU81bU5hTWlYMnA4clU0UTJvLUJxUjRfR1Z6M2tGblpYU1NpNnlJZGpCMTAzaDRQOE5Ra0lPaWxnbTEzR2l4aFItUndQWXJxeHNsSUNn0gF6QVVfeXFMTndlZTh4MHNqbmUyOF9jMFZYTU0zeTE2NjZPRTFaQUh6RXJuTHZrcUVrU3E5ZUx0MWF1RElXSDdJZkZkRWFINUVzOWVUX25vU2NPM1cxaDdNNVE3UVdrbnJOSnRPLXpLRjBpTlBKM2RaQUJ1ZVJvc3B1V1E?oc=5"
-    },
-    {
-      "id": "c8a672fef6d66b743d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T02:00:00+02:00",
-      "source": "El Español",
-      "title": "Recorrido por el Madrid sepultado bajo la ceniza del mayor incendio de la Historia: \"El pueblo salva al pueblo\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlpSWHgwejNKYmRpWjZfYTIyRVF1a1FYZnpfcHZTREVSLXFsV1BvcS15NXpuNlVQRXMwV0Q4SzlzdlV4Tlg4MkhnVk1Ucm1yQi1yNWdxMzdSXzd6QlQyNlVuUWZvekZTRlZrcTg5N0ZMdHdYZ08zdGM3S1ZERGxFWlNvcGc3cUVLZHlSVExKSkZqVXFQY3VKWVdZc21LTWExcDl6ZTRsT0dCVWl0bi1mVENQWE5FaktlajNldnpIOFRBV3NYWGtWSlNyN2g5TG4wMnkwZHFtU2wtZ9IB3wFBVV95cUxOcXdqTFRYODJiMTdMQnFUSmNjMEs1SnluRkQtZFdyT0J1eFhPbTBaRG5MM2dGYU5rV0tZbHdRaXR3VHJhQkF6cjBVTGoyUFc0RlpfQnNfWFViTnVMMHBxVUQ3T3hBLUIwb0N3ZS1XMUEzOTZDN0xkMGZ3dGdpME1xcGU4Q2gyODhaRUNoUHJvMEs3Z3N6a2xNa2VsQlZDYzZWb0EwLUdxSXZFRXJzbjlzSW9RQnlaOERVeXZOTGZEdldOZzd0OUl1VVBQdm1XNnE1blFZNXpxSldOcEJSUEc0?oc=5"
     },
     {
       "id": "cc3a1692002918948c",
@@ -451,7 +451,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "direct_media": {
       "ok": true,
