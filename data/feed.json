@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-01T20:42:54+02:00",
+  "generated_at": "2026-08-01T21:57:40+02:00",
   "items": [
+    {
+      "id": "a4fd51da82278913eb",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T21:26:35+02:00",
+      "source": "Telemadrid",
+      "title": "Desalojada una urbanización tras una posible reactivación del incendio del Burhogondo en Ávila",
+      "summary": "Una \"posible reactivación\" registrada en la tarde de este sábado en el incendio de Burgohondo (Ávila), en el término municipal de La Adrada, por...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Desalojada-una-urbanizacion-tras-una-posible-reactivacion-del-incendio-del-Burhogondo-en-Avila-2-2912428743--20260801091326.html"
+    },
     {
       "id": "2e9df578a222e9e280",
       "type": "news",
@@ -34,8 +46,8 @@
       "published": "2026-08-01T20:30:27+02:00",
       "source": "Telemadrid",
       "title": "Desciende a nivel 0 el incendio forestal declarado en el paraje El Castrejón de Seseña (Toledo)",
-      "summary": "El Servicio de Prevención y Extinción de Incendios Forestales de Castilla-La Mancha (Infocam) ha rebajado la situación operativa a nivel 0 de un...",
-      "url": "https://www.telemadrid.es/noticias/sociedad/Desciende-a-nivel-0-el-incendio-forestal-declarado-en-el-paraje-El-Castrejon-de-Sesena-Toledo-0-2912408754--20260801071519.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRXhzYVhOZ2JQQzU2cGRodUE0SHowbFlfMXczdkRjUDdvU0tETWlORXZWRm1yd0tKMVVMbkFVc0VkTFZUZ0JILTh5bHJ0YUZOSWxmM0E3R0c1bHNDa1E3alhaY2ROTURteG54ODZWT0NUUDI0LUV1Y192eHMwdVE1SHlkQU52bURTUks3QTR0MGs3ZWVXazA5TlF4bk8wODcxcnpSM2dMWkVnYzJCaEo5RENtMUVwcmZCaDd4R1JpdVl6WXlSMy14YTMyb1RfQ2dlZkZHSVYzUUF2V040TmREN1BCSGV2T3Iyd01JanRLY3N2RkRFYmVFVlJTMzVoRXotS0F6QlV30gGGAkFVX3lxTE9FeHNhWE5nYlBDNTZwZGh1QTRIejBsWV8xdzN2RGNQN29TS0RNaU5FdlZGbXJ3S0oxVUxuQVVzRWRMVlRnQkgtOHlscnRhRk5JbGYzQTdHRzVsc0NrUTdqWFpjZE5NRG14bng4NlZPQ1RQMjQtRXVjX3Z4czB1UTVIeWRBTnZtRFNSSzdBNHQwazdlZVdrMDlOUXhuTzA4NzFyelIzZ0xaRWdjMkJoSjlEQ20xRXByZkJoN3hHUml1WXpZeVIzLXhhMzJvVF9DZ2VmRkdJVjNRQXZXTjROZEQ3UEJIZXZPcjJ3TUlqdEtjc3ZGREViZUVWUlMzNWhFei1LQXpCVXc?oc=5"
     },
     {
       "id": "2e4e199fec5bc37f33",
@@ -254,28 +266,16 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RRjVXSGlVNzdjcmdWNFhIeTBLOGlDLXdNdlJ0RWVYYldsbnZNZU81bU5hTWlYMnA4clU0UTJvLUJxUjRfR1Z6M2tGblpYU1NpNnlJZGpCMTAzaDRQOE5Ra0lPaWxnbTEzR2l4aFItUndQWXJxeHNsSUNn0gF6QVVfeXFMTndlZTh4MHNqbmUyOF9jMFZYTU0zeTE2NjZPRTFaQUh6RXJuTHZrcUVrU3E5ZUx0MWF1RElXSDdJZkZkRWFINUVzOWVUX25vU2NPM1cxaDdNNVE3UVdrbnJOSnRPLXpLRjBpTlBKM2RaQUJ1ZVJvc3B1V1E?oc=5"
     },
     {
-      "id": "3cd76fde2c973cefcd",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-07-31T21:39:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo mantiene la vigilancia por riesgo de reactivaciones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXNnM1F5amZLUHBZdGtvV0lKcFd3bDZTdlljWENyZUNUQzNLMGRjNG02NzdMMGl3WmV5SUllbVRLR3RUY2F1TGFOY3RLTHBwSHA1bkROZHRPa3h4LUlPT0s4YWY2bzdTME9rSFFuNzU4emxOVTdQOW9XWEtBTFRPRmpBcU1fZS1jaHB5cmJJQnhaOVZqclJ4RFNmdU5EU2xNNUh0VWUtam9OZUNkQl9RdUkzNDdpU2U4T1p0Mzh1TQ?oc=5"
-    },
-    {
-      "id": "967a2fe85df931c716",
+      "id": "c8a672fef6d66b743d",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-07-31T21:01:02+02:00",
-      "source": "ABC",
-      "title": "Veinte dotaciones terrestres y nueve medios aéreos refrescan la zona del incendio en Madrid",
+      "published": "2026-08-01T02:00:00+02:00",
+      "source": "El Español",
+      "title": "Recorrido por el Madrid sepultado bajo la ceniza del mayor incendio de la Historia: \"El pueblo salva al pueblo\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamFVUkVOWEdlRHdPcjhaNllac0NORmZlRXdGUS1MTTR5d2NOcnZCUm1jWjdVb0Y3V0dwNHlwcEpuMXFscmpmbEFoeENzZ0NoTTdTZzZMWndmU1JxNGoxMzhrNXNvNW92ZF96a1lfU1pQRnJONHhyNF8yV2k1RmxNcVhwY2xRQzJYQ2pGVGhnQ1hMN3RhR0tkOTZhY3NvWFlpZF9JeUlOaG9Uejg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlpSWHgwejNKYmRpWjZfYTIyRVF1a1FYZnpfcHZTREVSLXFsV1BvcS15NXpuNlVQRXMwV0Q4SzlzdlV4Tlg4MkhnVk1Ucm1yQi1yNWdxMzdSXzd6QlQyNlVuUWZvekZTRlZrcTg5N0ZMdHdYZ08zdGM3S1ZERGxFWlNvcGc3cUVLZHlSVExKSkZqVXFQY3VKWVdZc21LTWExcDl6ZTRsT0dCVWl0bi1mVENQWE5FaktlajNldnpIOFRBV3NYWGtWSlNyN2g5TG4wMnkwZHFtU2wtZ9IB3wFBVV95cUxOcXdqTFRYODJiMTdMQnFUSmNjMEs1SnluRkQtZFdyT0J1eFhPbTBaRG5MM2dGYU5rV0tZbHdRaXR3VHJhQkF6cjBVTGoyUFc0RlpfQnNfWFViTnVMMHBxVUQ3T3hBLUIwb0N3ZS1XMUEzOTZDN0xkMGZ3dGdpME1xcGU4Q2gyODhaRUNoUHJvMEs3Z3N6a2xNa2VsQlZDYzZWb0EwLUdxSXZFRXJzbjlzSW9RQnlaOERVeXZOTGZEdldOZzd0OUl1VVBQdm1XNnE1blFZNXpxSldOcEJSUEc0?oc=5"
     },
     {
       "id": "cc3a1692002918948c",
@@ -415,11 +415,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 26
+      "items": 28
     },
     "direct_media": {
       "ok": true,
-      "items": 10
+      "items": 11
     }
   },
   "refresh_seconds": 300
