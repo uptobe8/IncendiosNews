@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-02T00:03:04+02:00",
+  "generated_at": "2026-08-02T01:04:58+02:00",
   "items": [
+    {
+      "id": "e53b1ad3941c299c51",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T23:15:18+02:00",
+      "source": "ABC",
+      "title": "Levantan la evacuación de una urbanización de La Adrada al controlarse la reactivación del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0V2OHdGNXdKeFRzMjYtMjhSVUl4TlBfRWhua21ZLS1nUjM2aGVRTnZEU2RJcVJOdnAwX3NTR3dxVGVYQjdabllPUXZRWHZqc2RQS0psc09BVXoyaDJYZGVtUjBJQWVFeUFVUzJSRFRGaG9yNDdVN1BjVWlPVHFaYVJQdHNJZ2ZoZnhITnpfTWdCdzhZbVVlU2NlOURNdGhabnFONmNVYk9hOVVQLUpiVjRMcEpxb2pKZmVWcnJyRDhKY0xNUHd6TWZzeWVhcEx6YVE?oc=5"
+    },
     {
       "id": "a96c6f51f8de18807b",
       "type": "news",
@@ -52,13 +64,13 @@
     {
       "id": "d08cca45053f20977e",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Ávila",
-      "town": "Provincia de Ávila",
+      "town": "Burgohondo",
       "published": "2026-08-01T22:09:57+02:00",
       "source": "Europa Press",
       "title": "La mejora de los incendios de León y Zamora alivia la presión del operativo, que se mantiene alerta en Ávila",
-      "summary": "Castilla y León afronta la noche con un escenario más favorable en los principales incendios forestales que...",
+      "summary": "El fuego de Veguellina baja a IGR 1 y permite el regreso de los evacuados, mientras Burgohondo obliga a...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-mejora-incendios-leon-zamora-alivia-presion-operativo-mantiene-alerta-avila-20260801220957.html"
     },
     {
@@ -254,6 +266,30 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkZYTFVHSlZXcW5zRDNYQXV0YXFzZkJjV00wUE5rcjhGZ3hzOGYwSEFiWk5OdkotRmJpSFlEZHJmcF90VXRmWFV5WjZnOUx1ZVgxVkYzcUpnRUg4OF9DTHBNbDNTWVJDUkJDZFB6VDdMX0RudXc4RTRsLXdkMzdGbUJjbnNSZUNVZFRQQTloM2Q2a05qWkpodUx4WE91Y2c2M1pxRElMbEw0blo1dXU5c2hXNWMya2E5RFJrT0g0cHdienB1S0E?oc=5"
     },
     {
+      "id": "45b83c9a5d6d77ab1c",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-01T10:47:07+02:00",
+      "source": "La Razón",
+      "title": "El pantano de San Juan, objetivo de los 40 efectivos que refrescan el perímetro del incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHVvM1lTclRzVFRNVHVGTlNaeHZza0FiYkxXU2JESHd2eDNvbWpNSl9fLWQxRE9kQml6R21TeFBYRno5WGFpdDNTUXlMTFNMSlFoeWJuYV9nYmlidnBYQzFJdHFLTWhfN0dCX2ZGVkZGUHh1amU3NkJjc1pGdl80Tkd2QWd2cmduS1p5NUxXVWpXaUlWWEx0Y19qYURnR1BTSDA3VlhJaXR4ZXVPTlNuTDU5VUtOV0lfNUVsQTdzWXRfdzlrTTJ2R0xaa1JJMVlMZU81RTJ1UkFnWXJ3eVVBeXo5Q0FSZnfSAfsBQVVfeXFMUDlyMDktWHJtbUVoMmVaTzNxMnhTd25JdXV0Q3ppQVNOd0FXNXA1VG1fNHl1MnNsa0lIUkllTXJPb2NQOGZEY0xoc3BMUmlzeWNhbmQ4eDdYQnZtSVBQbzVoWnRvTXpOY3hsU1doa0xZN0d2NFI1ZGNvbEVhWFQxaFN6eVAzcWlNcVQxanBXdFVSX0dZWHdrYzZhX3AwX1dkdC10b0lxcE9VTVp1eGFyS01Bc0FZTzBPT2FpMndLNElhNUJ2NDZZNGpobDRXN1U4LTluM1dyb3JGaHpMZHd1cmw5LURlcTBnWm5ZZml3aXFyVTRDTjVmV2V0VWc?oc=5"
+    },
+    {
+      "id": "88c377721a67059973",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-01T10:33:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Incendio Sierra Oeste: 40 dotaciones continúan extinción",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWVSUUtQekZIZXpJcEZhcTE4MG9vQVMtTWNjSmZBVHVmRHQzUUtqTGp3aVg4NFYtdDJIRlFxaEsxV1YtNTdTZWpDMGI1OXNrWFpFd0hCakJxLXp4bGs2Zi15WGhTSTctMEZ6c0duSC0zOUlra2F4d3lkWlliZmJWMU5lV2xrSDU5UGZFazRfaWlwdmlQaHhweDdFQ2pHV1ZrSVlaLS1tcEttU3paYkppVFVGaWlwNWxMN2otTGcycXduLXdBZFNuVGlybEJTTmZ2?oc=5"
+    },
+    {
       "id": "43fd282c4243927c76",
       "type": "news",
       "severity": "info",
@@ -264,6 +300,18 @@
       "title": "El incendio Sierra Oeste continúa estabilizado, con vigilancia aérea ante riesgo por altas temperaturas y viento",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcjhjYXdwMmRRMWNtTkJLdGJ2bllHdncwNmtZa2t5NUE3QUZDaG5ncGZPRncyR253Z2ttUjdHeHdXNXY5RUZwMTFOc1RESHlxNzMtWGs3RTg0UFhtRXBYV21tVTFFcVFUVXFMaU1zZXVnZ0tlYzZfUHRGdEc2U19fb0d3aWN1QmpCU0M5cnlaMnN4dVl3cmhMWnJjVWVqNkxaWmp0VVUyeGVhM2lxSmtZX2ljRUI1eFdMMS1ENU85M3ZrcnhNVEpoODFab1loZEtzU2RMYzRzMXBDNEkxYVktMlRXTzljUHFaam85cmJLc3Y3Zw?oc=5"
+    },
+    {
+      "id": "518044a72e00b3615a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-01T10:06:24+02:00",
+      "source": "Madrid Actual",
+      "title": "Hoy en Madrid es noticia: incendios forestales, polémica por venta de ático y protestas ciudadanas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ0pJdk5EZXZtQlZld2tpWmxjNkVQUmNETTRUbHRVd1ZRbFg3ZGJBa2JFNFlKVW9kN1p6aU5YYjlsRUtZV3V1anhvSjJ5SF9iY0RSNFh3NDkxcVJ1X2s1WWtqVDNlXzFFWVRzTXpiRFlVNnRidkVkLXRVYk9BSXNJNFdGbUtEVGVxZkxQYy1tSWw5bEZFTURreVU3WWRHQzdiZFNmVGlKRlRfYm96bzEyM3JBSndhOG5pMHAyaGczaWxLZ203V2N2ZzJ6WGthNktQTmxlUElMczJpdWRKa0V6d2cwQnU?oc=5"
     },
     {
       "id": "d342c823ff05333f4f",
@@ -445,13 +493,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 34
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 29
     },
     "direct_media": {
       "ok": true,
