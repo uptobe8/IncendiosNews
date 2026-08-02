@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-02T01:04:58+02:00",
+  "generated_at": "2026-08-02T02:08:07+02:00",
   "items": [
+    {
+      "id": "a6ee5e13c880f9da0d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-01T23:24:19+02:00",
+      "source": "El Mundo",
+      "title": "El mando del incendio ve indicios de un posible origen intencionado en tres rebrotes en el sur de Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4TnJfUmlDdklIQUdYcGZOc3I2RUY4VWl1dzVRVHNxbGlwS3dlRUo5RkliX19hampZUW1iblpXS0pLdm9YQmVHei1QYngtazEzbzNNWWtxVkxPSEhReVJlS2tvLUYzaU1DVzU2WW5NN0FGOHZrSnJlWkJn0gF6QVVfeXFMTU5rXzdOSHRaOS1nM3RxQi11WVIwVzlxdFJRcFA3N3ZDUW9MZl8xd3hya3BxUlJyQ3JsdzF4a05KcTRxaXotMi0tY2NrTzRNV3lDWFRpMnR3aElLZzVGOFdOcnREYmxEVHRoUjhISk1WVzduYl9NNDBYN3c?oc=5"
+    },
     {
       "id": "e53b1ad3941c299c51",
       "type": "news",
@@ -47,7 +59,7 @@
       "source": "El Mundo",
       "title": "Evacuada una urbanización en La Adrada (Ávila) tras un rebrote del incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4TnJfUmlDdklIQUdYcGZOc3I2RUY4VWl1dzVRVHNxbGlwS3dlRUo5RkliX19hampZUW1iblpXS0pLdm9YQmVHei1QYngtazEzbzNNWWtxVkxPSEhReVJlS2tvLUYzaU1DVzU2WW5NN0FGOHZrSnJlWkJn0gF6QVVfeXFMTU5rXzdOSHRaOS1nM3RxQi11WVIwVzlxdFJRcFA3N3ZDUW9MZl8xd3hya3BxUlJyQ3JsdzF4a05KcTRxaXotMi0tY2NrTzRNV3lDWFRpMnR3aElLZzVGOFdOcnREYmxEVHRoUjhISk1WVzduYl9NNDBYN3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Oa183Tkh0WjktZzN0cUItdVlSMFc5cXRSUXBQNzd2Q1FvTGZfMXd4cmtwcVJSckNybHcxeGtOSnE0cWl6LTItLWNja080TVd5Q1hUaTJ0d2hJS2c1RjhXTnJ0RGJsRFR0aFI4SEpNVlc3bmJfTTQwWDd30gF6QVVfeXFMTU5rXzdOSHRaOS1nM3RxQi11WVIwVzlxdFJRcFA3N3ZDUW9MZl8xd3hya3BxUlJyQ3JsdzF4a05KcTRxaXotMi0tY2NrTzRNV3lDWFRpMnR3aElLZzVGOFdOcnREYmxEVHRoUjhISk1WVzduYl9NNDBYN3c?oc=5"
     },
     {
       "id": "d1993cddcb4857d007",
@@ -74,16 +86,16 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-mejora-incendios-leon-zamora-alivia-presion-operativo-mantiene-alerta-avila-20260801220957.html"
     },
     {
-      "id": "dbb05c9b295c4553ef",
+      "id": "36b60b2582d3a61cd4",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-01T22:00:45+02:00",
+      "published": "2026-08-01T22:00:43+02:00",
       "source": "Cadena SER",
       "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMWZsYzhpSXJtYVV4U0hkQUx4ZWotMWlwb211eDZPRkZfWWtuZHVxZlRwSk8wRzJZX1F5UURlMTJHNy1MWElqNGVPUlN6c3hIQzRtb3c1NDhkQUVQRGlMMk9ZZjNNSnpvQUxMT2t4LW9fSXNPSWhEV21NM08ydThYMG9LOWs4Vy1LZ3Y3a3VVLWlJTXBSRVF5Zlg1eHBwYmtEOUU3SUFzNTBEdFpNZjY0UGo3TlRqN1Nla1dIY0JwbzhFOVhETG9uYXFyRk80Z25ndEJQQmRWMGI3bFBNSE4wZnVLNnZnd3ZpTFlDVjJZWDg2NFQzY0Y4b0ZxTFBTVDFWcGFuUEQyR1NORkRqcmIyX3lReV9YanFqdXFpRGdraUpuVmPSAaMCQVVfeXFMTTFmbGM4aUlybWFVeFNIZEFMeGVqLTFpcG9tdXg2T0ZGX1lrbmR1cWZUcEpPMEcyWV9ReVFEZTEyRzctTFhJajRlT1JTenN4SEM0bW93NTQ4ZEFFUERpTDJPWWYzTUp6b0FMTE9reC1vX0lzT0loRFdtTTNPMnU4WDBvSzlrOFctS2d2N2t1VS1pSU1wUkVReWZYNXhwcGJrRDlFN0lBczUwRHRaTWY2NFBqN05UajdTZWtXSGNCcG84RTlYRExvbmFxckZPNGduZ3RCUEJkVjBiN2xQTUhOMGZ1SzZ2Z3d2aUxZQ1YyWVg4NjRUM2NGOG9GcUxQU1QxVnBhblBEMkdTTkZEanJiMl95UXlfWGpxanVxaURna2lKblZj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
     },
     {
       "id": "1e87a1b338447ef485",
@@ -493,13 +505,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 34
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 33
     },
     "direct_media": {
       "ok": true,
