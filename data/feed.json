@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:37:32+02:00",
+  "generated_at": "2026-08-02T20:39:04+02:00",
   "items": [
     {
       "id": "d871b4b99f9076a85b",
@@ -12,18 +12,6 @@
       "title": "Desalojan a 400 personas de un camping de Cazalegas (Toledo) por un incendio forestal",
       "summary": "Las 400 personas que estaban este domingo en el camping de Cazalegas (Toledo) han tenido que ser desalojadas durante varias horas debido a un...",
       "url": "https://www.telemadrid.es/noticias/sociedad/Desalojan-a-400-personas-de-un-camping-de-Cazalegas-Toledo-por-un-incendio-forestal-0-2912708718--20260802070611.html"
-    },
-    {
-      "id": "f0f76edaaa5e27882d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T18:55:07+02:00",
-      "source": "ABC",
-      "title": "El incendio de Burgohondo mantiene un amplio despliegue ante el temor a las reactivaciones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVVyREhMUWFqbHU0eHFYUm1VQUw4Q2FneURoZ1d0ZXl5RloyRVV0bTFGeGhiOWFCNFowdGFLdVI4WXNoNVhnRkpHX3NpRmx3VDlObXZ6ZXVzMDVxUXMxN3hXQ0dnMzlDM0VUYWt0clNhM3FhU28tNkFGWUMzRUd4Q0VjTjFkWGVfMW1mSzdhbkpNUWVwLW11UzcyaGlUU0FWSVVzaWtqQ01VUHdzeEFLWjBUUTFrOVpZbU5IRVBB?oc=5"
     },
     {
       "id": "dfe72c1a9626d85c72",
@@ -120,6 +108,18 @@
       "title": "Telemadrid recorre los municipios más afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeWFMazNERUZRZ3pRWlV5ZGU4S3FWR3lVWEFOUkh1dHlmRm1wX2Zld1VJUjJjVkN0c3haZWRqZ1FVTHhGc3A2eU1sc1RoaXBUQkdkQUV4cVBQTWpRaFBhTlBqczBKMG5ueTlCRV9kak5kUzZzdlFjb09uaElEYkxJaUI2a1JPTGxhcXNNWk43bmZRRGxmclRZNFBHaURLSnJPSGV2QmxOVTdIUi1rdHVyX1hlRG9XaXBRQ3R4bDhBZHl5NHZ5X1ZVM3BGSUU2b0htV0pIcmR4R1ZJTm42XzQya05qS2RRT3BvUzBZbTF2ZlhRZmlxYVdqamtVa1Z3eFBxWGVOYk1XTkllalHSAZACQVVfeXFMTzktR2tTenlYRUU4blZYT2V0SGM2YTBCUElfNU1saU5xNVJ2V0FRT0dYYVNuVUZfbDJuWnFCUk9WcmZEVThjNnp6UHFaeWUtUS16SXRBMU93VHZwbmF4WVdnbXU4dWVPUGJKSlpYdFJoLUJUQlE4Ui1zdjNxamdsa1N2NjRyRlZwWmpGVlpoTWZMNUJ0NTBBQmZDd3hTb091ZkhvaVFkNFU4MEFuTVMxSGtfVmtPUHE1cHotLU5nV0ZrX3hlYVM4TmMwdUQ2eHRzQUV4TW93Y0llOTA4NmN1cWFleDFFUUk0enk2ZDh0S0wwU3ZFcG50R1REbmlNVnFESzdHTDhQelZQdWRLdTNYVlM?oc=5"
+    },
+    {
+      "id": "7f1970e75ef288bda3",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T11:23:48+02:00",
+      "source": "ABC",
+      "title": "El incendio de Burgohondo mantiene un amplio despliegue ante el temor a las reactivaciones",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVVyREhMUWFqbHU0eHFYUm1VQUw4Q2FneURoZ1d0ZXl5RloyRVV0bTFGeGhiOWFCNFowdGFLdVI4WXNoNVhnRkpHX3NpRmx3VDlObXZ6ZXVzMDVxUXMxN3hXQ0dnMzlDM0VUYWt0clNhM3FhU28tNkFGWUMzRUd4Q0VjTjFkWGVfMW1mSzdhbkpNUWVwLW11UzcyaGlUU0FWSVVzaWtqQ01VUHdzeEFLWjBUUTFrOVpZbU5IRVBB?oc=5"
     },
     {
       "id": "2e44978cc3cee2f462",
@@ -290,18 +290,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZEYzktWmlEYUw5aTAzaHlLbE82dzh1OGlOdmk5d3ZDdlljRXFsRW5XdUM3WXVyOUJiTU1Fd0NpSWw5djhoczNQOW94SXREcTlmZEs3QkhRXzNNa3lUNFNfT0dWZVVobHkzNWtfem1xU24zTkE2TnVTaUpIN0dSSjJJc0k2U0JVS09IazBKUGEtams0RWh6WlV3WE5paTlQMjk4dVJjRkdQOUxnMkpKOUR2MmFWbWcwQUdmRjJWdE9CREp6cUFLWGl2R0x1UQ?oc=5"
     },
     {
-      "id": "2e9df578a222e9e280",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T20:35:32+02:00",
-      "source": "ABC",
-      "title": "Se reactiva el incendio de Burgohondo (Ávila) y obliga a nuevas evacuaciones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeW1KbVZXOWlBcFlnT1pOOGdHS3MzcVBJcnZrZ2RjU25wMmtxaVhYanFVeTdqV19ZRTh2SDBiNkhQT3c0ajI3eEp2cXh2ZElHbnZCeHJJQ3pjbXIwckRQV1NvWmtja3VvWHdFdFQtVzRhS2RfLW45Q0xzMVp5OS10LWZ2TVZ6TGJJMkFkRmdjdnIwdUIzOGpIZUdBcWVYWlNTUnJYVUJoRTFGNVBjVWdadTRmbW5QUll6WXhWM0JjVFVWZw?oc=5"
-    },
-    {
       "id": "d3551daeb0b9d2659c",
       "type": "news",
       "severity": "critical",
@@ -312,18 +300,6 @@
       "title": "Ordenan evacuar una urbanización en La Adrada (Ávila) por una reactivación en Burgohondo",
       "summary": "Una \"posible reactivación\" registrada en la tarde de este sábado en el incendio de Burgohondo (Ávila), en...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-ordenan-evacuar-urbanizacion-picota-adrada-avila-fuego-burgohondo-corta-av-930-20260801201600.html"
-    },
-    {
-      "id": "d17f10041d416c01a3",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-01T20:30:27+02:00",
-      "source": "telemadrid.es",
-      "title": "Desciende a nivel 0 el incendio forestal declarado en el paraje El Castrejón de Seseña (Toledo)",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRXhzYVhOZ2JQQzU2cGRodUE0SHowbFlfMXczdkRjUDdvU0tETWlORXZWRm1yd0tKMVVMbkFVc0VkTFZUZ0JILTh5bHJ0YUZOSWxmM0E3R0c1bHNDa1E3alhaY2ROTURteG54ODZWT0NUUDI0LUV1Y192eHMwdVE1SHlkQU52bURTUks3QTR0MGs3ZWVXazA5TlF4bk8wODcxcnpSM2dMWkVnYzJCaEo5RENtMUVwcmZCaDd4R1JpdVl6WXlSMy14YTMyb1RfQ2dlZkZHSVYzUUF2V040TmREN1BCSGV2T3Iyd01JanRLY3N2RkRFYmVFVlJTMzVoRXotS0F6QlV30gGGAkFVX3lxTE9FeHNhWE5nYlBDNTZwZGh1QTRIejBsWV8xdzN2RGNQN29TS0RNaU5FdlZGbXJ3S0oxVUxuQVVzRWRMVlRnQkgtOHlscnRhRk5JbGYzQTdHRzVsc0NrUTdqWFpjZE5NRG14bng4NlZPQ1RQMjQtRXVjX3Z4czB1UTVIeWRBTnZtRFNSSzdBNHQwazdlZVdrMDlOUXhuTzA4NzFyelIzZ0xaRWdjMkJoSjlEQ20xRXByZkJoN3hHUml1WXpZeVIzLXhhMzJvVF9DZ2VmRkdJVjNRQXZXTjROZEQ3UEJIZXZPcjJ3TUlqdEtjc3ZGREViZUVWUlMzNWhFei1LQXpCVXc?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -433,17 +409,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 28
+      "items": 26
     },
     "direct_media": {
       "ok": true,
       "items": 5
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
