@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T02:08:07+02:00",
+  "generated_at": "2026-08-02T05:50:11+02:00",
   "items": [
     {
       "id": "a6ee5e13c880f9da0d",
@@ -76,26 +76,26 @@
     {
       "id": "d08cca45053f20977e",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
       "province": "Ávila",
-      "town": "Burgohondo",
+      "town": "Provincia de Ávila",
       "published": "2026-08-01T22:09:57+02:00",
       "source": "Europa Press",
       "title": "La mejora de los incendios de León y Zamora alivia la presión del operativo, que se mantiene alerta en Ávila",
-      "summary": "El fuego de Veguellina baja a IGR 1 y permite el regreso de los evacuados, mientras Burgohondo obliga a...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-mejora-incendios-leon-zamora-alivia-presion-operativo-mantiene-alerta-avila-20260801220957.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVkp0TWFlSGdkZ0J3UkZ3OHNIWUlSMlk0TE1yNjB3cmE3Qld6ZFoyOWVOaGxvcDdpTHd0Ri1oTFF3ODgxMFhKWmRxb1BCd0tQYXROMmExY1U2R1NXRk1PNlFwaVRCWGY2aEhMR0FaRkJtOW01LWkwRk4yemI0YnF4dkdLZU85M1hxdXJ0RW5pbXFPc0s0c3VzSHhGU085eDlTd0pZVDF6WFZ1bGRHTHE0UHNmc1RmMkQtek5mWDB5ejFaWmhGRWE3bTZUbUVPY0lGckgxOUVSZHk2MkkwM0U4?oc=5"
     },
     {
-      "id": "36b60b2582d3a61cd4",
+      "id": "dbb05c9b295c4553ef",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-01T22:00:43+02:00",
+      "published": "2026-08-01T22:00:45+02:00",
       "source": "Cadena SER",
       "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMWZsYzhpSXJtYVV4U0hkQUx4ZWotMWlwb211eDZPRkZfWWtuZHVxZlRwSk8wRzJZX1F5UURlMTJHNy1MWElqNGVPUlN6c3hIQzRtb3c1NDhkQUVQRGlMMk9ZZjNNSnpvQUxMT2t4LW9fSXNPSWhEV21NM08ydThYMG9LOWs4Vy1LZ3Y3a3VVLWlJTXBSRVF5Zlg1eHBwYmtEOUU3SUFzNTBEdFpNZjY0UGo3TlRqN1Nla1dIY0JwbzhFOVhETG9uYXFyRk80Z25ndEJQQmRWMGI3bFBNSE4wZnVLNnZnd3ZpTFlDVjJZWDg2NFQzY0Y4b0ZxTFBTVDFWcGFuUEQyR1NORkRqcmIyX3lReV9YanFqdXFpRGdraUpuVmPSAaMCQVVfeXFMTTFmbGM4aUlybWFVeFNIZEFMeGVqLTFpcG9tdXg2T0ZGX1lrbmR1cWZUcEpPMEcyWV9ReVFEZTEyRzctTFhJajRlT1JTenN4SEM0bW93NTQ4ZEFFUERpTDJPWWYzTUp6b0FMTE9reC1vX0lzT0loRFdtTTNPMnU4WDBvSzlrOFctS2d2N2t1VS1pSU1wUkVReWZYNXhwcGJrRDlFN0lBczUwRHRaTWY2NFBqN05UajdTZWtXSGNCcG84RTlYRExvbmFxckZPNGduZ3RCUEJkVjBiN2xQTUhOMGZ1SzZ2Z3d2aUxZQ1YyWVg4NjRUM2NGOG9GcUxQU1QxVnBhblBEMkdTTkZEanJiMl95UXlfWGpxanVxaURna2lKblZj?oc=5"
     },
     {
       "id": "1e87a1b338447ef485",
@@ -302,18 +302,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWVSUUtQekZIZXpJcEZhcTE4MG9vQVMtTWNjSmZBVHVmRHQzUUtqTGp3aVg4NFYtdDJIRlFxaEsxV1YtNTdTZWpDMGI1OXNrWFpFd0hCakJxLXp4bGs2Zi15WGhTSTctMEZ6c0duSC0zOUlra2F4d3lkWlliZmJWMU5lV2xrSDU5UGZFazRfaWlwdmlQaHhweDdFQ2pHV1ZrSVlaLS1tcEttU3paYkppVFVGaWlwNWxMN2otTGcycXduLXdBZFNuVGlybEJTTmZ2?oc=5"
     },
     {
-      "id": "43fd282c4243927c76",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T10:30:36+02:00",
-      "source": "Europa Press",
-      "title": "El incendio Sierra Oeste continúa estabilizado, con vigilancia aérea ante riesgo por altas temperaturas y viento",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcjhjYXdwMmRRMWNtTkJLdGJ2bllHdncwNmtZa2t5NUE3QUZDaG5ncGZPRncyR253Z2ttUjdHeHdXNXY5RUZwMTFOc1RESHlxNzMtWGs3RTg0UFhtRXBYV21tVTFFcVFUVXFMaU1zZXVnZ0tlYzZfUHRGdEc2U19fb0d3aWN1QmpCU0M5cnlaMnN4dVl3cmhMWnJjVWVqNkxaWmp0VVUyeGVhM2lxSmtZX2ljRUI1eFdMMS1ENU85M3ZrcnhNVEpoODFab1loZEtzU2RMYzRzMXBDNEkxYVktMlRXTzljUHFaam85cmJLc3Y3Zw?oc=5"
-    },
-    {
       "id": "518044a72e00b3615a",
       "type": "news",
       "severity": "info",
@@ -348,30 +336,6 @@
       "title": "DIRECTO | Los bomberos vigilan rebrotes y conatos de incendio en la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPLVM4eXhuWFhTVWh3OURjS194ZXlUSW1vZG5uTDN6X0FEODA4NEJQdi1Xb1RkckdVQ013T0Qwbk5nTk01c0kwSVNETjBCOFdXQjAxaXhRT1hObWVpNU9PVmJFNWdKbS1MWkpNTGV0NlVWX3BGeUhBekNUTWtyb05DNWg0a0NCUHZGYjNnU01vcG9ELWdYd3NIZ01nRVRGb2d1Y1FkZnVSZUptVzhXN2wzbUkxZ3A4WmFkV2VDNkF0NEdxUjNBVktwdHdDSE5vSDZacC0wbWc3Q3EtU1ItYjZPaXplQ2ZPSHl6ZFJRV2hSRnZ1Vi0waVktaHZIaUtuOVF2T0xxaGFpTHNuNEh6QW1JUkdHYzU4RDNGMWhNQw?oc=5"
-    },
-    {
-      "id": "08f2f34017cbc435b6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-01T05:30:01+02:00",
-      "source": "EL PAÍS",
-      "title": "Reconstrucción visual | Así avanzó el fuego en Madrid y Ávila, día a día",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjB5QWJhOHpyNlgxX0pnLUZRWGlxMW45THBIblhPMmVOWF9CT2J6eHJHQVlQMUNtSW9GTTdkcGtlT0NhQ0tXVnE4MTFRMWItdjJFc1ZVLVNyX2FaMlJlaU54NkY2c3VWbzdZUThPZnJRMDVrRnJGMGt5OVdPY0JoOU9LeUhOaDZ0TUE0TXY1YXdjd1JTUEVndGVldmlNdmNCeEZKQy1qa0kxZFNDSmkyZg?oc=5"
-    },
-    {
-      "id": "72fe9228e3ac9f2f97",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Robledo de Chavela",
-      "published": "2026-08-01T02:53:52+02:00",
-      "source": "El Mundo",
-      "title": "Tres miembros de la UME heridos al volcar su camión en Robledo de Chavela (Madrid)",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RRjVXSGlVNzdjcmdWNFhIeTBLOGlDLXdNdlJ0RWVYYldsbnZNZU81bU5hTWlYMnA4clU0UTJvLUJxUjRfR1Z6M2tGblpYU1NpNnlJZGpCMTAzaDRQOE5Ra0lPaWxnbTEzR2l4aFItUndQWXJxeHNsSUNn0gF6QVVfeXFMTndlZTh4MHNqbmUyOF9jMFZYTU0zeTE2NjZPRTFaQUh6RXJuTHZrcUVrU3E5ZUx0MWF1RElXSDdJZkZkRWFINUVzOWVUX25vU2NPM1cxaDdNNVE3UVdrbnJOSnRPLXpLRjBpTlBKM2RaQUJ1ZVJvc3B1V1E?oc=5"
     },
     {
       "id": "cc3a1692002918948c",
@@ -511,7 +475,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 33
+      "items": 29
     },
     "direct_media": {
       "ok": true,
