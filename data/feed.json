@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-02T20:39:04+02:00",
+  "generated_at": "2026-08-02T21:52:11+02:00",
   "items": [
+    {
+      "id": "3a825a46810a84af60",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T21:45:57+02:00",
+      "source": "EFE - Agencia de noticias",
+      "title": "El operativo del incendio de Burgohondo (Ávila) confía en una noche más favorable por bajada del viento",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tMzhsSllkT2Z1MGp1ckNlcExYRHVWa0JUY2Vma0Q2bll0cnFqUGkwUlY2YlI4V2FGbk9MS1owSU53NjM1cTR2SkdWNzVZRkRScnFNbURjaVNER3RiWU9Ic0tDZzdDVkt1U1ozTDZ0QU9MSWx2Vk0w?oc=5"
+    },
+    {
+      "id": "b46e6d5a082c78f690",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T21:08:15+02:00",
+      "source": "ABC",
+      "title": "La odisea del 'influencer' Xtrauss para salvar a sus animales exóticos del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpHTG9nTXR2czl6RjRiNHltRkE3MURBUUF3ZnNVWWpDdjkwRkdmQTJOdmN1MmhQWXRUcFdPa3Q5XzhKWHhlWEdvSWYwNC1qaTBmbnJTcmRyOGVMV3lNUGs4VlZhamc4TVlMN2NrQzNCdURfLTFTVlE5bWdnY0ZiUm1VazNfajRDTFM1OUFFaDZKNWZwci05UmtPMV9TSHZlUEItTUxpekc1cXNlejZ3ZlYzWGg?oc=5"
+    },
     {
       "id": "d871b4b99f9076a85b",
       "type": "news",
@@ -50,37 +74,37 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3EtdkltRnN2WlNnYmNGMldSMGpmTTEtSzhzWmI1bkg0RU56bDdZTkNWVUFOZzlHYTFSby1pNWpmbU9Ta2lNbDdjSy01bkZSVzk2UUdLWS00cUpudVhuS2REQ0JKY3k4ODVoRHc1cGstUS15dWtoV2xSdmlPUFNSOTJRblY5RWtTQjI1NTU4VkdyT0pHX3czb0tTbFJVQmQ0YUlCdWVqVWhiaUMyVHhtRA?oc=5"
     },
     {
-      "id": "81db6a208b6338c594",
+      "id": "116fca3f8557a3aeaa",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-02T14:58:53+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Se investiga si la reactivación del incendio en Burgohondo (Ávila) se realizó de forma intencionada",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdml3Q2RmamR0TGJ2cW04amcwS0E4MUczRHhoYTBJYlpVemFpSnBRWmpFVlJfbmkwcncwdWRWYmF0blVkWDlqYjM4Um1ucDZmZFNSQ3kycnVJTzNkQ3lZYlNKd2FfODdHSktIUFktNkJBeUxYOGlRQ3MzRUJ3ZDNhUk1CTFU5VERjMElQSVptR0g4bHFvYUpRVnRVMEVCM2RnMEUzWktqUDBZX0xkTDNCZGZnX01ndlRsYmdkTUVSazZkazhYRGVwWWdBUlNicGtDTHpraC1EdVNfbjFfXzRVRFJyT0k2aUdmUE00LXBDRTdvcnp2M3JHZWNmRmVMRmVBRnVDcUgyVnRTdm1nMGx2eURmZmlvRjlEVXd1SFlGc9IBpAJBVV95cUxQdGl1cDNrNEpQTGM1WkktVURJVDFvS2hVb2YtS0lmUnU2Y3ZtTW9WcXhCTVAzQW0xNHNRakRTajMyeThOenJHTjZNUGRMOFR6LUg0TXoyYUhlQjVoTERtMUhILW1jMTNHdGZXZi1YRFhENktVOXJZbkpGc1VTY2trTXVCNWtlRnBXNTB4T09KZ1ZoRzJZUGV0MGpFWXNvWWNVaE1DbW5JOVh4bG8yWW5NZ0lhX3JXaXdFQVh2bFZ1UEJwalA0WFluYjRObHpTckpvWk44NE1ZbzN1c0x6UXllUHJkWkJPaktHN0xpblhwZW9KZnp5U0xQRy1NblFBMjZfd0hMaTRFcnpPZVJ1OUpfM2VtRFNZcEZzZUp6LTBHOVdMbHN2?oc=5"
     },
     {
-      "id": "8cf975d3e3f8a174cf",
+      "id": "6cc7f6ad68b06538bf",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-02T14:51:41+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Así fue el protocolo de Safari Madrid que salvó a los miles de animales del incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWjg5M0l1SVNKMWtlMTY3bThjQUxhU2RSSHhDeWoxb0lhaXdfSHB0TF9nX2VBc0VOanFWaGd4YTJJNG1Bd2JWVlRVM0FzdjR4azhKSnpOOTUtTEhHRVlyNHJSSXRxWHN5YTQ5MmNwRVh1Zkk4TjlQMkhJYnNISHh1MGx0MGxTTkgtUFk2d3VwWFRVbEt6UGJ4TEMzX1YtWWg3LWhmR2FRZEVjZGZYa2JqMmhEZmZ2MkNSM2VBRG5td1lrR1N2X0lTRzYzbTdFNVhIYmFGZWFKdzJEZEhxVWFJOU53Xy1pdmdEYi1kdk5FQWRLbXZKbDBxMV83ekYzS01xYk5FSGZCSGlRRS0xUWfSAZMCQVVfeXFMT1JHQ0RlU2s4ejZFRzZLc3hQNnNUUDhkdXQ2d21zSGxXakl1MUk0WWVkcHQzTnh6V0pYRFJkeGU3Rlc2eEpJNFJNQnlFR0pLYWhPWFZqMmh6SFpTT2RmQWtTNV9BcVZqMndoTHdySWpQb2FEdS0yTUhoMFhMZDRyRXJ6SmpJOURhNk9ONFlkSGdNaVlONXF2WU5fZU16MUpsb2o1c3dvUmZyb2lDTFB0NC1IenFTcXJYQzJ4OFNoSDExakRZUHlhMDVhWldyUFc5OFkwcFVZWExPemlnNHBWdEtnWFRoODFiMUswQjI5M1I5YW9jVEFrU3VsZW9HeUJ4dVRXY0MyWXZZZXZjdnFvRlFBekk?oc=5"
     },
     {
-      "id": "18388fb11728f19075",
+      "id": "2957825659e9313683",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-02T14:34:45+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Las consecuencias del incendio Sierra Oeste: 77.000 hectáreas arrasadas y 1.500 viviendas afectadas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbW8wQnRYeXcxSTBkT0liczZPT2tzZlJTdVFTR0lyaGpqaWZ2VVdYcV9EWjl4RmhDT2x3QjAtQk1rVFJUdV9LbHlJUmpPVWxHTWJGdkp1WkRRcEhReEpmSnlpRGF3c1A0SVA4d0pPU3BxM3I0bEdWSVNKTW81MVpVRVZ6T2tBRFpqSmJBQVdTcENBaWR6MVQycXNyaTVZYUlYNndMaUhiZE9ha09ZRzYzMFRHOGpjMXM0OGdQVXplSzdzSlZVWDYxSlpmYXh4WTFJTzRkdm1HWnNhdy05a051TkQ1OExEcHF6NkhRS2ZjVHFjYkRKWDBvZU54c0huLURBb3JRTWx2bmZQR2N4TEtRMlNmcHNUWVlzYWR5akFXeVE2UTTSAaMCQVVfeXFMT21vMEJ0WHl3MUkwZE9JYnM2T09rc2ZSU3VRU0dJcmhqamlmdlVXWHFfRFo5eEZoQ09sd0IwLUJNa1RSVHVfS2x5SVJqT1VsR01iRnZKdVpEUXBIUXhKZkp5aURhd3NQNElQOHdKT1NwcTNyNGxHVklTSk1vNTFaVUVWek9rQURaakpiQUFXU3BDQWlkejFUMnFzcmk1WWFJWDZ3TGlIYmRPYWtPWUc2MzBURzhqYzFzNDhnUFV6ZUs3c0pWVVg2MUpaZmF4eFkxSU80ZHZtR1pzYXctOWtOdU5ENThMRHBxejZIUUtmY1RxY2JESlgwb2VOeHNIbi1EQW9yUU1sdm5mUEdjeExLUTJTZnBzVFlZc2FkeWpBV3lRNlE0?oc=5"
@@ -98,13 +122,13 @@
       "url": "https://www.europapress.es/madrid/noticia-arrancan-labores-limpieza-reconstruir-sierra-oeste-incendio-tenemos-seguir-adelante-20260802142812.html"
     },
     {
-      "id": "847ad73d233882f9d7",
+      "id": "6aaa89a00a11d495eb",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-02T14:28:11+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Telemadrid recorre los municipios más afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeWFMazNERUZRZ3pRWlV5ZGU4S3FWR3lVWEFOUkh1dHlmRm1wX2Zld1VJUjJjVkN0c3haZWRqZ1FVTHhGc3A2eU1sc1RoaXBUQkdkQUV4cVBQTWpRaFBhTlBqczBKMG5ueTlCRV9kak5kUzZzdlFjb09uaElEYkxJaUI2a1JPTGxhcXNNWk43bmZRRGxmclRZNFBHaURLSnJPSGV2QmxOVTdIUi1rdHVyX1hlRG9XaXBRQ3R4bDhBZHl5NHZ5X1ZVM3BGSUU2b0htV0pIcmR4R1ZJTm42XzQya05qS2RRT3BvUzBZbTF2ZlhRZmlxYVdqamtVa1Z3eFBxWGVOYk1XTkllalHSAZACQVVfeXFMTzktR2tTenlYRUU4blZYT2V0SGM2YTBCUElfNU1saU5xNVJ2V0FRT0dYYVNuVUZfbDJuWnFCUk9WcmZEVThjNnp6UHFaeWUtUS16SXRBMU93VHZwbmF4WVdnbXU4dWVPUGJKSlpYdFJoLUJUQlE4Ui1zdjNxamdsa1N2NjRyRlZwWmpGVlpoTWZMNUJ0NTBBQmZDd3hTb091ZkhvaVFkNFU4MEFuTVMxSGtfVmtPUHE1cHotLU5nV0ZrX3hlYVM4TmMwdUQ2eHRzQUV4TW93Y0llOTA4NmN1cWFleDFFUUk0enk2ZDh0S0wwU3ZFcG50R1REbmlNVnFESzdHTDhQelZQdWRLdTNYVlM?oc=5"
@@ -170,25 +194,13 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQXzhtZ3EtZU1reFhUZl9aVjh5MFBBcUxYNzFTU0ZyaXBtUWxNanQ3cjBjQThsMEtSWlkxcUVwQ185M2xJd0laci1YcVRzeTh1TVA5c3lza0lJd3RfLWNNeGtTY2dzUXV1dS1jT25ENU9SZ3RKc2RmY196RUVOYlpuVzIwS3RjUzZBSlJxM0diUFhLME45OVFOZWxld0dubFhLR1hxMVROSVQ5cE9sdlo0NExWTWJyRGFaSzROeXZldnAzWnpsNC1CX2s2X2czMjBM?oc=5"
     },
     {
-      "id": "a455765d864a58e854",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T09:18:19+02:00",
-      "source": "Cadena SER",
-      "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
-    },
-    {
-      "id": "ebb6e44919e54ea049",
+      "id": "9813435b2199b08aa6",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-02T07:38:12+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Tres reproducciones del incendio de Burgohondo reavivan la preocupación en Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQVEzVjNBZEZZbGVTVzh6RjNtNW4wRjBickk4cWxGalNxb19yOE15cGJZZFljdDVTVUZjV2ZLRWFTVTEzb1ZXcEhkVVVCTVBkSklLRlVKQ2tIYk1heUNXcFp5LWFGRnVCdW1lYlVLdG5YbGZmMGpPWjQtTndkd0pUUUdueHlhRHhSRlc5Y1ZCd1UtdnBUd01aSGQwVzdxNlJfdkZadjZDanYyalFEX2ZZRGMyTVJhcDZjVEZyZ21nUzVuNEhLS2plSEFDR2hEMmtyM0VLNVZ5VnFRc1k3ZzA1dDZfaDY2OEdQOFFfT0EyYmZwdXJKR3AxZTZlNHI3NFJmSnNmeWJzdzN3OXhyS3fSAY4CQVVfeXFMTUFRM1YzQWRGWWxlU1c4ekYzbTVuMEYwYnJJOHFsRmpTcW9fcjhNeXBiWWRZY3Q1U1VGY1dmS0VhU1UxM29WV3BIZFVVQk1QZEpJS0ZVSkNrSGJNYXlDV3BaeS1hRkZ1QnVtZWJVS3RuWGxmZjBqT1o0LU53ZHdKVFFHbnh5YUR4UkZXOWNWQndVLXZwVHdNWkhkMFc3cTZSX3ZGWnY2Q2p2MmpRRF9mWURjMk1SYXA2Y1RGcmdtZ1M1bjRIS0tqZUhBQ0doRDJrcjNFSzVWeVZxUXNZN2cwNXQ2X2g2NjhHUDhRX09BMmJmcHVySkdwMWU2ZTRyNzRSZkpzZnlic3czdzl4ckt3?oc=5"
@@ -276,18 +288,6 @@
       "title": "La mejora de los incendios de León y Zamora alivia la presión del operativo, que se mantiene alerta en Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVkp0TWFlSGdkZ0J3UkZ3OHNIWUlSMlk0TE1yNjB3cmE3Qld6ZFoyOWVOaGxvcDdpTHd0Ri1oTFF3ODgxMFhKWmRxb1BCd0tQYXROMmExY1U2R1NXRk1PNlFwaVRCWGY2aEhMR0FaRkJtOW01LWkwRk4yemI0YnF4dkdLZU85M1hxdXJ0RW5pbXFPc0s0c3VzSHhGU085eDlTd0pZVDF6WFZ1bGRHTHE0UHNmc1RmMkQtek5mWDB5ejFaWmhGRWE3bTZUbUVPY0lGckgxOUVSZHk2MkkwM0U4?oc=5"
-    },
-    {
-      "id": "fd362981d30ec67428",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T21:16:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo sigue estabilizado y espera quedar controlado en próximos días",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZEYzktWmlEYUw5aTAzaHlLbE82dzh1OGlOdmk5d3ZDdlljRXFsRW5XdUM3WXVyOUJiTU1Fd0NpSWw5djhoczNQOW94SXREcTlmZEs3QkhRXzNNa3lUNFNfT0dWZVVobHkzNWtfem1xU24zTkE2TnVTaUpIN0dSSjJJc0k2U0JVS09IazBKUGEtams0RWh6WlV3WE5paTlQMjk4dVJjRkdQOUxnMkpKOUR2MmFWbWcwQUdmRjJWdE9CREp6cUFLWGl2R0x1UQ?oc=5"
     },
     {
       "id": "d3551daeb0b9d2659c",
@@ -409,6 +409,10 @@
     }
   ],
   "checks": {
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "google_news": {
       "ok": true,
       "items": 26
@@ -416,10 +420,6 @@
     "direct_media": {
       "ok": true,
       "items": 5
-    },
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
