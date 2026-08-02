@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-02T05:50:11+02:00",
+  "generated_at": "2026-08-02T08:23:43+02:00",
   "items": [
+    {
+      "id": "9813435b2199b08aa6",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T07:38:12+02:00",
+      "source": "Telemadrid",
+      "title": "Tres reproducciones del incendio de Burgohondo reavivan la preocupación en Ávila",
+      "summary": "Las tres reproducciones registradas este sábado dentro del perímetro del incendio forestal de Burgohondo (Ávila) han vuelto a hacer saltar las...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Tres-reproducciones-del-incendio-de-Burgohondo-reavivan-la-preocupacion-en-Avila-2-2912428743--20260801091326.html"
+    },
     {
       "id": "a6ee5e13c880f9da0d",
       "type": "news",
@@ -98,18 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMWZsYzhpSXJtYVV4U0hkQUx4ZWotMWlwb211eDZPRkZfWWtuZHVxZlRwSk8wRzJZX1F5UURlMTJHNy1MWElqNGVPUlN6c3hIQzRtb3c1NDhkQUVQRGlMMk9ZZjNNSnpvQUxMT2t4LW9fSXNPSWhEV21NM08ydThYMG9LOWs4Vy1LZ3Y3a3VVLWlJTXBSRVF5Zlg1eHBwYmtEOUU3SUFzNTBEdFpNZjY0UGo3TlRqN1Nla1dIY0JwbzhFOVhETG9uYXFyRk80Z25ndEJQQmRWMGI3bFBNSE4wZnVLNnZnd3ZpTFlDVjJZWDg2NFQzY0Y4b0ZxTFBTVDFWcGFuUEQyR1NORkRqcmIyX3lReV9YanFqdXFpRGdraUpuVmPSAaMCQVVfeXFMTTFmbGM4aUlybWFVeFNIZEFMeGVqLTFpcG9tdXg2T0ZGX1lrbmR1cWZUcEpPMEcyWV9ReVFEZTEyRzctTFhJajRlT1JTenN4SEM0bW93NTQ4ZEFFUERpTDJPWWYzTUp6b0FMTE9reC1vX0lzT0loRFdtTTNPMnU4WDBvSzlrOFctS2d2N2t1VS1pSU1wUkVReWZYNXhwcGJrRDlFN0lBczUwRHRaTWY2NFBqN05UajdTZWtXSGNCcG84RTlYRExvbmFxckZPNGduZ3RCUEJkVjBiN2xQTUhOMGZ1SzZ2Z3d2aUxZQ1YyWVg4NjRUM2NGOG9GcUxQU1QxVnBhblBEMkdTTkZEanJiMl95UXlfWGpxanVxaURna2lKblZj?oc=5"
     },
     {
-      "id": "1e87a1b338447ef485",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T21:59:16+02:00",
-      "source": "Telemadrid",
-      "title": "Desalojada una urbanización tras una posible reactivación del incendio del Burgohondo ( Ávila)",
-      "summary": "Una \"posible reactivación\" registrada en la tarde de este sábado en el incendio de Burgohondo (Ávila), en el término municipal de La Adrada, por...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Desalojada-una-urbanizacion-tras-una-posible-reactivacion-del-incendio-del-Burgohondo-Avila-2-2912428743--20260801091326.html"
-    },
-    {
       "id": "fd362981d30ec67428",
       "type": "news",
       "severity": "info",
@@ -192,18 +192,6 @@
       "title": "Las imágenes aéreas de las zonas afectadas por los incendios forestales en Toledo, Madrid, Ávila, Segovia y Guadalajara",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNG5VNWsyeHZBVWdRalpWaF9DdTNmYVJlU0J2MkhlOUhaSmQxV3F3M0dueGFsSEFkM3ZSNEN2ZmdnODNHUGk3SzYtS0RDMm1zZ203TWxQR0k1dUR3OGpEeUFNQXlkeVl3UHVGd0Jacl8wSjY2QXpHbmR5Vy1CejlTcjlJc0dvN0E0N1l0Y1VTUnd5WUVhM19OTVJUQlRjQ0djVmgwbXpfSlAyNkJmREVLc25mV1RlUFNDaVQzcXJzQUR5Vi1PcEhTTjNXOVltTEhNSUlWZlEzcmlwSDFKUHNWeHptNmEzaHJ4SWdmZ2tiWQ?oc=5"
-    },
-    {
-      "id": "000c5ac0fb0beb494e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T17:38:06+02:00",
-      "source": "Telemadrid",
-      "title": "La Comunidad de Madrid garantiza los suministros esenciales en los municipios afectados por los incendios",
-      "summary": "La Comunidad de Madrid informó este sábado de que ha mantenido reuniones con los alcaldes de las 17 localidades afectadas por los incendios de la...",
-      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-garantiza-los-suministros-esenciales-en-los-municipios-afectados-por-los-incendios-0-2912408750--20260801053805.html"
     },
     {
       "id": "98afc03e7c85cd2a90",
@@ -469,17 +457,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 29
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 14
+      "items": 13
     }
   },
   "refresh_seconds": 300
