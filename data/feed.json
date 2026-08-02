@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-02T21:52:11+02:00",
+  "generated_at": "2026-08-02T22:42:31+02:00",
   "items": [
+    {
+      "id": "18c837a18994de4387",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T22:21:16+02:00",
+      "source": "Europa Press",
+      "title": "\"Normalidad\" en el incendio de Burgohondo (Ávila), en el que no se esperan reproducciones significativas esta noche",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMV96RlhPUnhnR1VSeThMaXB2eGYwTUYtVUlSOWhiQ0NxM2dKakpIVERIbDlVOEN6aFNtcExiSV9EeHJIOGxIS240NDJrcWxGRlJlTnlqZ1FqWDVLWXBiY1VwN1VTM1hqTFlsY0pqUm9heEd6M2lwb0tvc1VEbjlRVXp1SllYQ2l5UnhrUFRZdFJUM1FqdDdaM1ZNUnMyZUlTTTNBSjlzTTNtcC1LUC1aTUpqS0NIWXh5XzV1X0RVY1Vlb04tbk1nMkdXX3Nua2I3MURxRVdhcjVDMGJZY3JFSVM2OTh3YXpQMUE?oc=5"
+    },
     {
       "id": "3a825a46810a84af60",
       "type": "news",
@@ -194,6 +206,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQXzhtZ3EtZU1reFhUZl9aVjh5MFBBcUxYNzFTU0ZyaXBtUWxNanQ3cjBjQThsMEtSWlkxcUVwQ185M2xJd0laci1YcVRzeTh1TVA5c3lza0lJd3RfLWNNeGtTY2dzUXV1dS1jT25ENU9SZ3RKc2RmY196RUVOYlpuVzIwS3RjUzZBSlJxM0diUFhLME45OVFOZWxld0dubFhLR1hxMVROSVQ5cE9sdlo0NExWTWJyRGFaSzROeXZldnAzWnpsNC1CX2s2X2czMjBM?oc=5"
     },
     {
+      "id": "a455765d864a58e854",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T09:18:19+02:00",
+      "source": "Cadena SER",
+      "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
+    },
+    {
       "id": "9813435b2199b08aa6",
       "type": "news",
       "severity": "info",
@@ -254,52 +278,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXlWTVZGVTdPRU0zSzRrRW5YUUhJMUlac0w0ejMzNXZ6LTgzTDJ0dF9hSFV0aUpiXzc3YmdCdFk3TzkwNFIwN01qbE1xZDVSalprX3hfOF9FeFlIYjdyRW44NXAyZ3F2UGd5VTd5b1g4YU83cGdkRHgydkdsQmdyVXR3NndpemVoNUhVcm1WR1A4eDlFdnVST3QycDJSWVkybTFJOFNMWnpxb1lQQ0E?oc=5"
     },
     {
-      "id": "9d9f1d40daf6723de8",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T22:16:43+02:00",
-      "source": "El Mundo",
-      "title": "Evacuada una urbanización en La Adrada (Ávila) tras un rebrote del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Oa183Tkh0WjktZzN0cUItdVlSMFc5cXRSUXBQNzd2Q1FvTGZfMXd4cmtwcVJSckNybHcxeGtOSnE0cWl6LTItLWNja080TVd5Q1hUaTJ0d2hJS2c1RjhXTnJ0RGJsRFR0aFI4SEpNVlc3bmJfTTQwWDd30gF6QVVfeXFMTU5rXzdOSHRaOS1nM3RxQi11WVIwVzlxdFJRcFA3N3ZDUW9MZl8xd3hya3BxUlJyQ3JsdzF4a05KcTRxaXotMi0tY2NrTzRNV3lDWFRpMnR3aElLZzVGOFdOcnREYmxEVHRoUjhISk1WVzduYl9NNDBYN3c?oc=5"
-    },
-    {
-      "id": "d1993cddcb4857d007",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T22:12:26+02:00",
-      "source": "20Minutos",
-      "title": "Evacuada una urbanización en La Adrada tras un rebrote del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN3BiOFFkLW51Y0NDMkhHMTV3dlNBSXl2a0R2cEI1MTljWTdIdHNlTlNmRllXWk9UQUNoRnlfSGh0R2F2T29QYkozMTctbjJfT2hzY09DV0xWQVZYS3lpZzdiRldpREw2bVBxeEVvb19DVEVaZDJLRkF5MUY2T3RXYzVDbFZncW5GcWZobWk3ZExiMnVZRWZHUkhMamFNZ284TnRrZGVUYlRrR2NneXNkTUhidnVqWFM5UVE?oc=5"
-    },
-    {
       "id": "d08cca45053f20977e",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Ávila",
-      "town": "Provincia de Ávila",
+      "town": "Burgohondo",
       "published": "2026-08-01T22:09:57+02:00",
       "source": "Europa Press",
       "title": "La mejora de los incendios de León y Zamora alivia la presión del operativo, que se mantiene alerta en Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVkp0TWFlSGdkZ0J3UkZ3OHNIWUlSMlk0TE1yNjB3cmE3Qld6ZFoyOWVOaGxvcDdpTHd0Ri1oTFF3ODgxMFhKWmRxb1BCd0tQYXROMmExY1U2R1NXRk1PNlFwaVRCWGY2aEhMR0FaRkJtOW01LWkwRk4yemI0YnF4dkdLZU85M1hxdXJ0RW5pbXFPc0s0c3VzSHhGU085eDlTd0pZVDF6WFZ1bGRHTHE0UHNmc1RmMkQtek5mWDB5ejFaWmhGRWE3bTZUbUVPY0lGckgxOUVSZHk2MkkwM0U4?oc=5"
-    },
-    {
-      "id": "d3551daeb0b9d2659c",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T20:33:12+02:00",
-      "source": "Europa Press",
-      "title": "Ordenan evacuar una urbanización en La Adrada (Ávila) por una reactivación en Burgohondo",
-      "summary": "Una \"posible reactivación\" registrada en la tarde de este sábado en el incendio de Burgohondo (Ávila), en...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-ordenan-evacuar-urbanizacion-picota-adrada-avila-fuego-burgohondo-corta-av-930-20260801201600.html"
+      "summary": "El fuego de Veguellina baja a IGR 1 y permite el regreso de los evacuados, mientras Burgohondo obliga a...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-mejora-incendios-leon-zamora-alivia-presion-operativo-mantiene-alerta-avila-20260801220957.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -415,7 +403,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 26
+      "items": 28
     },
     "direct_media": {
       "ok": true,
