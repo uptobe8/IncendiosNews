@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T00:38:04+02:00",
+  "generated_at": "2026-08-03T01:39:37+02:00",
   "items": [
     {
       "id": "24bb790bb3a0cf4c9a",
@@ -254,18 +254,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQVEzVjNBZEZZbGVTVzh6RjNtNW4wRjBickk4cWxGalNxb19yOE15cGJZZFljdDVTVUZjV2ZLRWFTVTEzb1ZXcEhkVVVCTVBkSklLRlVKQ2tIYk1heUNXcFp5LWFGRnVCdW1lYlVLdG5YbGZmMGpPWjQtTndkd0pUUUdueHlhRHhSRlc5Y1ZCd1UtdnBUd01aSGQwVzdxNlJfdkZadjZDanYyalFEX2ZZRGMyTVJhcDZjVEZyZ21nUzVuNEhLS2plSEFDR2hEMmtyM0VLNVZ5VnFRc1k3ZzA1dDZfaDY2OEdQOFFfT0EyYmZwdXJKR3AxZTZlNHI3NFJmSnNmeWJzdzN3OXhyS3fSAY4CQVVfeXFMTUFRM1YzQWRGWWxlU1c4ekYzbTVuMEYwYnJJOHFsRmpTcW9fcjhNeXBiWWRZY3Q1U1VGY1dmS0VhU1UxM29WV3BIZFVVQk1QZEpJS0ZVSkNrSGJNYXlDV3BaeS1hRkZ1QnVtZWJVS3RuWGxmZjBqT1o0LU53ZHdKVFFHbnh5YUR4UkZXOWNWQndVLXZwVHdNWkhkMFc3cTZSX3ZGWnY2Q2p2MmpRRF9mWURjMk1SYXA2Y1RGcmdtZ1M1bjRIS0tqZUhBQ0doRDJrcjNFSzVWeVZxUXNZN2cwNXQ2X2g2NjhHUDhRX09BMmJmcHVySkdwMWU2ZTRyNzRSZkpzZnlic3czdzl4ckt3?oc=5"
     },
     {
-      "id": "2a3f88c2e392b5fa06",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-02T01:09:45+02:00",
-      "source": "ABC",
-      "title": "Brigadas vecinales para reconstruir la Sierra Oeste tras el incendio: «Aquí hacen falta muchas manos»",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGVNLTgyQWtUd3ZEMzh1TC1oa2hFVERWZm0teVhWeVJfMXpTV01oalBjQ0pvX0w1dzlsT3VQb3ZZbEI3elQza1BHS19SSkd1LTRwREZQQldvdkNiVk5YZ0tROW1YUlNvTklibW5PT0d2M2FkUGU5MTk4dWY5MGo5WHBuUDZCZFh3YS1TLUMzZjd2Q3dlMGI2WDJsTkZLUjE2aUV3bFhsYTM3XzZ3ckMzWA?oc=5"
-    },
-    {
       "id": "d08cca45053f20977e",
       "type": "news",
       "severity": "critical",
@@ -391,7 +379,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 26
+      "items": 25
     },
     "direct_media": {
       "ok": true,
