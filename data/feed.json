@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-02T13:39:13+02:00",
+  "generated_at": "2026-08-02T14:42:18+02:00",
   "items": [
+    {
+      "id": "b62cc265488139e585",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T14:35:19+02:00",
+      "source": "Telemadrid",
+      "title": "Las consecuencias del incendio Sierra Oeste: 77.000 hectáreas arrasadas y 1.500 viviendas afectadas",
+      "summary": "Hasta 77.000 hectáreas calcinadas. Son las terribles consecuencias que dejan un paisaje desolador en la parte suroeste de la región, en pueblos...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Las-consecuencias-del-incendio-Sierra-Oeste-77000-hectareas-arrasadas-y-1500-viviendas-afectadas-2-2912728706--20260802023445.html"
+    },
+    {
+      "id": "8d1db6c95229087d3a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T14:28:12+02:00",
+      "source": "Europa Press",
+      "title": "Arrancan las labores de limpieza para reconstruir la Sierra Oeste tras el incendio: \"Tenemos que seguir adelante\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY19jdEJwMXRwUTZzQUUyblZVTE1NaGFKendQSWZmcDZ2SkpjcWRwYTRIRmJWUk1aemJrQUhldk5uQm5XbmhEbjlvLUxjeTFvR1Y2YUpYaDNhNWFYcl9CUDAtdG1mUGpKTVhiN2d1SHBQcC1CcGFSX0EyTnE2ZmY0VnNETXF3eHp0SkJ3SmNJeUZmVVh6dkVuSjY3RUJELXNoek1NZFV2Um5HTWRONjJvWnAwYWV2ZHhYSTdQQjU3cWF2Z2FsWm15bHZCaTlOMjRJMlFMT1RHTDhROFlNYkE?oc=5"
+    },
+    {
+      "id": "229e207df050bda649",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Navas del Rey",
+      "published": "2026-08-02T14:28:12+02:00",
+      "source": "Telemadrid",
+      "title": "Telemadrid recorre los municipios más afectados por el incendio de la Sierra Oeste",
+      "summary": "El incendio de la Sierra Oeste se ha cebado especialmente con cuatro municipios madrileños. Navas del Rey, con más del 85% de su territorio...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Telemadrid-recorre-los-municipios-mas-afectados-por-el-incendio-de-la-Sierra-Oeste-2-2912728705--20260802022811.html"
+    },
     {
       "id": "89ad00d6630d9c92e8",
       "type": "news",
@@ -47,7 +83,7 @@
       "source": "La Vanguardia",
       "title": "Los incendios se estabilizan en Madrid mientras Catalunya mantiene el riesgo extremo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3NhWUVkOFE4RWVjeWgwQng2VnVFbmgzS1FObTlBT3VhQUpCajZZNnhUMmJPSGE5di1nd2xEV0dHVlBWQk5kaFJRNmd4cWRqcUVBVGtVb2cwRlpFaXFmVGVMSkoydjk2dUpXNlBiUnlyUllsbmRfSFZaYV9xQ3V0TzBXSlJyZ0JNSHVQZ2tKeXhCV05manViNnYxaTZwTW41UjVWcTVTRnRzYmtlZXR5MnJSQklPMVJFUGZoQ0NfRXXSAcABQVVfeXFMTnNzYVlFZDhROEVlY3loMEJ4NlZ1RW5oM0tRTm05QU91YUFKQmo2WTZ4VDJiT0hhOXYtZ3dsRFdHR1ZQVkJOZGhSUTZneHFkanFFQVRrVW9nMEZaRWlxZlRlTEpKMnY5NnVKVzZQYlJ5clJZbG5kX0hWWmFfcUN1dE8wV0pScmdCTUh1UGdrSnl4QldOZmp1YjZ2MWk2cE1uNVI1VnE1U0Z0c2JrZWV0eTJyUkJJTzFSRVBmaENDX0V1?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlEyZWtqaXd5TnJWdExJSzlJLUFPM0hVSTc3S19MM2hxMXNnTndleDNteW5IWExQcVp0Z3dkVl9oYjBLTWdDeHA5cW04SzBoMlRIZldOLUFaMy1JUmt6MjhpbEN1STdtc0wyY0d4Qld4Umd4T1J6djV5eDNrbmRhaXMwdGVGZlVVX1A4Z3pQcEpNNFVqdkpuZHQ5MmtZMFdITGpydE9pVEtUZ29HRURFTVJMckJ3Y2Zydk1B0gHAAUFVX3lxTE5zc2FZRWQ4UThFZWN5aDBCeDZWdUVuaDNLUU5tOUFPdWFBSkJqNlk2eFQyYk9IYTl2LWd3bERXR0dWUFZCTmRoUlE2Z3hxZGpxRUFUa1VvZzBGWkVpcWZUZUxKSjJ2OTZ1Slc2UGJSeXJSWWxuZF9IVlphX3FDdXRPMFdKUnJnQk1IdVBna0p5eEJXTmZqdWI2djFpNnBNbjVSNVZxNVNGdHNia2VldHkyclJCSU8xUkVQZmhDQ19FdQ?oc=5"
     },
     {
       "id": "2625a069fc01bc752a",
@@ -134,6 +170,30 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0V2OHdGNXdKeFRzMjYtMjhSVUl4TlBfRWhua21ZLS1nUjM2aGVRTnZEU2RJcVJOdnAwX3NTR3dxVGVYQjdabllPUXZRWHZqc2RQS0psc09BVXoyaDJYZGVtUjBJQWVFeUFVUzJSRFRGaG9yNDdVN1BjVWlPVHFaYVJQdHNJZ2ZoZnhITnpfTWdCdzhZbVVlU2NlOURNdGhabnFONmNVYk9hOVVQLUpiVjRMcEpxb2pKZmVWcnJyRDhKY0xNUHd6TWZzeWVhcEx6YVE?oc=5"
     },
     {
+      "id": "24d0e237da00b5df20",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "La Adrada",
+      "published": "2026-08-01T22:47:23+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Un nuevo incendio obliga a desalojar urbanizaciones en La Adrada",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXlWTVZGVTdPRU0zSzRrRW5YUUhJMUlac0w0ejMzNXZ6LTgzTDJ0dF9hSFV0aUpiXzc3YmdCdFk3TzkwNFIwN01qbE1xZDVSalprX3hfOF9FeFlIYjdyRW44NXAyZ3F2UGd5VTd5b1g4YU83cGdkRHgydkdsQmdyVXR3NndpemVoNUhVcm1WR1A4eDlFdnVST3QycDJSWVkybTFJOFNMWnpxb1lQQ0E?oc=5"
+    },
+    {
+      "id": "9d9f1d40daf6723de8",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T22:16:43+02:00",
+      "source": "El Mundo",
+      "title": "Evacuada una urbanización en La Adrada (Ávila) tras un rebrote del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Oa183Tkh0WjktZzN0cUItdVlSMFc5cXRSUXBQNzd2Q1FvTGZfMXd4cmtwcVJSckNybHcxeGtOSnE0cWl6LTItLWNja080TVd5Q1hUaTJ0d2hJS2c1RjhXTnJ0RGJsRFR0aFI4SEpNVlc3bmJfTTQwWDd30gF6QVVfeXFMTU5rXzdOSHRaOS1nM3RxQi11WVIwVzlxdFJRcFA3N3ZDUW9MZl8xd3hya3BxUlJyQ3JsdzF4a05KcTRxaXotMi0tY2NrTzRNV3lDWFRpMnR3aElLZzVGOFdOcnREYmxEVHRoUjhISk1WVzduYl9NNDBYN3c?oc=5"
+    },
+    {
       "id": "d1993cddcb4857d007",
       "type": "news",
       "severity": "critical",
@@ -156,6 +216,18 @@
       "title": "La mejora de los incendios de León y Zamora alivia la presión del operativo, que se mantiene alerta en Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVkp0TWFlSGdkZ0J3UkZ3OHNIWUlSMlk0TE1yNjB3cmE3Qld6ZFoyOWVOaGxvcDdpTHd0Ri1oTFF3ODgxMFhKWmRxb1BCd0tQYXROMmExY1U2R1NXRk1PNlFwaVRCWGY2aEhMR0FaRkJtOW01LWkwRk4yemI0YnF4dkdLZU85M1hxdXJ0RW5pbXFPc0s0c3VzSHhGU085eDlTd0pZVDF6WFZ1bGRHTHE0UHNmc1RmMkQtek5mWDB5ejFaWmhGRWE3bTZUbUVPY0lGckgxOUVSZHk2MkkwM0U4?oc=5"
+    },
+    {
+      "id": "fd362981d30ec67428",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T21:16:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo sigue estabilizado y espera quedar controlado en próximos días",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZEYzktWmlEYUw5aTAzaHlLbE82dzh1OGlOdmk5d3ZDdlljRXFsRW5XdUM3WXVyOUJiTU1Fd0NpSWw5djhoczNQOW94SXREcTlmZEs3QkhRXzNNa3lUNFNfT0dWZVVobHkzNWtfem1xU24zTkE2TnVTaUpIN0dSSjJJc0k2U0JVS09IazBKUGEtams0RWh6WlV3WE5paTlQMjk4dVJjRkdQOUxnMkpKOUR2MmFWbWcwQUdmRjJWdE9CREp6cUFLWGl2R0x1UQ?oc=5"
     },
     {
       "id": "2e9df578a222e9e280",
@@ -228,42 +300,6 @@
       "title": "40 dotaciones terrestres trabajan en el remate del incendio de Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWZZTHJNNTJYclJPV0lsVWxMRnVYbXFQQVNnY0ZoUTBxdnkyT1FKX0d1Qk1NRW4xcjMwTi1kTUtGeTM4NnQtTVo3NFlkOWJSZTk2bm9FU3k2SEFhZGdITVhrZHd2TFV3dlpkaGFoVHJoVGNXb2NsWUIwcFlZYlVQUTVMLWZsNGRYUkUzWjE5VkdRN0NTNEdyUVBZTW1sWWhkMmRjd2xEbUFoeDlUaV9qbXg3U1JKVGEwUXRLSWdzNnQ4WFNqakt5TDZqU09CeWhES1lEajkyRQ?oc=5"
-    },
-    {
-      "id": "98afc03e7c85cd2a90",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T14:27:17+02:00",
-      "source": "Telemadrid",
-      "title": "40 efectivos refrescan el perímetro de incendio Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjdWc3RHMjFJY0Y1QlZ4cHcyallfS3R0VklOQ1VUdnlGV0hjWmYtdlMtdFZHbnRRamQ0dEJYc29iQlMzejRCdXhZUHRzcDRXT0JLQTdHeVpSZGwydDdYRTJKdTE5bUptQjgtYVl1ZGgwV1BRbVQ2NmF1VVp2cEFCblZETml2eDdhMnl1S1o3Y282dDVnQ1ZzUXFnaEdzZXp3c0JQTTRYekRkRlJmTDJvU0dpLUFxbDdYLXRJMzRGTy1pNDNmOWVPWFR3Tmx0SWhxQ2lYd1FOQUNWWWZTNzREalhmdDNyUlVjRHE3YVY0YVR1WS1LQ2FBeERCMNIBgAJBVV95cUxPb0dqOE55X0VyeWczX0QwV0VlcEhOMEhqQW9lMmk5VWVLa3pDVU92bks0OGUyb2N0dzNOZWVKd2FOSXF0aWxNRFVObXhwVXZCSHJWcFJmRm1RWS1ad3NIUEdmRHZYcGVwRGpXdTY4OGZIalcwTmFiLTgyR2hpS29mUUM1U3VacjN0TGljNE8tRmlyMjRhUHlzVWllbjE4NWFWQmJRSk10cEF4c1I3WGZualdiekktOGh4WUQtR21XLXZyMVA3LXI1c1VJSDQwcmUyRkRDUzJKclJuTDRhUEVvbEVmcERhUVlzWDdGTU1fckpzVS1wN3AxbHJxeWdvSTE5?oc=5"
-    },
-    {
-      "id": "f5cbff3792b2fb7186",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T12:55:40+02:00",
-      "source": "Europa Press",
-      "title": "El Sermas realizó alrededor de 3.900 atenciones y 21 ingresos hospitalarios durante los incendios en la Sierra Oeste",
-      "summary": "El Servicio Madrileño de Salud (Sermas) realizó cerca de 3.900 intervenciones sanitarias derivadas de los...",
-      "url": "https://www.europapress.es/madrid/noticia-sermas-realizo-alrededor-3900-atenciones-21-ingresos-hospitalarios-incendios-sierra-oeste-20260801125301.html"
-    },
-    {
-      "id": "d342c823ff05333f4f",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T09:00:50+02:00",
-      "source": "Europa Press",
-      "title": "De un carnero sin lana a un perro refugiado en una piscina: la otra cara de los incendios de la Sierra Oeste",
-      "summary": "Los incendios forestales de la Sierra Oeste de Madrid no solo han obligado a evacuar a vecinos de una...",
-      "url": "https://www.europapress.es/madrid/noticia-carnero-lana-perro-refugiado-piscina-otra-cara-incendios-sierra-oeste-20260801090050.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -379,11 +415,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 22
+      "items": 24
     },
     "direct_media": {
       "ok": true,
-      "items": 8
+      "items": 9
     }
   },
   "refresh_seconds": 300
