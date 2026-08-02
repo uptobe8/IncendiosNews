@@ -1,17 +1,89 @@
 {
-  "generated_at": "2026-08-02T14:42:18+02:00",
+  "generated_at": "2026-08-02T16:15:22+02:00",
   "items": [
     {
-      "id": "b62cc265488139e585",
+      "id": "5fa8c234aeafc3f577",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Villa del Prado",
+      "published": "2026-08-02T15:47:14+02:00",
+      "source": "Telemadrid",
+      "title": "Julio pierde toda su finca en el incendio de Villa del Prado, pero logra salvar a su perro Lobito: \"Se me ha ido el alma\"",
+      "summary": "Julio todavía recorre en silencio los restos de la finca donde trabajaba cada día, situada en las afueras de Villa del Prado. El incendio no...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Julio-pierde-toda-su-finca-en-el-incendio-de-Villa-del-Prado-pero-logra-salvar-a-su-perro-Lobito-Se-me-ha-ido-el-alma-2-2912728710--20260802034713.html"
+    },
+    {
+      "id": "5b2a18a25afc43387f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "El Tiemblo",
+      "published": "2026-08-02T15:32:29+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio de Ávila destapa un presunto caso de maltrato animal en El Tiemblo: hallan decenas de animales muertos",
+      "summary": "El incendio forestal de Ávila ha sacado a la luz un presunto caso de maltrato animal en el municipio de El Tiemblo. Lo que comenzó como un...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/El-incendio-de-Avila-destapa-un-presunto-caso-de-maltrato-animal-en-El-Tiemblo-hallan-decenas-de-animales-muertos-2-2912728713--20260802033229.html"
+    },
+    {
+      "id": "9fb7cbb6f938af2751",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-02T14:35:19+02:00",
+      "published": "2026-08-02T15:30:38+02:00",
+      "source": "ABC",
+      "title": "Díaz Ayuso visita los trabajos de reconstrucción en los municipios afectados por los incendios de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3EtdkltRnN2WlNnYmNGMldSMGpmTTEtSzhzWmI1bkg0RU56bDdZTkNWVUFOZzlHYTFSby1pNWpmbU9Ta2lNbDdjSy01bkZSVzk2UUdLWS00cUpudVhuS2REQ0JKY3k4ODVoRHc1cGstUS15dWtoV2xSdmlPUFNSOTJRblY5RWtTQjI1NTU4VkdyT0pHX3czb0tTbFJVQmQ0YUlCdWVqVWhiaUMyVHhtRA?oc=5"
+    },
+    {
+      "id": "03d450dbe6c3336900",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T15:12:17+02:00",
+      "source": "Telemadrid",
+      "title": "Se investiga si la reactivación del incendio en Burgohondo (Ávila) se produjo de forma intencionada",
+      "summary": "El operativo de extinción del incendio forestal originado en Burgohondo (Ávila) espera una jornada \"tranquila\" para este domingo, en la que se...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Se-investiga-si-la-reactivacion-del-incendio-en-Burgohondo-Avila-se-produjo-de-forma-intencionada-2-2912728714--20260802025853.html"
+    },
+    {
+      "id": "54b0e6e20aded64f56",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T15:08:51+02:00",
+      "source": "Telemadrid",
+      "title": "Corte total del túnel de la A-5 sentido salida de Madrid: las obras del soterramiento entran en su penúltima fase",
+      "summary": "El túnel de salida de la A-5 en sentido Badajoz (salida de Madrid) permanecerá completamente cerrado desde este lunes y hasta el próximo 24 de...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Corte-total-del-tunel-de-la-A-5-sentido-salida-de-Madrid-las-obras-del-soterramiento-entran-en-su-penultima-fase-2-2912728719--20260802030850.html"
+    },
+    {
+      "id": "9a823e06b5572c6420",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-02T15:04:50+02:00",
+      "source": "Telemadrid",
+      "title": "Así fue el protocolo de Safari Madrid que salvó a 2.000 animales del incendio",
+      "summary": "Las llamas del incendio estuvieron a punto de llegar al Safari Madrid en Aldea del Fresno. Rápidamente tuvieron que activar un protocolo urgente...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Asi-fue-el-protocolo-de-Safari-Madrid-que-salvo-a-2000-animales-del-incendio-2-2912728711--20260802025141.html"
+    },
+    {
+      "id": "2957825659e9313683",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T14:34:45+02:00",
       "source": "Telemadrid",
       "title": "Las consecuencias del incendio Sierra Oeste: 77.000 hectáreas arrasadas y 1.500 viviendas afectadas",
-      "summary": "Hasta 77.000 hectáreas calcinadas. Son las terribles consecuencias que dejan un paisaje desolador en la parte suroeste de la región, en pueblos...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Las-consecuencias-del-incendio-Sierra-Oeste-77000-hectareas-arrasadas-y-1500-viviendas-afectadas-2-2912728706--20260802023445.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZUp1OVZLVHJsaDNSTEVCX25vNHl5S2owT2hTSWUtMDFvUFVZTHo1T0Y0MnRqd0xsRDdrZkN3N0VxdkZuM0hjQkg5c0JzUVVHNk42dnMtVXYtYTVSNUdhRlVIbTJoVndYZFBKOFhBbXhaZm1TY004TlBrX0duRVBEUUo2TVpsNDZvb1R0ZW1WamFpRDJnOG5zeS1leXdHVnZ2Y0hHYlNpODdJeDZFSWlfZG9lclZiYnBxYjVXeFRYNmpEOUI4dl9IMXBSMUZ1X2RiZVE3WjVkRWNUSEZJLVVWaUxoOXpDdWhvME9rTUYzVHA2WllwZi16SDQwR1BVZWVaYTVFVVYxLTZEbUxMblFzeldFUlk5RUNiNzJJUE130gGjAkFVX3lxTE9tbzBCdFh5dzFJMGRPSWJzNk9Pa3NmUlN1UVNHSXJoamppZnZVV1hxX0RaOXhGaENPbHdCMC1CTWtUUlR1X0tseUlSak9VbEdNYkZ2SnVaRFFwSFF4SmZKeWlEYXdzUDRJUDh3Sk9TcHEzcjRsR1ZJU0pNbzUxWlVFVnpPa0FEWmpKYkFBV1NwQ0FpZHoxVDJxc3JpNVlhSVg2d0xpSGJkT2FrT1lHNjMwVEc4amMxczQ4Z1BVemVLN3NKVlVYNjFKWmZheHhZMUlPNGR2bUdac2F3LTlrTnVORDU4TERwcXo2SFFLZmNUcWNiREpYMG9lTnhzSG4tREFvclFNbHZuZlBHY3hMS1EyU2Zwc1RZWXNhZHlqQVd5UTZRNA?oc=5"
     },
     {
       "id": "8d1db6c95229087d3a",
@@ -26,28 +98,16 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY19jdEJwMXRwUTZzQUUyblZVTE1NaGFKendQSWZmcDZ2SkpjcWRwYTRIRmJWUk1aemJrQUhldk5uQm5XbmhEbjlvLUxjeTFvR1Y2YUpYaDNhNWFYcl9CUDAtdG1mUGpKTVhiN2d1SHBQcC1CcGFSX0EyTnE2ZmY0VnNETXF3eHp0SkJ3SmNJeUZmVVh6dkVuSjY3RUJELXNoek1NZFV2Um5HTWRONjJvWnAwYWV2ZHhYSTdQQjU3cWF2Z2FsWm15bHZCaTlOMjRJMlFMT1RHTDhROFlNYkE?oc=5"
     },
     {
-      "id": "229e207df050bda649",
+      "id": "6aaa89a00a11d495eb",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
-      "town": "Navas del Rey",
-      "published": "2026-08-02T14:28:12+02:00",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T14:28:11+02:00",
       "source": "Telemadrid",
       "title": "Telemadrid recorre los municipios más afectados por el incendio de la Sierra Oeste",
-      "summary": "El incendio de la Sierra Oeste se ha cebado especialmente con cuatro municipios madrileños. Navas del Rey, con más del 85% de su territorio...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Telemadrid-recorre-los-municipios-mas-afectados-por-el-incendio-de-la-Sierra-Oeste-2-2912728705--20260802022811.html"
-    },
-    {
-      "id": "89ad00d6630d9c92e8",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-02T12:24:11+02:00",
-      "source": "Telemadrid",
-      "title": "Detenido el presunto autor del incendio que provocó el desalojo del centro comercial La Vaguada en Madrid",
-      "summary": "La Policía Nacional ha detenido al presunto responsable del incendio declarado este sábado en el centro comercial La Vaguada, en el distrito...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Detenido-el-presunto-autor-del-incendio-que-provoco-el-desalojo-del-centro-comercial-La-Vaguada-en-Madrid-0-2912708706--20260802122410.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOS1Ha1N6eVhFRThuVlhPZXRIYzZhMEJQSV81TWxpTnE1UnZXQVFPR1hhU25VRl9sMm5acUJST1ZyZkRVOGM2enpQcVp5ZS1RLXpJdEExT3dUdnBuYXhZV2dtdTh1ZU9QYkpKWlh0UmgtQlRCUThSLXN2M3FqZ2xrU3Y2NHJGVnBaakZWWmhNZkw1QnQ1MEFCZkN3eFNvT3VmSG9pUWQ0VTgwQW5NUzFIa19Wa09QcTVwei0tTmdXRmtfeGVhUzhOYzB1RDZ4dHNBRXhNb3djSWU5MDg2Y3VxYWV4MUVRSTR6eTZkOHRLTDBTdkVwbnRHVERuaU1WcURLN0dMOFB6VlB1ZEt1M1hWU9IBkAJBVV95cUxPOS1Ha1N6eVhFRThuVlhPZXRIYzZhMEJQSV81TWxpTnE1UnZXQVFPR1hhU25VRl9sMm5acUJST1ZyZkRVOGM2enpQcVp5ZS1RLXpJdEExT3dUdnBuYXhZV2dtdTh1ZU9QYkpKWlh0UmgtQlRCUThSLXN2M3FqZ2xrU3Y2NHJGVnBaakZWWmhNZkw1QnQ1MEFCZkN3eFNvT3VmSG9pUWQ0VTgwQW5NUzFIa19Wa09QcTVwei0tTmdXRmtfeGVhUzhOYzB1RDZ4dHNBRXhNb3djSWU5MDg2Y3VxYWV4MUVRSTR6eTZkOHRLTDBTdkVwbnRHVERuaU1WcURLN0dMOFB6VlB1ZEt1M1hWUw?oc=5"
     },
     {
       "id": "2c1140a1fbe4026251",
@@ -98,14 +158,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejRNUXQzR05WT2lZTVVuamFYWlY0NmxvejM3U21HZTZMTWtDWWlnMUZIU3RRaEVfcDVyNzJIZzc4enl0LTBhTXZFNzBRakpBaWxrTmYwcnotbmVnNHlkRlhKNHRwalhyYndpLWdvcHQ1VFFpZzRELVQ0dHdYUkdsTUh0NFJzdnkyaDQzQzFJMFdmMDY4WENsbDVwc3d6dlpVRDhrNkwyaGxMTTZMcktnNC1LbWJYdlZ1djluc2NiYUI4Z9IB1gFBVV95cUxOYTZqMnlkVmhLWHVWMjI2MHNVd1E3SXlZZlpHOXE3RGlqSUhoVjNJMkk0Z3F6WmdYWWlNVDhZMG16R0JUc0s4NERmR2hoVmNCZHEwV09JQXZDa2FPSzVVY2Rsd0ZRLTVleWNpa1VjaENDczBlNmlidU1FSjJuY0QzQjlkQ3Y0R0p0Zjg0cmlERGJiYllKNnBQLVpsVFVEZm5NYm1hckg1dl90d1BaVm5NaXQ3VzNDVWJ2OHBpN3RwckU3VHJtUEduQTFhNFJwTWN4SVlRWHZB?oc=5"
     },
     {
-      "id": "3464c6bdffd371c22c",
+      "id": "584d09b621ba9f2aac",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-02T09:36:26+02:00",
       "source": "Madrid Actual",
-      "title": "El incendio de la Sierra Oeste no registró reproducciones durante la noche, según ASEM112",
+      "title": "El incendio de Sierra Oeste sin reproducciones durante la noche",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQXzhtZ3EtZU1reFhUZl9aVjh5MFBBcUxYNzFTU0ZyaXBtUWxNanQ3cjBjQThsMEtSWlkxcUVwQ185M2xJd0laci1YcVRzeTh1TVA5c3lza0lJd3RfLWNNeGtTY2dzUXV1dS1jT25ENU9SZ3RKc2RmY196RUVOYlpuVzIwS3RjUzZBSlJxM0diUFhLME45OVFOZWxld0dubFhLR1hxMVROSVQ5cE9sdlo0NExWTWJyRGFaSzROeXZldnAzWnpsNC1CX2s2X2czMjBM?oc=5"
     },
@@ -415,11 +475,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 24
+      "items": 29
     },
     "direct_media": {
       "ok": true,
-      "items": 9
+      "items": 11
     }
   },
   "refresh_seconds": 300
