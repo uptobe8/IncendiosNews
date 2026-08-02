@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-02T17:32:03+02:00",
+  "generated_at": "2026-08-02T18:31:32+02:00",
   "items": [
+    {
+      "id": "dfe72c1a9626d85c72",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T18:13:01+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo se mantiene estable, aunque el operativo no baja la guardia",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1pTdzdjQmZIVklkcmstekstNU5jU2VkRWt5M1B6SlZmdVhKX0xXU2FzQThqMkgxWmhFa1BteHBHSXlLdVpERzJNRktxaUhXZm9iblhrWGdyV3F6dU85Z2JlS1JLRlhYU1M1QUsyWWVxaXREVTc1LUZOeThnSjBYVmMzOU5aTl9sWW1OVmI1ZmNiNHZJVnJXcGtuODljRzRua2U3ZXVkel9Cd09mNWZzYjRGTTFZY3lGWVNnYTBKd2xWcWxDRE8xag?oc=5"
+    },
+    {
+      "id": "7422b09037e52da97e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T18:03:02+02:00",
+      "source": "EFE - Agencia de noticias",
+      "title": "El incendio de Burgohondo (Ávila) deja historias de angustia, solidaridad y resistencia",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHlZbTNMREthT0pQVkJKdTM4ZWY0QllCY09PbnhFVnRIcVhObzB6WFV3MkFOWnk1YWljejd5Y0FweG9NYzlHV1VaMUxidGlQNWpMUlp4dGZsS3BRMm85ZHRSaGFnTUF6R2QxSnFEeVlna0x6V29SWGNVSGlaWDdGZDNBbDE5Y0ZQT21LdE5sZ0NzbkZlRTFHRGZOaUtzSXoyTFAzTmVvRHY?oc=5"
+    },
     {
       "id": "5fa8c234aeafc3f577",
       "type": "news",
@@ -12,18 +36,6 @@
       "title": "Julio pierde toda su finca en el incendio de Villa del Prado, pero logra salvar a su perro Lobito: \"Se me ha ido el alma\"",
       "summary": "Julio todavía recorre en silencio los restos de la finca donde trabajaba cada día, situada en las afueras de Villa del Prado. El incendio no...",
       "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Julio-pierde-toda-su-finca-en-el-incendio-de-Villa-del-Prado-pero-logra-salvar-a-su-perro-Lobito-Se-me-ha-ido-el-alma-2-2912728710--20260802034713.html"
-    },
-    {
-      "id": "5b2a18a25afc43387f",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "El Tiemblo",
-      "published": "2026-08-02T15:32:29+02:00",
-      "source": "Telemadrid",
-      "title": "El incendio de Ávila destapa un presunto caso de maltrato animal en El Tiemblo: hallan decenas de animales muertos",
-      "summary": "El incendio forestal de Ávila ha sacado a la luz un presunto caso de maltrato animal en el municipio de El Tiemblo. Lo que comenzó como un...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/El-incendio-de-Avila-destapa-un-presunto-caso-de-maltrato-animal-en-El-Tiemblo-hallan-decenas-de-animales-muertos-2-2912728713--20260802033229.html"
     },
     {
       "id": "9fb7cbb6f938af2751",
@@ -48,6 +60,18 @@
       "title": "Se investiga si la reactivación del incendio en Burgohondo (Ávila) se produjo de forma intencionada",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUkhIcF96bEt6SHR1dktHNWxrOGMxYmpuWHVzYjFIUWRMYzM4RTFnM091Q0R3WjdJakpSSmxLdFZJR0dOd0JtZm5La29jS2NsblBuZ3F2MTVwSUMzdlRZbG12RTlyU01fOFcwNXdZMFVwNmxqVlQ0S01DS0k1RWl1SnZYVEM1YzhOOXpGTnhWTmZXbGZXNTBzOGpjMjZjQkpxUFI3bFA4cXB5Q0pyUkU0d3hENTQ4SF9CS0s4czVVSU9VbmhsSVpHc3FrRDFibHBwTWV5ckZhaXlOVVJjRkNRSDJFVkRBVUJOVU1TVlRQeGN0S1ZpX3VkblJpbEV5V1hWV2MyOWVWZnhsWWpIMXVUaUdlbE4xSHpJNi1BcnJRaUszTEpy0gGkAkFVX3lxTE9SSEhwX3psS3pIdHV2S0c1bGs4YzFiam5YdXNiMUhRZExjMzhFMWczT3VDRHdaN0lqSlJKbEt0VklHR053Qm1mbktrb2NLY2xuUG5ncXYxNXBJQzN2VFlsbXZFOXJTTV84VzA1d1kwVXA2bGpWVDRLTUNLSTVFaXVKdlhUQzVjOE45ekZOeFZOZldsZlc1MHM4amMyNmNCSnFQUjdsUDhxcHlDSnJSRTR3eEQ1NDhIX0JLSzhzNVVJT1VuaGxJWkdzcWtEMWJscHBNZXlyRmFpeU5VUmNGQ1FIMkVWREFVQk5VTVNWVFB4Y3RLVmlfdWRuUmlsRXlXWFZXYzI5ZVZmeGxZakgxdVRpR2VsTjFIekk2LUFyclFpSzNMSnI?oc=5"
+    },
+    {
+      "id": "6cc7f6ad68b06538bf",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T14:51:41+02:00",
+      "source": "Telemadrid",
+      "title": "Así fue el protocolo de Safari Madrid que salvó a los miles de animales del incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWjg5M0l1SVNKMWtlMTY3bThjQUxhU2RSSHhDeWoxb0lhaXdfSHB0TF9nX2VBc0VOanFWaGd4YTJJNG1Bd2JWVlRVM0FzdjR4azhKSnpOOTUtTEhHRVlyNHJSSXRxWHN5YTQ5MmNwRVh1Zkk4TjlQMkhJYnNISHh1MGx0MGxTTkgtUFk2d3VwWFRVbEt6UGJ4TEMzX1YtWWg3LWhmR2FRZEVjZGZYa2JqMmhEZmZ2MkNSM2VBRG5td1lrR1N2X0lTRzYzbTdFNVhIYmFGZWFKdzJEZEhxVWFJOU53Xy1pdmdEYi1kdk5FQWRLbXZKbDBxMV83ekYzS01xYk5FSGZCSGlRRS0xUWfSAZMCQVVfeXFMT1JHQ0RlU2s4ejZFRzZLc3hQNnNUUDhkdXQ2d21zSGxXakl1MUk0WWVkcHQzTnh6V0pYRFJkeGU3Rlc2eEpJNFJNQnlFR0pLYWhPWFZqMmh6SFpTT2RmQWtTNV9BcVZqMndoTHdySWpQb2FEdS0yTUhoMFhMZDRyRXJ6SmpJOURhNk9ONFlkSGdNaVlONXF2WU5fZU16MUpsb2o1c3dvUmZyb2lDTFB0NC1IenFTcXJYQzJ4OFNoSDExakRZUHlhMDVhWldyUFc5OFkwcFVZWExPemlnNHBWdEtnWFRoODFiMUswQjI5M1I5YW9jVEFrU3VsZW9HeUJ4dVRXY0MyWXZZZXZjdnFvRlFBekk?oc=5"
     },
     {
       "id": "2957825659e9313683",
@@ -96,6 +120,18 @@
       "title": "El incendio de Burgohondo mantiene un amplio despliegue de medios ante el riesgo de reactivaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVVyREhMUWFqbHU0eHFYUm1VQUw4Q2FneURoZ1d0ZXl5RloyRVV0bTFGeGhiOWFCNFowdGFLdVI4WXNoNVhnRkpHX3NpRmx3VDlObXZ6ZXVzMDVxUXMxN3hXQ0dnMzlDM0VUYWt0clNhM3FhU28tNkFGWUMzRUd4Q0VjTjFkWGVfMW1mSzdhbkpNUWVwLW11UzcyaGlUU0FWSVVzaWtqQ01VUHdzeEFLWjBUUTFrOVpZbU5IRVBB?oc=5"
+    },
+    {
+      "id": "2e44978cc3cee2f462",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T11:10:00+02:00",
+      "source": "Europa Press",
+      "title": "El operativo prevé un día \"tranquilo\" frente al incendio en Ávila tras reactivaciones posiblemente intencionadas",
+      "summary": "El operativo de extinción del incendio forestal originado en Burgohondo (Ávila) espera una...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-operativo-preve-dia-tranquilo-frente-incendio-avila-reactivaciones-posiblemente-intencionadas-20260802111000.html"
     },
     {
       "id": "6e59c483b00f3b9dee",
@@ -266,6 +302,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeW1KbVZXOWlBcFlnT1pOOGdHS3MzcVBJcnZrZ2RjU25wMmtxaVhYanFVeTdqV19ZRTh2SDBiNkhQT3c0ajI3eEp2cXh2ZElHbnZCeHJJQ3pjbXIwckRQV1NvWmtja3VvWHdFdFQtVzRhS2RfLW45Q0xzMVp5OS10LWZ2TVZ6TGJJMkFkRmdjdnIwdUIzOGpIZUdBcWVYWlNTUnJYVUJoRTFGNVBjVWdadTRmbW5QUll6WXhWM0JjVFVWZw?oc=5"
     },
     {
+      "id": "d3551daeb0b9d2659c",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-01T20:33:12+02:00",
+      "source": "Europa Press",
+      "title": "Ordenan evacuar una urbanización en La Adrada (Ávila) por una reactivación en Burgohondo",
+      "summary": "Una \"posible reactivación\" registrada en la tarde de este sábado en el incendio de Burgohondo (Ávila), en...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-ordenan-evacuar-urbanizacion-picota-adrada-avila-fuego-burgohondo-corta-av-930-20260801201600.html"
+    },
+    {
       "id": "646d02d66bbef5db44",
       "type": "news",
       "severity": "info",
@@ -288,18 +336,6 @@
       "title": "Los bisontes que ayudaron a frenar el incendio en Madrid: su pastoreo creó un cortafuegos natural que protegió la reserva",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMmctdEtoWXFpdXpwUWNJbS1OTWN3RUNIeVRWOE5ydlNtMWtfdFpxYjJBWV9qTE1OdEVEX2ZFcEszUGpka3BvY3l4aS1XSVAwblFLSjRQRGN3VnF0eExMX1J4OXhhRTUtNThIS0tyS2FRdXlLRUIxSi13U0pwRlhuNFVDdHhnZEtvZXRyQ2tDc0F0TXBQWHZDM2hmSGg1RGoweTRMekdmcjQ4WFFGaFU0ODgtd1RGUVR5TUlzVzJqM2ZVZXhLVTZGbEk3RXBMeHBzRVpqeldoNzVxcTZKVXFwSDBQZ20zQ1VhdDNxRTlkdkFMZjNtalpjbWd4NDJDWEZNWWdHNnJ5dkNwRnJoUmxJSjZUdXVXa3NndmFnTF9YVkZ3T3BsSTdoMDB6Z2F0ckNmQndNYWZRRHRhVzlXNEHSAcMCQVVfeXFMTTZyWnU1Wm83dmdGLWlLTlJubk9SejZkdjJXQkp6R1dDb1N0cWV0dDVzbGtBdVQ1eVE4WFdlOXFMeTZuLTlWR1laVHk5a0JOZndMbWl6amM5VkVzQXMxS3FXVW5iazBGOC01NU9kbkc3RDg1VnRVVENtUVdQUUF3REFhdnhQNE9Vb0tZMTZUamo1cU1TRGVkT0ZLSHhBLXZNZ1pzNG5nMVIyXzFLRS1vaUJCTWJXNThGdDhVVkVnLWYxRkdEN002MDd0ZU9RZEpmWFhIeGVPTzV2aHVCbTlTRUpNQXE0dVg0UzNkcmdOLXQ1TzNyQTFSM29yYllSWnd3ejhRZWV3MGF2cEcxcHBiU3RGTVg1OEJKOWFXVFlpRmZyOVR3OUdKWG9Ra040UkpIbmdRaVQtbm9EUVQzeG1FazRwalE?oc=5"
-    },
-    {
-      "id": "7e60925c5f895728e9",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-01T18:14:35+02:00",
-      "source": "EL PAÍS",
-      "title": "Las imágenes aéreas de las zonas afectadas por los incendios forestales en Toledo, Madrid, Ávila, Segovia y Guadalajara",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNG5VNWsyeHZBVWdRalpWaF9DdTNmYVJlU0J2MkhlOUhaSmQxV3F3M0dueGFsSEFkM3ZSNEN2ZmdnODNHUGk3SzYtS0RDMm1zZ203TWxQR0k1dUR3OGpEeUFNQXlkeVl3UHVGd0Jacl8wSjY2QXpHbmR5Vy1CejlTcjlJc0dvN0E0N1l0Y1VTUnd5WUVhM19OTVJUQlRjQ0djVmgwbXpfSlAyNkJmREVLc25mV1RlUFNDaVQzcXJzQUR5Vi1PcEhTTjNXOVltTEhNSUlWZlEzcmlwSDFKUHNWeHptNmEzaHJ4SWdmZ2tiWQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -409,17 +445,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 27
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 29
+    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 5
     }
   },
   "refresh_seconds": 300
