@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-02T10:42:39+02:00",
+  "generated_at": "2026-08-02T12:21:12+02:00",
   "items": [
+    {
+      "id": "2c1140a1fbe4026251",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T11:23:48+02:00",
+      "source": "ABC",
+      "title": "El incendio de Burgohondo mantiene un amplio despliegue de medios ante el riesgo de reactivaciones",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVVyREhMUWFqbHU0eHFYUm1VQUw4Q2FneURoZ1d0ZXl5RloyRVV0bTFGeGhiOWFCNFowdGFLdVI4WXNoNVhnRkpHX3NpRmx3VDlObXZ6ZXVzMDVxUXMxN3hXQ0dnMzlDM0VUYWt0clNhM3FhU28tNkFGWUMzRUd4Q0VjTjFkWGVfMW1mSzdhbkpNUWVwLW11UzcyaGlUU0FWSVVzaWtqQ01VUHdzeEFLWjBUUTFrOVpZbU5IRVBB?oc=5"
+    },
+    {
+      "id": "2e44978cc3cee2f462",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-02T11:10:00+02:00",
+      "source": "Europa Press",
+      "title": "El operativo prevé un día \"tranquilo\" frente al incendio en Ávila tras reactivaciones posiblemente intencionadas",
+      "summary": "El operativo de extinción del incendio forestal originado en Burgohondo (Ávila) espera una jornada...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-operativo-preve-dia-tranquilo-frente-incendio-avila-reactivaciones-posiblemente-intencionadas-20260802111000.html"
+    },
+    {
+      "id": "d1a3e3ea73a0cb0b3e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-02T10:48:45+02:00",
+      "source": "20Minutos",
+      "title": "Las reactivaciones del incendio en Ávila podrían ser intencionadas: \"Pudo ser provocado en dos puntos\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjF2Z3RlM1FLOFlrVzhkOXExQ19ITllwQXlsR2N5RXFEcXJselJIcV80a1ZtQXhRS1JhY0VURWZiNU5OSmY4MGUwVDJ4SU5OQmEyZUV1eGNzaG9YaEQxcXRDYzNqMW1GLXZacVZ6VmdaSjNrMkppQ2lUU05pNGpIU1ZyQ05DdjJNX3AtN1F0VlMzd0JQNk5EQVRPN1VDU0JjZjJGUFdrb2JtN05HYmt2WVBKSGRpMTd0YWtUNFJ0RGFubVU?oc=5"
+    },
     {
       "id": "2625a069fc01bc752a",
       "type": "news",
@@ -11,7 +47,7 @@
       "source": "La Razón",
       "title": "Los rebrotes del incendio de Ávila apuntan intencionalidad",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejRNUXQzR05WT2lZTVVuamFYWlY0NmxvejM3U21HZTZMTWtDWWlnMUZIU3RRaEVfcDVyNzJIZzc4enl0LTBhTXZFNzBRakpBaWxrTmYwcnotbmVnNHlkRlhKNHRwalhyYndpLWdvcHQ1VFFpZzRELVQ0dHdYUkdsTUh0NFJzdnkyaDQzQzFJMFdmMDY4WENsbDVwc3d6dlpVRDhrNkwyaGxMTTZMcktnNC1LbWJYdlZ1djluc2NiYUI4Z9IB1gFBVV95cUxOYTZqMnlkVmhLWHVWMjI2MHNVd1E3SXlZZlpHOXE3RGlqSUhoVjNJMkk0Z3F6WmdYWWlNVDhZMG16R0JUc0s4NERmR2hoVmNCZHEwV09JQXZDa2FPSzVVY2Rsd0ZRLTVleWNpa1VjaENDczBlNmlidU1FSjJuY0QzQjlkQ3Y0R0p0Zjg0cmlERGJiYllKNnBQLVpsVFVEZm5NYm1hckg1dl90d1BaVm5NaXQ3VzNDVWJ2OHBpN3RwckU3VHJtUEduQTFhNFJwTWN4SVlRWHZB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYTZqMnlkVmhLWHVWMjI2MHNVd1E3SXlZZlpHOXE3RGlqSUhoVjNJMkk0Z3F6WmdYWWlNVDhZMG16R0JUc0s4NERmR2hoVmNCZHEwV09JQXZDa2FPSzVVY2Rsd0ZRLTVleWNpa1VjaENDczBlNmlidU1FSjJuY0QzQjlkQ3Y0R0p0Zjg0cmlERGJiYllKNnBQLVpsVFVEZm5NYm1hckg1dl90d1BaVm5NaXQ3VzNDVWJ2OHBpN3RwckU3VHJtUEduQTFhNFJwTWN4SVlRWHZB0gHWAUFVX3lxTE5hNmoyeWRWaEtYdVYyMjYwc1V3UTdJeVlmWkc5cTdEaWpJSGhWM0kySTRncXpaZ1hZaU1UOFkwbXpHQlRzSzg0RGZHaGhWY0JkcTBXT0lBdkNrYU9LNVVjZGx3RlEtNWV5Y2lrVWNoQ0NzMGU2aWJ1TUVKMm5jRDNCOWRDdjRHSnRmODRyaUREYmJiWUo2cFAtWmxUVURmbk1ibWFySDV2X3R3UFpWbk1pdDdXM0NVYnY4cGk3dHByRTdUcm1QR25BMWE0UnBNY3hJWVFYdkE?oc=5"
     },
     {
       "id": "3464c6bdffd371c22c",
@@ -36,30 +72,6 @@
       "title": "Tres reproducciones del incendio de Burgohondo reavivan la preocupación en Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQVEzVjNBZEZZbGVTVzh6RjNtNW4wRjBickk4cWxGalNxb19yOE15cGJZZFljdDVTVUZjV2ZLRWFTVTEzb1ZXcEhkVVVCTVBkSklLRlVKQ2tIYk1heUNXcFp5LWFGRnVCdW1lYlVLdG5YbGZmMGpPWjQtTndkd0pUUUdueHlhRHhSRlc5Y1ZCd1UtdnBUd01aSGQwVzdxNlJfdkZadjZDanYyalFEX2ZZRGMyTVJhcDZjVEZyZ21nUzVuNEhLS2plSEFDR2hEMmtyM0VLNVZ5VnFRc1k3ZzA1dDZfaDY2OEdQOFFfT0EyYmZwdXJKR3AxZTZlNHI3NFJmSnNmeWJzdzN3OXhyS3fSAY4CQVVfeXFMTUFRM1YzQWRGWWxlU1c4ekYzbTVuMEYwYnJJOHFsRmpTcW9fcjhNeXBiWWRZY3Q1U1VGY1dmS0VhU1UxM29WV3BIZFVVQk1QZEpJS0ZVSkNrSGJNYXlDV3BaeS1hRkZ1QnVtZWJVS3RuWGxmZjBqT1o0LU53ZHdKVFFHbnh5YUR4UkZXOWNWQndVLXZwVHdNWkhkMFc3cTZSX3ZGWnY2Q2p2MmpRRF9mWURjMk1SYXA2Y1RGcmdtZ1M1bjRIS0tqZUhBQ0doRDJrcjNFSzVWeVZxUXNZN2cwNXQ2X2g2NjhHUDhRX09BMmJmcHVySkdwMWU2ZTRyNzRSZkpzZnlic3czdzl4ckt3?oc=5"
-    },
-    {
-      "id": "899e5e3d5ff56574eb",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T01:37:30+02:00",
-      "source": "Cadena SER",
-      "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
-    },
-    {
-      "id": "a6ee5e13c880f9da0d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-01T23:24:19+02:00",
-      "source": "El Mundo",
-      "title": "El mando del incendio ve indicios de un posible origen intencionado en tres rebrotes en el sur de Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4TnJfUmlDdklIQUdYcGZOc3I2RUY4VWl1dzVRVHNxbGlwS3dlRUo5RkliX19hampZUW1iblpXS0pLdm9YQmVHei1QYngtazEzbzNNWWtxVkxPSEhReVJlS2tvLUYzaU1DVzU2WW5NN0FGOHZrSnJlWkJn0gF6QVVfeXFMTU5rXzdOSHRaOS1nM3RxQi11WVIwVzlxdFJRcFA3N3ZDUW9MZl8xd3hya3BxUlJyQ3JsdzF4a05KcTRxaXotMi0tY2NrTzRNV3lDWFRpMnR3aElLZzVGOFdOcnREYmxEVHRoUjhISk1WVzduYl9NNDBYN3c?oc=5"
     },
     {
       "id": "e53b1ad3941c299c51",
@@ -170,18 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRXhzYVhOZ2JQQzU2cGRodUE0SHowbFlfMXczdkRjUDdvU0tETWlORXZWRm1yd0tKMVVMbkFVc0VkTFZUZ0JILTh5bHJ0YUZOSWxmM0E3R0c1bHNDa1E3alhaY2ROTURteG54ODZWT0NUUDI0LUV1Y192eHMwdVE1SHlkQU52bURTUks3QTR0MGs3ZWVXazA5TlF4bk8wODcxcnpSM2dMWkVnYzJCaEo5RENtMUVwcmZCaDd4R1JpdVl6WXlSMy14YTMyb1RfQ2dlZkZHSVYzUUF2V040TmREN1BCSGV2T3Iyd01JanRLY3N2RkRFYmVFVlJTMzVoRXotS0F6QlV30gGGAkFVX3lxTE9FeHNhWE5nYlBDNTZwZGh1QTRIejBsWV8xdzN2RGNQN29TS0RNaU5FdlZGbXJ3S0oxVUxuQVVzRWRMVlRnQkgtOHlscnRhRk5JbGYzQTdHRzVsc0NrUTdqWFpjZE5NRG14bng4NlZPQ1RQMjQtRXVjX3Z4czB1UTVIeWRBTnZtRFNSSzdBNHQwazdlZVdrMDlOUXhuTzA4NzFyelIzZ0xaRWdjMkJoSjlEQ20xRXByZkJoN3hHUml1WXpZeVIzLXhhMzJvVF9DZ2VmRkdJVjNRQXZXTjROZEQ3UEJIZXZPcjJ3TUlqdEtjc3ZGREViZUVWUlMzNWhFei1LQXpCVXc?oc=5"
     },
     {
-      "id": "2e4e199fec5bc37f33",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-01T20:27:48+02:00",
-      "source": "Europa Press",
-      "title": "El fuego de Burgohondo (Ávila) evoluciona \"conforme a lo previsto\" e incorpora 50 efectivos de Catar",
-      "summary": "El delegado territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha asegurado que el...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-burgohondo-avila-mantiene-gravedad-comportamiento-dentro-esperable-20260801112059.html"
-    },
-    {
       "id": "392c9b57d2a48238d3",
       "type": "news",
       "severity": "info",
@@ -204,6 +204,18 @@
       "title": "Las imágenes aéreas de las zonas afectadas por los incendios forestales en Toledo, Madrid, Ávila, Segovia y Guadalajara",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNG5VNWsyeHZBVWdRalpWaF9DdTNmYVJlU0J2MkhlOUhaSmQxV3F3M0dueGFsSEFkM3ZSNEN2ZmdnODNHUGk3SzYtS0RDMm1zZ203TWxQR0k1dUR3OGpEeUFNQXlkeVl3UHVGd0Jacl8wSjY2QXpHbmR5Vy1CejlTcjlJc0dvN0E0N1l0Y1VTUnd5WUVhM19OTVJUQlRjQ0djVmgwbXpfSlAyNkJmREVLc25mV1RlUFNDaVQzcXJzQUR5Vi1PcEhTTjNXOVltTEhNSUlWZlEzcmlwSDFKUHNWeHptNmEzaHJ4SWdmZ2tiWQ?oc=5"
+    },
+    {
+      "id": "862ad972d050c74b7e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-01T16:29:02+02:00",
+      "source": "Madrid Actual",
+      "title": "40 dotaciones terrestres trabajan en el remate del incendio de Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWZZTHJNNTJYclJPV0lsVWxMRnVYbXFQQVNnY0ZoUTBxdnkyT1FKX0d1Qk1NRW4xcjMwTi1kTUtGeTM4NnQtTVo3NFlkOWJSZTk2bm9FU3k2SEFhZGdITVhrZHd2TFV3dlpkaGFoVHJoVGNXb2NsWUIwcFlZYlVQUTVMLWZsNGRYUkUzWjE5VkdRN0NTNEdyUVBZTW1sWWhkMmRjd2xEbUFoeDlUaV9qbXg3U1JKVGEwUXRLSWdzNnQ4WFNqakt5TDZqU09CeWhES1lEajkyRQ?oc=5"
     },
     {
       "id": "98afc03e7c85cd2a90",
@@ -254,30 +266,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpsc0Zkb1NlN1RDblJfeDFuNGphZWh3UTNVSzkweUNqUWZ6ZUlHQ3hMcWt2MTh2cnljLXN6R21tdDBkQ3h4eFJEYTNUcFNDYU55djJIcnhhaENaVlhHVzlNNk1UQW00NHBWbm1STTVjMFZSQ19sQ0xrd3BCYVZWMk1nQmlqbjVNci1JazNSa1VTbTU1S0cyNWhMUjhWZzREMm5keEJXZFdFQQ?oc=5"
     },
     {
-      "id": "54b9748a3a5b380bd2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T11:47:21+02:00",
-      "source": "La Vanguardia",
-      "title": "Los incendios dan un respiro: estabilizados los de Zamora y Madrid, mientras los bomberos refrescan la zona quemada en la Vall d'Uixó",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEtfanh1OXFMS29CVlBHU2RtX1dJRWZLN1d6bjR3dDdsa3R1RThkaUs2dTRnQ2RYSEJVU2pUQXFHdzVHSmgzZ3QteHEyaHB2YjM5YURoWkdlWERJRmZldGszLVR3clVhZ01QNWxTMkV6eVpQZlZlOGdCMDgxY0o4S0pIeS03V3hBbWpFYk44X3JFZkZ3Z08tZmxNdGw3SzJqZktISTRibnRnaEc4N0syMVJQN0h1bE9iZkxVeU9xTVA4Sk4xSk44SzNhMEdmMU41dWJPMFY3RktfbzYxcjZHRWRLNFjSAeoBQVVfeXFMUGZJYkllMFhxd05NVkxOLThYUHd3SElNUlVOT2lhcHN3dVpJNk9xVzBfZnpfb3k5aGlkRUFzbmt6Yjg1VmZfY0p3b3o4WTF2MjVwQ1ZzX0xITHFNX1RtTnBWZXhja2hiU3BweXNCeFU2bXFuWjdGd1c5cU51b2hnZ0h0dmJYR010S0l6SE50TzZVWmp6OGJGb0tYMFB4UGZrblJWczVIazlqWHV0czc4YXQwSDlxV3k1RThLM01JZVppODJtWTVWZzlYbEJEdVF2N3FSUmdKemlTMEhUelRjOFdVOVBCbElhQlRB?oc=5"
-    },
-    {
-      "id": "b7acb48cdda44ab1ca",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-01T11:34:17+02:00",
-      "source": "20Minutos",
-      "title": "De un carnero sin lana a un perro refugiado en una piscina: la otra cara de los incendios de la Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkZYTFVHSlZXcW5zRDNYQXV0YXFzZkJjV00wUE5rcjhGZ3hzOGYwSEFiWk5OdkotRmJpSFlEZHJmcF90VXRmWFV5WjZnOUx1ZVgxVkYzcUpnRUg4OF9DTHBNbDNTWVJDUkJDZFB6VDdMX0RudXc4RTRsLXdkMzdGbUJjbnNSZUNVZFRQQTloM2Q2a05qWkpodUx4WE91Y2c2M1pxRElMbEw0blo1dXU5c2hXNWMya2E5RFJrT0g0cHdienB1S0E?oc=5"
-    },
-    {
       "id": "d342c823ff05333f4f",
       "type": "news",
       "severity": "critical",
@@ -288,18 +276,6 @@
       "title": "De un carnero sin lana a un perro refugiado en una piscina: la otra cara de los incendios de la Sierra Oeste",
       "summary": "Los incendios forestales de la Sierra Oeste de Madrid no solo han obligado a evacuar a vecinos de una...",
       "url": "https://www.europapress.es/madrid/noticia-carnero-lana-perro-refugiado-piscina-otra-cara-incendios-sierra-oeste-20260801090050.html"
-    },
-    {
-      "id": "cc3a1692002918948c",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-07-31T19:38:41+02:00",
-      "source": "Europa Press",
-      "title": "Extinguido el incendio declarado este jueves en Villarejo de Montalbán (Toledo)",
-      "summary": "El incendio declarado este jueves en la localidad toledana de Villarejo de Montalbán (Toledo) ha quedado...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-extinguido-incendio-declarado-jueves-villarejo-montalban-toledo-20260731193841.html"
     },
     {
       "id": "8e391a4061190e087c",
@@ -421,17 +397,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 22
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 27
-    },
     "direct_media": {
       "ok": true,
-      "items": 11
+      "items": 8
     }
   },
   "refresh_seconds": 300
