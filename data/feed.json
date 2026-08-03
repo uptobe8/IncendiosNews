@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-03T18:38:28+02:00",
+  "generated_at": "2026-08-03T20:25:18+02:00",
   "items": [
+    {
+      "id": "28c372d84a3a3e59c3",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T19:05:08+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid agiliza la gestión de residuos de los incendios con medidas extraordinarias",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWERYNnpiY1RCZ2RDdXZ6SnZjRFY4eEhPZm1DYUVicERtbUFabnBXanJzNEY1Qm4td21FZ1JiZXJFTDhyaGd2YlQyQV80akF1TThBQW1kSTZpR2NqeFZEd25raktZQjJqSERnSGRnNlVCYWZGWE5LWWxUUFQySFhQVWZfNkJKSVQzSFJLQVZ2dWZWV2FPb0dROV96bmstZEdQMk5YUVNtNUlxbUZNUmZIOFlwekp4RjdCLVlTN2lBbnZJNTk3Y2c?oc=5"
+    },
     {
       "id": "d3a93c66d8ad51ac0c",
       "type": "news",
@@ -26,16 +38,28 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYXZ6VVFuYS1qN3ZoejR5RXFOektYNmRscUhvZzlQZ2tZZU0yT1c3blp1MjdmZXNzU1hwa3FRYmdiRTNibWZwV015OGZwaTlLWldPVWdlRmZMU1dxcU94SVF0VmFZQk9Fc0QxS2lOYTkyMzc1UG11T3BycEZxRHdvOUxtN2plZUZKZUVDMWRxZkpyaGZSUmwxZnJXeXYxMzBoRzgtNXNUM0E1dDNLNjRYbW4yZUdVVUVvSGU3RHRLdGVUR1dWYnp6Q216VjYyRUpBcnhvRUZ1STVkU0dpOGFJRlJDb0JoOEo3TFllR2NTV3NzeXppcDByWWI0ZGN6Zy1tem9j0gGIAkFVX3lxTE9QRHFHbzRaV3A0VWQzNmE4OTV0X1I2cGt3T0tQcU1hX0JacVl0SDZlYVkyUEw2SjIxUFo3U3F3bGItN0gybW9oY1FfRzMtT05UekkxYTc4MHdGb2hnNW82cXp4YkhBM0hUakh3Tk9FREM4NlZodEpTeDE2QVdqdTRKamdPQTlid3lfRUZObmJ5M3Vpd0ZCaGpIMGwwUnFSN3VBakVzTDlsZW0zN2UwS2xKaUdDRHpQbjhqNF82ZTN0eGU3TkV5VTctUnJBc0Q5bmxkQjNWYWZteTFCZ0dYa2taV290V0xvaEszNWR3Q2RGOTZhc2JCLUJXZkxULTFOTnltTTFsM3lrag?oc=5"
     },
     {
-      "id": "71b676667820386bb0",
+      "id": "9ae593c8b91b00da41",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-03T17:29:30+02:00",
+      "published": "2026-08-03T17:30:51+02:00",
+      "source": "Telemadrid",
+      "title": "Asesoría jurídica gratuita para los afectados por los incendios de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUDJ0emN5T09GeUpEVmhGSkZKUlRzUzdpSUNRQTRGaUtMU0luTlpGaWdBeE9jbWg0UHhWZlNpaW1sd0JyX1dhRjRNSjFtQjZIS3lUQVhFQ3dScUNlMnZkdnV1b3RQOWVOQU9kZ2FubWpSWUhVZFNEckd1NXJmODlya3A5cnRtUlktanc0N05yU2F6UzRtZW9STjZSaUJ4N0R5ZjZmTXF4dEZEaTdySndUWko4cndxXzdvTjVQOUtIV25rWmJhcjBtNVprczdhZF83bXI3a09UZXRXMDMtVnlzOEhWNUEyNUVBejIxSG95YzdBWUFDRW5ZTWJ4NNIBgAJBVV95cUxPMzZJbU5neUdPQ0lWalYwNFR4MkhhWi1PQThCNjRWZTBuT09NamtVNHdTcThweWFjaDhjQzMweFpiWHVjMHdBcjZyTWlETG9Pdzl2eTIzdU9RV0JGY2ZGVkRVM0tXS3ZMNWV5Qk0wX2drUzRCaXBhMUgxNHRrbUlzUE9vb1dNNEpoQlAxRkc1MkdqbHhIdldNRVUwOGFPVUlhU19abkJRVXZ2Q29GbENIYlNSSFlVNzktbGdGNUc4UTgxelNqaDR6bzEwVWlsRkRjOU9XQUtVdVlWTXRMbUh6RVl5dGtNZldydEZKckFkNGMwbWRMNmppRzJZeUFuMzBm?oc=5"
+    },
+    {
+      "id": "95424b6cf13cf7c85f",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T17:10:25+02:00",
       "source": "Telemadrid",
       "title": "La Comunidad flexibiliza la gestión de residuos de los incendios para acelerar la recuperación de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid ha aprobado medidas extraordinarias para agilizar la retirada y gestión de los residuos generados por los grandes incendios...",
-      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-flexibiliza-la-gestion-de-residuos-de-los-incendios-para-acelerar-la-recuperacion-de-la-Sierra-Oeste-0-2913008701--20260803051025.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPVUdVZEV1cHJfaTZyRFVBUTlZSERlZFVLZUdYRGZZM1l3WXIyY25qejU4TmJ5Y0lRbUFQVWx2d2dtcTM5bVlxY2ZXR3hpbzdnRzFLd2lLZ2I5ek5QLWdONm1RQmQ0M3RzaU93TW9tN0hqTnh6SUw4LVVuQnFMXzc3Tk9WU2lDenZSMGtleGp5YjVPeGkxOXZxNmVqZHpxMzFOVGtjMFJQVGVmbWRWSWswc1QwZ2hXVTVWc090Y01qcWZOUk52QlgxUG5Gb1lvemtyOHdoaDlfRTdjWjV2M2xtejlzU0xPdVpQeV8tWHF5XzhiZVhScG9kbEhuM3lucGgyX2ptd05NekhFNDZ1djNtZTNEX0pPLUJVUHpXZHZR0gGeAkFVX3lxTE9VR1VkRXVwcl9pNnJEVUFROVlIRGVkVUtlR1hEZlkzWXdZcjJjbmp6NThOYnljSVFtQVBVbHZ3Z21xMzltWXFjZldHeGlvN2dHMUt3aUtnYjl6TlAtZ042bVFCZDQzdHNpT3dNb203SGpOeHpJTDgtVW5CcUxfNzdOT1ZTaUN6dlIwa2V4anliNU94aTE5dnE2ZWpkenEzMU5Ua2MwUlBUZWZtZFZJazBzVDBnaFdVNVZzT3RjTWpxZk5STnZCWDFQbkZvWW96a3I4d2hoOV9FN2NaNXYzbG16OXNTTE91WlB5Xy1YcXlfOGJlWFJwb2RsSG4zeW5waDJfam13Tk16SEU0NnV2M21lM0RfSk8tQlVQeldkdlE?oc=5"
     },
     {
       "id": "2acfd1191aef25b4b7",
@@ -72,18 +96,6 @@
       "title": "El incendio de Burgohondo, en situación \"favorable\" tras una noche \"sin sobresaltos\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkpuSWNmQnU1Skh6X05JdWo2c3E2d0ZRMlNhS2RYT0FzSGRlN2NkYkN3MFQ5OXRndWFFZUFGcS1GS2ZSbEI0aG5QVXpkRC1zVGp0Y25naVNnbUdNTGFjbG1wZHo4X1d6T25tclJNZTNuSURueTBvM19Kc0hqaFNYZmlpY19uYk02XzJ5Mk9pTms2MkJPX216M2N4TFJhOGM1OF9jRG93UTBiVWU2UnVfUg?oc=5"
-    },
-    {
-      "id": "8defe0d16eb5c39c35",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T15:05:18+02:00",
-      "source": "Telemadrid",
-      "title": "Asesoría jurídica gratuita para los afectados por los incendios de la Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTjZucEI2a1FDTjAxRS1DZXdqX2lYejBOTy0xTGJiTVIxbjBIT3F6LXQyOERhX2Vfc2tMNzBLMng3R2FoeUt3VERGZHJyMG00ZWh2T1ZGbmRnelE1UEZEaVAxMDlldWxpb3dFNlZCUlpYbjctN01McHVRa1ZodENlQlZ2UkZWT0VkSW1Wa0M3aXp1NlZ2ei1KS0c3SjRmQWlUTjJoNGFNSi1FM3VySVlwQjVtbGlMWURzSXpmMDlWWkRQSWxsZm9yZWFYdEF2NnFmanhOVkJrTFNTY1I1OFgwS2lTejBYNjAtcVJ4c001dUdGT1hYaktUYUJET09tYUdxbEZDZk5DdEPSAY4CQVVfeXFMT29wWE0xWkdzTlU5cm54RnlJbmtTTVRNZ0lUSHRjMVdWN1A3MXF4SEt3QWdsbnVWeXJPOENiWlBUNW5sUUhyR2dZTHdYRUZvOEc5M1c2NHlFU3FRUHJHVXlRaWNtaTV3bHZyeGhOYzl4TG9vUkxKb2pGRzZQdTRKS1hNNmlBbkh0SjFJejZ4X2VRSVh1SGVNb1NKN25fZEhoMkVBdXNESHcyZ2pzekRqTlZIdk5qc1lUSFBNZDl1dWs1S1Z6UlRVYmNHanBPLW9HUUpYNkkwaHBVSXVUQzFYN1UyWERaTUkydlBVT3hQT1FYeWY0V092SENnUEJ4amlGeGdIa2JBUmFBX1RIS21B?oc=5"
     },
     {
       "id": "2e0edfc513126fc5be",
@@ -158,13 +170,13 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qM0Y0aTIzeTVud1cyN1E5STBpbmRoenlkUXNHWVhKSERlRkVvVV95UzctUkpDZnN3MHdiU2hmbUJ3OUw2Ql9OV2tYZGU3cU9UVlZZUUEyUXNJRXRFRzJRYlNQdkVZSFctLTY2YlQxdHM5UFl4Q2cxTWl30gF6QVVfeXFMTUdvbVRRR1V2RXRLVWNTMW9fU252UDV3ZU0wWU9zZC1iVjA0QkxRQkpCa1REUjY5azRaa3BkMzU5cWlGZU1Wdm9iQ241RXZ6czJCRU1NamdWUWg5WjU3TGNIZVhBdElpbzNHREFkaVNtRTdzOGdyMUVVVFE?oc=5"
     },
     {
-      "id": "929aac747ce476e215",
+      "id": "30b763f06a6582c4f1",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-03T11:01:05+02:00",
-      "source": "EFE - Agencia de noticias",
+      "source": "efe.com",
       "title": "El incendio de Burgohondo (Ávila), en situación «favorable» tras una noche «sin sobresaltos»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWS1aX1ZnZlB3Y1l0eGtlcXJ5WEJ2aUxDUEtFQkdoMk9NTmhLd2h0bnFzUm1kZkNjRV8yZnRTcmRtLXQzeGpOWkZ0NzZ1dVF5RnBxRTI5aWlQaDZMSDBCVy1yTHdRUEJQQzRpQnlZbTNsbmp4dk5CMXRn?oc=5"
@@ -254,13 +266,13 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMV96RlhPUnhnR1VSeThMaXB2eGYwTUYtVUlSOWhiQ0NxM2dKakpIVERIbDlVOEN6aFNtcExiSV9EeHJIOGxIS240NDJrcWxGRlJlTnlqZ1FqWDVLWXBiY1VwN1VTM1hqTFlsY0pqUm9heEd6M2lwb0tvc1VEbjlRVXp1SllYQ2l5UnhrUFRZdFJUM1FqdDdaM1ZNUnMyZUlTTTNBSjlzTTNtcC1LUC1aTUpqS0NIWXh5XzV1X0RVY1Vlb04tbk1nMkdXX3Nua2I3MURxRVdhcjVDMGJZY3JFSVM2OTh3YXpQMUE?oc=5"
     },
     {
-      "id": "3a825a46810a84af60",
+      "id": "d7c867305dec4cfaf3",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-02T21:45:57+02:00",
-      "source": "EFE - Agencia de noticias",
+      "source": "efe.com",
       "title": "El operativo del incendio de Burgohondo (Ávila) confía en una noche más favorable por bajada del viento",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tMzhsSllkT2Z1MGp1ckNlcExYRHVWa0JUY2Vma0Q2bll0cnFqUGkwUlY2YlI4V2FGbk9MS1owSU53NjM1cTR2SkdWNzVZRkRScnFNbURjaVNER3RiWU9Ic0tDZzdDVkt1U1ozTDZ0QU9MSWx2Vk0w?oc=5"
@@ -288,18 +300,6 @@
       "title": "El incendio de Burgohondo se mantiene estable, aunque el operativo no baja la guardia",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1pTdzdjQmZIVklkcmstekstNU5jU2VkRWt5M1B6SlZmdVhKX0xXU2FzQThqMkgxWmhFa1BteHBHSXlLdVpERzJNRktxaUhXZm9iblhrWGdyV3F6dU85Z2JlS1JLRlhYU1M1QUsyWWVxaXREVTc1LUZOeThnSjBYVmMzOU5aTl9sWW1OVmI1ZmNiNHZJVnJXcGtuODljRzRua2U3ZXVkel9Cd09mNWZzYjRGTTFZY3lGWVNnYTBKd2xWcWxDRE8xag?oc=5"
-    },
-    {
-      "id": "5663c99eeb336f54fc",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-02T19:06:11+02:00",
-      "source": "Telemadrid",
-      "title": "Desalojan a 400 personas de un camping de Cazalegas (Toledo) por un incendio forestal",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVN0bXVwTlpXYlY0bEFyTERjUHFQVGl6QlU2ak16RFczZWlzTUtNa191cXlrRENmR3ZaM0ExTTZPWDIwdkcxZVBmNDB1SUs0M29LcjhhX29BMnNzVDZRNTl0Ny1zSS1LdUh4LWd0UVg1SklaX1RWT1RiaUVRdTg1dF9wbzJfR19JamthX0l1UXFqY1N1dUV6UzdBcTQ5VlpLclk4WVliOXEwaWZPTGwtRm9jVTFCcDFQRTVKckJHVUJNcS1EZ1BFcGJla3I3SGtwb3UzclU2bmRwdDh5UDV4M3NqdkJiQmhhOXJzU05ST1R0cXlYVml3TNIB-AFBVV95cUxPOVN0bXVwTlpXYlY0bEFyTERjUHFQVGl6QlU2ak16RFczZWlzTUtNa191cXlrRENmR3ZaM0ExTTZPWDIwdkcxZVBmNDB1SUs0M29LcjhhX29BMnNzVDZRNTl0Ny1zSS1LdUh4LWd0UVg1SklaX1RWT1RiaUVRdTg1dF9wbzJfR19JamthX0l1UXFqY1N1dUV6UzdBcTQ5VlpLclk4WVliOXEwaWZPTGwtRm9jVTFCcDFQRTVKckJHVUJNcS1EZ1BFcGJla3I3SGtwb3UzclU2bmRwdDh5UDV4M3NqdkJiQmhhOXJzU05ST1R0cXlYVml3TA?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -415,11 +415,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 21
+      "items": 22
     },
     "direct_media": {
       "ok": true,
-      "items": 8
+      "items": 7
     }
   },
   "refresh_seconds": 300
