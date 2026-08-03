@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-03T20:25:18+02:00",
+  "generated_at": "2026-08-03T22:11:06+02:00",
   "items": [
+    {
+      "id": "34f13dab255502b79d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T21:01:57+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo, protagonista del último Pleno del curso",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUy1kY1ZFbkVnUlRrTmhHN01qWGJJRmJpcVZTTmFPdTdhLUJja2wzSjNlZU5KNGc5aEZnLS1WcWtrS1pCeDQ0c0twc2xXcjNpNUxqTTB5c215R25kVmJmYmQ4OHBXU2RNVGV4VlczeUxRcHFUaVNlMktiRDIxNjItLWRNSlBEWi1neHJjZ2ZCekVaZXBrdEI3VzdjWDdUcm5kdjMydnF6cXZIaGVWbEdF?oc=5"
+    },
+    {
+      "id": "e1298aecf542794edd",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T20:56:20+02:00",
+      "source": "ABC",
+      "title": "Las reactivaciones de varios focos obligan a reforzar el operativo del incendio de Burgohondo con medios aéreos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVNCVlJLRU9CNWgzTDJMcEY2MzloUUhuUzV3bG1MR0Z0Tjl6VVZKVENTQV8zQ3J5MzRIYlFkbGVpUmczVEFKeTNBZ2pyLWtvNFI2cUotZVRTR18tdWVuYjZETEN2WGhMa0pmcVYxSjhxalZaWWNjMHBsWDBZVUVnZmRYdUdpWTg2Rk5Sa3FnYUdvUmdxZTZXTUg3X2h1ZjVIQ1RNLVh4a0l5bFhvU09hWVpmX3NIYnpIRUtiNkk4N1M?oc=5"
+    },
+    {
+      "id": "042eb67c71a6df5972",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T20:48:23+02:00",
+      "source": "Europa Press",
+      "title": "Controladas reactivaciones del incendio de Burgohondo en La Adrada y El Tiemblo, y se trabaja en la presa del Horcajo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS21wVXg2dUttUUpYOE93Y1ZQeG82MDFZVGRidnF0OUUxTzR1NENYU0hBNzNCWGxEbW5ldzA4Y3B4Mk5OVnJMOWJFb2Q2MmxHSFVyTVE4WXUxdW84WDJCa21NQlFIYkh5ZUdxX2ZWY2ZfS2lSWWt4TGsydm9uazVqdy1lSXpBZlpjMkswNXE3SjllRkFvQ2JaRDUwTEVwaTZWVnVtVGZWYmY2bHhrOGZtdTAydWRHc1VUQjloT3dPYTM5cl81bHZEUkx6MnFLbHE3amZ0cFZRamZOdlM5RWtBRjdBLWdFOFpvUXc?oc=5"
+    },
+    {
+      "id": "ad218fbb7795c9a2be",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T19:59:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo se podrá controlar “más pronto que tarde”",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWdxS2h3LVJGZGZGNVRYbDl4R2dLMWNiVTdBelpHYTNMai1LVjVsbnVQMU1YR0FHVHI5OWtpOWV0LWZVVzV4b240cjlHUHNDOFB2eDBBVDdvSllMMlVEcy1zZFktSU5pN2JTR1RDRlB5LU1FZEIyT2dvMmVfV1BCX2EySFAyb1Z6ZHlmTXVHYnNGN0hDRWhWSGVXZ0I5SjZkbldvTEZuNlJ2Ulp6TGdz?oc=5"
+    },
     {
       "id": "28c372d84a3a3e59c3",
       "type": "news",
@@ -12,18 +60,6 @@
       "title": "Madrid agiliza la gestión de residuos de los incendios con medidas extraordinarias",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWERYNnpiY1RCZ2RDdXZ6SnZjRFY4eEhPZm1DYUVicERtbUFabnBXanJzNEY1Qm4td21FZ1JiZXJFTDhyaGd2YlQyQV80akF1TThBQW1kSTZpR2NqeFZEd25raktZQjJqSERnSGRnNlVCYWZGWE5LWWxUUFQySFhQVWZfNkJKSVQzSFJLQVZ2dWZWV2FPb0dROV96bmstZEdQMk5YUVNtNUlxbUZNUmZIOFlwekp4RjdCLVlTN2lBbnZJNTk3Y2c?oc=5"
-    },
-    {
-      "id": "d3a93c66d8ad51ac0c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-03T18:18:14+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo, protagonista del último Pleno del curso",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUy1kY1ZFbkVnUlRrTmhHN01qWGJJRmJpcVZTTmFPdTdhLUJja2wzSjNlZU5KNGc5aEZnLS1WcWtrS1pCeDQ0c0twc2xXcjNpNUxqTTB5c215R25kVmJmYmQ4OHBXU2RNVGV4VlczeUxRcHFUaVNlMktiRDIxNjItLWRNSlBEWi1neHJjZ2ZCekVaZXBrdEI3VzdjWDdUcm5kdjMydnF6cXZIaGVWbEdF?oc=5"
     },
     {
       "id": "581bcd9cf458b10045",
@@ -72,18 +108,6 @@
       "title": "Agradecimiento a la \"impresionante ayuda\" recibida contra el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0ZpdFBiZjhIaXRsTlNUVjlOdV9vOE1fWnYwSm5IUlZqNEd1ZWJvVkc4SnFxZFNXUlFZbVd3YnV6QXpMNXZaUWhKNDJnZVFNQmhycWEtWXd4elZBR0RpS0F3Vy1abkh4QUdBcldXb3RWM3RFaVVZbk14cmotRTA3d05zTzMxNzZ4bmVwejB4d0tyWXRwNEl2dXA0RG9FZGdpOUtDRlNDLU5VSzVWd3JRdC1KenBwNENYYkUySlZkNW9meS1M?oc=5"
-    },
-    {
-      "id": "dbeceff1cb14afdd1d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-03T17:04:04+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo se podrá controlar “más pronto que tarde”",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWdxS2h3LVJGZGZGNVRYbDl4R2dLMWNiVTdBelpHYTNMai1LVjVsbnVQMU1YR0FHVHI5OWtpOWV0LWZVVzV4b240cjlHUHNDOFB2eDBBVDdvSllMMlVEcy1zZFktSU5pN2JTR1RDRlB5LU1FZEIyT2dvMmVfV1BCX2EySFAyb1Z6ZHlmTXVHYnNGN0hDRWhWSGVXZ0I5SjZkbldvTEZuNlJ2Ulp6TGdz?oc=5"
     },
     {
       "id": "e5699e04a73c0c2c1d",
@@ -170,13 +194,13 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qM0Y0aTIzeTVud1cyN1E5STBpbmRoenlkUXNHWVhKSERlRkVvVV95UzctUkpDZnN3MHdiU2hmbUJ3OUw2Ql9OV2tYZGU3cU9UVlZZUUEyUXNJRXRFRzJRYlNQdkVZSFctLTY2YlQxdHM5UFl4Q2cxTWl30gF6QVVfeXFMTUdvbVRRR1V2RXRLVWNTMW9fU252UDV3ZU0wWU9zZC1iVjA0QkxRQkpCa1REUjY5azRaa3BkMzU5cWlGZU1Wdm9iQ241RXZ6czJCRU1NamdWUWg5WjU3TGNIZVhBdElpbzNHREFkaVNtRTdzOGdyMUVVVFE?oc=5"
     },
     {
-      "id": "30b763f06a6582c4f1",
+      "id": "929aac747ce476e215",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-03T11:01:05+02:00",
-      "source": "efe.com",
+      "source": "EFE - Agencia de noticias",
       "title": "El incendio de Burgohondo (Ávila), en situación «favorable» tras una noche «sin sobresaltos»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWS1aX1ZnZlB3Y1l0eGtlcXJ5WEJ2aUxDUEtFQkdoMk9NTmhLd2h0bnFzUm1kZkNjRV8yZnRTcmRtLXQzeGpOWkZ0NzZ1dVF5RnBxRTI5aWlQaDZMSDBCVy1yTHdRUEJQQzRpQnlZbTNsbmp4dk5CMXRn?oc=5"
@@ -192,18 +216,6 @@
       "title": "El incendio de la Sierra Oeste de Madrid supera su segunda noche sin reactivaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzRPWERCaDFvSllOc0VBOHFDOWdScnNKVjdfcHJPTGZsamJpcV9LSGRmR1VvTm9nSWRjZUlNQ28tYWI4U1hubW9xUlFsaDRWb3ZYNXJUUkI4VTNIa1JGaGw0NjB0QnUxOGstblpfdEQtaTJoT2kxZDJjeDVOT3dsZmJQcjZuVjU3NDRDRGV5RngwZEFYZzVIRjJoQm5meDhZaDBYN09RekhwU1pjY3dDel9UYWpqb3BySmc?oc=5"
-    },
-    {
-      "id": "bb94e311ebe40ea150",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-03T10:23:35+02:00",
-      "source": "ABC",
-      "title": "Esperan más reactivaciones en el incendio de Ávila tras una noche «sin sobresaltos»",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVNCVlJLRU9CNWgzTDJMcEY2MzloUUhuUzV3bG1MR0Z0Tjl6VVZKVENTQV8zQ3J5MzRIYlFkbGVpUmczVEFKeTNBZ2pyLWtvNFI2cUotZVRTR18tdWVuYjZETEN2WGhMa0pmcVYxSjhxalZaWWNjMHBsWDBZVUVnZmRYdUdpWTg2Rk5Sa3FnYUdvUmdxZTZXTUg3X2h1ZjVIQ1RNLVh4a0l5bFhvU09hWVpmX3NIYnpIRUtiNkk4N1M?oc=5"
     },
     {
       "id": "9193daf88ffaf6f419",
@@ -242,6 +254,18 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmktYjZOc3lQdVJhUWVwT09FMTdEUm0tSmRad1I4ZUwwUjZITXB2QlFjRDBKVWpDMXlUY2xSXzU0MHNqMHVwM2hhSlNMZ01mMkR0OTZacGlBeTB3ZVBzZ0JGeHBvS1FXbG1RMmVzSk14bnVocUhReUhRLUJaYVZoeTVXdEVjb21Fd1VXb1lhcjcySkNjbndwSEM0Rnlka1pJUmNPQU82MWxpdzlVaFFsYWt0TmRLeHBwN3pCWmNPajd2SEFnRGtUaTNB0gHeAUFVX3lxTE45ZWEyNUFxQXNWRmItcFhvZ3drSFF3WWUwWnNZSW8xMmpndWprSjBScHlVR1NPM2M0THBZU0p4VVNOUk9ESFpuS3ZmMGFDS0Fsb21ldXBQb2hyQlZRcDR2dFRNd3dYVGxkeUJvQktvaUJQbHg2QWIybjFNcTcySW1TTVNGUndMMGNWZVpsdkVTbmxLclRWV212VFVHTGduTVowZzJ3cW5TcUVXa0RkTzNfcEJha1AycW01elpVcVVxVnduYzQ2Qkl5X25wZ0FGS3Exd1Y1MWU5NTZuNWpUQQ?oc=5"
     },
     {
+      "id": "a73bc3378f2d743a2e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T00:12:52+02:00",
+      "source": "RTVE.es",
+      "title": "12 días después de iniciarse el incendio de Burgohondo, en Ávila, se reactiva en tres frentes",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWc3ajZmcGhCRXE3Zm5saEo3djQ5Q2NtNjhBT1o4ZGd4WE1ld1ZrRFZ5TWRzbEp6YlE3a1RVYV9WVWZJQjBFZUlUUlFZUDNDYi0tUEJfeDNmcHQ4NXlKSWtUQmpqX3JsMkp5dWJzR1I0M3JNTG04bDFsbnE1bXlWS1ZjWDgxcVNVLVktRmxkLThWWklOTmpxYmRhWEZ5MTZVSnRHbFRlemIzdW5hOTBlQVFHM0NsbmR2b0JoSG1fUjBjZExybmtXQk9vUkFpQ280?oc=5"
+    },
+    {
       "id": "24bb790bb3a0cf4c9a",
       "type": "news",
       "severity": "info",
@@ -264,42 +288,6 @@
       "title": "\"Normalidad\" en el incendio de Burgohondo (Ávila), en el que no se esperan reproducciones significativas esta noche",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMV96RlhPUnhnR1VSeThMaXB2eGYwTUYtVUlSOWhiQ0NxM2dKakpIVERIbDlVOEN6aFNtcExiSV9EeHJIOGxIS240NDJrcWxGRlJlTnlqZ1FqWDVLWXBiY1VwN1VTM1hqTFlsY0pqUm9heEd6M2lwb0tvc1VEbjlRVXp1SllYQ2l5UnhrUFRZdFJUM1FqdDdaM1ZNUnMyZUlTTTNBSjlzTTNtcC1LUC1aTUpqS0NIWXh5XzV1X0RVY1Vlb04tbk1nMkdXX3Nua2I3MURxRVdhcjVDMGJZY3JFSVM2OTh3YXpQMUE?oc=5"
-    },
-    {
-      "id": "d7c867305dec4cfaf3",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T21:45:57+02:00",
-      "source": "efe.com",
-      "title": "El operativo del incendio de Burgohondo (Ávila) confía en una noche más favorable por bajada del viento",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tMzhsSllkT2Z1MGp1ckNlcExYRHVWa0JUY2Vma0Q2bll0cnFqUGkwUlY2YlI4V2FGbk9MS1owSU53NjM1cTR2SkdWNzVZRkRScnFNbURjaVNER3RiWU9Ic0tDZzdDVkt1U1ozTDZ0QU9MSWx2Vk0w?oc=5"
-    },
-    {
-      "id": "b46e6d5a082c78f690",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T21:08:15+02:00",
-      "source": "ABC",
-      "title": "La odisea del 'influencer' Xtrauss para salvar a sus animales exóticos del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpHTG9nTXR2czl6RjRiNHltRkE3MURBUUF3ZnNVWWpDdjkwRkdmQTJOdmN1MmhQWXRUcFdPa3Q5XzhKWHhlWEdvSWYwNC1qaTBmbnJTcmRyOGVMV3lNUGs4VlZhamc4TVlMN2NrQzNCdURfLTFTVlE5bWdnY0ZiUm1VazNfajRDTFM1OUFFaDZKNWZwci05UmtPMV9TSHZlUEItTUxpekc1cXNlejZ3ZlYzWGg?oc=5"
-    },
-    {
-      "id": "a4d189024fe2cb8185",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T20:52:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo se mantiene estable, aunque el operativo no baja la guardia",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1pTdzdjQmZIVklkcmstekstNU5jU2VkRWt5M1B6SlZmdVhKX0xXU2FzQThqMkgxWmhFa1BteHBHSXlLdVpERzJNRktxaUhXZm9iblhrWGdyV3F6dU85Z2JlS1JLRlhYU1M1QUsyWWVxaXREVTc1LUZOeThnSjBYVmMzOU5aTl9sWW1OVmI1ZmNiNHZJVnJXcGtuODljRzRua2U3ZXVkel9Cd09mNWZzYjRGTTFZY3lGWVNnYTBKd2xWcWxDRE8xag?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -415,7 +403,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 22
+      "items": 21
     },
     "direct_media": {
       "ok": true,
