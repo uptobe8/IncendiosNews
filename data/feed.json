@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-04T00:35:04+02:00",
+  "generated_at": "2026-08-04T01:43:19+02:00",
   "items": [
+    {
+      "id": "3ac61a4b665e602466",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T22:45:41+02:00",
+      "source": "La Razón",
+      "title": "Las reactivaciones controladas protagonizan la duodécima jornada del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0NzRldsUGNxWDBTQzN1TG02R3k0RjlMY1cyYmJRMHFJZ3paelJNTmRZTlNSN2lJSDlzSEZCX3ZwVEZTZzE4cEJVVlZfd1FYNGV2bGZtZ2xrUlVDdml3eUM3cXFTSFF1SnJ3Y2Vab2xsSklLMTZQZmRjTUtqUk1kOUlGejZ6Tms4c2ZjclY0X25hMUNHeXdTT0F3QUZNMXlxV1U0SVdOYW12ZFM1c0VJRnV0MEczWkFRTUZIemNWdXBCMG5BVzd5a3Rfcy1xZ1Z5cEJQZlBHYkZwZE5pWU5QWmhSNmYyTGp3b0HSAf4BQVVfeXFMUHlLWV9mQ0g4UWFnbDNSTUU1V1RicjlYcTdMcnpGTjNobURDV3R5R2FEVGhkMHo0dW1XM2phdU9hU0I5RGh3bEdGalFOVXRVQ2NmeHE2Q0k1QnYzQzBIbGlEMGNKOXZVY09XNUZ6bk51cE02WHROZ2xJY2xpSGUxcTJ3ZXFReHlKU0tERmdFeVhfOTR4WTFkNDZKTjdaOWtoeE5fYkRFUEFoaURiVUY4NTc1RFJFR2NRYlM2TDZVajZBaXQwYUZmTWxZX0xGeG03UFVLVU5IYjZ4bzJIRWFTVzAyMEhCM1NjWlNrU3Y2b1k4eTJPLU54LVN5MTVObFE?oc=5"
+    },
     {
       "id": "1fcb78bb94d2119c8a",
       "type": "news",
@@ -361,13 +373,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 19
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 18
     },
     "direct_media": {
       "ok": true,
