@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-03T06:51:12+02:00",
+  "generated_at": "2026-08-03T10:17:58+02:00",
   "items": [
+    {
+      "id": "3e8bb44c82ecf18264",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T09:22:08+02:00",
+      "source": "Telemadrid",
+      "title": "La M-957 sigue cortada mientras el incendio de la Sierra Oeste de Madrid encadena dos noches sin reactivaciones",
+      "summary": "La evolución del incendio forestal que ha afectado a la Sierra Oeste de Madrid sigue siendo favorable. La pasada noche ha sido la segunda...",
+      "url": "https://www.telemadrid.es/noticias/madrid/La-M-957-sigue-cortada-mientras-el-incendio-de-la-Sierra-Oeste-de-Madrid-encadena-dos-noches-sin-reactivaciones-0-2913008677--20260803092053.html"
+    },
+    {
+      "id": "930536deee93edd9fa",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T09:04:31+02:00",
+      "source": "Europa Press",
+      "title": "El incendio de la Sierra Oeste suma una segunda noche sin reactivaciones y continúa en Situación Operativa 2",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNam5WSENUeXFTQXh1ay13QndKTGJnUi13d0RHalB1VXpFZUttbWkzaC1Oa2RFOVhBX3FFbjhRVXdId2wyQjJ2TDR2MzNhRkdScjI1S3Z1X0FvVVRRcDExdm90aGZNRjFLVjFRQ0E0ZGpLZ1BwWUFtdUYxUTI4UGJjYkRXMC1kUTE3eV9rSW5tUDdTZFA5SVUyd2NhVUNHaDlKankzd3hLczFicE1aNE11NWVfRmptNjFHaVlfdDE0WTZ1blFBUGZIb1M5a29QYmZEaEREMG5pSmZKbEFrV3VN?oc=5"
+    },
+    {
+      "id": "a5f7e6dcff64a7047e",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T08:14:47+02:00",
+      "source": "Europa Press",
+      "title": "Desalojados dos edificios de Chamberí (Madrid) por un aparatoso incendio originado en la última planta de uno de ellos",
+      "summary": "Los vecinos de un bloque de viviendas ubicado en el distrito madrileño de Chamberí han sido desalojados por...",
+      "url": "https://www.europapress.es/madrid/noticia-desalojados-dos-edificios-chamberi-madrid-aparatoso-incendio-originado-ultima-planta-ellos-20260803050728.html"
+    },
+    {
+      "id": "b2bf3e0fdbefee6f29",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T08:01:52+02:00",
+      "source": "Europa Press",
+      "title": "Más Madrid reclama a la Comunidad una mesa de seguimiento ante los nuevos desalojos de vecinos en San Fernando",
+      "summary": "Más Madrid ha enviado una carta al consejero de Vivienda, Transportes e Infraestructuras, Jorge Rodrigo,...",
+      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-reclama-comunidad-mesa-seguimiento-nuevos-desalojos-vecinos-san-fernando-20260803080152.html"
+    },
     {
       "id": "24bb790bb3a0cf4c9a",
       "type": "news",
@@ -62,16 +110,16 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1pTdzdjQmZIVklkcmstekstNU5jU2VkRWt5M1B6SlZmdVhKX0xXU2FzQThqMkgxWmhFa1BteHBHSXlLdVpERzJNRktxaUhXZm9iblhrWGdyV3F6dU85Z2JlS1JLRlhYU1M1QUsyWWVxaXREVTc1LUZOeThnSjBYVmMzOU5aTl9sWW1OVmI1ZmNiNHZJVnJXcGtuODljRzRua2U3ZXVkel9Cd09mNWZzYjRGTTFZY3lGWVNnYTBKd2xWcWxDRE8xag?oc=5"
     },
     {
-      "id": "d871b4b99f9076a85b",
+      "id": "5663c99eeb336f54fc",
       "type": "news",
       "severity": "critical",
       "province": "Toledo",
       "town": "Provincia de Toledo",
-      "published": "2026-08-02T19:06:12+02:00",
+      "published": "2026-08-02T19:06:11+02:00",
       "source": "Telemadrid",
       "title": "Desalojan a 400 personas de un camping de Cazalegas (Toledo) por un incendio forestal",
-      "summary": "Las 400 personas que estaban este domingo en el camping de Cazalegas (Toledo) han tenido que ser desalojadas durante varias horas debido a un...",
-      "url": "https://www.telemadrid.es/noticias/sociedad/Desalojan-a-400-personas-de-un-camping-de-Cazalegas-Toledo-por-un-incendio-forestal-0-2912708718--20260802070611.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVN0bXVwTlpXYlY0bEFyTERjUHFQVGl6QlU2ak16RFczZWlzTUtNa191cXlrRENmR3ZaM0ExTTZPWDIwdkcxZVBmNDB1SUs0M29LcjhhX29BMnNzVDZRNTl0Ny1zSS1LdUh4LWd0UVg1SklaX1RWT1RiaUVRdTg1dF9wbzJfR19JamthX0l1UXFqY1N1dUV6UzdBcTQ5VlpLclk4WVliOXEwaWZPTGwtRm9jVTFCcDFQRTVKckJHVUJNcS1EZ1BFcGJla3I3SGtwb3UzclU2bmRwdDh5UDV4M3NqdkJiQmhhOXJzU05ST1R0cXlYVml3TNIB-AFBVV95cUxPOVN0bXVwTlpXYlY0bEFyTERjUHFQVGl6QlU2ak16RFczZWlzTUtNa191cXlrRENmR3ZaM0ExTTZPWDIwdkcxZVBmNDB1SUs0M29LcjhhX29BMnNzVDZRNTl0Ny1zSS1LdUh4LWd0UVg1SklaX1RWT1RiaUVRdTg1dF9wbzJfR19JamthX0l1UXFqY1N1dUV6UzdBcTQ5VlpLclk4WVliOXEwaWZPTGwtRm9jVTFCcDFQRTVKckJHVUJNcS1EZ1BFcGJla3I3SGtwb3UzclU2bmRwdDh5UDV4M3NqdkJiQmhhOXJzU05ST1R0cXlYVml3TA?oc=5"
     },
     {
       "id": "7422b09037e52da97e",
@@ -84,6 +132,18 @@
       "title": "El incendio de Burgohondo (Ávila) deja historias de angustia, solidaridad y resistencia",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHlZbTNMREthT0pQVkJKdTM4ZWY0QllCY09PbnhFVnRIcVhObzB6WFV3MkFOWnk1YWljejd5Y0FweG9NYzlHV1VaMUxidGlQNWpMUlp4dGZsS3BRMm85ZHRSaGFnTUF6R2QxSnFEeVlna0x6V29SWGNVSGlaWDdGZDNBbDE5Y0ZQT21LdE5sZ0NzbkZlRTFHRGZOaUtzSXoyTFAzTmVvRHY?oc=5"
+    },
+    {
+      "id": "82c4bcd715da6e6ecd",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Villa del Prado",
+      "published": "2026-08-02T15:47:13+02:00",
+      "source": "Telemadrid",
+      "title": "Julio pierde toda su finca en el incendio de Villa del Prado, pero logra salvar a su perro Lobito: \"Se me ha ido el alma\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQem5LSmloT2U5bHBhTnJ5dUkweUM2WXM2S3ltRnVZbFNIRmdSZ2NVM3dVT2xPbHE3Ulowc1BuanN3bUFUd3JwVnVsQmhyekdsTWROVmllTkVLSi1hUmlyQUQxaFVta0FSRkdmR05uX1ZFNkpKQkpmb0Fjd0NTdGUtTFFTYUMybW1zU01PM1BQVmlhb0JGcmNOU2pwS3kycnNEX0p2RW85RWtNYllUeVdEclVmYW1kOXZIdG5pNm0yRkg3RUtyZmg1TkVNM19BUU50QkMwclZtTVg3Ny1Ra3phQm8tNGxsVXF4eWpkcEtqaTdtUzBZRXdqSHdaOGJhV3lHeGYwTkNBbFRmQ0hXNDRxRWVXNkpHMjVQOVhhdW5kbUJyVkZzRmttU2JrSUZMTFF1ZjZfQWtyUDhvZEN0aU9N0gG_AkFVX3lxTFB6bktKaWhPZTlscGFOcnl1STB5QzZZczZLeW1GdVlsU0hGZ1JnY1Uzd1VPbE9scTdSWjBzUG5qc3dtQVR3cnBWdWxCaHJ6R2xNZE5WaWVORUtKLWFSaXJBRDFoVW1rQVJGR2ZHTm5fVkU2SkpCSmZvQWN3Q1N0ZS1MUVNhQzJtbXNTTU8zUFBWaWFvQkZyY05TanBLeTJyc0RfSnZFbzlFa01iWVR5V0RyVWZhbWQ5dkh0bmk2bTJGSDdFS3JmaDVORU0zX0FRTnRCQzByVm1NWDc3LVFremFCby00bGxVcXh5amRwS2ppN21TMFlFd2pId1o4YmFXeUd4ZjBOQ0FsVGZDSFc0NHFFZVc2SkcyNVA5WGF1bmRtQnJWRnNGa21TYmtJRkxMUXVmNl9Ba3JQOG9kQ3RpT00?oc=5"
     },
     {
       "id": "116fca3f8557a3aeaa",
@@ -134,18 +194,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbW8wQnRYeXcxSTBkT0liczZPT2tzZlJTdVFTR0lyaGpqaWZ2VVdYcV9EWjl4RmhDT2x3QjAtQk1rVFJUdV9LbHlJUmpPVWxHTWJGdkp1WkRRcEhReEpmSnlpRGF3c1A0SVA4d0pPU3BxM3I0bEdWSVNKTW81MVpVRVZ6T2tBRFpqSmJBQVdTcENBaWR6MVQycXNyaTVZYUlYNndMaUhiZE9ha09ZRzYzMFRHOGpjMXM0OGdQVXplSzdzSlZVWDYxSlpmYXh4WTFJTzRkdm1HWnNhdy05a051TkQ1OExEcHF6NkhRS2ZjVHFjYkRKWDBvZU54c0huLURBb3JRTWx2bmZQR2N4TEtRMlNmcHNUWVlzYWR5akFXeVE2UTTSAaMCQVVfeXFMT21vMEJ0WHl3MUkwZE9JYnM2T09rc2ZSU3VRU0dJcmhqamlmdlVXWHFfRFo5eEZoQ09sd0IwLUJNa1RSVHVfS2x5SVJqT1VsR01iRnZKdVpEUXBIUXhKZkp5aURhd3NQNElQOHdKT1NwcTNyNGxHVklTSk1vNTFaVUVWek9rQURaakpiQUFXU3BDQWlkejFUMnFzcmk1WWFJWDZ3TGlIYmRPYWtPWUc2MzBURzhqYzFzNDhnUFV6ZUs3c0pWVVg2MUpaZmF4eFkxSU80ZHZtR1pzYXctOWtOdU5ENThMRHBxejZIUUtmY1RxY2JESlgwb2VOeHNIbi1EQW9yUU1sdm5mUEdjeExLUTJTZnBzVFlZc2FkeWpBV3lRNlE0?oc=5"
     },
     {
-      "id": "8d1db6c95229087d3a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-02T14:28:12+02:00",
-      "source": "Europa Press",
-      "title": "Arrancan las labores de limpieza para reconstruir la Sierra Oeste tras el incendio: \"Tenemos que seguir adelante\"",
-      "summary": "Los municipios de la Sierra Oeste arrancan ahora una campaña para reconstruir la zona tras el grave...",
-      "url": "https://www.europapress.es/madrid/noticia-arrancan-labores-limpieza-reconstruir-sierra-oeste-incendio-tenemos-seguir-adelante-20260802142812.html"
-    },
-    {
       "id": "6aaa89a00a11d495eb",
       "type": "news",
       "severity": "info",
@@ -156,6 +204,18 @@
       "title": "Telemadrid recorre los municipios más afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeWFMazNERUZRZ3pRWlV5ZGU4S3FWR3lVWEFOUkh1dHlmRm1wX2Zld1VJUjJjVkN0c3haZWRqZ1FVTHhGc3A2eU1sc1RoaXBUQkdkQUV4cVBQTWpRaFBhTlBqczBKMG5ueTlCRV9kak5kUzZzdlFjb09uaElEYkxJaUI2a1JPTGxhcXNNWk43bmZRRGxmclRZNFBHaURLSnJPSGV2QmxOVTdIUi1rdHVyX1hlRG9XaXBRQ3R4bDhBZHl5NHZ5X1ZVM3BGSUU2b0htV0pIcmR4R1ZJTm42XzQya05qS2RRT3BvUzBZbTF2ZlhRZmlxYVdqamtVa1Z3eFBxWGVOYk1XTkllalHSAZACQVVfeXFMTzktR2tTenlYRUU4blZYT2V0SGM2YTBCUElfNU1saU5xNVJ2V0FRT0dYYVNuVUZfbDJuWnFCUk9WcmZEVThjNnp6UHFaeWUtUS16SXRBMU93VHZwbmF4WVdnbXU4dWVPUGJKSlpYdFJoLUJUQlE4Ui1zdjNxamdsa1N2NjRyRlZwWmpGVlpoTWZMNUJ0NTBBQmZDd3hTb091ZkhvaVFkNFU4MEFuTVMxSGtfVmtPUHE1cHotLU5nV0ZrX3hlYVM4TmMwdUQ2eHRzQUV4TW93Y0llOTA4NmN1cWFleDFFUUk0enk2ZDh0S0wwU3ZFcG50R1REbmlNVnFESzdHTDhQelZQdWRLdTNYVlM?oc=5"
+    },
+    {
+      "id": "487e4988a331c3eb68",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-02T12:24:10+02:00",
+      "source": "Telemadrid",
+      "title": "Detenido el presunto autor del incendio que provocó el desalojo del centro comercial La Vaguada en Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUDR5bS1UVDJJY21aLTdvZURCYW0zRjQ2Z3h0RlRpQjJwVmxJZHNTcGZkRWFIQ0VKMFBhZXRHSERVR0FJQzF3c29HLU1DZWlUMEJaZzJZbEtUUG43VzV5aE56ZWNTQXVmWjRMZ19nTFFqblRIeEQxMHJXdEcyWUdZTzBlTG5Rdkl1ZkJGTmJwZ01CRlRzN21aRkJQaFU3NXUxeG02ODh5MUh3T0JuZUFuMXh1bVQ5QnBHV21IcEhZNVRjSzJjY1ZSWjFhZE51YjZ2SUJFU095N1dZbHVjSjE2Q2RWeFhxdnFXOE9aTXFpZnBNWE0wbUxHX25LdUd6Nno1OVI0NGl3cnFEN1JMY25RYks0b9IBkwJBVV95cUxQUDR5bS1UVDJJY21aLTdvZURCYW0zRjQ2Z3h0RlRpQjJwVmxJZHNTcGZkRWFIQ0VKMFBhZXRHSERVR0FJQzF3c29HLU1DZWlUMEJaZzJZbEtUUG43VzV5aE56ZWNTQXVmWjRMZ19nTFFqblRIeEQxMHJXdEcyWUdZTzBlTG5Rdkl1ZkJGTmJwZ01CRlRzN21aRkJQaFU3NXUxeG02ODh5MUh3T0JuZUFuMXh1bVQ5QnBHV21IcEhZNVRjSzJjY1ZSWjFhZE51YjZ2SUJFU095N1dZbHVjSjE2Q2RWeFhxdnFXOE9aTXFpZnBNWE0wbUxHX25LdUd6Nno1OVI0NGl3cnFEN1JMY25RYks0bw?oc=5"
     },
     {
       "id": "7f1970e75ef288bda3",
@@ -204,54 +264,6 @@
       "title": "Los incendios se estabilizan en Madrid mientras Catalunya mantiene el riesgo extremo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlEyZWtqaXd5TnJWdExJSzlJLUFPM0hVSTc3S19MM2hxMXNnTndleDNteW5IWExQcVp0Z3dkVl9oYjBLTWdDeHA5cW04SzBoMlRIZldOLUFaMy1JUmt6MjhpbEN1STdtc0wyY0d4Qld4Umd4T1J6djV5eDNrbmRhaXMwdGVGZlVVX1A4Z3pQcEpNNFVqdkpuZHQ5MmtZMFdITGpydE9pVEtUZ29HRURFTVJMckJ3Y2Zydk1B0gHAAUFVX3lxTE5zc2FZRWQ4UThFZWN5aDBCeDZWdUVuaDNLUU5tOUFPdWFBSkJqNlk2eFQyYk9IYTl2LWd3bERXR0dWUFZCTmRoUlE2Z3hxZGpxRUFUa1VvZzBGWkVpcWZUZUxKSjJ2OTZ1Slc2UGJSeXJSWWxuZF9IVlphX3FDdXRPMFdKUnJnQk1IdVBna0p5eEJXTmZqdWI2djFpNnBNbjVSNVZxNVNGdHNia2VldHkyclJCSU8xUkVQZmhDQ19FdQ?oc=5"
-    },
-    {
-      "id": "2625a069fc01bc752a",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-02T10:00:18+02:00",
-      "source": "La Razón",
-      "title": "Los rebrotes del incendio de Ávila apuntan intencionalidad",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejRNUXQzR05WT2lZTVVuamFYWlY0NmxvejM3U21HZTZMTWtDWWlnMUZIU3RRaEVfcDVyNzJIZzc4enl0LTBhTXZFNzBRakpBaWxrTmYwcnotbmVnNHlkRlhKNHRwalhyYndpLWdvcHQ1VFFpZzRELVQ0dHdYUkdsTUh0NFJzdnkyaDQzQzFJMFdmMDY4WENsbDVwc3d6dlpVRDhrNkwyaGxMTTZMcktnNC1LbWJYdlZ1djluc2NiYUI4Z9IB1gFBVV95cUxOYTZqMnlkVmhLWHVWMjI2MHNVd1E3SXlZZlpHOXE3RGlqSUhoVjNJMkk0Z3F6WmdYWWlNVDhZMG16R0JUc0s4NERmR2hoVmNCZHEwV09JQXZDa2FPSzVVY2Rsd0ZRLTVleWNpa1VjaENDczBlNmlidU1FSjJuY0QzQjlkQ3Y0R0p0Zjg0cmlERGJiYllKNnBQLVpsVFVEZm5NYm1hckg1dl90d1BaVm5NaXQ3VzNDVWJ2OHBpN3RwckU3VHJtUEduQTFhNFJwTWN4SVlRWHZB?oc=5"
-    },
-    {
-      "id": "584d09b621ba9f2aac",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-02T09:36:26+02:00",
-      "source": "Madrid Actual",
-      "title": "El incendio de Sierra Oeste sin reproducciones durante la noche",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQXzhtZ3EtZU1reFhUZl9aVjh5MFBBcUxYNzFTU0ZyaXBtUWxNanQ3cjBjQThsMEtSWlkxcUVwQ185M2xJd0laci1YcVRzeTh1TVA5c3lza0lJd3RfLWNNeGtTY2dzUXV1dS1jT25ENU9SZ3RKc2RmY196RUVOYlpuVzIwS3RjUzZBSlJxM0diUFhLME45OVFOZWxld0dubFhLR1hxMVROSVQ5cE9sdlo0NExWTWJyRGFaSzROeXZldnAzWnpsNC1CX2s2X2czMjBM?oc=5"
-    },
-    {
-      "id": "a455765d864a58e854",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T09:18:19+02:00",
-      "source": "Cadena SER",
-      "title": "Preocupación en La Iglesuela (Toledo) por el rebrote de uno de los focos del incendio de Burgohondo en el Valle del Tiétar",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlVVOEV1eC1FbjJFZzRETVBDZzctNmRuOTF5eHk4dHFBMWVDY3U4djlGRWhkWDhZTTBoTF9fX2U3UENGc1NkaFJyY1VnZHpJbjRJaGttMVdRbXFnSVRCZ1dkXzBsVVRjUVRFajZGd3ZzNWZVZmtnR3RJaVF5dEV3Zk0xOWE5cTU5TzZBMEhPZVIzTXhSX2dpRmplSWRydkFydDVkUktEMVFPWHhlUkFmUjVXN1YyU0JWZng5SjM2ZTJUcmYyZW1kclJwTnVtU3hnbWpHcHFudHpwbVE4MFpqU2tMYlpzVVBXV2dGQmRBVk1adjFVRWVEcFAxR2I4VW1fT1VyVDFlNTF4aXBrNUkw0gGjAkFVX3lxTE0xZmxjOGlJcm1hVXhTSGRBTHhlai0xaXBvbXV4Nk9GRl9Za25kdXFmVHBKTzBHMllfUXlRRGUxMkc3LUxYSWo0ZU9SU3pzeEhDNG1vdzU0OGRBRVBEaUwyT1lmM01Kem9BTExPa3gtb19Jc09JaERXbU0zTzJ1OFgwb0s5azhXLUtndjdrdVUtaUlNcFJFUXlmWDV4cHBia0Q5RTdJQXM1MER0Wk1mNjRQajdOVGo3U2VrV0hjQnBvOEU5WERMb25hcXJGTzRnbmd0QlBCZFYwYjdsUE1ITjBmdUs2dmd3dmlMWUNWMllYODY0VDNjRjhvRnFMUFNUMVZwYW5QRDJHU05GRGpyYjJfeVF5X1hqcWp1cWlEZ2tpSm5WYw?oc=5"
-    },
-    {
-      "id": "9813435b2199b08aa6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T07:38:12+02:00",
-      "source": "Telemadrid",
-      "title": "Tres reproducciones del incendio de Burgohondo reavivan la preocupación en Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQVEzVjNBZEZZbGVTVzh6RjNtNW4wRjBickk4cWxGalNxb19yOE15cGJZZFljdDVTVUZjV2ZLRWFTVTEzb1ZXcEhkVVVCTVBkSklLRlVKQ2tIYk1heUNXcFp5LWFGRnVCdW1lYlVLdG5YbGZmMGpPWjQtTndkd0pUUUdueHlhRHhSRlc5Y1ZCd1UtdnBUd01aSGQwVzdxNlJfdkZadjZDanYyalFEX2ZZRGMyTVJhcDZjVEZyZ21nUzVuNEhLS2plSEFDR2hEMmtyM0VLNVZ5VnFRc1k3ZzA1dDZfaDY2OEdQOFFfT0EyYmZwdXJKR3AxZTZlNHI3NFJmSnNmeWJzdzN3OXhyS3fSAY4CQVVfeXFMTUFRM1YzQWRGWWxlU1c4ekYzbTVuMEYwYnJJOHFsRmpTcW9fcjhNeXBiWWRZY3Q1U1VGY1dmS0VhU1UxM29WV3BIZFVVQk1QZEpJS0ZVSkNrSGJNYXlDV3BaeS1hRkZ1QnVtZWJVS3RuWGxmZjBqT1o0LU53ZHdKVFFHbnh5YUR4UkZXOWNWQndVLXZwVHdNWkhkMFc3cTZSX3ZGWnY2Q2p2MmpRRF9mWURjMk1SYXA2Y1RGcmdtZ1M1bjRIS0tqZUhBQ0doRDJrcjNFSzVWeVZxUXNZN2cwNXQ2X2g2NjhHUDhRX09BMmJmcHVySkdwMWU2ZTRyNzRSZkpzZnlic3czdzl4ckt3?oc=5"
     },
     {
       "id": "d08cca45053f20977e",
@@ -379,11 +391,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 27
+      "items": 22
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 11
     }
   },
   "refresh_seconds": 300
