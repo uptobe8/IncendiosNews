@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:39:37+02:00",
+  "generated_at": "2026-08-03T03:15:13+02:00",
   "items": [
     {
       "id": "24bb790bb3a0cf4c9a",
@@ -182,13 +182,13 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-operativo-preve-dia-tranquilo-frente-incendio-avila-reactivaciones-posiblemente-intencionadas-20260802111000.html"
     },
     {
-      "id": "d1a3e3ea73a0cb0b3e",
+      "id": "d9fae3bf71782d9d3a",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
       "published": "2026-08-02T10:48:45+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Las reactivaciones del incendio en Ávila podrían ser intencionadas: \"Pudo ser provocado en dos puntos\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjF2Z3RlM1FLOFlrVzhkOXExQ19ITllwQXlsR2N5RXFEcXJselJIcV80a1ZtQXhRS1JhY0VURWZiNU5OSmY4MGUwVDJ4SU5OQmEyZUV1eGNzaG9YaEQxcXRDYzNqMW1GLXZacVZ6VmdaSjNrMkppQ2lUU05pNGpIU1ZyQ05DdjJNX3AtN1F0VlMzd0JQNk5EQVRPN1VDU0JjZjJGUFdrb2JtN05HYmt2WVBKSGRpMTd0YWtUNFJ0RGFubVU?oc=5"
@@ -379,7 +379,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 25
+      "items": 26
     },
     "direct_media": {
       "ok": true,

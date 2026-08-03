@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-02T23:39:38+00:00",
+  "checked_at": "2026-08-03T01:15:14+00:00",
   "ok": false,
   "incidents": [
     {
       "road": "",
-      "description": "GeneralObstruction · Validity · OverallPeriod · Instant · Mobility · N8cb2b0f53f654db7a4bd7ecb35deebf0 · stationary · objectOnTheRoad",
+      "description": "GeneralObstruction · Validity · OverallPeriod · Instant · Mobility · Na27b3d0e16ea4bdcaeef2f6890790cc5 · stationary · objectOnTheRoad",
       "lat": null,
       "lon": null,
       "road_tokens": []
