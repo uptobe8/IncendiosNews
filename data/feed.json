@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T23:30:18+02:00",
+  "generated_at": "2026-08-04T00:35:04+02:00",
   "items": [
     {
-      "id": "34f13dab255502b79d",
+      "id": "1fcb78bb94d2119c8a",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-03T21:01:57+02:00",
+      "published": "2026-08-03T21:14:00+02:00",
       "source": "Tribuna de Ávila",
       "title": "El incendio de Burgohondo, protagonista del último Pleno del curso",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -36,18 +36,6 @@
       "title": "El incendio de Burgohondo se podrá controlar “más pronto que tarde”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWdxS2h3LVJGZGZGNVRYbDl4R2dLMWNiVTdBelpHYTNMai1LVjVsbnVQMU1YR0FHVHI5OWtpOWV0LWZVVzV4b240cjlHUHNDOFB2eDBBVDdvSllMMlVEcy1zZFktSU5pN2JTR1RDRlB5LU1FZEIyT2dvMmVfV1BCX2EySFAyb1Z6ZHlmTXVHYnNGN0hDRWhWSGVXZ0I5SjZkbldvTEZuNlJ2Ulp6TGdz?oc=5"
-    },
-    {
-      "id": "581bcd9cf458b10045",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T17:39:34+02:00",
-      "source": "Telemadrid",
-      "title": "¿Tenías un vuelo en Madrid? Iberia permite cambiar el billete o solicitar un bono por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYXZ6VVFuYS1qN3ZoejR5RXFOektYNmRscUhvZzlQZ2tZZU0yT1c3blp1MjdmZXNzU1hwa3FRYmdiRTNibWZwV015OGZwaTlLWldPVWdlRmZMU1dxcU94SVF0VmFZQk9Fc0QxS2lOYTkyMzc1UG11T3BycEZxRHdvOUxtN2plZUZKZUVDMWRxZkpyaGZSUmwxZnJXeXYxMzBoRzgtNXNUM0E1dDNLNjRYbW4yZUdVVUVvSGU3RHRLdGVUR1dWYnp6Q216VjYyRUpBcnhvRUZ1STVkU0dpOGFJRlJDb0JoOEo3TFllR2NTV3NzeXppcDByWWI0ZGN6Zy1tem9j0gGIAkFVX3lxTE9QRHFHbzRaV3A0VWQzNmE4OTV0X1I2cGt3T0tQcU1hX0JacVl0SDZlYVkyUEw2SjIxUFo3U3F3bGItN0gybW9oY1FfRzMtT05UekkxYTc4MHdGb2hnNW82cXp4YkhBM0hUakh3Tk9FREM4NlZodEpTeDE2QVdqdTRKamdPQTlid3lfRUZObmJ5M3Vpd0ZCaGpIMGwwUnFSN3VBakVzTDlsZW0zN2UwS2xKaUdDRHpQbjhqNF82ZTN0eGU3TkV5VTctUnJBc0Q5bmxkQjNWYWZteTFCZ0dYa2taV290V0xvaEszNWR3Q2RGOTZhc2JCLUJXZkxULTFOTnltTTFsM3lrag?oc=5"
     },
     {
       "id": "9ae593c8b91b00da41",
@@ -242,6 +230,18 @@
       "url": "https://www.europapress.es/madrid/noticia-mas-madrid-reclama-comunidad-mesa-seguimiento-nuevos-desalojos-vecinos-san-fernando-20260803080152.html"
     },
     {
+      "id": "df7aa43b3b9e22212e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T07:55:36+02:00",
+      "source": "Telemadrid",
+      "title": "¿Tenías un vuelo en Madrid? Iberia permite cambiar el billete o solicitar un bono por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYXZ6VVFuYS1qN3ZoejR5RXFOektYNmRscUhvZzlQZ2tZZU0yT1c3blp1MjdmZXNzU1hwa3FRYmdiRTNibWZwV015OGZwaTlLWldPVWdlRmZMU1dxcU94SVF0VmFZQk9Fc0QxS2lOYTkyMzc1UG11T3BycEZxRHdvOUxtN2plZUZKZUVDMWRxZkpyaGZSUmwxZnJXeXYxMzBoRzgtNXNUM0E1dDNLNjRYbW4yZUdVVUVvSGU3RHRLdGVUR1dWYnp6Q216VjYyRUpBcnhvRUZ1STVkU0dpOGFJRlJDb0JoOEo3TFllR2NTV3NzeXppcDByWWI0ZGN6Zy1tem9j0gGIAkFVX3lxTE9QRHFHbzRaV3A0VWQzNmE4OTV0X1I2cGt3T0tQcU1hX0JacVl0SDZlYVkyUEw2SjIxUFo3U3F3bGItN0gybW9oY1FfRzMtT05UekkxYTc4MHdGb2hnNW82cXp4YkhBM0hUakh3Tk9FREM4NlZodEpTeDE2QVdqdTRKamdPQTlid3lfRUZObmJ5M3Vpd0ZCaGpIMGwwUnFSN3VBakVzTDlsZW0zN2UwS2xKaUdDRHpQbjhqNF82ZTN0eGU3TkV5VTctUnJBc0Q5bmxkQjNWYWZteTFCZ0dYa2taV290V0xvaEszNWR3Q2RGOTZhc2JCLUJXZkxULTFOTnltTTFsM3lrag?oc=5"
+    },
+    {
       "id": "782246abf1c8f03d61",
       "type": "news",
       "severity": "info",
@@ -252,30 +252,6 @@
       "title": "Un incendio de gran virulencia, en un edificio de Chamberí, desata el miedo en Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmktYjZOc3lQdVJhUWVwT09FMTdEUm0tSmRad1I4ZUwwUjZITXB2QlFjRDBKVWpDMXlUY2xSXzU0MHNqMHVwM2hhSlNMZ01mMkR0OTZacGlBeTB3ZVBzZ0JGeHBvS1FXbG1RMmVzSk14bnVocUhReUhRLUJaYVZoeTVXdEVjb21Fd1VXb1lhcjcySkNjbndwSEM0Rnlka1pJUmNPQU82MWxpdzlVaFFsYWt0TmRLeHBwN3pCWmNPajd2SEFnRGtUaTNB0gHeAUFVX3lxTE45ZWEyNUFxQXNWRmItcFhvZ3drSFF3WWUwWnNZSW8xMmpndWprSjBScHlVR1NPM2M0THBZU0p4VVNOUk9ESFpuS3ZmMGFDS0Fsb21ldXBQb2hyQlZRcDR2dFRNd3dYVGxkeUJvQktvaUJQbHg2QWIybjFNcTcySW1TTVNGUndMMGNWZVpsdkVTbmxLclRWV212VFVHTGduTVowZzJ3cW5TcUVXa0RkTzNfcEJha1AycW01elpVcVVxVnduYzQ2Qkl5X25wZ0FGS3Exd1Y1MWU5NTZuNWpUQQ?oc=5"
-    },
-    {
-      "id": "a73bc3378f2d743a2e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-03T00:12:52+02:00",
-      "source": "RTVE.es",
-      "title": "12 días después de iniciarse el incendio de Burgohondo, en Ávila, se reactiva en tres frentes",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWc3ajZmcGhCRXE3Zm5saEo3djQ5Q2NtNjhBT1o4ZGd4WE1ld1ZrRFZ5TWRzbEp6YlE3a1RVYV9WVWZJQjBFZUlUUlFZUDNDYi0tUEJfeDNmcHQ4NXlKSWtUQmpqX3JsMkp5dWJzR1I0M3JNTG04bDFsbnE1bXlWS1ZjWDgxcVNVLVktRmxkLThWWklOTmpxYmRhWEZ5MTZVSnRHbFRlemIzdW5hOTBlQVFHM0NsbmR2b0JoSG1fUjBjZExybmtXQk9vUkFpQ280?oc=5"
-    },
-    {
-      "id": "24bb790bb3a0cf4c9a",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-02T23:57:12+02:00",
-      "source": "La Razón",
-      "title": "Los incendios de Burgohondo (Ávila), Fermoselle (Zamora) y Veguellina (León) evolucionan favorablemente",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb3lPTzFwOWdnMk1MTXJwcHBBVmNSMDFlUTNTVXpBNVBuLVBFRzhfenAxR0Z4S2lUSHZEZzN1VTJuUTRRejlCUWZGZ3ppNGpJRnJFdFJ3STFGZmFZNUxaLTBiS2JNVmsxZXlvcEtndHJoMGxRSWs0Rm1jb1pfLXR2VFJuTjFYeG1TLUgxd3dIWGUyOWN2bjl0SmtJazVTTWFGZTQ4SWttb09VZGFrZmtiYWNxeFBLQjdkalFXZFR0dmNaajZETGpSSmdud1lVaDAtUVZrbXpzdG5tQXlzTDJqYVNybHVQOVBXdHJQZTdnUXhGZTgzVU1F0gGLAkFVX3lxTE96U1ZWMjRrT3dTZnJYRjFUUklBaFNqdW43UG1kOE80OXJOWmNMNTNGdmVTbzNzb0dlOEl3UldGLVBHOERvRmVxZFZTRUdDSERwSWtCTTF6WmRVQUdiUDgtRklTMnV6RFdzUUJPRWpsTjhnVUdveHh2YzJyZnJkZExZM1UzTHdMUTZKNXluWTJCVlkxZm9BYXZwdDN0TmtTaDhJRjVuX0dYSTI4ZXZEZTNMc1ZCTHBZcmNpWG1UVElxWF9HSlBYQTBwX1FDZmZkMnVleUNsbzZ3M0dSNDl6ZmlYWVJoQjh4d1pHMWFCRlA0M3NYYUUzVV8zV1dqZm5oVnZTY0lyeDYtOGlkUQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -391,7 +367,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 20
+      "items": 18
     },
     "direct_media": {
       "ok": true,
