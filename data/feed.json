@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-04T06:29:11+02:00",
+  "generated_at": "2026-08-04T09:16:57+02:00",
   "items": [
+    {
+      "id": "3ac61a4b665e602466",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T22:45:41+02:00",
+      "source": "La Razón",
+      "title": "Las reactivaciones controladas protagonizan la duodécima jornada del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0NzRldsUGNxWDBTQzN1TG02R3k0RjlMY1cyYmJRMHFJZ3paelJNTmRZTlNSN2lJSDlzSEZCX3ZwVEZTZzE4cEJVVlZfd1FYNGV2bGZtZ2xrUlVDdml3eUM3cXFTSFF1SnJ3Y2Vab2xsSklLMTZQZmRjTUtqUk1kOUlGejZ6Tms4c2ZjclY0X25hMUNHeXdTT0F3QUZNMXlxV1U0SVdOYW12ZFM1c0VJRnV0MEczWkFRTUZIemNWdXBCMG5BVzd5a3Rfcy1xZ1Z5cEJQZlBHYkZwZE5pWU5QWmhSNmYyTGp3b0HSAf4BQVVfeXFMUHlLWV9mQ0g4UWFnbDNSTUU1V1RicjlYcTdMcnpGTjNobURDV3R5R2FEVGhkMHo0dW1XM2phdU9hU0I5RGh3bEdGalFOVXRVQ2NmeHE2Q0k1QnYzQzBIbGlEMGNKOXZVY09XNUZ6bk51cE02WHROZ2xJY2xpSGUxcTJ3ZXFReHlKU0tERmdFeVhfOTR4WTFkNDZKTjdaOWtoeE5fYkRFUEFoaURiVUY4NTc1RFJFR2NRYlM2TDZVajZBaXQwYUZmTWxZX0xGeG03UFVLVU5IYjZ4bzJIRWFTVzAyMEhCM1NjWlNrU3Y2b1k4eTJPLU54LVN5MTVObFE?oc=5"
+    },
     {
       "id": "996d5e7b9af72f38dd",
       "type": "news",
@@ -158,6 +170,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMnREX2lYV1pZRjd5TTNfNVJ2S2NldkVJOGJyLV91U1pBcFhadlg1RUQtdUt5bjQtNEpUNEFvR0pwQWNmSTZUdFJ4R2pFdjFmUE4tc19PZkJLbDU0ekt3ZS1nSGtNSFI3RVhOd2s0aHVwNU5PelVpTlduc1lCTHFldmF1M3NoY3FlaUVHS0ljN1M5XzhpRXRDaFBfQWxHVmRnRTQtRXVwY0hMQ2VXelhCWUJnYU80M25QSUltYXlRbE9oTjVScFMxUmFSTzBfcmEzN1BEcWUzcW9GMGRsZUtHMjhZckdmMGxXV01YRVZ2dWZHb1lJRDh1U0NMdjZCUnltbExtTkI0QVkxeDlpU3VHdUMwVFVTLXBubHhCV0Rhdm1XZ0twNl9kU2pR0gGvAkFVX3lxTFBFel9XWDNyOEJHYWhMX1BtejVfX2VXcHJPUjI0UExUd1B4SGY0dnVibGRxYXh6TnZNUGtsNVQ2UTNnWmtwUGJwWlVSYmFEdGpsRUxWdG5La0hUdHNzcHZLTExpWWVHMFN3Z3RCUjg0U2NCQTQxeEl5bVJtUGpPZC14LTRVVk5NM1Nka0k5MXhxVlYxaWdOeWdQSVVRUkJjN2VKY0Q1TjlmU2FsNHlrUnRPV0luWEhnZXROVDAxYV9VTHZXMm9jNVBXalVER1ZRUkNOdjhkTTZycHJXWEp4MXA0Uk9hVllXMjdaODNiSjBjdWozUEdNTHhOQW1mckFvWUQ4eHEtdnExVDBXclAtY1RsX0FTa2ZoQ2RVWmR4aG5QRzVYUjgwREV0akVJaWhBaw?oc=5"
     },
     {
+      "id": "8a074e438599f54ef4",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T11:56:50+02:00",
+      "source": "La Razón",
+      "title": "Más de 80 personas y una treintena de animales continúan acogidos por la Comunidad de Madrid tras los incendios en la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGRSTzBBLW5hQ2RsUVN5XzRtN1RvTVZOOTNtbnJZYzJWdlJ1MlhKWDhEM0NuLVFlcTZ4bjhNQ19DMmlQSllUcFJFRGZjNVlqQ1g1RTJvYWNELXg1STFDX1BjZHhvZk1RTFprSUk4aGFXSEtZTktGLW9oc2Zmc3h5cjJjRk81S3JYUENINUxDaEw3dm5jMUFDbWNiSldLU1BDVnlQem9FUkp2TGVCWkF5QzZmYUNIbGROZDNaOUtjYnNlbWRjdG1EN0t4djh1UWszOHd1XzdoNmdOQ2hPTXFXaExPOHpDUnNrdFpfeUhxOW9MMGxyRDhIQ0VOU1hWeC1WNjFST0tmUdIBhwJBVV95cUxONGRSTzBBLW5hQ2RsUVN5XzRtN1RvTVZOOTNtbnJZYzJWdlJ1MlhKWDhEM0NuLVFlcTZ4bjhNQ19DMmlQSllUcFJFRGZjNVlqQ1g1RTJvYWNELXg1STFDX1BjZHhvZk1RTFprSUk4aGFXSEtZTktGLW9oc2Zmc3h5cjJjRk81S3JYUENINUxDaEw3dm5jMUFDbWNiSldLU1BDVnlQem9FUkp2TGVCWkF5QzZmYUNIbGROZDNaOUtjYnNlbWRjdG1EN0t4djh1UWszOHd1XzdoNmdOQ2hPTXFXaExPOHpDUnNrdFpfeUhxOW9MMGxyRDhIQ0VOU1hWeC1WNjFST0tmUQ?oc=5"
+    },
+    {
       "id": "22c30ca1ae49d33bc3",
       "type": "news",
       "severity": "info",
@@ -240,18 +264,6 @@
       "title": "Más Madrid reclama a la Comunidad una mesa de seguimiento ante los nuevos desalojos de vecinos en San Fernando",
       "summary": "Más Madrid ha enviado una carta al consejero de Vivienda, Transportes e Infraestructuras, Jorge Rodrigo,...",
       "url": "https://www.europapress.es/madrid/noticia-mas-madrid-reclama-comunidad-mesa-seguimiento-nuevos-desalojos-vecinos-san-fernando-20260803080152.html"
-    },
-    {
-      "id": "df7aa43b3b9e22212e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T07:55:36+02:00",
-      "source": "Telemadrid",
-      "title": "¿Tenías un vuelo en Madrid? Iberia permite cambiar el billete o solicitar un bono por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYXZ6VVFuYS1qN3ZoejR5RXFOektYNmRscUhvZzlQZ2tZZU0yT1c3blp1MjdmZXNzU1hwa3FRYmdiRTNibWZwV015OGZwaTlLWldPVWdlRmZMU1dxcU94SVF0VmFZQk9Fc0QxS2lOYTkyMzc1UG11T3BycEZxRHdvOUxtN2plZUZKZUVDMWRxZkpyaGZSUmwxZnJXeXYxMzBoRzgtNXNUM0E1dDNLNjRYbW4yZUdVVUVvSGU3RHRLdGVUR1dWYnp6Q216VjYyRUpBcnhvRUZ1STVkU0dpOGFJRlJDb0JoOEo3TFllR2NTV3NzeXppcDByWWI0ZGN6Zy1tem9j0gGIAkFVX3lxTE9QRHFHbzRaV3A0VWQzNmE4OTV0X1I2cGt3T0tQcU1hX0JacVl0SDZlYVkyUEw2SjIxUFo3U3F3bGItN0gybW9oY1FfRzMtT05UekkxYTc4MHdGb2hnNW82cXp4YkhBM0hUakh3Tk9FREM4NlZodEpTeDE2QVdqdTRKamdPQTlid3lfRUZObmJ5M3Vpd0ZCaGpIMGwwUnFSN3VBakVzTDlsZW0zN2UwS2xKaUdDRHpQbjhqNF82ZTN0eGU3TkV5VTctUnJBc0Q5bmxkQjNWYWZteTFCZ0dYa2taV290V0xvaEszNWR3Q2RGOTZhc2JCLUJXZkxULTFOTnltTTFsM3lrag?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -367,7 +379,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 18
+      "items": 19
     },
     "direct_media": {
       "ok": true,
