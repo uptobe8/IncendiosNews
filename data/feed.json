@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:32:42+02:00",
+  "generated_at": "2026-08-05T01:36:42+02:00",
   "items": [
     {
       "id": "f1003f356263e5feaf",
@@ -26,12 +26,24 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUlsS3FCVnBZem82RXF2WHBHU0g1MDVReWhqNnFBOHhFM1RwSEZnb0FzcXZTYXpkN251elYwTWZPWWlubGVGeVRuN0FUZWk4NDFSajdmaWpiSklCemxtN0JDaDAyRnJoQ3N0aTJGaWpydFg5LVpOSGJxTDh1M2hfY0pPRFRjVmFzM3l4Slh1bDBYVGNZVzdhOGVHcjhRMDk4VXBpQVRoVXNuZmtzOUVUYmV0N1hRZHVOcnNFNjA3UE0tRUp4bU8wSHV6VmtVYnF3ckM4ZA?oc=5"
     },
     {
-      "id": "81e445393acb9f8c8a",
+      "id": "ab0762a5e8858e9240",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-04T21:19:49+02:00",
+      "published": "2026-08-04T21:47:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Impulso regional a la recuperación de las infraestructuras afectadas por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOE85aFg3NUZteXVfWFBuX3dMRXhLNTV4N1ZONU9wT1FkMmNMMENBRnBEeFRuMjN3M05obTJ4a29xT2l2d1RKcUwxeEVrWi1MZGlQeGZxTmN3TUJPOTFfRkpGcVRVblNfMmxDRU9rdGJCbUJJNy1palp1dDJQcnIzMVBMdVFEMzNYb3pSYUc1YjZwcENaU1ZfOUZWc2NOaVktY2c1ZFcwTlg1NW1zTFJyc1I0UHlnc21weVVYRHlocGlyM1pxcF91dVEzel9YS3ZlNjZsYUV0T0l4SU0?oc=5"
+    },
+    {
+      "id": "a6ca9a7d3cbbc26e27",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-04T21:30:00+02:00",
       "source": "Tribuna de Ávila",
       "title": "Investigan el posible origen intencionado del incendio de Burgohondo y sus reproducciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -122,26 +134,14 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW5GN3VGTTRFRmwzbzNFb2FlV2JqS3JtbHNxRkUzWDBrRW5vWW5kY3d4THcybFREejd2Mzc2VjR4RjE3WEJ4N0ZZVVl4ZWdPT1ZoVlJiRHV1dXg4R3VKTFBLZVJEeEhQZWJ6ci1MT1JlYTJld1FpZFpzeFZ3YmJrZ0lmMVlxWEVpXzFYTVQ1RlpzeXJ4ZGtNRlBmOW12NEU5dnc5MU1DRkJXSGdqenlGU3JRa28?oc=5"
     },
     {
-      "id": "972a0876f6127904f4",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-04T18:49:05+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Impulso regional a la recuperación de las infraestructuras afectadas por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOE85aFg3NUZteXVfWFBuX3dMRXhLNTV4N1ZONU9wT1FkMmNMMENBRnBEeFRuMjN3M05obTJ4a29xT2l2d1RKcUwxeEVrWi1MZGlQeGZxTmN3TUJPOTFfRkpGcVRVblNfMmxDRU9rdGJCbUJJNy1palp1dDJQcnIzMVBMdVFEMzNYb3pSYUc1YjZwcENaU1ZfOUZWc2NOaVktY2c1ZFcwTlg1NW1zTFJyc1I0UHlnc21weVVYRHlocGlyM1pxcF91dVEzel9YS3ZlNjZsYUV0T0l4SU0?oc=5"
-    },
-    {
-      "id": "4108dfaa0537be7011",
+      "id": "14805e97160bcb3809",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-04T18:39:24+02:00",
       "source": "Madrid Actual",
-      "title": "La Comunidad de Madrid controla el incendio de la Sierra Oeste y rebaja el Infoma a Situación Operativa 0",
+      "title": "Incendio Sierra Oeste controlado: Infoma rebaja a nivel 0",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUlsTXdWcHdEQzJQeldrZHpzNDIxRzRnNGpYM2FaRkZzUm1sM0ZyTkxzVFNBWmM1TFVhYUR6cDBBbkxmX0RIYy1pVk1yNWEwV3BHelpYb2hfZ09VV05NdTl6Y2pEYzNRTjc1anNLYnVTNFFMYm9TWExXYmV3ZUt1bUxFQTZJMWRScGQ3NnFyRC1xU01uNEFsdUl5MHdwbEFyR2x3Wm96UFViVVZhQmVYeEdJQ3l2NFFUbmxWLUFidDl0WlJqUjdvbWhWNnU?oc=5"
     },
@@ -310,8 +310,8 @@
       "published": "2026-08-04T13:23:42+02:00",
       "source": "Europa Press",
       "title": "Los afectados por el incendio de la Sierra Oeste podrán matricularse en septiembre en FP y Escuelas de Idiomas",
-      "summary": "La Comunidad de Madrid ha publicado el nuevo calendario de matriculación de Formación Profesional y de...",
-      "url": "https://www.europapress.es/madrid/noticia-afectados-incendio-sierra-oeste-podran-matricularse-septiembre-fp-escuelas-idiomas-20260804132342.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVFPaUliSEJrQU1hcjlvQlJMYkZWMnBwRmlUQW8tQmRDRUFES19vWkNZQ0w2SjU5UUtKX2dvQlc2bmM2QlNkLTJtcTd3SERsY2pKWXZIejRHeDVUM0tJbVRFSDl0SFZSTTZ3ZnhMQmwzYjVfTWI2bjRmTmNhaVpSekktU1A1SVZoVkROZ3I3dENDd09lU0pjeFpaVXhROVZmUHIyaG5kUXJ1bjhUb3N0cXAwV0g2UnRhM2tDRW5iaWx6VmlRLVI1bG9wMEZ4SnlCREhIWDZzUHFtalNW?oc=5"
     },
     {
       "id": "8ad5cea65f72fef78c",
@@ -487,7 +487,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "direct_media": {
       "ok": true,
