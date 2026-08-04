@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:43:19+02:00",
+  "generated_at": "2026-08-04T03:08:26+02:00",
   "items": [
     {
       "id": "3ac61a4b665e602466",
@@ -50,6 +50,18 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWdxS2h3LVJGZGZGNVRYbDl4R2dLMWNiVTdBelpHYTNMai1LVjVsbnVQMU1YR0FHVHI5OWtpOWV0LWZVVzV4b240cjlHUHNDOFB2eDBBVDdvSllMMlVEcy1zZFktSU5pN2JTR1RDRlB5LU1FZEIyT2dvMmVfV1BCX2EySFAyb1Z6ZHlmTXVHYnNGN0hDRWhWSGVXZ0I5SjZkbldvTEZuNlJ2Ulp6TGdz?oc=5"
     },
     {
+      "id": "2a856a2a9a5443108f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-03T18:30:03+02:00",
+      "source": "El Español",
+      "title": "La Junta lleva a Burgohondo y otros pueblos devastados por el fuego el Festival Internacional de Circo de Castilla y León",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSzYzV2VwY2hsZUtqNXFzWWJ4bE80b1M2RUZTaTRoVG9RMm45N3A5MWZjV3RfX2YxX3Z2dUVlM2dCS1B4SGdTS2c3NmFXMndGUjA0aW0zSy1BWU94TktmNUdGUkVYOWNPMmx1YmdiaDFiQnVNWWh0aU5kN0szeWtaMEVEQmNqTFlRNzNyN2IzcjluQ3Zwa3dyVlBuNHBIOXZjUGw4Y2V2Z09UZEEzbWFjem5ValhtNEQ2M3BMMFBTWEwtZWh6czdtbl9Nb21BclRuS2UtWXFldFFXbDRmbXYxc2lQSVBIWXp4aGVsYWlQNHZxRmlWelktdnp6b1owUdIBgwJBVV95cUxQNF9TdUJOS1UtcTh4MzZtYUFESVlEc2tZNVphYXd5VjZsUjdpQ1NuM3NfdkNfdXFiOXUyaVhJUHF0b3VCZHY2aTZGSEpOcVA5elVQaUtMUkl3c2VaYW40MUs0bmRqTzlBemhkajJvcmstbG14bHdPR3ZSMGpsQVpYYm5OLWJnTWxIT3cyb1ZpWTBkUXBZdHgtdFIycUZqWWF4RjJqLXdHNVZCem9nd3ZibXhOTnNPRFc2ZzBJVFg2bzlmV3QxVEhXdUtDM0d0NlpGQTdUYThzaGo1bjkxWWI0S2Zld3UwNEZuYi1nLUNVV0lpVWZteTVTM2h5Q0hCblBJakpz?oc=5"
+    },
+    {
       "id": "9ae593c8b91b00da41",
       "type": "news",
       "severity": "info",
@@ -84,18 +96,6 @@
       "title": "Agradecimiento a la \"impresionante ayuda\" recibida contra el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0ZpdFBiZjhIaXRsTlNUVjlOdV9vOE1fWnYwSm5IUlZqNEd1ZWJvVkc4SnFxZFNXUlFZbVd3YnV6QXpMNXZaUWhKNDJnZVFNQmhycWEtWXd4elZBR0RpS0F3Vy1abkh4QUdBcldXb3RWM3RFaVVZbk14cmotRTA3d05zTzMxNzZ4bmVwejB4d0tyWXRwNEl2dXA0RG9FZGdpOUtDRlNDLU5VSzVWd3JRdC1KenBwNENYYkUySlZkNW9meS1M?oc=5"
-    },
-    {
-      "id": "08f607cb4e3f430167",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T17:00:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Madrid agiliza la gestión de residuos de los incendios con medidas extraordinarias",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWERYNnpiY1RCZ2RDdXZ6SnZjRFY4eEhPZm1DYUVicERtbUFabnBXanJzNEY1Qm4td21FZ1JiZXJFTDhyaGd2YlQyQV80akF1TThBQW1kSTZpR2NqeFZEd25raktZQjJqSERnSGRnNlVCYWZGWE5LWWxUUFQySFhQVWZfNkJKSVQzSFJLQVZ2dWZWV2FPb0dROV96bmstZEdQMk5YUVNtNUlxbUZNUmZIOFlwekp4RjdCLVlTN2lBbnZJNTk3Y2c?oc=5"
     },
     {
       "id": "e5699e04a73c0c2c1d",
@@ -373,13 +373,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 19
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 19
     },
     "direct_media": {
       "ok": true,
