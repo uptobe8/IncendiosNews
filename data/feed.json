@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-04T09:16:57+02:00",
+  "generated_at": "2026-08-04T12:02:40+02:00",
   "items": [
+    {
+      "id": "03326c81061d019f5d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-04T11:36:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Ecologistas critican la falta de prevención en los incendios de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTBXYjQ0V0pjLTVVa0c5STlxMU5qQzlaRXVHTTVTbGZURUNOMEx3S05uNVJDUlBmZVpYaGUySnZRODl0ZHk0Z1hKU1Zrbjlac0FiVjN2ZVFFbjh3d21OdWU3U2lITjhEMDFFNWMyQkY5Z3FlMGJPdG1US05JdjBIUnpMdXMzTUVmNkxHblpad2pZRXRXbWVjbnZvdS1FaVRfMDN1QWVJZ1VJMXdpM3R5NTlGU3lCUFJhQmtONnp6X0I3SU5EcDlEYk5kS1RQZHlfcS1ZMTZGb0pCMms?oc=5"
+    },
+    {
+      "id": "8ad5cea65f72fef78c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-04T11:33:11+02:00",
+      "source": "Europa Press",
+      "title": "Sanchidrían se compromete en Ávila a recuperar \"cuanto antes\" infraestructuras dañadas por el fuego",
+      "summary": "La consejera de Movilidad, Transformación Digital e Inteligencia Artificial de la Junta de Castilla y León,...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-sanchidrian-compromete-avila-recuperar-cuanto-antes-infraestructuras-danadas-fuego-20260804113311.html"
+    },
+    {
+      "id": "84667abd38b53f9186",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Cebreros",
+      "published": "2026-08-04T11:11:02+02:00",
+      "source": "Europa Press",
+      "title": "La DOP Cebreros inicia \"una de las campañas de vendimia más complejas\" tras el incendio con un impacto en 200 hectáreas",
+      "summary": "La Denominación de Origen Protegida (DOP) Cebreros (Ávila) ha iniciado \"una de las campañas de vendimia...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-dop-cebreros-inicia-campanas-vendimia-mas-complejas-incendio-impacto-200-hectareas-20260804111102.html"
+    },
+    {
+      "id": "2aa7b622c20f7dbfb2",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-04T09:01:52+02:00",
+      "source": "Europa Press",
+      "title": "El paro aumenta un 1,42% en julio en la Comunidad de Madrid, hasta los 273.631 desempleados",
+      "summary": "El número de parados registrados en las oficinas de los servicios públicos de empleo (antiguo Inem) en la...",
+      "url": "https://www.europapress.es/madrid/noticia-paro-aumenta-142-julio-comunidad-madrid-273631-desempleados-20260804090152.html"
+    },
     {
       "id": "3ac61a4b665e602466",
       "type": "news",
@@ -60,6 +108,18 @@
       "title": "El incendio de Burgohondo se podrá controlar “más pronto que tarde”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWdxS2h3LVJGZGZGNVRYbDl4R2dLMWNiVTdBelpHYTNMai1LVjVsbnVQMU1YR0FHVHI5OWtpOWV0LWZVVzV4b240cjlHUHNDOFB2eDBBVDdvSllMMlVEcy1zZFktSU5pN2JTR1RDRlB5LU1FZEIyT2dvMmVfV1BCX2EySFAyb1Z6ZHlmTXVHYnNGN0hDRWhWSGVXZ0I5SjZkbldvTEZuNlJ2Ulp6TGdz?oc=5"
+    },
+    {
+      "id": "d3fb7585725e301ea6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-03T18:55:31+02:00",
+      "source": "Madrid Actual",
+      "title": "Los Bomberos controlan un incendio forestal sin daños en Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHU4NmFIOWF0VXhkV082eVNuaVNxZmRweHkyOEdEcm15cjZDRDdUOFNZX2FSZm5QOVNBb25rc2I5NXZBZUEwRzRYX3NUNGE3ajdfZDI1eklEN1FaNk52LVB2eGxUdThVNVI0VWd4TVIzdkdjNUp4SGdjbzJBb1ZHVEJtRUNna2F5aHBkRzR3RUVEY3dzdnJGX0lkNENhNTdObVFvQWpITnVYa0dLaWVzakVfR1dyY0UyYjR0LXlxT1BiS0k3SHc?oc=5"
     },
     {
       "id": "2a856a2a9a5443108f",
@@ -146,18 +206,6 @@
       "url": "https://www.europapress.es/madrid/noticia-comunidad-presta-mas-72-atenciones-juridicas-gratuitas-afectados-incendios-sierra-oeste-20260803145707.html"
     },
     {
-      "id": "797edcc655d65a8643",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T14:27:46+02:00",
-      "source": "Europa Press",
-      "title": "Desalojado un bloque de viviendas de Chamberí (Madrid) por un incendio originado en la última planta",
-      "summary": "Los vecinos de un bloque de viviendas ubicado en el distrito madrileño de Chamberí han sido desalojados...",
-      "url": "https://www.europapress.es/madrid/noticia-desalojados-dos-edificios-chamberi-madrid-aparatoso-incendio-originado-ultima-planta-ellos-20260803050728.html"
-    },
-    {
       "id": "ba8ea7bce78cde0ded",
       "type": "news",
       "severity": "info",
@@ -170,18 +218,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMnREX2lYV1pZRjd5TTNfNVJ2S2NldkVJOGJyLV91U1pBcFhadlg1RUQtdUt5bjQtNEpUNEFvR0pwQWNmSTZUdFJ4R2pFdjFmUE4tc19PZkJLbDU0ekt3ZS1nSGtNSFI3RVhOd2s0aHVwNU5PelVpTlduc1lCTHFldmF1M3NoY3FlaUVHS0ljN1M5XzhpRXRDaFBfQWxHVmRnRTQtRXVwY0hMQ2VXelhCWUJnYU80M25QSUltYXlRbE9oTjVScFMxUmFSTzBfcmEzN1BEcWUzcW9GMGRsZUtHMjhZckdmMGxXV01YRVZ2dWZHb1lJRDh1U0NMdjZCUnltbExtTkI0QVkxeDlpU3VHdUMwVFVTLXBubHhCV0Rhdm1XZ0twNl9kU2pR0gGvAkFVX3lxTFBFel9XWDNyOEJHYWhMX1BtejVfX2VXcHJPUjI0UExUd1B4SGY0dnVibGRxYXh6TnZNUGtsNVQ2UTNnWmtwUGJwWlVSYmFEdGpsRUxWdG5La0hUdHNzcHZLTExpWWVHMFN3Z3RCUjg0U2NCQTQxeEl5bVJtUGpPZC14LTRVVk5NM1Nka0k5MXhxVlYxaWdOeWdQSVVRUkJjN2VKY0Q1TjlmU2FsNHlrUnRPV0luWEhnZXROVDAxYV9VTHZXMm9jNVBXalVER1ZRUkNOdjhkTTZycHJXWEp4MXA0Uk9hVllXMjdaODNiSjBjdWozUEdNTHhOQW1mckFvWUQ4eHEtdnExVDBXclAtY1RsX0FTa2ZoQ2RVWmR4aG5QRzVYUjgwREV0akVJaWhBaw?oc=5"
     },
     {
-      "id": "8a074e438599f54ef4",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T11:56:50+02:00",
-      "source": "La Razón",
-      "title": "Más de 80 personas y una treintena de animales continúan acogidos por la Comunidad de Madrid tras los incendios en la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGRSTzBBLW5hQ2RsUVN5XzRtN1RvTVZOOTNtbnJZYzJWdlJ1MlhKWDhEM0NuLVFlcTZ4bjhNQ19DMmlQSllUcFJFRGZjNVlqQ1g1RTJvYWNELXg1STFDX1BjZHhvZk1RTFprSUk4aGFXSEtZTktGLW9oc2Zmc3h5cjJjRk81S3JYUENINUxDaEw3dm5jMUFDbWNiSldLU1BDVnlQem9FUkp2TGVCWkF5QzZmYUNIbGROZDNaOUtjYnNlbWRjdG1EN0t4djh1UWszOHd1XzdoNmdOQ2hPTXFXaExPOHpDUnNrdFpfeUhxOW9MMGxyRDhIQ0VOU1hWeC1WNjFST0tmUdIBhwJBVV95cUxONGRSTzBBLW5hQ2RsUVN5XzRtN1RvTVZOOTNtbnJZYzJWdlJ1MlhKWDhEM0NuLVFlcTZ4bjhNQ19DMmlQSllUcFJFRGZjNVlqQ1g1RTJvYWNELXg1STFDX1BjZHhvZk1RTFprSUk4aGFXSEtZTktGLW9oc2Zmc3h5cjJjRk81S3JYUENINUxDaEw3dm5jMUFDbWNiSldLU1BDVnlQem9FUkp2TGVCWkF5QzZmYUNIbGROZDNaOUtjYnNlbWRjdG1EN0t4djh1UWszOHd1XzdoNmdOQ2hPTXFXaExPOHpDUnNrdFpfeUhxOW9MMGxyRDhIQ0VOU1hWeC1WNjFST0tmUQ?oc=5"
-    },
-    {
       "id": "22c30ca1ae49d33bc3",
       "type": "news",
       "severity": "info",
@@ -192,66 +228,6 @@
       "title": "El incendio de la Sierra Oeste suma una segunda noche sin reactivaciones y continúa en Situación Operativa 2",
       "summary": "El incendio forestal declarado en la Sierra Oeste de la Comunidad de Madrid ha pasado su segunda noche...",
       "url": "https://www.europapress.es/madrid/noticia-incendio-sierra-oeste-suma-segunda-noche-reactivaciones-continua-situacion-operativa-20260803090431.html"
-    },
-    {
-      "id": "dae9e24af2f325089a",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-03T11:02:38+02:00",
-      "source": "El Mundo",
-      "title": "Situación estable en el incendio de Burgohondo (Ávila) sin saltos fuera del perímetro y sin llama viva",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qM0Y0aTIzeTVud1cyN1E5STBpbmRoenlkUXNHWVhKSERlRkVvVV95UzctUkpDZnN3MHdiU2hmbUJ3OUw2Ql9OV2tYZGU3cU9UVlZZUUEyUXNJRXRFRzJRYlNQdkVZSFctLTY2YlQxdHM5UFl4Q2cxTWl30gF6QVVfeXFMTUdvbVRRR1V2RXRLVWNTMW9fU252UDV3ZU0wWU9zZC1iVjA0QkxRQkpCa1REUjY5azRaa3BkMzU5cWlGZU1Wdm9iQ241RXZ6czJCRU1NamdWUWg5WjU3TGNIZVhBdElpbzNHREFkaVNtRTdzOGdyMUVVVFE?oc=5"
-    },
-    {
-      "id": "929aac747ce476e215",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-03T11:01:05+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "El incendio de Burgohondo (Ávila), en situación «favorable» tras una noche «sin sobresaltos»",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWS1aX1ZnZlB3Y1l0eGtlcXJ5WEJ2aUxDUEtFQkdoMk9NTmhLd2h0bnFzUm1kZkNjRV8yZnRTcmRtLXQzeGpOWkZ0NzZ1dVF5RnBxRTI5aWlQaDZMSDBCVy1yTHdRUEJQQzRpQnlZbTNsbmp4dk5CMXRn?oc=5"
-    },
-    {
-      "id": "26225062f17afa0859",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T10:48:19+02:00",
-      "source": "20Minutos",
-      "title": "El incendio de la Sierra Oeste de Madrid supera su segunda noche sin reactivaciones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzRPWERCaDFvSllOc0VBOHFDOWdScnNKVjdfcHJPTGZsamJpcV9LSGRmR1VvTm9nSWRjZUlNQ28tYWI4U1hubW9xUlFsaDRWb3ZYNXJUUkI4VTNIa1JGaGw0NjB0QnUxOGstblpfdEQtaTJoT2kxZDJjeDVOT3dsZmJQcjZuVjU3NDRDRGV5RngwZEFYZzVIRjJoQm5meDhZaDBYN09RekhwU1pjY3dDel9UYWpqb3BySmc?oc=5"
-    },
-    {
-      "id": "ce6a78480ff14bc02c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-03T10:23:35+02:00",
-      "source": "ABC",
-      "title": "Las reactivaciones de varios focos obligan a reforzar el operativo del incendio de Burgohondo con medios aéreos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVNCVlJLRU9CNWgzTDJMcEY2MzloUUhuUzV3bG1MR0Z0Tjl6VVZKVENTQV8zQ3J5MzRIYlFkbGVpUmczVEFKeTNBZ2pyLWtvNFI2cUotZVRTR18tdWVuYjZETEN2WGhMa0pmcVYxSjhxalZaWWNjMHBsWDBZVUVnZmRYdUdpWTg2Rk5Sa3FnYUdvUmdxZTZXTUg3X2h1ZjVIQ1RNLVh4a0l5bFhvU09hWVpmX3NIYnpIRUtiNkk4N1M?oc=5"
-    },
-    {
-      "id": "9193daf88ffaf6f419",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T09:20:53+02:00",
-      "source": "Telemadrid",
-      "title": "La M-957 sigue cortada mientras el incendio de la Sierra Oeste de Madrid encadena dos noches sin reactivaciones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOdy1kdUNBaGpOUFRXUXRRb0pXY3MzY1hIXzFSRmpqdUUzQmdoWHlXbHhSeFI1eG04M21JZnltMmVHZU1JUFZENFBnMXJYcHBrLTN6ck15S0pqS0lPNFdBU3d1SnhGcE8tMDFWSmFOS3hiVXJFckFIMko0UDVHdEdBMWl0c3hydkZ1WnlmYnQ4S25hOWNSd0V6V2MyVDhqZUNIa29pa3AtMlAtVDZiQmFhMUdSMjNMR2ZCakVqcDExZUJQbmItMlV2R1FEUmdLOVdZNVJzb3A1c2hoeXA1ejRWdk9mUTdYUGZPeTVTRHN1RXpoUkhuMGFFWEF6M3hlZFpTakFfNGprdXRNSS1SdWxldi1nSUg4V01kZmg00gGbAkFVX3lxTE53LWR1Q0Foak5QVFdRdFFvSldjczNjWEhfMVJGamp1RTNCZ2hYeVdseFJ4UjV4bTgzbUlmeW0yZUdlTUlQVkQ0UGcxclhwcGstM3pyTXlLSmpLSU80V0FTd3VKeEZwTy0wMVZKYU5LeGJVckVyQUgySjRQNUd0R0ExaXRzeHJ2RnVaeWZidDhLbmE5Y1J3RXpXYzJUOGplQ0hrb2lrcC0yUC1UNmJCYWExR1IyM0xHZkJqRWpwMTFlQlBuYi0yVXZHUURSZ0s5V1k1UnNvcDVzaGh5cDV6NFZ2T2ZRN1hQZk95NVNEc3VFemhSSG4wYUVYQXozeGVkWlNqQV80amt1dE1JLVJ1bGV2LWdJSDhXTWRmaDQ?oc=5"
     },
     {
       "id": "b2bf3e0fdbefee6f29",
@@ -379,7 +355,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 19
+      "items": 15
     },
     "direct_media": {
       "ok": true,
