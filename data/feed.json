@@ -1,29 +1,53 @@
 {
-  "generated_at": "2026-08-05T09:07:17+02:00",
+  "generated_at": "2026-08-05T11:46:36+02:00",
   "items": [
     {
-      "id": "c6129bd018b0a72077",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-05T02:53:00+02:00",
-      "source": "ABCNoticias.mx",
-      "title": "Messi dona 80.000 euros para la reconstrucción de zonas afectadas por incendio en Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXZ3N2FGMVhmSFZvVUhRcXFTR0sxcVo5VlIyTnhuNlpRdzhibE1XaTBkN2RLZ2NoZ1dCNUJXTHVGNHY1TkprRGtrd1ZoVVB0N05sWXJyanFnUkliTW83bFRCbklITmU0Vnh3cEc5SUhYWV9YVzhEUFhUYmw5dEtQd2FvMnN1N3g2VHFFalJ5Tmg4bkZldWNkLTR2M3ZPZE0xMVl2ZnJhUTlEaTRpR1hJQm9ybFpFQXJCV0s3VHdqWXJUck5yMUM2bFpCVzE0Nk94OXNJOTFBTQ?oc=5"
-    },
-    {
-      "id": "f1003f356263e5feaf",
+      "id": "887a40bbf6948639d5",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-05T00:08:14+02:00",
+      "published": "2026-08-05T10:45:46+02:00",
       "source": "Diario de Ávila",
       "title": "Sigue en directo la evolución del incendio de Burgohondo (Ávila)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWnVwdDg3T0RNWlNNRDlWVkhTTWFjRFd0UURuNDhwMXlHQ0ZENjhMWGp2QWhROEgtRkZRWDhYeVdNSlVsczBnYVphbTNremgwUEJBNHpIOTNZTEJzdko3eWVQRjlHQ2o3S0R1bHlqdUVtWXo0Zm5rNFM3WnhXcUs1dVljaXpSU0NPVU5QNWMzQk1xbGNrSEQ2YURmZTZKMXZTZ0x4QU4wbENBM3EzOTI0VFRBWlVKZzMxT3V4ckdURTB1eDkyNDlSZzdlNlRYYlRXYVlsaQ?oc=5"
+    },
+    {
+      "id": "22c532db09afeffba4",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-05T10:30:44+02:00",
+      "source": "Europa Press",
+      "title": "La Junta suma 90 localidades de Ávila, León, Segovia y Soria al listado de beneficiarios de ayudas por fuego",
+      "summary": "La Junta de Castilla y León ha ampliado la relación de poblaciones incluidas en el plan de recuperación por...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-suma-90-localidades-avila-leon-segovia-soria-listado-beneficiarios-ayudas-fuego-20260805103044.html"
+    },
+    {
+      "id": "1c8de581ff2e527d5b",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Pelayos de la Presa",
+      "published": "2026-08-05T10:02:13+02:00",
+      "source": "Telemadrid",
+      "title": "El día después del incendio en Pelayos de la Presa: \"Decir a un vecino que ha perdido su casa fue lo más duro de mi vida\"",
+      "summary": "Quince días después de su inicio se da por controlado y en fase de extinción el incendio que ha arrasado la Sierra Oeste. La Comunidad de Madrid...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/El-dia-despues-del-incendio-en-Pelayos-de-la-Presa-Decir-a-un-vecino-que-ha-perdido-su-casa-fue-lo-mas-duro-de-mi-vida-2-2913628609--20260805100156.html"
+    },
+    {
+      "id": "bacb49753e56899cd6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T03:06:00+02:00",
+      "source": "ABCNoticias.mx",
+      "title": "Messi dona 80.000 euros para la reconstrucción de zonas afectadas por incendio en Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXZ3N2FGMVhmSFZvVUhRcXFTR0sxcVo5VlIyTnhuNlpRdzhibE1XaTBkN2RLZ2NoZ1dCNUJXTHVGNHY1TkprRGtrd1ZoVVB0N05sWXJyanFnUkliTW83bFRCbklITmU0Vnh3cEc5SUhYWV9YVzhEUFhUYmw5dEtQd2FvMnN1N3g2VHFFalJ5Tmg4bkZldWNkLTR2M3ZPZE0xMVl2ZnJhUTlEaTRpR1hJQm9ybFpFQXJCV0s3VHdqWXJUck5yMUM2bFpCVzE0Nk94OXNJOTFBTQ?oc=5"
     },
     {
       "id": "44e965751284e6c590",
@@ -36,18 +60,6 @@
       "title": "El incendio de Burgohondo sigue en nivel 2 tras una reproducción",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUlsS3FCVnBZem82RXF2WHBHU0g1MDVReWhqNnFBOHhFM1RwSEZnb0FzcXZTYXpkN251elYwTWZPWWlubGVGeVRuN0FUZWk4NDFSajdmaWpiSklCemxtN0JDaDAyRnJoQ3N0aTJGaWpydFg5LVpOSGJxTDh1M2hfY0pPRFRjVmFzM3l4Slh1bDBYVGNZVzdhOGVHcjhRMDk4VXBpQVRoVXNuZmtzOUVUYmV0N1hRZHVOcnNFNjA3UE0tRUp4bU8wSHV6VmtVYnF3ckM4ZA?oc=5"
-    },
-    {
-      "id": "ab0762a5e8858e9240",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-04T21:47:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Impulso regional a la recuperación de las infraestructuras afectadas por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOE85aFg3NUZteXVfWFBuX3dMRXhLNTV4N1ZONU9wT1FkMmNMMENBRnBEeFRuMjN3M05obTJ4a29xT2l2d1RKcUwxeEVrWi1MZGlQeGZxTmN3TUJPOTFfRkpGcVRVblNfMmxDRU9rdGJCbUJJNy1palp1dDJQcnIzMVBMdVFEMzNYb3pSYUc1YjZwcENaU1ZfOUZWc2NOaVktY2c1ZFcwTlg1NW1zTFJyc1I0UHlnc21weVVYRHlocGlyM1pxcF91dVEzel9YS3ZlNjZsYUV0T0l4SU0?oc=5"
     },
     {
       "id": "a6ca9a7d3cbbc26e27",
@@ -194,13 +206,13 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGY3M1Q4RTBRZTlOaWlDYldNclhTejZlTXFMYTZTT2MxX1dNSGJyOFpBSXZON19JTE5lMWFjelVrX19yb2F5bjREME9FeFBSc05xcUg4eXlrR0FVMlpKekk0c1lMdmtBa3psUk5IVmxPSTBJR2FzNEJ4NVhSTWZJcHBrQV9qQzE1TGtQU2FqWXJjMnVfOFlNd3hTcnk2OUZyY1YwVXJneWdUMGVLU3d0RENSZ1o3UFhLa2hqeTQ3cl9tdFQwVHRoY3lwUG1tXzlkTTZoNk15X1RNUlN4cmdMd3F1djZPTXQyRHfSAeoBQVVfeXFMTVhmNzNUOEUwUWU5TmlpQ2JXTXJYU3o2ZU1xTGE2U09jMV9XTUhicjhaQUl2TjdfSUxOZTFhY3pVa19fcm9heW40RDBPRXhQUnNOcXFIOHl5a0dBVTJaSnpJNHNZTHZrQWt6bFJOSFZsT0kwSUdhczRCeDVYUk1mSXBwa0FfakMxNUxrUFNhallyYzJ1XzhZTXd4U3J5NjlGcmNWMFVyZ3lnVDBlS1N3dERDUmdaN1BYS2toank0N3JfbXRUMFR0aGN5cFBtbV85ZE02aDZNeV9UTVJTeHJnTHdxdXY2T010MkR3?oc=5"
     },
     {
-      "id": "14a176ab17aa111ee0",
+      "id": "465d9e44a925874a53",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-04T18:06:12+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Los incendios de la Sierra Oeste de Madrid ya están controlados y en fase de extinción",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2VRYVpXTlFnaHU0RkhBUnlVT1NScnphT3VjY05HbUhQQVpQcHVkMHRmajZDY1BSLUdERXNFdmhFUk1kaFBGVnBPby1DWVV1YmlWaWFhM2FHbW5vNy1SVEVrbXJXUEVCVTViZ2U2VDZiM1FUSlBzMWIxeG9sUU1pNTltM3hFRDVUbE13aUtOc3J3bzRFd01zdmZZajVCQjVVR3N0T05YTFY5WFFkNXljRF9B?oc=5"
@@ -216,18 +228,6 @@
       "title": "El lado más solidario de Leo Messi: dona 80.000 euros para la reconstrucción de la Sierra Oeste tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSFNlbVZKSThEdDI0eXgzOGgyemNVWGRyQ0xxWTNveUMtemdNc0lFSklQdC1nYmFtMW9pTkpLdUVJSHE4NGlSOXNOb1FEcUtCc1FnbFgxaEFCQTI5LWZxU0Y5Q25ZOGViZnVpWHY0XzhqUGVjZDdUeHpPSHJDQWlTSmxqbHVQand5cExfeE5UNF8teGp3TzZxUFRuZW40SmhMWjJXaFZEZUR2MnFPdjQ5UWVEa0xJOTQ1STRxMVpwWnF6M1J1UDNkS3d1TkFVRXRwZzAwX3k2SmZOOTZaRUtPckNpM3BvdVRCdEl6aUVIMDJsUlNi0gH0AUFVX3lxTE9IU2VtVkpJOER0MjR5eDM4aDJ6Y1VYZHJDTHFZM295Qy16Z01zSUVKSVB0LWdiYW0xb2lOSkt1RUlIcTg0aVI5c05vUURxS0JzUWdsWDFoQUJBMjktZnFTRjlDblk4ZWJmdWlYdjRfOGpQZWNkN1R4ek9IckNBaVNKbGpsdVBqd3lwTF94TlQ0Xy14andPNnFQVG5lbjRKaExaMldoVkRlRHYycU92NDlRZURrTEk5NDVJNHExWnBacXozUnVQM2RLd3VOQVVFdHBnMDBfeTZKZk45NlpFS09yQ2kzcG91VEJ0SXppRUgwMmxSU2I?oc=5"
-    },
-    {
-      "id": "8bec5582016feeac05",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T15:59:33+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "Madrid agradece a Messi la donación de 80.000 euros para ayudar en los incendios de la sierra",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSSjFUbjRSX24zTXdKdlMwclBXUWlEb09FejA0dll0bE1uTDBJbS1XdkVjX2RQUi1JbGVSeWdqZVVMZjN6X2FxWUI5WDlsaXAyeC1xTVRYd3AwX1A1TTM5WHJieUtaZVZrWk1QR01XZ0xLVFFOcUZV?oc=5"
     },
     {
       "id": "4e3700cf6675ed70f9",
@@ -326,13 +326,13 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTBvaGZWMDJZMk5ULUtWTjVWMzB6UEYtb1I4emczQ3l1bTUtZDZ4Tm1BT2g3RWpJbjFQOU9iMXo4azlMeTZpeVhNaElPX3VQc3RSY01BWDlUajlCZU5iczV2QnlxOENFVGlKX2pTaGxnUXlwcENCUHlXTXpGYnd6MXR1MHY1MGlybnRhRVZyWG41SlotRXJVOGxxYVRuVm1zcnFWdFVud1MwbG9KMkJrTEdNbkRZd2ZES19XLTg0Vlp5ZVh3MDJFakFYMjU?oc=5"
     },
     {
-      "id": "3d37811df264859a66",
+      "id": "de39f6c0c51055c633",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-04T13:47:54+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFJFX1ZnVkVkSmxlMlNRNmxRcndlNzhNQ09ObXV2VWdWc25BMFdSUk1qMHBEVmgtS0k0VlZvQi00VmJEeXdLOXdpMDZpX1hSSHI4NUNfT2NyOFFhQXBkcmczSVFJa0QwZVZBSmFBU19WRGNNQ2FEQlNRRGpiUWFJZFNQdWJjWWkycXF2UXhaZVB4eF8yUFRvNERwemQ0WjllMU4xV1NRTy1wdw?oc=5"
@@ -515,7 +515,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 7
+      "items": 8
     }
   },
   "refresh_seconds": 300
