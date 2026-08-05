@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-05T17:38:41+02:00",
+  "generated_at": "2026-08-05T19:09:30+02:00",
   "items": [
+    {
+      "id": "22d0c69dc6d9c36dca",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T18:47:38+02:00",
+      "source": "Europa Press",
+      "title": "La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdVhERjQwSGZCeGRtVk9ENWJ4T3JrMm8xTDk4NDkzTlJoUDR6QnAwMkpSb2dRX0dIX3Zud3NGLW1pSVdPYnNLMnBLMTl4ZDg2aHE2VzE1MnBzMUluT0FqX2E4TU92dDdIS1hOeHhzWFdvbm1NdHVXMGxqaFRrVFpRTW5ReEhobWUwR3lKMl9VNVBILXNETWpiNjduQkZMU1ljNEs4Q1UtZnhsYy0xXzNJdS1PRmFRN28xbXdzNXFaUlhZczdMeHNra2VraGFKNlR0Y01xT1FhSU9BTW8?oc=5"
+    },
     {
       "id": "3d2879df8f8798a13a",
       "type": "news",
@@ -12,6 +24,18 @@
       "title": "Confederación del Tajo levanta la alerta en seis presas tras los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVmNPRHBuZW50WWZaY0ZMTnZaM181cnhWU0FORTBqUUppZFJQRHU4UURQM1ItVzRXZVNnalFxR1JuSW9kU3JzWWR1aHdrSnpSSFpfVlpwVGRqNGY1YTBhQlEwZzQ1MC1wVHVYWVFGbUl0RS1hc1JyLW1EeUZjbzdMNGJ2eElwUUVTb2J1QUpNTklhWC1zSE5oTmMwUUNFRFdydUd0aXZCRk9Yc2RQMUxHRXdCR2M0M3RqbkhENDZ4M1lnTlp1N1dva2VDRGg1OG9rUXpvY3BvUQ?oc=5"
+    },
+    {
+      "id": "97e8e881e3daf4a3ac",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T17:00:15+02:00",
+      "source": "ABC",
+      "title": "Madrid limita la caza en los cotos arrasados por el incendio para recuperar especies",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVZtOXNDVl9ubW40TFliVDhSOXZIaTFMOHBqSmJXWGpsUTdMUjdZR0lpdUZHUEJncWxPOXE5M0pST0tMWUxWaTFGdUdVT3lwZVVYcHFkaWN2RDBHZ3RoaWNiZk1UZTFRUk5ZbXNrcktCQVhBRVo1aF9BaUdkeWIzLXB0N2VnT2Iya1l2emZXQzVXY0Rvd05zb3V1ekwzVDdhNi1vTWZSb0VpUlNkMEE?oc=5"
     },
     {
       "id": "f8e053db56916caebf",
@@ -38,16 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2ppTE42c3JmUG00Tk9JOE10ckw3RVBuRjRKSWhfa3VFMEZBQkUyOF8wOGxOUmVOSENkVGtha2JIVF9xRmhKUUxmMllMaURhMHpVTEMteTFyRnRmZFEtVEpWUFFjMExaWGFLZXBRcjZrSWxUN19VaWZfT0pYREpjTzNHM0J4Q0hsLVFWNS1pOUEzTkVTbUJlT3RSMENjZkVhaFF1QUZseWFoYzRWeEZJUWhKUU53RDdzWHdwbzNmLWRndzIxWXlodEZ1UDBoMFIyZWlEclJ3?oc=5"
     },
     {
-      "id": "bbb58a1b91aea8e661",
+      "id": "ff9fe83948a733b033",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-05T14:51:23+02:00",
-      "source": "telemadrid.es",
-      "title": "\"Es un patrimonio de todos\", Ayuso se reúne con los alcaldes de los municipios afectados por el incendio de la Sierra Oeste",
+      "source": "Telemadrid",
+      "title": "Ayuso se reúne con los alcaldes de los municipios afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEZzMW8xdUNodVUtQ0g1YTNtb2Y2NTl1V1diWW1vMzVTcU92bzh1YXFmOVRBYXRnUXZuZVlFc2gyMTlNNFVUdzYzOGxUVmZ0S0ZNdkdhYWFXN08yLUJtMkZrOVBOMVJ5S0dnLTBOMXFOVkYxa1RIWVVCdW9oZ0g4SzVhMlB3M0tFbUNnZmlxZHlra21mbTRtNmhWVmQzd2FmUlhrVFFPR3Zid2JSa05DbG8teUNIWlBGX3AzQy0wVDhaOVdBSUxybzFLNDVjM1E3Q3BIcTR6WnVienpUTWFQUHNKLTNJaVFMY1FOVDBPRVF5SW5XVTdZOEhBeXQ0UjAwYU9TOWl1LVVqTTc3UDNGMWVoVkJEWHIyYlBkVEhIRnJuNWxRclU5WTlOajFEZ9IBswJBVV95cUxQUU5QMTNtWDN1NG90S0pBYXUwMlUyUzh4VkNXLUFGX2wwWHB6MTA1NFR5UDJ6SmlmVXZDSXpXYnk2ODBpd1FLVk0wZi1lVGgwTkx4MTFZOFBRNXVrMnAzY0FlblVrRkNSRGRtS1JvcmpqcXRfNk5HYllLSzBqMk5UME5odEw0elV6bEVzUnVpcDdCZEw4N0tONWxfUFBLQzhjb3hCOF80cjRKNzI3YW5lV21lN1dERDZnTzJuWTVrZFBJNFIzemV4TWdHMVlNaWx6MUQ4bnJlRWtXV1J6QWh1S29ldGR4dTdWRmJjcy1ISVBtRXd5LXdWNU9vYm9xOWk1aWt4UFVDcnBhbnRmRl9xcGZQc2h2aGdtNzhUR0llRkZIbGo5Nzk5RUZHU3JaVGJ6ZHZV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZkt2cnhmZkZ4NGhaQnBuNnRsYllLUEpSMFlTUFdZYlE2VmRxN0ZRLWtrdmJmYTByUThjX09ja1B6MUFzS1ZkRGZEYms1bnZFQW5KV01UdXJ5WHFBS25MSnNqUVhtelpNTjIyd19MZjNJdGNuYUxaYkxYSXh4a0swQkNMekEyTGg0VHIxOGc5RmhURHBKN0I2bFFDU1VMWnA0d3NxMjV5VV9LemJoeWJQb3NSa3hyMGdVa2JqOXhGS08wNV9oS0NpemViSVQ4aWY2T2JJa2FqWGViZ25hcGgzRVQ1S3BsQ21iR2IxeEFCODlmYkpWV2thZ3pBeE5UdHdHalI2Uk1xT2JYRlpLcVVmRdIBkAJBVV95cUxPZkt2cnhmZkZ4NGhaQnBuNnRsYllLUEpSMFlTUFdZYlE2VmRxN0ZRLWtrdmJmYTByUThjX09ja1B6MUFzS1ZkRGZEYms1bnZFQW5KV01UdXJ5WHFBS25MSnNqUVhtelpNTjIyd19MZjNJdGNuYUxaYkxYSXh4a0swQkNMekEyTGg0VHIxOGc5RmhURHBKN0I2bFFDU1VMWnA0d3NxMjV5VV9LemJoeWJQb3NSa3hyMGdVa2JqOXhGS08wNV9oS0NpemViSVQ4aWY2T2JJa2FqWGViZ25hcGgzRVQ1S3BsQ21iR2IxeEFCODlmYkpWV2thZ3pBeE5UdHdHalI2Uk1xT2JYRlpLcVVmRQ?oc=5"
     },
     {
       "id": "99cb3bd3271e571750",
@@ -74,18 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlZNSWJuVFExQXVIb0VzVVk1dy1veS1NS1dVc0g0T2RRVFVNbVVRZEtNZndBakFHNlg2WkJjcnU3QzJmMmY2SnNFbkVtSTJlbmZTUkh3U2l0QWdueHRLdFYySXJsWE1hYkhjbTJRd0NDX0hha3JEeEV1M3hYWkMzZ1ItbTNYZHJ1eF9FbzZ2V0hSNG9COGVoS1kwcjVVSmRkN1FwN2tWTFEwLXNjRTVpQzlsdjFXMlJMT2JRd2FoSkM5OHhac1dSR0xvOEpvUGNnNWlVczZqcXZ6RUhoc19veUNn?oc=5"
     },
     {
-      "id": "e7c5fe96aabbd57e12",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-05T13:00:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Madrid limita la caza en 75 cotos para recuperar especies tras incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdk5aUXl1SWlfdmZYcy1uekJfZG8ySms0RktxTk1sY21pYW9IMUxTaFNnMVRPbW1lRkVmTDB5azhrVUxXcDhwMHAxc09NZW1iYUc3UmhLb1R1S3JKbUd1N1FLZi01cXFFVjdxbHZLRno3ZW1TZGQ1V1AwblY2ZC1NNzU4b0dnWDc3ZXl3bGR2aThHVDRuVkNGa25SbWdpdncxU2ZKUXMxRkl6UHljSW5JZnRxOTJGQUh0eU5sc19tcXZKYWlK?oc=5"
-    },
-    {
       "id": "22c532db09afeffba4",
       "type": "news",
       "severity": "info",
@@ -98,25 +110,25 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-suma-90-localidades-avila-leon-segovia-soria-listado-beneficiarios-ayudas-fuego-20260805103044.html"
     },
     {
-      "id": "dc635ed402c8942f6b",
+      "id": "fdd068a2d442396f1d",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Pelayos de la Presa",
       "published": "2026-08-05T10:01:56+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "El día después del incendio en Pelayos de la Presa: \"Decir a un vecino que ha perdido su casa fue lo más duro de mi vida\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPcjZrc1JaeEdvMEdqOXZOZHA5Q3k2cFFoY1dzVk56aUJvZHQtYkRZMndaTjNFSmxlR0pJTzZIQ0J0TlNzYS03NERZZ3l6bUU0Z0dXeXdXWTVIaDk3ZjlyVDZJdXZCZjdITUtfLV92bkpkbVZJOUZKeXdFa2pBN1pVYXVZUHNMQzRHYmZQUDN1QXpCNFBLTGtKc2FFaXp3eEY1Nmw1WWc5a0YySkdIVVAzVDAtbGZHN3NFZ3d4WjBOemVEQzBjVnNsNUQ0NGN2dGJVOTkwNlNrTnF5cGdtTW56clpFcmhZT2VwQ1FoVXVvRnF3RHRhdjBKZWhOVlV4TW1qRjVMWGUxNEdlV3hGVGNQZlNTekdFMmxITXJ2YnItTm1HSUNSUmtKNGJJNFZsTUxp0gG2AkFVX3lxTE0xQjhOMDQwR0lVRVhDNjBlWHNsSml3R1FqWk5nT01MU1FrZ3hLMWlPYU5mTEVfdWZia0VTSzlobmJsYmdGcWVmMWZlMkoyZ1NzdTR0enM4NGRoOEtzcG5zcUVCRFVrclJTbkoweE1OTlV3TE1UVzRBM1BSVVZjM2lNMVFPUW1GRV90NnVfdkNHRTVfaU02YTlOSS0zemgxZ2owWkp3WUVPMlFwU2dXMk00LWNVQUVkNXdEYzZKbGhxcmhJbTZ1c0VVQVZzYmgwVUR1QkI1S3lQc0l5bWZhdTBicGtZa21sa0daRGl4THNHN3hTRWh1Zzg0LV9MSWc3VC1lZnJaV2FwMUVOY050OWM0ZTh3aU8tLVdfTlRjRmUyU0owZnlpOXlhYk1JV2pRMlJtenlEckE?oc=5"
     },
     {
-      "id": "0e6dd06bba24f5203e",
+      "id": "bacb49753e56899cd6",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-05T03:06:00+02:00",
-      "source": "abcnoticias.mx",
+      "source": "ABCNoticias.mx",
       "title": "Messi dona 80.000 euros para la reconstrucción de zonas afectadas por incendio en Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXZ3N2FGMVhmSFZvVUhRcXFTR0sxcVo5VlIyTnhuNlpRdzhibE1XaTBkN2RLZ2NoZ1dCNUJXTHVGNHY1TkprRGtrd1ZoVVB0N05sWXJyanFnUkliTW83bFRCbklITmU0Vnh3cEc5SUhYWV9YVzhEUFhUYmw5dEtQd2FvMnN1N3g2VHFFalJ5Tmg4bkZldWNkLTR2M3ZPZE0xMVl2ZnJhUTlEaTRpR1hJQm9ybFpFQXJCV0s3VHdqWXJUck5yMUM2bFpCVzE0Nk94OXNJOTFBTQ?oc=5"
@@ -206,88 +218,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXhBQWJzLTJJcTVTZklmbkRkVmR6cTNMM0JCNS1nN2tSdXlkQTNqQVBDLW1MQ2lxX2hZUlBUeXlRanJjbDNrWk9CdFUxTFdLZWZFdzNobks2UGczWDRGdGt5U3Y3ZkhpUlB3dExKUEl4NXlzQTZMUUtvek9CeEw0TElZUGUtUmRBOFZtZk9UaGRDY1JpWFp2R0tLOFVRRzdZbFBwMUVjUFF6dGViRzJIRUxLc1FRYl81UHdmOXoyYmJ1UHM?oc=5"
     },
     {
-      "id": "1be4f1d0001ddaaac2",
+      "id": "1b4441bfd2655c3f1f",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-08-04T19:22:00+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "El incendio de Burgohondo (Ávila) seguirá activo al menos un mes más",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOHp3ekphZWxVdFZlbU1UNVlLNWRnRHlCeENwUDhicXM5Y21KemcxY3A0X3BDdGtSa3JkcHlsVGJDOWVmMG5TUE93N2JwRXU1N2RFU1JLbWNBTkxFWlQtZTN3ZXFZUDhvNlAwQ3dKY3JaaGZKbmlYa3NwQm5sSFlDZWw4NllWQVVYSTNZbjBHeHdIV1NaTFVmY3VKOHdxbU45dHl3VnczcFlQTWxCb2V0RWdZWVdQUGl2U2lrei1wSkZoaVlJU21uMlNYX1JocURpOVU1Qm5aWVVzSGtN0gHiAUFVX3lxTE5ZVmE4dTY5Z3BIMjh4QllnR0xTQjhiN21WNlNoVDdYNzAyQmE3ZDdpb1JrTzhoTkRrSy1nLWxEU1pZT2wxLWRFRXRWSXdTalVURnNGbGZQMkJONm1qajEycHlSMjRQaURtNjBhZXBQRkRpd29XbjRNWmRtb2dmUGRweTBEX2dZMGY0WkFJMzlkZTBKbWVxUTlNbjk3MkFxMEJrZk5KaTlVdnFybV9LeHhnWHRZbFpjWW1TaUVyVkdzNk1GMjNaamlLNDBlLXM0ZnRJWXd2REpIckhjSldtRUNJeHc?oc=5"
-    },
-    {
-      "id": "71d9e26f943dd184c2",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-04T18:55:49+02:00",
-      "source": "RTVE.es",
-      "title": "Controlados los incendios en la Sierra Oeste de Madrid y Ávila con todos los vecinos desalojados ya en sus casas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW5GN3VGTTRFRmwzbzNFb2FlV2JqS3JtbHNxRkUzWDBrRW5vWW5kY3d4THcybFREejd2Mzc2VjR4RjE3WEJ4N0ZZVVl4ZWdPT1ZoVlJiRHV1dXg4R3VKTFBLZVJEeEhQZWJ6ci1MT1JlYTJld1FpZFpzeFZ3YmJrZ0lmMVlxWEVpXzFYTVQ1RlpzeXJ4ZGtNRlBmOW12NEU5dnc5MU1DRkJXSGdqenlGU3JRa28?oc=5"
-    },
-    {
-      "id": "14805e97160bcb3809",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T18:39:24+02:00",
-      "source": "Madrid Actual",
-      "title": "Incendio Sierra Oeste controlado: Infoma rebaja a nivel 0",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUlsTXdWcHdEQzJQeldrZHpzNDIxRzRnNGpYM2FaRkZzUm1sM0ZyTkxzVFNBWmM1TFVhYUR6cDBBbkxmX0RIYy1pVk1yNWEwV3BHelpYb2hfZ09VV05NdTl6Y2pEYzNRTjc1anNLYnVTNFFMYm9TWExXYmV3ZUt1bUxFQTZJMWRScGQ3NnFyRC1xU01uNEFsdUl5MHdwbEFyR2x3Wm96UFViVVZhQmVYeEdJQ3l2NFFUbmxWLUFidDl0WlJqUjdvbWhWNnU?oc=5"
-    },
-    {
-      "id": "d58ac3f493e9b7e9f5",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T18:22:06+02:00",
-      "source": "EFEverde",
-      "title": "La Comunidad de Madrid da por controlados y en fase de extinción los incendios de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXF0RHRFTDBacjNzWFRiRTZxelBLelRHeFV5X3cyQjZfYTExQXo2UlhPVHd6VkpzSzc4a3VOUjZUSEVyQVg1M0o4anBsQUlJMkJkVElwb19peE85Zk52VFE5cHc0YjJ3LXpwV2c4MFNZa0JicVZmV1NSRG1OY2ZSN0ZqZzJvWS05a0s5ekJuVEgzclU?oc=5"
-    },
-    {
-      "id": "0419e9023f78d90158",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T18:06:27+02:00",
-      "source": "telemadrid.es",
-      "title": "Controlado el incendio de la Sierra Oeste de Madrid, que baja a nivel 0",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXNCUTR3WmlSVzV0Z0hxS2VHNC1iRE45aEVuRU9EbEt2Z0JXV0RaNHFvQ3dBc2Q1dzkwdnF1UEt4cXRoSnR5VWJsY0EydFZxcENYdkF5a2FlNmczcmx1b0pTSmtxZlpQRU5rMnNPTHNQS1I5Q1FLcW1VaUFNV2JFbUxrY2xmakhjRExXSWtuNEZ4LWFCRVB6T0V4SFNtQk1WaXhhSjFJblBKem1DRFRsWE80eWdldXpndEdyX3NLRlMzTk05bnRqQk4wR0VqNlloMlV6UjNnNGIyckxoWkZZ0gHkAUFVX3lxTE9iV19LSmdPZm5QWFVVZDF5S29mS1Bmc2pXY2tyZFVvVkY4NDF4b3BTU3p1SmY0M0pHZVBLTF9KQWh1RHpGMzNrZnRCb2IzbkZZd1J5SG1yMEozM3dxa3pYb0pRQldRdEV3VTVjRW1aaDlZaVB6NUU4cG9OSURROVk4RkV6VTNCTjVuclk1Y01oTEhQR0xPMF9odmt3RUtGazY1dkNwakVBdHpuNmlJZ2hJQlVrVWVlWnZGRmRMZEQtYkl1eFAyMExrdEt0b3Nsd2R2dWxja1RBTFNZOGJSX3lGTVhnTg?oc=5"
-    },
-    {
-      "id": "5292036c4d5eef412c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T18:06:27+02:00",
-      "source": "telemadrid.es",
-      "title": "Controlado y en fase de extinción el incendio de la Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGY3M1Q4RTBRZTlOaWlDYldNclhTejZlTXFMYTZTT2MxX1dNSGJyOFpBSXZON19JTE5lMWFjelVrX19yb2F5bjREME9FeFBSc05xcUg4eXlrR0FVMlpKekk0c1lMdmtBa3psUk5IVmxPSTBJR2FzNEJ4NVhSTWZJcHBrQV9qQzE1TGtQU2FqWXJjMnVfOFlNd3hTcnk2OUZyY1YwVXJneWdUMGVLU3d0RENSZ1o3UFhLa2hqeTQ3cl9tdFQwVHRoY3lwUG1tXzlkTTZoNk15X1RNUlN4cmdMd3F1djZPTXQyRHfSAeoBQVVfeXFMTVhmNzNUOEUwUWU5TmlpQ2JXTXJYU3o2ZU1xTGE2U09jMV9XTUhicjhaQUl2TjdfSUxOZTFhY3pVa19fcm9heW40RDBPRXhQUnNOcXFIOHl5a0dBVTJaSnpJNHNZTHZrQWt6bFJOSFZsT0kwSUdhczRCeDVYUk1mSXBwa0FfakMxNUxrUFNhallyYzJ1XzhZTXd4U3J5NjlGcmNWMFVyZ3lnVDBlS1N3dERDUmdaN1BYS2toank0N3JfbXRUMFR0aGN5cFBtbV85ZE02aDZNeV9UTVJTeHJnTHdxdXY2T010MkR3?oc=5"
-    },
-    {
-      "id": "465d9e44a925874a53",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T18:06:12+02:00",
-      "source": "ABC",
-      "title": "Los incendios de la Sierra Oeste de Madrid ya están controlados y en fase de extinción",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2VRYVpXTlFnaHU0RkhBUnlVT1NScnphT3VjY05HbUhQQVpQcHVkMHRmajZDY1BSLUdERXNFdmhFUk1kaFBGVnBPby1DWVV1YmlWaWFhM2FHbW5vNy1SVEVrbXJXUEVCVTViZ2U2VDZiM1FUSlBzMWIxeG9sUU1pNTltM3hFRDVUbE13aUtOc3J3bzRFd01zdmZZajVCQjVVR3N0T05YTFY5WFFkNXljRF9B?oc=5"
     },
     {
       "id": "078de9c8ff1636920d",
@@ -427,7 +367,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 26
+      "items": 22
     },
     "direct_media": {
       "ok": true,
