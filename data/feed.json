@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-05T11:46:36+02:00",
+  "generated_at": "2026-08-05T13:47:21+02:00",
   "items": [
     {
-      "id": "887a40bbf6948639d5",
+      "id": "648c18475a4c0a090d",
       "type": "news",
       "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-05T10:45:46+02:00",
-      "source": "Diario de Ávila",
-      "title": "Sigue en directo la evolución del incendio de Burgohondo (Ávila)",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T13:21:45+02:00",
+      "source": "Europa Press",
+      "title": "Autorizada la retirada urgente de madera quemada en la Sierra Oeste y Lozoyuela para evitar plagas tras los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWnVwdDg3T0RNWlNNRDlWVkhTTWFjRFd0UURuNDhwMXlHQ0ZENjhMWGp2QWhROEgtRkZRWDhYeVdNSlVsczBnYVphbTNremgwUEJBNHpIOTNZTEJzdko3eWVQRjlHQ2o3S0R1bHlqdUVtWXo0Zm5rNFM3WnhXcUs1dVljaXpSU0NPVU5QNWMzQk1xbGNrSEQ2YURmZTZKMXZTZ0x4QU4wbENBM3EzOTI0VFRBWlVKZzMxT3V4ckdURTB1eDkyNDlSZzdlNlRYYlRXYVlsaQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzFIblk5aHBTRGxJLXA1cEhZQUliUmU0S3dkMEJLemlqeUxxZFhyWU0xOS1yLTFnZ3Z3dXY0ZlZTemlXTWxzb05YaWoxTy1CemRjekVWWmJoaW9YZ1AxTDZTLUR0TW9aNG5XQ2lfZ1JRV3FkdFc5Q2w2Z0NwaFc1TFR3UEpmNlRZalZkTmpKeW82dndTcnlza045SURNckY0S0NqN0h2dUhia3c4MG1XcnoxWVEtUU5TaXVKSEVvTXJBaTVHdGdwc0FxRTFHMjRValJyV2c3dGgtbzJVTzNMSm83eUNDUQ?oc=5"
+    },
+    {
+      "id": "e7c5fe96aabbd57e12",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T13:00:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid limita la caza en 75 cotos para recuperar especies tras incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdk5aUXl1SWlfdmZYcy1uekJfZG8ySms0RktxTk1sY21pYW9IMUxTaFNnMVRPbW1lRkVmTDB5azhrVUxXcDhwMHAxc09NZW1iYUc3UmhLb1R1S3JKbUd1N1FLZi01cXFFVjdxbHZLRno3ZW1TZGQ1V1AwblY2ZC1NNzU4b0dnWDc3ZXl3bGR2aThHVDRuVkNGa25SbWdpdncxU2ZKUXMxRkl6UHljSW5JZnRxOTJGQUh0eU5sc19tcXZKYWlK?oc=5"
     },
     {
       "id": "22c532db09afeffba4",
@@ -22,20 +34,8 @@
       "published": "2026-08-05T10:30:44+02:00",
       "source": "Europa Press",
       "title": "La Junta suma 90 localidades de Ávila, León, Segovia y Soria al listado de beneficiarios de ayudas por fuego",
-      "summary": "La Junta de Castilla y León ha ampliado la relación de poblaciones incluidas en el plan de recuperación por...",
+      "summary": "La Junta de Castilla y León ha ampliado la relación de poblaciones incluidas en el plan de...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-suma-90-localidades-avila-leon-segovia-soria-listado-beneficiarios-ayudas-fuego-20260805103044.html"
-    },
-    {
-      "id": "1c8de581ff2e527d5b",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Pelayos de la Presa",
-      "published": "2026-08-05T10:02:13+02:00",
-      "source": "Telemadrid",
-      "title": "El día después del incendio en Pelayos de la Presa: \"Decir a un vecino que ha perdido su casa fue lo más duro de mi vida\"",
-      "summary": "Quince días después de su inicio se da por controlado y en fase de extinción el incendio que ha arrasado la Sierra Oeste. La Comunidad de Madrid...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/El-dia-despues-del-incendio-en-Pelayos-de-la-Presa-Decir-a-un-vecino-que-ha-perdido-su-casa-fue-lo-mas-duro-de-mi-vida-2-2913628609--20260805100156.html"
     },
     {
       "id": "bacb49753e56899cd6",
@@ -48,18 +48,6 @@
       "title": "Messi dona 80.000 euros para la reconstrucción de zonas afectadas por incendio en Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXZ3N2FGMVhmSFZvVUhRcXFTR0sxcVo5VlIyTnhuNlpRdzhibE1XaTBkN2RLZ2NoZ1dCNUJXTHVGNHY1TkprRGtrd1ZoVVB0N05sWXJyanFnUkliTW83bFRCbklITmU0Vnh3cEc5SUhYWV9YVzhEUFhUYmw5dEtQd2FvMnN1N3g2VHFFalJ5Tmg4bkZldWNkLTR2M3ZPZE0xMVl2ZnJhUTlEaTRpR1hJQm9ybFpFQXJCV0s3VHdqWXJUck5yMUM2bFpCVzE0Nk94OXNJOTFBTQ?oc=5"
-    },
-    {
-      "id": "44e965751284e6c590",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-04T21:59:14+02:00",
-      "source": "Diario de Ávila",
-      "title": "El incendio de Burgohondo sigue en nivel 2 tras una reproducción",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUlsS3FCVnBZem82RXF2WHBHU0g1MDVReWhqNnFBOHhFM1RwSEZnb0FzcXZTYXpkN251elYwTWZPWWlubGVGeVRuN0FUZWk4NDFSajdmaWpiSklCemxtN0JDaDAyRnJoQ3N0aTJGaWpydFg5LVpOSGJxTDh1M2hfY0pPRFRjVmFzM3l4Slh1bDBYVGNZVzdhOGVHcjhRMDk4VXBpQVRoVXNuZmtzOUVUYmV0N1hRZHVOcnNFNjA3UE0tRUp4bU8wSHV6VmtVYnF3ckM4ZA?oc=5"
     },
     {
       "id": "a6ca9a7d3cbbc26e27",
@@ -143,7 +131,7 @@
       "source": "Telemadrid",
       "title": "El incendio de Burgohondo (Ávila) seguirá activo al menos un mes más",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWVZhOHU2OWdwSDI4eEJZZ0dMU0I4YjdtVjZTaFQ3WDcwMkJhN2Q3aW9Sa084aE5Ea0stZy1sRFNaWU9sMS1kRUV0Vkl3U2pVVEZzRmxmUDJCTjZtamoxMnB5UjI0UGlEbTYwYWVwUEZEaXdvV240TVpkbW9nZlBkcHkwRF9nWTBmNFpBSTM5ZGUwSm1lcVE5TW45NzJBcTBCa2ZOSmk5VXZxcm1fS3h4Z1h0WWxaY1ltU2lFclZHczZNRjIzWmppSzQwZS1zNGZ0SVl3dkRKSHJIY0pXbUVDSXh30gHiAUFVX3lxTE5ZVmE4dTY5Z3BIMjh4QllnR0xTQjhiN21WNlNoVDdYNzAyQmE3ZDdpb1JrTzhoTkRrSy1nLWxEU1pZT2wxLWRFRXRWSXdTalVURnNGbGZQMkJONm1qajEycHlSMjRQaURtNjBhZXBQRkRpd29XbjRNWmRtb2dmUGRweTBEX2dZMGY0WkFJMzlkZTBKbWVxUTlNbjk3MkFxMEJrZk5KaTlVdnFybV9LeHhnWHRZbFpjWW1TaUVyVkdzNk1GMjNaamlLNDBlLXM0ZnRJWXd2REpIckhjSldtRUNJeHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOHp3ekphZWxVdFZlbU1UNVlLNWRnRHlCeENwUDhicXM5Y21KemcxY3A0X3BDdGtSa3JkcHlsVGJDOWVmMG5TUE93N2JwRXU1N2RFU1JLbWNBTkxFWlQtZTN3ZXFZUDhvNlAwQ3dKY3JaaGZKbmlYa3NwQm5sSFlDZWw4NllWQVVYSTNZbjBHeHdIV1NaTFVmY3VKOHdxbU45dHl3VnczcFlQTWxCb2V0RWdZWVdQUGl2U2lrei1wSkZoaVlJU21uMlNYX1JocURpOVU1Qm5aWVVzSGtN0gHiAUFVX3lxTE5ZVmE4dTY5Z3BIMjh4QllnR0xTQjhiN21WNlNoVDdYNzAyQmE3ZDdpb1JrTzhoTkRrSy1nLWxEU1pZT2wxLWRFRXRWSXdTalVURnNGbGZQMkJONm1qajEycHlSMjRQaURtNjBhZXBQRkRpd29XbjRNWmRtb2dmUGRweTBEX2dZMGY0WkFJMzlkZTBKbWVxUTlNbjk3MkFxMEJrZk5KaTlVdnFybV9LeHhnWHRZbFpjWW1TaUVyVkdzNk1GMjNaamlLNDBlLXM0ZnRJWXd2REpIckhjSldtRUNJeHc?oc=5"
     },
     {
       "id": "71d9e26f943dd184c2",
@@ -338,30 +326,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFJFX1ZnVkVkSmxlMlNRNmxRcndlNzhNQ09ObXV2VWdWc25BMFdSUk1qMHBEVmgtS0k0VlZvQi00VmJEeXdLOXdpMDZpX1hSSHI4NUNfT2NyOFFhQXBkcmczSVFJa0QwZVZBSmFBU19WRGNNQ2FEQlNRRGpiUWFJZFNQdWJjWWkycXF2UXhaZVB4eF8yUFRvNERwemQ0WjllMU4xV1NRTy1wdw?oc=5"
     },
     {
-      "id": "0d0994d4e578ccab88",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T13:23:42+02:00",
-      "source": "Europa Press",
-      "title": "Los afectados por el incendio de la Sierra Oeste podrán matricularse en septiembre en FP y Escuelas de Idiomas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVFPaUliSEJrQU1hcjlvQlJMYkZWMnBwRmlUQW8tQmRDRUFES19vWkNZQ0w2SjU5UUtKX2dvQlc2bmM2QlNkLTJtcTd3SERsY2pKWXZIejRHeDVUM0tJbVRFSDl0SFZSTTZ3ZnhMQmwzYjVfTWI2bjRmTmNhaVpSekktU1A1SVZoVkROZ3I3dENDd09lU0pjeFpaVXhROVZmUHIyaG5kUXJ1bjhUb3N0cXAwV0g2UnRhM2tDRW5iaWx6VmlRLVI1bG9wMEZ4SnlCREhIWDZzUHFtalNW?oc=5"
-    },
-    {
-      "id": "8ad5cea65f72fef78c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-04T11:33:11+02:00",
-      "source": "Europa Press",
-      "title": "Sanchidrían se compromete en Ávila a recuperar \"cuanto antes\" infraestructuras dañadas por el fuego",
-      "summary": "La consejera de Movilidad, Transformación Digital e Inteligencia Artificial de la Junta de Castilla y...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-sanchidrian-compromete-avila-recuperar-cuanto-antes-infraestructuras-danadas-fuego-20260804113311.html"
-    },
-    {
       "id": "84667abd38b53f9186",
       "type": "news",
       "severity": "info",
@@ -384,18 +348,6 @@
       "title": "El paro aumenta un 1,42% en julio en la Comunidad de Madrid, hasta los 273.631 desempleados",
       "summary": "El número de parados registrados en las oficinas de los servicios públicos de empleo (antiguo Inem) en la...",
       "url": "https://www.europapress.es/madrid/noticia-paro-aumenta-142-julio-comunidad-madrid-273631-desempleados-20260804090152.html"
-    },
-    {
-      "id": "2e0edfc513126fc5be",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-03T14:57:07+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad presta más de 72 atenciones jurídicas gratuitas a los afectados por los incendios de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid ha prestado 72 atenciones jurídicas gratuitas a los afectados por los incendios de...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-presta-mas-72-atenciones-juridicas-gratuitas-afectados-incendios-sierra-oeste-20260803145707.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -511,11 +463,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 33
+      "items": 29
     },
     "direct_media": {
       "ok": true,
-      "items": 8
+      "items": 5
     }
   },
   "refresh_seconds": 300
