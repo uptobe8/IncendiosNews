@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-05T03:01:28+02:00",
+  "generated_at": "2026-08-05T06:20:20+02:00",
   "items": [
+    {
+      "id": "c6129bd018b0a72077",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T02:53:00+02:00",
+      "source": "ABCNoticias.mx",
+      "title": "Messi dona 80.000 euros para la reconstrucción de zonas afectadas por incendio en Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXZ3N2FGMVhmSFZvVUhRcXFTR0sxcVo5VlIyTnhuNlpRdzhibE1XaTBkN2RLZ2NoZ1dCNUJXTHVGNHY1TkprRGtrd1ZoVVB0N05sWXJyanFnUkliTW83bFRCbklITmU0Vnh3cEc5SUhYWV9YVzhEUFhUYmw5dEtQd2FvMnN1N3g2VHFFalJ5Tmg4bkZldWNkLTR2M3ZPZE0xMVl2ZnJhUTlEaTRpR1hJQm9ybFpFQXJCV0s3VHdqWXJUck5yMUM2bFpCVzE0Nk94OXNJOTFBTQ?oc=5"
+    },
     {
       "id": "f1003f356263e5feaf",
       "type": "news",
@@ -24,6 +36,30 @@
       "title": "El incendio de Burgohondo sigue en nivel 2 tras una reproducción",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUlsS3FCVnBZem82RXF2WHBHU0g1MDVReWhqNnFBOHhFM1RwSEZnb0FzcXZTYXpkN251elYwTWZPWWlubGVGeVRuN0FUZWk4NDFSajdmaWpiSklCemxtN0JDaDAyRnJoQ3N0aTJGaWpydFg5LVpOSGJxTDh1M2hfY0pPRFRjVmFzM3l4Slh1bDBYVGNZVzdhOGVHcjhRMDk4VXBpQVRoVXNuZmtzOUVUYmV0N1hRZHVOcnNFNjA3UE0tRUp4bU8wSHV6VmtVYnF3ckM4ZA?oc=5"
+    },
+    {
+      "id": "ab0762a5e8858e9240",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-04T21:47:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Impulso regional a la recuperación de las infraestructuras afectadas por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOE85aFg3NUZteXVfWFBuX3dMRXhLNTV4N1ZONU9wT1FkMmNMMENBRnBEeFRuMjN3M05obTJ4a29xT2l2d1RKcUwxeEVrWi1MZGlQeGZxTmN3TUJPOTFfRkpGcVRVblNfMmxDRU9rdGJCbUJJNy1palp1dDJQcnIzMVBMdVFEMzNYb3pSYUc1YjZwcENaU1ZfOUZWc2NOaVktY2c1ZFcwTlg1NW1zTFJyc1I0UHlnc21weVVYRHlocGlyM1pxcF91dVEzel9YS3ZlNjZsYUV0T0l4SU0?oc=5"
+    },
+    {
+      "id": "a6ca9a7d3cbbc26e27",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-04T21:30:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Investigan el posible origen intencionado del incendio de Burgohondo y sus reproducciones",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2JZaTU5U1dmZ2t0V05HdTI2UHhlVThycERFUFBTVXNxaGFyUThVS1k4V3l4VkdaZV9ELXRGaEQ3QXctdmZGTWQ0V3dwMEdmQmhCdVdQRTBNX25lZ2VTYk0zeWQ0cjY3eW9ISmVhYTVvalRydzFxWEhyeDJZSG00QmpEYTVYellYaDJiWm16S2JmM2FzYktVUXh4aFBmQk5EYVRaN1RMT2hmV2oyc1J0VHZFNGQwckxEbnhlelJ4amVnYzJibFRwSHNMWk5ldTA?oc=5"
     },
     {
       "id": "178f8f7e391694489c",
@@ -74,6 +110,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3hjTjJhblQ2SGZrVV84U2VxeDg0bEdTbjQ1N212UjlsQmRMaHMxdmtiV25GMldVZlRSSnVoOGxNYWFSRG4xQUVNaWh0Wk5zYUhFbVZjOGdIVFY4el9TZzlNNFptZGlsNDRZSW9GNEczUy0zX3JSRllRZDZubEpKWnRlTjZfYXhkV0M1Tkx4Zmt3V0xLRDFabG9jdDlzUWVhS1NBOTZzcFNYQWs5bmV1ODFySHA0SVpxekVvSVEwWEpuUEN3R2tRTVE0RVMyRE10RWxJTXQyMNIB6wFBVV95cUxNUXE3Qzhtc1E3R2NUMW1EZXBjQVVXUWdWcXIxc1NYRFduV1dYNHE4YkdEcEUtajh5YVB5NDJSM0lqSHFSM1ZFakFOSEJ2cXlrVXNCeWVGdXI5bmhzeC1nQlp6czVOZGtXWDBDbkhQbGc0VTJzZWVmeEtxS3Z6OHZ5bVRST08wTWVqRVBoclRYX29GZmxIYlV3OGUxTlNrRWN6MXVNVHJVZUtLZ3VwRzRyTks5WFpCRXZUamRwMkprbjF6SW9lc09MT2xpQXBpcmpNdmI3QThfTUVfdWdfV0E5WC1IVEZpM0h3U3g0?oc=5"
     },
     {
+      "id": "cfcacced1ea5f48e7b",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-04T20:02:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El 40% de la superficie de la DOP Cebreros, afectada por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXhBQWJzLTJJcTVTZklmbkRkVmR6cTNMM0JCNS1nN2tSdXlkQTNqQVBDLW1MQ2lxX2hZUlBUeXlRanJjbDNrWk9CdFUxTFdLZWZFdzNobks2UGczWDRGdGt5U3Y3ZkhpUlB3dExKUEl4NXlzQTZMUUtvek9CeEw0TElZUGUtUmRBOFZtZk9UaGRDY1JpWFp2R0tLOFVRRzdZbFBwMUVjUFF6dGViRzJIRUxLc1FRYl81UHdmOXoyYmJ1UHM?oc=5"
+    },
+    {
       "id": "92fdacfe111fe4a15c",
       "type": "news",
       "severity": "info",
@@ -110,12 +158,12 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUlsTXdWcHdEQzJQeldrZHpzNDIxRzRnNGpYM2FaRkZzUm1sM0ZyTkxzVFNBWmM1TFVhYUR6cDBBbkxmX0RIYy1pVk1yNWEwV3BHelpYb2hfZ09VV05NdTl6Y2pEYzNRTjc1anNLYnVTNFFMYm9TWExXYmV3ZUt1bUxFQTZJMWRScGQ3NnFyRC1xU01uNEFsdUl5MHdwbEFyR2x3Wm96UFViVVZhQmVYeEdJQ3l2NFFUbmxWLUFidDl0WlJqUjdvbWhWNnU?oc=5"
     },
     {
-      "id": "4207450701b00413f1",
+      "id": "d58ac3f493e9b7e9f5",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-04T18:18:17+02:00",
+      "published": "2026-08-04T18:22:06+02:00",
       "source": "EFEverde",
       "title": "La Comunidad de Madrid da por controlados y en fase de extinción los incendios de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -168,6 +216,18 @@
       "title": "El lado más solidario de Leo Messi: dona 80.000 euros para la reconstrucción de la Sierra Oeste tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSFNlbVZKSThEdDI0eXgzOGgyemNVWGRyQ0xxWTNveUMtemdNc0lFSklQdC1nYmFtMW9pTkpLdUVJSHE4NGlSOXNOb1FEcUtCc1FnbFgxaEFCQTI5LWZxU0Y5Q25ZOGViZnVpWHY0XzhqUGVjZDdUeHpPSHJDQWlTSmxqbHVQand5cExfeE5UNF8teGp3TzZxUFRuZW40SmhMWjJXaFZEZUR2MnFPdjQ5UWVEa0xJOTQ1STRxMVpwWnF6M1J1UDNkS3d1TkFVRXRwZzAwX3k2SmZOOTZaRUtPckNpM3BvdVRCdEl6aUVIMDJsUlNi0gH0AUFVX3lxTE9IU2VtVkpJOER0MjR5eDM4aDJ6Y1VYZHJDTHFZM295Qy16Z01zSUVKSVB0LWdiYW0xb2lOSkt1RUlIcTg0aVI5c05vUURxS0JzUWdsWDFoQUJBMjktZnFTRjlDblk4ZWJmdWlYdjRfOGpQZWNkN1R4ek9IckNBaVNKbGpsdVBqd3lwTF94TlQ0Xy14andPNnFQVG5lbjRKaExaMldoVkRlRHYycU92NDlRZURrTEk5NDVJNHExWnBacXozUnVQM2RLd3VOQVVFdHBnMDBfeTZKZk45NlpFS09yQ2kzcG91VEJ0SXppRUgwMmxSU2I?oc=5"
+    },
+    {
+      "id": "8bec5582016feeac05",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-04T15:59:33+02:00",
+      "source": "EFE - Agencia de noticias",
+      "title": "Madrid agradece a Messi la donación de 80.000 euros para ayudar en los incendios de la sierra",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSSjFUbjRSX24zTXdKdlMwclBXUWlEb09FejA0dll0bE1uTDBJbS1XdkVjX2RQUi1JbGVSeWdqZVVMZjN6X2FxWUI5WDlsaXAyeC1xTVRYd3AwX1A1TTM5WHJieUtaZVZrWk1QR01XZ0xLVFFOcUZV?oc=5"
     },
     {
       "id": "4e3700cf6675ed70f9",
@@ -242,6 +302,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpST0pEMlJ0WGFBVEs5dXMxU2N6cXRpLVpra3U5Y0ZzTzRNUmtpOVZmQnFlRE9SV3NvbUM3SmVPX2x5THlkeGVyTmY5bHpqMXkzeVZpNy1zZEVDeUhkWFUydlRCcjBSRDlwYlhrWU9lM25ISElpWEVkNS1kYWwyRFVmTHd3ekQwX1F1d3BfOWwxckczVjJwcVFyVDkxUjd4OUExeURLdDEwb28tUTdwS1FNOS1QNmFkQXdnb3B1TjJRQUJWTmduRHFla290Umh5bXNEX0hQSdIB3AFBVV95cUxObkFyUV96dU5VTU9rS3ZVZm04ci05Yk1mMmNrZzFKczNiNFhKREZBVTdSbWRVWkgtTFE3MFlKV1VyR0NmelNkX0YzcGluMmppSk1lTnJhWUYtTlljQ29UQ0s0LVJoVDRpaUNWUzJiXzFiX2NlQkdQc2FFbkhBOWt1MHlXeW4xZXVsWXhGcXNiM2pOb1RjbU9UVHdDczJ5OHlyTG9aeDlRdTVaNS1MTFpZRHpTWDdwMlVLd0hYaVdVQ3VIX1l0Yjhnai1hbUtaSmRCcFhIdl9Uam5ZNjNK?oc=5"
     },
     {
+      "id": "699653eed9288d51c2",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-04T14:04:37+02:00",
+      "source": "El Español",
+      "title": "Messi dona 80.000 euros para reconstruir la Sierra Oeste de Madrid tras los incendios: \"Le daremos el aplauso que merece\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbXduQno4UmpPRWluQk1wTXFtbW9BbU5SODZvX09HcEdXbjlSVFg2aV96a2F0NGplV3Z6MjRYLTJORFFacUZ3ZDFlRWRXT3NpSHR0ZDltZ1ZtQVVfcGx6Wk9vRFZhb1EtVzJocGhZNU01MHB2aVhYNDdEem1Pa2xKbVZOVXpxTGdqM29BMmNHSHc4R0xGeGU4YzFUX0pQZFBBdHE0ODY2aW9Da1c1dkI4RjBUdVFxbFBTRFY0WnJtMnFob1JLQTMxUmUwREhkUkZETzl2MF92YjJHR21GUTl1SHZreGpHXzIwNUHSAe8BQVVfeXFMT0xrN1JhY2RlLS1YX0picEpYWktncW1iQkJXdGVhVVFnd1JOUnJicUV4clFPYlJfdGp1UHNJQ1NIdlFXS3lPWnoxc0tFYTNEUmJ2bkVzTFlCcEFsTjAyRTNiWlJSR0c3YnlEQ1Z1b1ZiNDBCaDY0MkdicjZFMmh5bjlOQkJzWWVkQ3VLMEZ3ek1hRlZTNXo0MlBQVE1WZTJnc241UnBvV0FZTzMzNFdtdFlhNlBQem5fZG5DTlQ2Rkg5bDFHVFVyalNURlR3RklUWnZReEVqa0dmU2NKWFp5SXQ2UUZpS3ZWNVVIUS1KVVk?oc=5"
+    },
+    {
       "id": "078de9c8ff1636920d",
       "type": "news",
       "severity": "info",
@@ -298,7 +370,7 @@
       "published": "2026-08-04T11:11:02+02:00",
       "source": "Europa Press",
       "title": "La DOP Cebreros inicia \"una de las campañas de vendimia más complejas\" tras el incendio con un impacto en 200 hectáreas",
-      "summary": "La Denominación de Origen Protegida (DOP) Cebreros (Ávila) ha iniciado \"una de las campañas de vendimia...",
+      "summary": "La Denominación de Origen Protegida (DOP) Cebreros (Ávila) ha iniciado \"una de las campañas de vendimia más...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-dop-cebreros-inicia-campanas-vendimia-mas-complejas-incendio-impacto-200-hectareas-20260804111102.html"
     },
     {
@@ -433,13 +505,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 34
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 27
     },
     "direct_media": {
       "ok": true,
