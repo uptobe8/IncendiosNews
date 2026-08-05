@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T00:41:14+02:00",
+  "generated_at": "2026-08-06T01:39:00+02:00",
   "items": [
     {
       "id": "47691a0ef7ba0d43e5",
@@ -47,7 +47,7 @@
       "source": "El Mundo",
       "title": "El incendio de Burgohondo (Ávila) desciende a nivel 1 casi dos semanas después de ser declarado Emergencia Nacional",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01NUlZemNNTmtoaUZjZUhMcFFyZ29WQ29VNDZPLV9KYS0xTnM1U3VxV3R5OUFBanN3aTlYTlBzbDJBbF9UVWg1dlUwVG1oWHNHZlhvRFZtWW1Ua1ZuU3Vua3prbkdEcGhKQ0ZHZDk0Snp2OVl5Nmgtcll30gF6QVVfeXFMTkk3cFZ1S3VqSndQQlRYOXlLR3hsTDdnRWZfYURVbWQ3SGpnV1ZkQnVER3gxSkxkdHN0cTNqYVhqbV9QbE9HMExvaVA3NTc4OEFHdjFmZmVoVndkazA3djQ0QjdqdUpmQUtyY1pmWDhxclVIQlpraFBHS1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JN3BWdUt1akp3UEJUWDl5S0d4bEw3Z0VmX2FEVW1kN0hqZ1dWZEJ1REd4MUpMZHRzdHEzamFYam1fUGxPRzBMb2lQNzU3ODhBR3YxZmZlaFZ3ZGswN3Y0NEI3anVKZkFLcmNaZlg4cXJVSEJaa2hQR0tR0gF6QVVfeXFMTkk3cFZ1S3VqSndQQlRYOXlLR3hsTDdnRWZfYURVbWQ3SGpnV1ZkQnVER3gxSkxkdHN0cTNqYVhqbV9QbE9HMExvaVA3NTc4OEFHdjFmZmVoVndkazA3djQ0QjdqdUpmQUtyY1pmWDhxclVIQlpraFBHS1E?oc=5"
     },
     {
       "id": "ffe55e440f8e26cc81",
@@ -110,6 +110,18 @@
       "url": "https://www.europapress.es/madrid/noticia-fundacion-alicia-koplowitz-dona-150000-euros-reconstruccion-sierra-oeste-incendio-20260805184738.html"
     },
     {
+      "id": "1a26f0bee56905d0dc",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-05T18:11:51+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo podría reducir hoy su nivel de gravedad a IGR 1",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUJXcUk5VXdsLXVfamdINGxxbzFFeDRyRktpcjNRcFdWU2dlV09ZOVN5Y09uRFhSTUhfeVdkNVF5Y0c2cG9STTkxUzVoMjBucEk2b190R19ULThOdnJzeS1pS2EzNVJqdnRMVUtGOEVkWnFDa0M4THlEZFJUa3RLVzBvcUNDR3IwX2EySjJ0LU14RHRXLU5TbVJhY3YzQlNJZ180ZnJlWXBFSTFaN1F1U2xxNFNpdk1vT1E?oc=5"
+    },
+    {
       "id": "97e8e881e3daf4a3ac",
       "type": "news",
       "severity": "info",
@@ -120,6 +132,18 @@
       "title": "Madrid limita la caza en los cotos arrasados por el incendio para recuperar especies",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVZtOXNDVl9ubW40TFliVDhSOXZIaTFMOHBqSmJXWGpsUTdMUjdZR0lpdUZHUEJncWxPOXE5M0pST0tMWUxWaTFGdUdVT3lwZVVYcHFkaWN2RDBHZ3RoaWNiZk1UZTFRUk5ZbXNrcktCQVhBRVo1aF9BaUdkeWIzLXB0N2VnT2Iya1l2emZXQzVXY0Rvd05zb3V1ekwzVDdhNi1vTWZSb0VpUlNkMEE?oc=5"
+    },
+    {
+      "id": "54b7bd36e57d0372d6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T16:08:03+02:00",
+      "source": "Madrid Actual",
+      "title": "Confederación del Tajo levanta la alerta en seis presas tras los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVmNPRHBuZW50WWZaY0ZMTnZaM181cnhWU0FORTBqUUppZFJQRHU4UURQM1ItVzRXZVNnalFxR1JuSW9kU3JzWWR1aHdrSnpSSFpfVlpwVGRqNGY1YTBhQlEwZzQ1MC1wVHVYWVFGbUl0RS1hc1JyLW1EeUZjbzdMNGJ2eElwUUVTb2J1QUpNTklhWC1zSE5oTmMwUUNFRFdydUd0aXZCRk9Yc2RQMUxHRXdCR2M0M3RqbkhENDZ4M1lnTlp1N1dva2VDRGg1OG9rUXpvY3BvUQ?oc=5"
     },
     {
       "id": "f8e053db56916caebf",
@@ -170,6 +194,18 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-suma-90-localidades-avila-leon-segovia-soria-listado-beneficiarios-ayudas-fuego-20260805103044.html"
     },
     {
+      "id": "9b936ff88e49d3b291",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-05T03:57:59+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Messi dona 80.000 euros para la reconstrucción tras los incendios de la sierra de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGdGWGtvV1U2anZlV2Voc3NZcXpzYVdleHRFV3hCTzUzYU5qNVZMVkwtb0hnVVBsV2Iza3l0Z0pCVmw3SnE1TTROLVdONmk0Njg0ZmJZR3VBZE5UZzVnSlAyVjlwWEVEVHRPbVU4bnJtbVhLSjFBanRyYW1HbzVCZDRkVWt2eDdYZ1RvOFVhWE1uUWlGbzNzRnFwczl0MlRuTThWaW9fUXhaYlBZVnh6a0tPN1ZCUVFKU0tCU3RBUFRpTGJTVVZHOFNVVktxZw?oc=5"
+    },
+    {
       "id": "bacb49753e56899cd6",
       "type": "news",
       "severity": "info",
@@ -192,18 +228,6 @@
       "title": "Controlado el incendio de la Sierra Oeste y se rebaja el Infoma a Situación Operativa 0",
       "summary": "El incendio de la Sierra Oeste que ha afectado a 17 municipios de la región está ya controlado y se ha...",
       "url": "https://www.europapress.es/madrid/noticia-controlado-incendio-sierra-oeste-rebaja-infoma-situacion-operativa-20260804183655.html"
-    },
-    {
-      "id": "078de9c8ff1636920d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T14:03:56+02:00",
-      "source": "Europa Press",
-      "title": "Leo Messi dona 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras el incendio",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este martes que el futbolista...",
-      "url": "https://www.europapress.es/madrid/noticia-leo-messi-dona-80000-euros-reconstruccion-sierra-oeste-madrid-incendio-20260804140356.html"
     },
     {
       "id": "2aa7b622c20f7dbfb2",
@@ -331,11 +355,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 13
+      "items": 16
     },
     "direct_media": {
       "ok": true,
-      "items": 10
+      "items": 9
     }
   },
   "refresh_seconds": 300
