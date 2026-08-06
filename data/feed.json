@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:04:24+02:00",
+  "generated_at": "2026-08-06T06:25:59+02:00",
   "items": [
     {
       "id": "47691a0ef7ba0d43e5",
@@ -24,6 +24,18 @@
       "title": "El milagro de los bisontes: la única zona que el fuego no pudo arrasar en la Sierra Oeste",
       "summary": "TMDHTM20240527_0010 Mientras las llamas arrasaban miles de hectáreas en la Sierra Oeste de Madrid, una zona de 50 hectáreas permanecía...",
       "url": "https://www.telemadrid.es/programas/madrid-directo/El-milagro-de-los-bisontes-la-unica-zona-que-el-fuego-no-pudo-arrasar-en-la-Sierra-Oeste-2-2913628656--20260805091558.html"
+    },
+    {
+      "id": "03d426fcb6802c40b7",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-05T20:32:32+02:00",
+      "source": "El Mundo",
+      "title": "El incendio de Burgohondo (Ávila) desciende a nivel 1 casi dos semanas después de ser declarado Emergencia Nacional",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01NUlZemNNTmtoaUZjZUhMcFFyZ29WQ29VNDZPLV9KYS0xTnM1U3VxV3R5OUFBanN3aTlYTlBzbDJBbF9UVWg1dlUwVG1oWHNHZlhvRFZtWW1Ua1ZuU3Vua3prbkdEcGhKQ0ZHZDk0Snp2OVl5Nmgtcll30gF6QVVfeXFMTkk3cFZ1S3VqSndQQlRYOXlLR3hsTDdnRWZfYURVbWQ3SGpnV1ZkQnVER3gxSkxkdHN0cTNqYVhqbV9QbE9HMExvaVA3NTc4OEFHdjFmZmVoVndkazA3djQ0QjdqdUpmQUtyY1pmWDhxclVIQlpraFBHS1E?oc=5"
     },
     {
       "id": "ffe55e440f8e26cc81",
@@ -62,13 +74,13 @@
       "url": "https://www.europapress.es/madrid/noticia-comunidad-desplegado-ya-88-medidas-municipios-afectados-incendio-sierra-oeste-20260805145952.html"
     },
     {
-      "id": "1f8bcf3b40a6e2dcb2",
+      "id": "c90a5e55299de7338a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-05T19:24:05+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Medio millón de kilos de forraje para las ganaderías afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOEw2ekVIU3BDSnFyVXhNWUw3MzdaTGNLd3hzSk9rQmZNNGtTUTlITDNZcnh5Nk1JamlSWGVGM0xhMXR4aXd3MjRweG8wcWs3bVNxOFV3bE9IeDVydmVNOEtuS0h1bmJ4bVRPcl9weHFJWGRtUEZHSmo0QlVMSGQ2WGRjSXF4NF9yd0NwNnpoOFdfdUlTSlN5ekZMUHdHMWZQOXBSem5IbGJGclEwUkhLZFpNRldOYjh2UnFNSFpaS1V5MkxVOG5IZ0RNS3l4bTZ3U0ZuaUltU1FxTms0Vll4TkJkdTF1aDNYOTJ6VUFQbm1oc2hJaGNIXzhlZHNrWU10Zk9J0gGIAkFVX3lxTE5uSlZublJzSmU4SFdxYnNyaFQ5cVd6dnhvUnQ1Rnd2VG1pMmpzUnE3XzlsMi1MSTlBNUoxT0QyYnNMQ0xYeWg3dnh5ZXV3WFNHOVBiZ1RzNVVzRlQ2bWd3MWdmbXEtWXFKWmNLU1lYQTFtMktUbjFMMjBPUDNXaEFGNFVZYTZMV2NjMDU0aW1sNkdzRW15YkR1SFpXS2txcHRlV3pLNWdwYnBaRVlwMzR0bjJ1a2piUjVpWDgyYzVBcHltS1EzVjB5WEF0YmZtbzRLbkNWYndPVVBBblVKckpKRFYtczRuOW9GTzR5TUg5U1czU2tMMkNTa0pNMUkwdFBHdWNKb3hFZA?oc=5"
@@ -146,13 +158,13 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-desactivado-escenario-emergencia-presas-pajarero-burguillo-charco-cura-avila-20260805150008.html"
     },
     {
-      "id": "562b3e43da126a7922",
+      "id": "ff9fe83948a733b033",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-05T14:51:23+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Ayuso se reúne con los alcaldes de los municipios afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZkt2cnhmZkZ4NGhaQnBuNnRsYllLUEpSMFlTUFdZYlE2VmRxN0ZRLWtrdmJmYTByUThjX09ja1B6MUFzS1ZkRGZEYms1bnZFQW5KV01UdXJ5WHFBS25MSnNqUVhtelpNTjIyd19MZjNJdGNuYUxaYkxYSXh4a0swQkNMekEyTGg0VHIxOGc5RmhURHBKN0I2bFFDU1VMWnA0d3NxMjV5VV9LemJoeWJQb3NSa3hyMGdVa2JqOXhGS08wNV9oS0NpemViSVQ4aWY2T2JJa2FqWGViZ25hcGgzRVQ1S3BsQ21iR2IxeEFCODlmYkpWV2thZ3pBeE5UdHdHalI2Uk1xT2JYRlpLcVVmRdIBkAJBVV95cUxPZkt2cnhmZkZ4NGhaQnBuNnRsYllLUEpSMFlTUFdZYlE2VmRxN0ZRLWtrdmJmYTByUThjX09ja1B6MUFzS1ZkRGZEYms1bnZFQW5KV01UdXJ5WHFBS25MSnNqUVhtelpNTjIyd19MZjNJdGNuYUxaYkxYSXh4a0swQkNMekEyTGg0VHIxOGc5RmhURHBKN0I2bFFDU1VMWnA0d3NxMjV5VV9LemJoeWJQb3NSa3hyMGdVa2JqOXhGS08wNV9oS0NpemViSVQ4aWY2T2JJa2FqWGViZ25hcGgzRVQ1S3BsQ21iR2IxeEFCODlmYkpWV2thZ3pBeE5UdHdHalI2Uk1xT2JYRlpLcVVmRQ?oc=5"
@@ -180,30 +192,6 @@
       "title": "La Junta suma 90 localidades de Ávila, León, Segovia y Soria al listado de beneficiarios de ayudas por fuego",
       "summary": "La Junta de Castilla y León ha ampliado la relación de poblaciones incluidas en el plan de...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-suma-90-localidades-avila-leon-segovia-soria-listado-beneficiarios-ayudas-fuego-20260805103044.html"
-    },
-    {
-      "id": "9b936ff88e49d3b291",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-05T03:57:59+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Messi dona 80.000 euros para la reconstrucción tras los incendios de la sierra de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGdGWGtvV1U2anZlV2Voc3NZcXpzYVdleHRFV3hCTzUzYU5qNVZMVkwtb0hnVVBsV2Iza3l0Z0pCVmw3SnE1TTROLVdONmk0Njg0ZmJZR3VBZE5UZzVnSlAyVjlwWEVEVHRPbVU4bnJtbVhLSjFBanRyYW1HbzVCZDRkVWt2eDdYZ1RvOFVhWE1uUWlGbzNzRnFwczl0MlRuTThWaW9fUXhaYlBZVnh6a0tPN1ZCUVFKU0tCU3RBUFRpTGJTVVZHOFNVVktxZw?oc=5"
-    },
-    {
-      "id": "bacb49753e56899cd6",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-05T03:06:00+02:00",
-      "source": "ABCNoticias.mx",
-      "title": "Messi dona 80.000 euros para la reconstrucción de zonas afectadas por incendio en Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXZ3N2FGMVhmSFZvVUhRcXFTR0sxcVo5VlIyTnhuNlpRdzhibE1XaTBkN2RLZ2NoZ1dCNUJXTHVGNHY1TkprRGtrd1ZoVVB0N05sWXJyanFnUkliTW83bFRCbklITmU0Vnh3cEc5SUhYWV9YVzhEUFhUYmw5dEtQd2FvMnN1N3g2VHFFalJ5Tmg4bkZldWNkLTR2M3ZPZE0xMVl2ZnJhUTlEaTRpR1hJQm9ybFpFQXJCV0s3VHdqWXJUck5yMUM2bFpCVzE0Nk94OXNJOTFBTQ?oc=5"
     },
     {
       "id": "178f8f7e391694489c",
@@ -337,17 +325,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 15
+      "items": 12
     },
     "direct_media": {
       "ok": true,
       "items": 8
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
