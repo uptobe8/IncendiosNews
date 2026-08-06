@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-06T06:25:59+02:00",
+  "generated_at": "2026-08-06T09:16:03+02:00",
   "items": [
+    {
+      "id": "6150f6dbc548f2b079",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-06T08:58:05+02:00",
+      "source": "Telemadrid",
+      "title": "Casas rurales, campings, alquiler de bicis, parques de tirolinas, bodegas... los negocios arrasados por el incendio de la Sierra Oeste",
+      "summary": "Del desaliento de algunos por los efectos del fuego al ánimo de otros para reconstruir lo quemado, los negocios de la Sierra Oeste de Madrid...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Casas-rurales-campings-alquiler-de-bicis-parques-de-tirolinas-bodegas-los-negocios-arrasados-por-el-incendio-de-la-Sierra-Oeste-0-2913908582--20260806085304.html"
+    },
+    {
+      "id": "207dd4bd8e61554b63",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Almorox",
+      "published": "2026-08-06T08:56:03+02:00",
+      "source": "EFE - Agencia de noticias",
+      "title": "Dan por controlado el incendio de Almorox (Toledo) catorce días después de declararse",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVmNtc3dZRnIxbkNlYUJndVNCMWZlQXp2OGNGdXBDdWJMaVpTT04ya3Zjdkg5dGR3RWtTMGtRWm1BY0Yxa2JNN2lxWmw5MzdRX3M4aEkwdUJuVU1yN0ZSOThXUXItZWxPYThJV2tDTlc4NFFwSUpiWjVrc3pOLW8?oc=5"
+    },
     {
       "id": "47691a0ef7ba0d43e5",
       "type": "news",
@@ -14,16 +38,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSnBqaFFtTU5IUWNLdENXajhOZVJWZGJSU0ZvakRReUhWQkI4Wm10SU4zLUZxY0FuX1hmeTVpZE9wN21xWEZvVUtKcGtkSkY2WVVRUmNqRHF6bldBTHRkT1dRSlNhdFV0cWEyWGdhYUNZaVVDRldXaEc3SjRfLTlwRTV5U0s2MW1PMXJfaVNGYmtPVnFnQnlDdXBGMlVxRWhyQldsWDJMVVBlVjRfTGlpYzRCbUhmbEhRRm5QS2xhaTFXLU9aYlpHMjR6UjY1YXZNLUFERFJPTXprTy14N0h6dXVJazNFTW82RWVhNjh5aDZ5SVlSN0Y4UHpsUzJTSjlWVFRkUVZOSktUczjSAZACQVVfeXFMTkhrTGd1c0F6ejI4MVg3RWkxMm5qenh0U3RZRG84WHFSdmFKWGJKbU9PdEJHWnI3ODA3eFl4Q0Y1RDlmUktGcm9EMmV2c1I1X05iWW1rRUJyX2NVZEJqenA2eDllaEZYZXJucHFaYi1YcWhPc0YtcHRNcEJ3VXlnUUI3RmQ4REZoRG05X29ibWt5OFNubjRUb181SWVBYXR5TjFBOWhwcHg4NFc4aE4weUNjbUpabE5RQ3J2UDVLYUptZ0lLR0l2RG5JSGQ4d3hvR0pBZzF1VER3bWpZWkdIVXBnQ2tSTl95eHNBZHlZQi1KSV9UT05jdGhBQjBVYUlpTFRockIxbjB6c3BOR3hEaWk?oc=5"
     },
     {
-      "id": "e9c0d6733dcd4ecb19",
+      "id": "1ee8668b27645bf827",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-05T21:15:59+02:00",
+      "published": "2026-08-05T21:15:58+02:00",
       "source": "Telemadrid",
       "title": "El milagro de los bisontes: la única zona que el fuego no pudo arrasar en la Sierra Oeste",
-      "summary": "TMDHTM20240527_0010 Mientras las llamas arrasaban miles de hectáreas en la Sierra Oeste de Madrid, una zona de 50 hectáreas permanecía...",
-      "url": "https://www.telemadrid.es/programas/madrid-directo/El-milagro-de-los-bisontes-la-unica-zona-que-el-fuego-no-pudo-arrasar-en-la-Sierra-Oeste-2-2913628656--20260805091558.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMFl0d05PNGktS2tvS3FPek15b0ZQeXllUFVYUWpIck0zSUhIcTdDVVg5bFpnRWFockFqczMwcnFmV19tR3ExVlBabHhDc0V4Qm9leXZKRHluUWgtczU1V3VIdkJOcXRpQkRKNXN2WGg0aWVGYklMdkMyOHdhVHRVbDdQY3RUSlFreno3czl1aW54TXJVa0xxZDZsOFpmZnhZYjZZSUF0WE1wWFF5Umc3MEJjUXJ1UUZ6WmNwdTJ3bDVpOHNXZTFJeklmcUxkS0FLQlg0QmlCVC1FRmEtTUtGejA4eVNQU3c0ZThnSU10RnI1U1hyU2dxYk9WQ09tZnpvcTZz0gGIAkFVX3lxTE9NNC15d3JiU1RMMmgyWVREMVJjblllTld3V2NqTG9CY21VaUVJcFRkYXRPekpWWlF1di1KZ2hQWWFmOUptX0VfRDZJRVJDLXlWTm54LS1aX2gzTGs1cXcxNnA1MUJLcUNTWklMOU9YSXJaZmFOWTBYbFRoMG5EWHVKN0pGRE9jMFpzLXlwdDBNaW1Tc3U2ekxKSFNFc2FhMjFXUUxqekxsM1BzV2RNU3JQRWZJcnRsVk1nRmZqVzVxMGlTVjAyX2psN29lbkxRbG1KSl8xRGVtR3pWSGE3UExIYmJhTXJ5X3gxZ0NzWTdGLWRVR0xfOFJjVWhraHoySy0xRjNYb3pZYw?oc=5"
     },
     {
       "id": "03d426fcb6802c40b7",
@@ -86,18 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOEw2ekVIU3BDSnFyVXhNWUw3MzdaTGNLd3hzSk9rQmZNNGtTUTlITDNZcnh5Nk1JamlSWGVGM0xhMXR4aXd3MjRweG8wcWs3bVNxOFV3bE9IeDVydmVNOEtuS0h1bmJ4bVRPcl9weHFJWGRtUEZHSmo0QlVMSGQ2WGRjSXF4NF9yd0NwNnpoOFdfdUlTSlN5ekZMUHdHMWZQOXBSem5IbGJGclEwUkhLZFpNRldOYjh2UnFNSFpaS1V5MkxVOG5IZ0RNS3l4bTZ3U0ZuaUltU1FxTms0Vll4TkJkdTF1aDNYOTJ6VUFQbm1oc2hJaGNIXzhlZHNrWU10Zk9J0gGIAkFVX3lxTE5uSlZublJzSmU4SFdxYnNyaFQ5cVd6dnhvUnQ1Rnd2VG1pMmpzUnE3XzlsMi1MSTlBNUoxT0QyYnNMQ0xYeWg3dnh5ZXV3WFNHOVBiZ1RzNVVzRlQ2bWd3MWdmbXEtWXFKWmNLU1lYQTFtMktUbjFMMjBPUDNXaEFGNFVZYTZMV2NjMDU0aW1sNkdzRW15YkR1SFpXS2txcHRlV3pLNWdwYnBaRVlwMzR0bjJ1a2piUjVpWDgyYzVBcHltS1EzVjB5WEF0YmZtbzRLbkNWYndPVVBBblVKckpKRFYtczRuOW9GTzR5TUg5U1czU2tMMkNTa0pNMUkwdFBHdWNKb3hFZA?oc=5"
     },
     {
-      "id": "835a99610327011098",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-05T19:18:43+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Dan por controlado el incendio de Almorox 14 días después",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLS1fSEpmcHllb0dXdnNoYmtLSGZEdTYzMjIxOHlHa21ka3RxR2RlN21YbFpqcFdNTVFZc0FYU0RYZlBReHZiZWFQNUIzLVNRa2Jkbi1UaWRxQ1d1VC1BTVpReTI5bUNkb21XeEdvRnZrbFd5WmI3NTNvQ09kdWV2VW03UmhlMFVRT3R0NVQ1OGRXT0RkVUQwUm5ac19tRFgwVndJNGJ6eDJ1V2dUZmwyQzBNUGpqWjJtWldaUktCc0JlQVI5NlhObDZmSGVhWUdtSmxJalc0N3YzUQ?oc=5"
-    },
-    {
       "id": "22d0c69dc6d9c36dca",
       "type": "news",
       "severity": "info",
@@ -108,18 +120,6 @@
       "title": "La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste tras el incendio",
       "summary": "La Fundación Alicia Koplowitz ha donado 150.000 euros a la reconstrucción de la Sierra Oeste de la...",
       "url": "https://www.europapress.es/madrid/noticia-fundacion-alicia-koplowitz-dona-150000-euros-reconstruccion-sierra-oeste-incendio-20260805184738.html"
-    },
-    {
-      "id": "1a26f0bee56905d0dc",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-05T18:11:51+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo podría reducir hoy su nivel de gravedad a IGR 1",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUJXcUk5VXdsLXVfamdINGxxbzFFeDRyRktpcjNRcFdWU2dlV09ZOVN5Y09uRFhSTUhfeVdkNVF5Y0c2cG9STTkxUzVoMjBucEk2b190R19ULThOdnJzeS1pS2EzNVJqdnRMVUtGOEVkWnFDa0M4THlEZFJUa3RLVzBvcUNDR3IwX2EySjJ0LU14RHRXLU5TbVJhY3YzQlNJZ180ZnJlWXBFSTFaN1F1U2xxNFNpdk1vT1E?oc=5"
     },
     {
       "id": "97e8e881e3daf4a3ac",
@@ -204,18 +204,6 @@
       "title": "Controlado el incendio de la Sierra Oeste y se rebaja el Infoma a Situación Operativa 0",
       "summary": "El incendio de la Sierra Oeste que ha afectado a 17 municipios de la región está ya controlado y se ha...",
       "url": "https://www.europapress.es/madrid/noticia-controlado-incendio-sierra-oeste-rebaja-infoma-situacion-operativa-20260804183655.html"
-    },
-    {
-      "id": "2aa7b622c20f7dbfb2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-04T09:01:52+02:00",
-      "source": "Europa Press",
-      "title": "El paro aumenta un 1,42% en julio en la Comunidad de Madrid, hasta los 273.631 desempleados",
-      "summary": "El número de parados registrados en las oficinas de los servicios públicos de empleo (antiguo Inem) en la...",
-      "url": "https://www.europapress.es/madrid/noticia-paro-aumenta-142-julio-comunidad-madrid-273631-desempleados-20260804090152.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -327,15 +315,15 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 12
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 8
+      "items": 10
     },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 7
     }
   },
   "refresh_seconds": 300
