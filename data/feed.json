@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:39:00+02:00",
+  "generated_at": "2026-08-06T03:04:24+02:00",
   "items": [
     {
       "id": "47691a0ef7ba0d43e5",
@@ -24,30 +24,6 @@
       "title": "El milagro de los bisontes: la única zona que el fuego no pudo arrasar en la Sierra Oeste",
       "summary": "TMDHTM20240527_0010 Mientras las llamas arrasaban miles de hectáreas en la Sierra Oeste de Madrid, una zona de 50 hectáreas permanecía...",
       "url": "https://www.telemadrid.es/programas/madrid-directo/El-milagro-de-los-bisontes-la-unica-zona-que-el-fuego-no-pudo-arrasar-en-la-Sierra-Oeste-2-2913628656--20260805091558.html"
-    },
-    {
-      "id": "d8c7e0a1e6a225185a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-05T20:41:19+02:00",
-      "source": "Telemadrid",
-      "title": "Medio millón de kilos de forraje para las ganaderías afectadas por el incendio de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid ha entregado ya 496.750 kilos de forraje a las ganaderías afectadas por los incendios de la Sierra Oeste, una iniciativa...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Medio-millon-de-kilos-de-forraje-para-las-ganaderias-afectadas-por-el-incendio-de-la-Sierra-Oeste-0-2913608645--20260805072405.html"
-    },
-    {
-      "id": "03d426fcb6802c40b7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-05T20:32:32+02:00",
-      "source": "El Mundo",
-      "title": "El incendio de Burgohondo (Ávila) desciende a nivel 1 casi dos semanas después de ser declarado Emergencia Nacional",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JN3BWdUt1akp3UEJUWDl5S0d4bEw3Z0VmX2FEVW1kN0hqZ1dWZEJ1REd4MUpMZHRzdHEzamFYam1fUGxPRzBMb2lQNzU3ODhBR3YxZmZlaFZ3ZGswN3Y0NEI3anVKZkFLcmNaZlg4cXJVSEJaa2hQR0tR0gF6QVVfeXFMTkk3cFZ1S3VqSndQQlRYOXlLR3hsTDdnRWZfYURVbWQ3SGpnV1ZkQnVER3gxSkxkdHN0cTNqYVhqbV9QbE9HMExvaVA3NTc4OEFHdjFmZmVoVndkazA3djQ0QjdqdUpmQUtyY1pmWDhxclVIQlpraFBHS1E?oc=5"
     },
     {
       "id": "ffe55e440f8e26cc81",
@@ -84,6 +60,18 @@
       "title": "La Comunidad ha desplegado ya el 88% de las medidas para los municipios afectados por el incendio de la Sierra Oeste",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado que su Gobierno ha adoptado ya...",
       "url": "https://www.europapress.es/madrid/noticia-comunidad-desplegado-ya-88-medidas-municipios-afectados-incendio-sierra-oeste-20260805145952.html"
+    },
+    {
+      "id": "1f8bcf3b40a6e2dcb2",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-05T19:24:05+02:00",
+      "source": "telemadrid.es",
+      "title": "Medio millón de kilos de forraje para las ganaderías afectadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOEw2ekVIU3BDSnFyVXhNWUw3MzdaTGNLd3hzSk9rQmZNNGtTUTlITDNZcnh5Nk1JamlSWGVGM0xhMXR4aXd3MjRweG8wcWs3bVNxOFV3bE9IeDVydmVNOEtuS0h1bmJ4bVRPcl9weHFJWGRtUEZHSmo0QlVMSGQ2WGRjSXF4NF9yd0NwNnpoOFdfdUlTSlN5ekZMUHdHMWZQOXBSem5IbGJGclEwUkhLZFpNRldOYjh2UnFNSFpaS1V5MkxVOG5IZ0RNS3l4bTZ3U0ZuaUltU1FxTms0Vll4TkJkdTF1aDNYOTJ6VUFQbm1oc2hJaGNIXzhlZHNrWU10Zk9J0gGIAkFVX3lxTE5uSlZublJzSmU4SFdxYnNyaFQ5cVd6dnhvUnQ1Rnd2VG1pMmpzUnE3XzlsMi1MSTlBNUoxT0QyYnNMQ0xYeWg3dnh5ZXV3WFNHOVBiZ1RzNVVzRlQ2bWd3MWdmbXEtWXFKWmNLU1lYQTFtMktUbjFMMjBPUDNXaEFGNFVZYTZMV2NjMDU0aW1sNkdzRW15YkR1SFpXS2txcHRlV3pLNWdwYnBaRVlwMzR0bjJ1a2piUjVpWDgyYzVBcHltS1EzVjB5WEF0YmZtbzRLbkNWYndPVVBBblVKckpKRFYtczRuOW9GTzR5TUg5U1czU2tMMkNTa0pNMUkwdFBHdWNKb3hFZA?oc=5"
     },
     {
       "id": "835a99610327011098",
@@ -158,13 +146,13 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-desactivado-escenario-emergencia-presas-pajarero-burguillo-charco-cura-avila-20260805150008.html"
     },
     {
-      "id": "ff9fe83948a733b033",
+      "id": "562b3e43da126a7922",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-05T14:51:23+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Ayuso se reúne con los alcaldes de los municipios afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZkt2cnhmZkZ4NGhaQnBuNnRsYllLUEpSMFlTUFdZYlE2VmRxN0ZRLWtrdmJmYTByUThjX09ja1B6MUFzS1ZkRGZEYms1bnZFQW5KV01UdXJ5WHFBS25MSnNqUVhtelpNTjIyd19MZjNJdGNuYUxaYkxYSXh4a0swQkNMekEyTGg0VHIxOGc5RmhURHBKN0I2bFFDU1VMWnA0d3NxMjV5VV9LemJoeWJQb3NSa3hyMGdVa2JqOXhGS08wNV9oS0NpemViSVQ4aWY2T2JJa2FqWGViZ25hcGgzRVQ1S3BsQ21iR2IxeEFCODlmYkpWV2thZ3pBeE5UdHdHalI2Uk1xT2JYRlpLcVVmRdIBkAJBVV95cUxPZkt2cnhmZkZ4NGhaQnBuNnRsYllLUEpSMFlTUFdZYlE2VmRxN0ZRLWtrdmJmYTByUThjX09ja1B6MUFzS1ZkRGZEYms1bnZFQW5KV01UdXJ5WHFBS25MSnNqUVhtelpNTjIyd19MZjNJdGNuYUxaYkxYSXh4a0swQkNMekEyTGg0VHIxOGc5RmhURHBKN0I2bFFDU1VMWnA0d3NxMjV5VV9LemJoeWJQb3NSa3hyMGdVa2JqOXhGS08wNV9oS0NpemViSVQ4aWY2T2JJa2FqWGViZ25hcGgzRVQ1S3BsQ21iR2IxeEFCODlmYkpWV2thZ3pBeE5UdHdHalI2Uk1xT2JYRlpLcVVmRQ?oc=5"
@@ -355,11 +343,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 16
+      "items": 15
     },
     "direct_media": {
       "ok": true,
-      "items": 9
+      "items": 8
     }
   },
   "refresh_seconds": 300
