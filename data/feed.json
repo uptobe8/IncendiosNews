@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-07T13:27:57+02:00",
+  "generated_at": "2026-08-07T14:11:10+02:00",
   "items": [
     {
-      "id": "cab0b2ed45c4243f70",
+      "id": "ae1d4f77e7d8916947",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-07T13:51:04+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El Bar Valle de Iruelas reabre tras el incendio que arrasó el camping de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMG5HcFhfSWM5Q1Q4M1I4dlJTbTdnLVlocHBKa3cyeFhRY2t2V20xYTR3T1kzbWZIQ2VoNzhScnlJTWdtQ1QzaEU5Zndhd1RjMXptTnRHbURsWmlNLWlVX2o3UXg5bE95OEVMdnQzMElLUFZiclBWU3VJdmVUbmY4Q1kteER4RDAtZnlOYTVobXV3dENsQk1mbmRTVGZxYmJteHAxQ3hGSWk0Zk90Y3FraXI5V1U2bGFzbGVGaFZnRjBaNHFTOC1j?oc=5"
+    },
+    {
+      "id": "0d2d5fd2419ad13b99",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-07T12:47:24+02:00",
+      "published": "2026-08-07T12:48:58+02:00",
       "source": "Cadena SER",
       "title": "Ecologistas reclaman la extensión de la limitación de la caza a la zona norte de Madrid tras los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTlZFcHRtbFU2cXZFczJvRFhUelUyaWJkMERlanY1SzdNNVZRTTJ3dUJnTVpmTmdfbEQwVm1OWHBZTVNOTy1wNFk4WjA1QzhMRjFqMWlMMjJJbmhITEdZRVNUckRINmptODN1cENzTUFtaEt0U0Mzc0QzenVmRm41U3FabE1CSmw3b2ljUUNvWnAwUzFXWUp1aEtWZ3NYanZhTGg1NVJudW5RTHhEQVI4X0VEeEdmMG9MVFBRYnVFZDk3b0VSeTdaR1dQSzJvN2lmZ2w3cEk3MnVtYTJKQ2oxeUhBQVBneGdKY2NMX2JLNnRuSlBHZFRDSNIBjAJBVV95cUxPQy0tLVN3MklRMXk4TGlVcHFMZmhFaVpsSC04NmljYmN4NlhyS2lhS2M3U3k4NTB5SUI4NTE4cHNHdTZkZjNWbWZVQ0w4SEFTaFRLcXk4SWxmQ0tVYy1wLVYwUVdTU25sOHdlOVcxT3dZRHVGUGF6M2l0QXEycXRGYXk0RUprV2dydndmOFJYOFdCQTh0UkYzSS1CQzh5QnJQaUpaZmdRVUtJY1FTZlBaam94MnA3cjJTdnhMNlA2ZU1FTUpXME1OTEpOd1dRMFFHTzlNYm5qMjdqZ0xsNjJuRmEzUlNYM1dkM1I0dXZuOXI4TkFXVUM5VUkwckFocjBiOGUtaWxOQXpVcERR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQy0tLVN3MklRMXk4TGlVcHFMZmhFaVpsSC04NmljYmN4NlhyS2lhS2M3U3k4NTB5SUI4NTE4cHNHdTZkZjNWbWZVQ0w4SEFTaFRLcXk4SWxmQ0tVYy1wLVYwUVdTU25sOHdlOVcxT3dZRHVGUGF6M2l0QXEycXRGYXk0RUprV2dydndmOFJYOFdCQTh0UkYzSS1CQzh5QnJQaUpaZmdRVUtJY1FTZlBaam94MnA3cjJTdnhMNlA2ZU1FTUpXME1OTEpOd1dRMFFHTzlNYm5qMjdqZ0xsNjJuRmEzUlNYM1dkM1I0dXZuOXI4TkFXVUM5VUkwckFocjBiOGUtaWxOQXpVcERR0gGMAkFVX3lxTE9DLS0tU3cySVExeThMaVVwcUxmaEVpWmxILTg2aWNiY3g2WHJLaWFLYzdTeTg1MHlJQjg1MThwc0d1NmRmM1ZtZlVDTDhIQVNoVEtxeThJbGZDS1VjLXAtVjBRV1NTbmw4d2U5VzFPd1lEdUZQYXozaXRBcTJxdEZheTRFSmtXZ3J2d2Y4Ulg4V0JBOHRSRjNJLUJDOHlCclBpSlpmZ1FVS0ljUVNmUFpqb3gycDdyMlN2eEw2UDZlTUVNSlcwTU5MSk53V1EwUUdPOU1ibmoyN2pnTGw2Mm5GYTNSU1gzV2QzUjR1dm45cjhOQVdVQzlVSTByQWhyMGI4ZS1pbE5BelVwRFE?oc=5"
     },
     {
       "id": "1d5cbf1d36b967a40e",
@@ -62,6 +74,18 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
     },
     {
+      "id": "c275e68b5a57a84f6c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-06T17:30:41+02:00",
+      "source": "El Español",
+      "title": "La Junta diseña con los cotos de caza de Ávila un plan de ayudas para recuperar la fauna tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUjluVFJNcVdFQnRtYnR1djZVRVBmM3lFNlRXR1JXZWhBYm5tS1I4eUtBLS0yRTBrQnZRRG1CZ3k1RENaampqa2RDT2I3ZEUxdmh2eEJPYkdtS1h2UU10YTNvcV94ODllVDhUNDZ4OWlzTkp0Sk5JQ1dWOEJNekREb3RWSW1HaGNFUTdBRzhoeGliUTJ1WHhieDlueV9YOC1pRzRNemo4WGlhbFVlZ042cWRvQ1lUakdPWXk3bUx6VG1zZDQyWVFaVF9ETGh6dFk5N2hCR09rUVBRZzJUOXB2YnZqampGV1QzWDRGR1VzekpKUUVa0gH6AUFVX3lxTE81ZmxLSmR4NkpaeXY2dUNRZ2hyM2h2bVdyeVVHYktDX2N1QU43ME9BVGNWX2ZyTVZDYnZhN1VNMUdzMFd2eHdUanZsNjRLRm9oTVNRSnh1ajBuZElMTDRpaEsyZ3dtN3JIU25ZTE02UDN2Mng3aWI0T21CX0ZoRkt5YVZtV0NsTFBRaGkwVW9yYWZXTGxvOHpxYnZpaHByUldkSUVNVkJMUGlCNENTS1ctc2JvUkE5cUVSQ2FlWkNjand2S21wZ09uaVFOd1h5bXJYZWVTOXc2QTlRUHQ2N3ZpZVpmaERWNUdEb19zNWFDNHhHUldNOWtxSHc?oc=5"
+    },
+    {
       "id": "11fdedf86456d43d11",
       "type": "news",
       "severity": "info",
@@ -96,6 +120,18 @@
       "title": "Un estudio constata una caída en el gasto turístico en la provincia de Ávila por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2pSaGJGWlY1U3J3QUlsbGpZSFBuODhPVVlnckZ0Nk9uV28yY0lxWl9NNjA5Y1IxNk9IVGFCTzRiTlhMWmFZLU1SY25UcF9SdzZtVEM5VkJVNEtxQlF0dzdxLUJyTThOLTg2U1VwekFvWTU4TVpCU1RTT2xOanRwSjNDbEdIWnFqaTdqUEZIYjlnX21nQU81c0lZVUpVT1ZndFBOczF1bXgwS0E2X0FsSnNkeWttWmVx?oc=5"
+    },
+    {
+      "id": "78ff5cd75e713cc7ed",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-06T16:36:39+02:00",
+      "source": "20minutos.es",
+      "title": "Una recogida de firmas pide prohibir la caza en la zonas afectadas por los incendios de Madrid y Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcGg1MG9kcnd6UVQyaFNPTXYzajBOVzU0M3d4cXJYajUwU1d4d284a2VHaTVXSVlwdG41WUdMb1FpajlfZlBwdUg3bk1VZ09vM2k1WTVKTEhmUWdqakhaMnlsVV81cnpFNW1CSi0tTWVLSFVvUHZkbXppcVRfaTRiRU5Tb3ZENzl6SkN0RVI0UGV5M21YcTUxRGtiMkxmT1dzVldkdkdHZGRTUE9aQ0wxZElWR0M3T2dKZTZPa2diSkgzelRub1NqMDZfenBGMnFnM0dwbdIB1AFBVV95cUxNcGg1MG9kcnd6UVQyaFNPTXYzajBOVzU0M3d4cXJYajUwU1d4d284a2VHaTVXSVlwdG41WUdMb1FpajlfZlBwdUg3bk1VZ09vM2k1WTVKTEhmUWdqakhaMnlsVV81cnpFNW1CSi0tTWVLSFVvUHZkbXppcVRfaTRiRU5Tb3ZENzl6SkN0RVI0UGV5M21YcTUxRGtiMkxmT1dzVldkdkdHZGRTUE9aQ0wxZElWR0M3T2dKZTZPa2diSkgzelRub1NqMDZfenBGMnFnM0dwbQ?oc=5"
     },
     {
       "id": "1567e8f8280e9882e8",
@@ -170,18 +206,6 @@
       "url": "https://www.europapress.es/castilla-lamancha/noticia-extinguido-incendio-almorox-hizo-toledo-entrase-emergencia-nacional-20260806135505.html"
     },
     {
-      "id": "5cbf24e29198eb828c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-06T13:30:13+02:00",
-      "source": "La Razón",
-      "title": "Estabilizado el incendio de Burgohondo (Ávila) dos semanas después de su inicio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWd0c28wU0w0TG8waFB3Yndwd2F0SDdhYW5OU0l1RnlTaUdtMGExdFlPZEN4MTFWMEJUX1ZsV0RrUWY5N0hVdmRuUjdNTGR0S1dCTkF6WGdwazZCZHUzWTNubG5yS19TMXpna2F3MWRJeDNnaFFRcHA2Vjh5QURqT1VqQXNFNjRrUU5sSWVnT0VreVJuSm1EMU54bFlWOG9XYmRzZnhxalBwN0kweHFkeVp0NmFiV1lRVkg2dzdWVlV5QXNzOW9Yd1doRGlwVEhzUjhibTdPVFY3Z9IB7gFBVV95cUxQOHQ4TnN1Q3JicnRiRnJpem5PSVV3LVhUc0l5ekcyTUFRSTFIaTJHTWZNeHZUZVpybjNvYXJHM2c4bWdtT3BwSGM3elBNNW1fUXNpaWxjZzZpcTlCNE1pRFFTZmxqczFKdXNmR19haE8xMGx4U1o4NDJKQzVHaUlUQVZ4NWVMbTFzcHU2NWw5c1QyNXd6ZG81UGJ2R3VIN01md1d4YXdWVEVhWTc0eHhLeEYxZ2trOXNKZWk4VnVIRnEtamsySkJBNDZfcC1uUGlFTkJUUmZLMnR3SXBsUUZMMUVsTmV6LVRVS0E2X2x3?oc=5"
-    },
-    {
       "id": "7ac9c852c3573d30cb",
       "type": "news",
       "severity": "info",
@@ -192,18 +216,6 @@
       "title": "El Servicio de Emergencia Social madrileño atendió a más de 1.300 personas afectadas por el incendio de la Sierra Oeste",
       "summary": "Un total de 32 profesionales del Servicio de Emergencia Social de la Comunidad de Madrid atendieron a más...",
       "url": "https://www.europapress.es/madrid/noticia-servicio-emergencia-social-madrileno-atendio-mas-1300-personas-afectadas-incendio-sierra-oeste-20260806115949.html"
-    },
-    {
-      "id": "85c8e7cbfed1503f6d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T11:58:09+02:00",
-      "source": "Europa Press",
-      "title": "Nace una cría de elefante de Sumatra, especie en peligro crítico de extinción, en el Zoo Aquarium de Madrid",
-      "summary": "Zoo Aquarium de Madrid ha informado este jueves del nacimiento de una cría de elefante asiático de...",
-      "url": "https://www.europapress.es/madrid/noticia-nace-cria-elefante-sumatra-especie-peligro-critico-extincion-zoo-aquarium-madrid-20260806091728.html"
     },
     {
       "id": "15aa02f9c21f19f136",
@@ -337,17 +349,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 13
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 16
+    },
     "direct_media": {
       "ok": true,
-      "items": 7
+      "items": 6
     }
   },
   "refresh_seconds": 300
