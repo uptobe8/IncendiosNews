@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:17:13+02:00",
+  "generated_at": "2026-08-07T09:47:45+02:00",
   "items": [
     {
       "id": "1d5cbf1d36b967a40e",
@@ -14,13 +14,13 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclR6aFRwQU4yTFRUZW9iY3RkMG1QUG9yaHc5VDhvQzctNnZKVDY4V25SLWZOTlNGeVdTTWJQUXJ2N282LVd0TE82QU5udXF1UTd3WmpFVm9WN21CNWNIUWF4YjBzMlhzWlBpR0ZETDVxOUxKejd2bDZlTnZTdWgxakR0Ulh0VF8yd252ODcwVkVsTnNCNV9NdjQ2WnpjbHlOVjY3TmNvT05EN3NsWHQyQ21UVjQzVG1Ocjc0WEV4dw?oc=5"
     },
     {
-      "id": "e6c1f73b08905d8fab",
+      "id": "6c9f4368cde1a4ae47",
       "type": "news",
       "severity": "critical",
       "province": "Ávila",
       "town": "Provincia de Ávila",
       "published": "2026-08-06T19:35:00+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Estabilizado el incendio de Ávila que calcinó más de 50.000 hectáreas y obligó a evacuar a 35.000 personas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNTVBbVRFNkp3cU91TWtTV3Y1TzNYak13RUxvVm9uQXVtcThydHFWRktFYXI1OXFrMjRHb0tMc0M4WjdrZzBpbDFNU25LUG9pakN5Tm0xVEpBVVFzTFpFdF9RWUtMUzBsbjVoVU1hODAyeEZtMlRKb0FaWVpnRWxtYnBwRkY2V0NwUWZTdEhRRkQ4OE8wZTBoTUg3ekhJam1UMVY2bC1mdGdVWUE0bVlNdS0zeU5fMV8zUVhNNUE0TGo0WHFKWERRQ3pDM24ybnFrWEVVSG9peHlMekg5Qm5lVDJic2ladjg0Y3lvaTVkdDlwc2hYTURvQXlpUERwd1FacG04ODZUbXhwcFk3R3U40gGUAkFVX3lxTFA2WE96WnY1anM2ajM2YzF6SXhhNGx3NXRiYmRlNTg5ZGEwSjY1MTY2Y3Bob0EwS21lTGtqYmVKbmpFdHV1Z1dNTElZcHE3cnhicDBUdUl6WG1kRkdqcFc3QWxUTUlwTmhUVjMzT1dQQ2UwUUo3TGw4dlBmVXltVHRhV1hwTWxDMTFKemlQM3g2eTExaWdZVUVpbjZ6ZWxMN1Y0OE9RczBjUUY1N2thTzRZWXFyaHVDNDExQWJjMGtEcU9LZGVyM1FPLUVUS0lRMDJiY1ppLXBEd1ZuTWFYdUZBZUNwQUdfbHFEcFdXTmM5ZEZTdVZ2VTVsMWZXbmtoY1BzS05zUUJqM0liUV94S3JnRkZXQw?oc=5"
@@ -48,18 +48,6 @@
       "title": "Una campaña en redes anima a recorrer los pueblos de Ávila afectados por incendios y descubrir su riqueza",
       "summary": "La Diputación de Ávila ha lanzado a través de las redes sociales una campaña para invitar a los viajeros y a...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
-    },
-    {
-      "id": "c275e68b5a57a84f6c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-06T17:30:41+02:00",
-      "source": "El Español",
-      "title": "La Junta diseña con los cotos de caza de Ávila un plan de ayudas para recuperar la fauna tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUjluVFJNcVdFQnRtYnR1djZVRVBmM3lFNlRXR1JXZWhBYm5tS1I4eUtBLS0yRTBrQnZRRG1CZ3k1RENaampqa2RDT2I3ZEUxdmh2eEJPYkdtS1h2UU10YTNvcV94ODllVDhUNDZ4OWlzTkp0Sk5JQ1dWOEJNekREb3RWSW1HaGNFUTdBRzhoeGliUTJ1WHhieDlueV9YOC1pRzRNemo4WGlhbFVlZ042cWRvQ1lUakdPWXk3bUx6VG1zZDQyWVFaVF9ETGh6dFk5N2hCR09rUVBRZzJUOXB2YnZqampGV1QzWDRGR1VzekpKUUVa0gH6AUFVX3lxTE81ZmxLSmR4NkpaeXY2dUNRZ2hyM2h2bVdyeVVHYktDX2N1QU43ME9BVGNWX2ZyTVZDYnZhN1VNMUdzMFd2eHdUanZsNjRLRm9oTVNRSnh1ajBuZElMTDRpaEsyZ3dtN3JIU25ZTE02UDN2Mng3aWI0T21CX0ZoRkt5YVZtV0NsTFBRaGkwVW9yYWZXTGxvOHpxYnZpaHByUldkSUVNVkJMUGlCNENTS1ctc2JvUkE5cUVSQ2FlWkNjand2S21wZ09uaVFOd1h5bXJYZWVTOXc2QTlRUHQ2N3ZpZVpmaERWNUdEb19zNWFDNHhHUldNOWtxSHc?oc=5"
     },
     {
       "id": "11fdedf86456d43d11",
@@ -110,49 +98,49 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNczhqYW4zOFE3R3JzRV9ESE5lUy1hbFF1NHBMN2ZuTGRmdHhZZE5wZFJUeXQ4b0hGS1lmazRJLTJmbUtxNEdfTF90OHVqRVROODV2UHFRUXNlVkItVFViNV9SZjJXNXJMenMyNjZWQTdndko3ejNMZDc4Q2xXLXBFQktXNXgwSFhDanB1Y2Y0VHJNU3VYRVBNZ0w1ZktQdnBGM001SmxrUXRybkwtYmVkelA4dXdVeEpiMERmRlJBVFB1SVlmZC03bGZHTdIB3wFBVV95cUxQRTlNbUZVU0l0VmphTXhTU0VST1F1bzBUUHBOeEJqVEVGRmJwTDgxcGlzSzR3SjBUaVBwejkxZlFYTXRlaDVMSGEtZ3dhLVY1cXY4ZVRJSGU4VHRlaWtBWUhwVjBoaExhSDFkNDhXbm51bElraEVQY2tnbGl4cDJzZGthUkR3ajlLaUc5ZXpaWUZ6WkNQX1dvVC01UkN1Q3FrV2JCc0F1M2dDbFBXYlVYbkdsYi1LUVMzWGo5aUF3bXY0bEszdWRDVjI3NnBjQzd5QjRmR29STTBWMXhFYnJ3?oc=5"
     },
     {
-      "id": "d0def01ebe9d5c60f8",
+      "id": "ad231ff6c1b1bca48a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-06T15:14:15+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Madrid limitará la caza en montes incendiados la temporada 2026-2027",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMkt4UEJvQVM2WG1iRnhEcVk3SGZXMjlranhEc2lRUkx0RWpMNzR4enVTc2NJUXBXX0gzOGFNM00xMEdvVEU1cTF4X1VBV2dTakNHa21KYVNEOFNUSGZONTdLZEJCSmhtbXVYa2lBT2s2MTN3LVQyS05LN1F5ZmMwbHN2M1d6clQtYm5hQ1VlM2N5WEY2eVhTT1NzZDc3RE4tUEtNM3h6YTFyWmxveGxQQTJlVDhDOVBBSlExMW5DZ2h3TGhBN1NvTDBBSmNrVG41NTBleDlwNVhkRHRMSXRHRU8yb2NwY0VtUG13V0F30gHuAUFVX3lxTE4yS3hQQm9BUzZYbWJGeERxWTdIZlcyOWtqeERzaVFSTHRFakw3NHh6dVNzY0lRcFdfSDM4YU0zTTEwR29URTVxMXhfVUFXZ1NqQ0drbUphU0Q4U1RIZk41N0tkQkJKaG1tdVhraUFPazYxM3ctVDJLTks3UXlmYzBsc3YzV3pyVC1ibmFDVWUzY3lYRjZ5WFNPU3NkNzdETi1QS00zeHphMXJabG94bFBBMmVUOEM5UEFKUTExbkNnaHdMaEE3U29MMEFKY2tUbjU1MGV4OXA1WGREdExJdEdFTzJvY3BjRW1QbXdXQXc?oc=5"
     },
     {
-      "id": "a37eb329113882ed95",
+      "id": "03aaae9e8e78928920",
       "type": "news",
       "severity": "info",
       "province": "Toledo",
       "town": "Almorox",
       "published": "2026-08-06T14:33:17+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Dan por extinguido el incendio de Almorox (Toledo) que se unió al de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc3BxVjhUYWd0dTRqVk5HaGJHNkdaMGV1UWRLU2Jmd3l6eGxxZGVYUEd2a20wclVnbVJXdTVDaUhQS3pFQmJIZFgzOVdwLUN0MnpIX2pxQ1lPRnN3dUVsOUV0RnZCYkhybklHd2NGc0lJZ0djMXNEX3FWRXZQYlZXV3NzZzExWkw2cXFUTkk2bGpZeXBzTzU2TDV4Sy0tNEFEOFRMYWxzRnkxU1pyNUJhOG9vMnF6d1U1cXRLSmt5OTlnRFExYTdEUS14N1JqVmtLQVJ6SzV6UlpXaHFISkFTRXhkRTBFZjBwQjFEel9PTkRyLUhrWGl4MVZ4UU91WTTSAYQCQVVfeXFMT1BObFpuQnVCam1YMWxCNmlEZXJqUnlwQ2Z4X2VCQTFWcWJRVmVjbF9qMDhDdUYwaWNPMWZNZ0VtN2d0WDAzLVJyMFdWYkVPX1IyUmIwc2dwejRwVHl3dEVfald3OE9yWDdjZVpvXzJzN1R6Vmt1RW9fS2xtMXNrOC1JYUhXZzlXREdqSmthY3k4cmhzeVI1V1BlSjNCWHZPNXo2RTF5UXlBMFI1dUZZaERyZDQtZzBjQlIwWnBwNkhFbWRmLUhLRkxycEw1QWxsd25TQ1N1Xy1WYmdaNW9CU2FYZUVLVnp3cGNvMm5XX2xJY3dmeGk3Q0tvOTZWTVNzT2Q2T3Q?oc=5"
     },
     {
-      "id": "cde2efb863fd89a1a4",
+      "id": "1d0356442f3449dbe4",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-06T14:28:30+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Francisco Martín defiende que el Gobierno \"no falló a Madrid\" durante el incendio y seguirá en ello",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZnN5anExak1WVUcxeVFGNTFSTXVZOFFlMkozcEFlYV9reXUtd1F5aE1ObGdWTDZHNUczMzBXLWU3blB1aEVzdmlFZmN0XzJJandrXy1SQm4xWTNmUUFYU2lSZ1JvVU9zWWRlbGRVclYtdmZZci1faWY2YV8tNnlETWIza0xlMERHVFpEM1YzRGZFdUM5aWZybnNiZkVTR09SWUktX3VMbF81al9DejFTQzNFV2dlQ2xFUFA2V1pZQ3FoZy0yMjRoSGpjdjloSS1ZX1ctd2JLdFFJTV8wV3B3cnR4SXBFb2JFbDBpVEVGYmc3eDdKd0VZV1NsNXg2eVZZX3U5UEZRXzMzTjFZTUdjQWFZRljSAZQCQVVfeXFMTmZzeWpxMWpNVlVHMXlRRjUxUk11WThRZTJKM3BBZWFfa3l1LXdReWhNTmxnVkw2RzVHMzMwVy1lN25QdWhFc3ZpRWZjdF8ySWp3a18tUkJuMVkzZlFBWFNpUmdSb1VPc1lkZWxkVXJWLXZmWXItX2lmNmFfLTZ5RE1iM2tMZTBER1RaRDNWM0RmRXVDOWlmcm5zYmZFU0dPUllJLV91TGxfNWpfQ3oxU0MzRVdnZUNsRVBQNldaWUNxaGctMjI0aEhqY3Y5aEktWV9XLXdiS3RRSU1fMFdwd3J0eElwRW9iRWwwaVRFRmJnN3g3SndFWVdTbDV4NnlWWV91OVBGUV8zM04xWU1HY0FhWUZY?oc=5"
     },
     {
-      "id": "4224e70ed4e49e6aa9",
+      "id": "b3b233cc9f256019a7",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-06T14:28:30+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Martín defiende que el Gobierno \"no falló a Madrid\" durante el incendio y seguirá en ello",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaU42WWdaUzJIZS1ZbFlYbHNvMElFR3FUVlFXQ0FWRDJkRXRXcXdxOC00d1psOXlNNnNUNHVBNEhOMktrdzhXTGFMZWVuLUI2NGRPWHZmYWRFTTJkSlFadlpwWkpQd0xXSWc1X1JKeWYxeUN3Ql95TDQtQUFDR19aRWNuR1JYbi1oZDBPRHJfc0lMMzVUclpmOWUtbjc0TXFlWklVV2doSzRKTVpVZG4wb3dqbTZ6MW5Xa0FTbnhRbDItQlNQRmFuSWVycTRrb3Q5VGNXTEoySlp2ODRoVlBQVGFYWDVRNUFhcExuZjBkWjZNRU9GUXhzU3VYMVRuSnhHVUHSAYcCQVVfeXFMUFl5b1ZOYlExeDd2RTR4VlJFLUI2UjhFM2xnbzVpQUlPU3pXcHV4VzdZQk1RN0p3NFNvbDJEQVJ4WFZFeENwaTJHQ3EwcGZuSUFYSjFBZ2N6QWtzYmxUQVU5QjA2TVd3ZVY5aXpEWVNqS21PVHY3MXZxRTVhZ2N4cGtWcnB4WEdCV3I3Q292cG4yYjhjaFlpVkVDMDhZMUVaa0RsaEpDVjhRSktFSUFnbXF5WlJfUkhpanBTOEFjSkRJdVdDZTRnSWgtRFNCRk1PUkVRSkJtckJmeVUxV2ZBdXNJOTBIQVVfX2I4aUdWNzFZM2U5ZTlpSEJ2cU5Mb21qcGhuUDJyZEE?oc=5"
@@ -204,18 +192,6 @@
       "title": "Cancelaciones y cierres en negocios rurales: el desolador paisaje en la Sierra Oeste de Madrid tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQ2FDenRDQ0hvUTJ3Mk82eTdhNXFXVk5zYVZIckxRUDdWdURKaU1pYlpINWVLRlFueVN2SXBid1p0a1kteEJBUG9iODBOTlNfTFNvcXFyaUtpRTd0VUgtMTNFdURMY2RMX1R4QUhWNFpuMU9mdDdBQ2c3UU1TU3BQNzcyN1JUdU5JTy1ENWpBb1RJc3JRcFlVd09NLXJLRmNuLW5wcWRVUnJTcEVvQi1BU09TYVRvYU9LQTlRYWNhZjhDSTFkZVN4ZG9MS2dHSlQ2eEJncE5IcGxCYmJMMkw3SzFTRDU5Z1MyNGdwU1hhd2hiRzh6Vjhmb9IB-AFBVV95cUxOb0hiNTRUb0pGVFBJclo2cWU1anBhZWJSQm12TGJvRVRJR1pjZllQUnpmTnk2QkZ0ckRCUGREUmtHQ3lEOXRzUUtXOXk1NDRGSHJKbFkxZWE4VzFFUWMyMEVKV0F3UmVMUVZOLWN3eDZ4Q2hHZkkyRVUtbEkyZjV5TlduNElod0gwVzlpbkFOYzVYbU44bmVlU2NqQXJRZ2xacjBmT2JXX1NJVHJjMExyNnVza0RHYWUyWDE3dWlKajVYeEtrWjM5a0lqckVHQWFIdE5yczdMODF5bkc5Vk1hbkNDelpiN2NnWjlndVkxVFd3WnhMdmZWNA?oc=5"
-    },
-    {
-      "id": "ae2fe4a6a17691615c",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-06T13:23:52+02:00",
-      "source": "Europa Press",
-      "title": "Asaja urge a presentar informes para que la Junta radiografíe \"cuánto antes\" los daños que dejan los incendios de Toledo",
-      "summary": "Asaja Toledo ha exigido a las administraciones regional, nacional y provincial una respuesta rápida,...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-asaja-urge-presentar-informes-junta-radiografie-cuanto-antes-danos-dejan-incendios-toledo-20260806132352.html"
     },
     {
       "id": "0bb3a998cfc550f607",
@@ -288,42 +264,6 @@
       "title": "Extinguido el incendio forestal de Almorox (Toledo)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ST29hTlVvb2JvQVQ1eW1vemc1Qk1VbkNVQ3UzQ1pDUV9qUXlSY2VlVjMwOGhZWkpjM0JGVVhkdlBOcmh4NnVaU3FtQmNacWF0UEpla20xWmtiSVdqajh5UTNWbEJFUGlWRTFKaXQ1dm5iVUttVl9id0hfSQ?oc=5"
-    },
-    {
-      "id": "7bc4a5e4f6bb7e9c86",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Castillo de Bayuela",
-      "published": "2026-08-06T09:32:27+02:00",
-      "source": "Cadena SER",
-      "title": "Castillo de Bayuela: cómo están los vecinos después de volver tras los desalojos por el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT09VcHBKRzNQam81bzF6TXFVV1k1eTllTHNkcy1hWVRwMkdQUVpha1M4NEE3WVcxOVRfNGtaQ3AtOG0zSksxOVRtM3hQc3hlNHh6YVNxUXNwWEN0a1M2YVAyOHB1cHhzSFhkOGtLUmRzZFJKNnlkWWlkeWVGRWNIMFQ2bW5Fd3A3TTRqV0tWNkd2cng3YVhEMXIxT21wSU9tdzZVcy1XLWloMGtEeW1vekRBWjlNZkVHVzZxLVFRSHJla1VpcXhmNHVTSl9La3RtZEZ1V0M5UnFyUENuWTJtVEZIUVhleG5xU1VaUnIwMULSAYQCQVVfeXFMTUZXeG5LSVhyOWpPNTQtR09neEpQODVtVWswanF6VFVZZFV4RnRPTlFkbGkwUGF3dFdxdXJodERYMFkzVXNyT3g0aEhvZmtBTWRoTWk0YjVyWUkxZnVqb3NGdG1CSnFaRWpLd2hia0NZdkdiaG9rcmI4RWtLbTNoNU5maG9WS1Q1NlVXMkdlQi16Y2xmTWllOGhNcWszSC1Qb0RUejZvNTJWOUlvMG9MckRVMmRJQm5JZWp3OGdNdHpDUDFpSXlHRVluTTBlRFQyUktFQ09UY0gzUUNPQzZ5TWJXSnIycnBUVDM4SkNKamZEX1RzeXVkTFNOZkxubFp4U2tqUHE?oc=5"
-    },
-    {
-      "id": "207dd4bd8e61554b63",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-06T08:56:03+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "Dan por controlado el incendio de Almorox (Toledo) catorce días después de declararse",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVmNtc3dZRnIxbkNlYUJndVNCMWZlQXp2OGNGdXBDdWJMaVpTT04ya3Zjdkg5dGR3RWtTMGtRWm1BY0Yxa2JNN2lxWmw5MzdRX3M4aEkwdUJuVU1yN0ZSOThXUXItZWxPYThJV2tDTlc4NFFwSUpiWjVrc3pOLW8?oc=5"
-    },
-    {
-      "id": "138cd9361a41dd62c3",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T08:53:04+02:00",
-      "source": "telemadrid.es",
-      "title": "Casas rurales, campings, alquiler de bicis, parques de tirolinas, bodegas... los negocios arrasados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNOHZYT3BucmM4a2p2UW96RFZxYUJkOHBlUnc2Wlp1dlV2cVh0TGxKU1R1YzlWaXdPYkxNRExLc25IVkJralhzWTg1cW12MU1LeWZzNXVPTTVYWXhXVmUxeFdnaDZwZ240enRfX3ZqZ0M1WUlXWVBwdWNFTXhQejBYUEtaM2ZUYWVlRm1yd2N0SGJBMzdMZGdkSDBITVF0alRQX1A0NTJGanc2ZnpMZW1ibnlkTFZPZW5WWWtNMWJOU0g3azlVdXo5YzFLR2dQOXJxRUllLU1DQkltUzdPWW05RUd3UzdmZ0U0SldRbXB2ZUNGMFJ2ZV8yZUUwNm5yODNvbGxfNmxHcjhIVHcyWDNsOE5zcDhVU1M0ZmZTbHM4Yng3Y2VCM3UxRGpNONIBsAJBVV95cUxNcWlhWnYyWkRSTFRvZmk4bkFpRTVlN095QjdRMll3THRrdTNwMkFOTWdmMzMwa1VlcXFaNGhXaHVrdVdYenBBZE5lanI0NDNNZmJrWXdtVWdJc1BCVVZwcXd1VzhfOTNrVlFQbUZ1YWdLRDhGVGE1bjhMLUlSYi1rQXFLZkNBY2tOQUQ5b3RlZDB5eTdPb2VsWGRiR2d5bjlha2hpaVhuNEJhS0MzOXFUeFpsbU01d3hUQ2dXdnNjNG51Wk9VMFROamVtcGhpa2xwb0RWVjFtdVNQeWR2ay0xckY3M0dndDgzYnpnVkREdjB4WmV6VVBJNTJyM0FtWkI5RXdFTXVvNnJSNlQ3VVlBbHY0eWhpTTdISHVHQ2lzUmNIVEFoYXl4OWZsOEE4bkEw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -439,11 +379,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 24
+      "items": 20
     },
     "direct_media": {
       "ok": true,
-      "items": 7
+      "items": 5
     }
   },
   "refresh_seconds": 300
