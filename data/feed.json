@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T20:23:02+02:00",
+  "generated_at": "2026-08-07T21:26:38+02:00",
   "items": [
     {
-      "id": "10da7af2785b8fc659",
+      "id": "62ac9d11f3315f6f4f",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Pelayos de la Presa",
-      "published": "2026-08-07T20:07:50+02:00",
+      "published": "2026-08-07T20:27:00+02:00",
       "source": "Telemadrid",
       "title": "\"El jacuzzi salvó al futbolín del incendio\", el sorprendente testimonio de un vecino de Pelayos de la Presa",
       "summary": "El testimonio de Iñaqui, vecino de Pelayos de la Presa, es desgarrador a la par que sorprendente. En cuestión de días, Iñaqui lo ha perdido casi...",
@@ -182,18 +182,6 @@
       "url": "https://www.europapress.es/madrid/noticia-servicio-emergencia-social-madrileno-atendio-mas-1300-personas-afectadas-incendio-sierra-oeste-20260806115949.html"
     },
     {
-      "id": "85c8e7cbfed1503f6d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T11:58:09+02:00",
-      "source": "Europa Press",
-      "title": "Nace una cría de elefante de Sumatra, especie en peligro crítico de extinción, en el Zoo Aquarium de Madrid",
-      "summary": "Zoo Aquarium de Madrid ha informado este jueves del nacimiento de una cría de elefante asiático de...",
-      "url": "https://www.europapress.es/madrid/noticia-nace-cria-elefante-sumatra-especie-peligro-critico-extincion-zoo-aquarium-madrid-20260806091728.html"
-    },
-    {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
       "severity": "critical",
@@ -301,17 +289,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 10
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 11
+    },
     "direct_media": {
       "ok": true,
-      "items": 6
+      "items": 5
     }
   },
   "refresh_seconds": 300
