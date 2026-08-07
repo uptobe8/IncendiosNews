@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-07T19:27:28+02:00",
+  "generated_at": "2026-08-07T20:23:02+02:00",
   "items": [
+    {
+      "id": "10da7af2785b8fc659",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Pelayos de la Presa",
+      "published": "2026-08-07T20:07:50+02:00",
+      "source": "Telemadrid",
+      "title": "\"El jacuzzi salvó al futbolín del incendio\", el sorprendente testimonio de un vecino de Pelayos de la Presa",
+      "summary": "El testimonio de Iñaqui, vecino de Pelayos de la Presa, es desgarrador a la par que sorprendente. En cuestión de días, Iñaqui lo ha perdido casi...",
+      "url": "https://www.telemadrid.es/programas/madrid-directo/El-jacuzzi-salvo-al-futbolin-del-incendio-el-sorprendente-testimonio-de-un-vecino-de-Pelayos-de-la-Presa-2-2914228604--20260807080636.html"
+    },
+    {
+      "id": "484f6c64987f16e073",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-07T20:00:15+02:00",
+      "source": "La Razón",
+      "title": "La Fiscalía de Medio Ambiente acelerará la investigación del incendio de Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3RPV2l0OWVTeE1hVW5XWVp4NTNfX2xQRjNsS1BJMktFSUp2S1YyUVN6bDR6aFN6c2tKeXdGTWh2TTMtNG12TXpKUlMxRENIWkx4RThWNmdqMGhKZ0kxa0w3SWtMZ1ZhbnBpTmdtN1Z0M1NjWUMtTXhtQU9jcGNtT3hkVHJxNVpWMXUyNWJZVUlBRWE4OXlyb1RHc3FOYVNMVzJHVU9DNlQxUnhXQzcxM1M3c1RRTWtXS0NJcHI4dERLaXdpZ3NxZi1xQVpEY3dtdXNVT2JR0gHqAUFVX3lxTFBKNVcwbFRFcmRWWk8tNXVsTExwV2VXTzVtVVFUdF9Zb3N5ZERMRjZ1c1hXMmJGbFFCNkd3aVF6N2xjcWNSeEFFcHdEUWV1am1jZ2pnbFBZLTFWdWk5RWkyZmdUaUFjTVA4NHFHSTNSSm8xMGZQaThubkRNOXJnaUV6Wmh2X001VDJTdHUzOTk0c2ZMNXJKcVBxWF9wZEIxY2kxTUNOQmtEdm11bHo3Z0ZKMldVS2NoZnZyS0IxTGZZbE1UQ1ZVSmMxU1cyWDRBZ0lzb1N5LVFNRjRYOXFOaTBJUVZmQVBVT2JRZw?oc=5"
+    },
+    {
+      "id": "46a07a4718e50c3933",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-07T19:51:55+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "116 víctimas de violencia machista fueron objeto de vigilancia durante el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
+    },
+    {
+      "id": "419b6d0d3a41724a02",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T18:51:02+02:00",
+      "source": "Madrid Actual",
+      "title": "El Pantano de San Juan, apto para el baño tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcjdTbzNMbTJtaWVfYVU4QXFTbk1ReC1USHpXR1F4UnNBNFFHLUFyRkhYX0IzWkwwQjZfX0E3d0hDQXVKQ3Jmc1AwbmJmc0NwdlBMdnJISGJtQ1JuMm45SDVpdUYxU0psYXlQaFFkZF9yQkVrZGRGdzdEWWZnUDZJaDA2TFBFVnNwTC16UXk4MS1tWEIzTXdQaXp1aWV5LVlCaUljcXMtTGYxQlRvcjhLTzlHU1A2cVJuajlCRGJNdFpJLVozd0RFc0k3WmRvWFg3VnVyXzBmc0c0U1hDNi1lbEJR?oc=5"
+    },
     {
       "id": "7fe2188e42471e2758",
       "type": "news",
@@ -10,20 +58,8 @@
       "published": "2026-08-07T18:46:23+02:00",
       "source": "Europa Press",
       "title": "La Comunidad de Madrid califica como apta para baño el agua del Pantano de San Juan tras el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWUNRelVoVDdwbWoyN2lBRklzVTJUR1BJSnRDN2YtVEZZLWp3QXgxbUlHZW9XWmFXLWF4VjhHTkpxcVlmT0p6a0pWWUtrbFZPMU5nS2x4TjM2SkJsY2I2Q3B4ZzJRaVRoV2RYbV9SZ01iVFZGVUVwMzJNX1VlQUlJbC1OM20yQlpOZzJlNmw1NEdFVTZYOFdfckJVYWZ5SUxHeWx1ckFJVVMwcmZRUWc3SmtNUGIwVm1iaU5YelBCS2p3a1AyLTk1Wk5TMTRRR25ZVFNEcl9mclE?oc=5"
-    },
-    {
-      "id": "d82dac79f98be97dbb",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T17:22:15+02:00",
-      "source": "Madrid Actual",
-      "title": "Madrid activará apoyo psicológico para las residencias evacuadas por incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblcxdHNSRWhuZXhEOGROS2xMRjFxRkF1aktWc3RnVmpUWnJnckVhZTNpVmlJSjVCT1JpZnB1TnRFVDlGLWwyN1FFVDQ5QlBROU1wQ21QZmgzcWhwVVlKWGxSanlxcU5NYWh4cG1WTVp3emhkUW05cHBsN25UeUc3RExfSG1HVUpxdmEzRE5BOTl1akg0UGo2NW4xSzVuc1RrVE5LOEFpVHBqMWQ2bXo4aXhEbEFKQ2MxeUI4ZXNHRGgtMWVHWmc?oc=5"
+      "summary": "La Confederación Hidrográfica del Tajo será la encargada decidir si levantar la prohibición de actividades...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-madrid-califica-apta-bano-agua-pantano-san-juan-incendio-sierra-oeste-20260807184623.html"
     },
     {
       "id": "f86dec57c106aa6387",
@@ -86,18 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
     },
     {
-      "id": "5629cb0b898ad6f4ae",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-07T13:51:55+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "116 víctimas de violencia machista fueron objeto de vigilancia durante el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
-    },
-    {
       "id": "0d2d5fd2419ad13b99",
       "type": "news",
       "severity": "info",
@@ -120,18 +144,6 @@
       "title": "Montesino pide ampliar las ayudas del incendio por la pérdida de conectividad",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclR6aFRwQU4yTFRUZW9iY3RkMG1QUG9yaHc5VDhvQzctNnZKVDY4V25SLWZOTlNGeVdTTWJQUXJ2N282LVd0TE82QU5udXF1UTd3WmpFVm9WN21CNWNIUWF4YjBzMlhzWlBpR0ZETDVxOUxKejd2bDZlTnZTdWgxakR0Ulh0VF8yd252ODcwVkVsTnNCNV9NdjQ2WnpjbHlOVjY3TmNvT05EN3NsWHQyQ21UVjQzVG1Ocjc0WEV4dw?oc=5"
-    },
-    {
-      "id": "6c9f4368cde1a4ae47",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-06T19:35:00+02:00",
-      "source": "Telemadrid",
-      "title": "Estabilizado el incendio de Ávila que calcinó más de 50.000 hectáreas y obligó a evacuar a 35.000 personas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNTVBbVRFNkp3cU91TWtTV3Y1TzNYak13RUxvVm9uQXVtcThydHFWRktFYXI1OXFrMjRHb0tMc0M4WjdrZzBpbDFNU25LUG9pakN5Tm0xVEpBVVFzTFpFdF9RWUtMUzBsbjVoVU1hODAyeEZtMlRKb0FaWVpnRWxtYnBwRkY2V0NwUWZTdEhRRkQ4OE8wZTBoTUg3ekhJam1UMVY2bC1mdGdVWUE0bVlNdS0zeU5fMV8zUVhNNUE0TGo0WHFKWERRQ3pDM24ybnFrWEVVSG9peHlMekg5Qm5lVDJic2ladjg0Y3lvaTVkdDlwc2hYTURvQXlpUERwd1FacG04ODZUbXhwcFk3R3U40gGUAkFVX3lxTFA2WE96WnY1anM2ajM2YzF6SXhhNGx3NXRiYmRlNTg5ZGEwSjY1MTY2Y3Bob0EwS21lTGtqYmVKbmpFdHV1Z1dNTElZcHE3cnhicDBUdUl6WG1kRkdqcFc3QWxUTUlwTmhUVjMzT1dQQ2UwUUo3TGw4dlBmVXltVHRhV1hwTWxDMTFKemlQM3g2eTExaWdZVUVpbjZ6ZWxMN1Y0OE9RczBjUUY1N2thTzRZWXFyaHVDNDExQWJjMGtEcU9LZGVyM1FPLUVUS0lRMDJiY1ppLXBEd1ZuTWFYdUZBZUNwQUdfbHFEcFdXTmM5ZEZTdVZ2VTVsMWZXbmtoY1BzS05zUUJqM0liUV94S3JnRkZXQw?oc=5"
     },
     {
       "id": "54b078f25fc1db4fcb",
@@ -289,17 +301,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 10
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 12
-    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 6
     }
   },
   "refresh_seconds": 300
