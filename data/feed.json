@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:35:41+02:00",
+  "generated_at": "2026-08-07T18:30:25+02:00",
   "items": [
     {
       "id": "f86dec57c106aa6387",
@@ -14,13 +14,25 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEsxSDRxS2JTVllZRXh2T2V2ajNuOUNvdlB5RXZ4Yl9EUlpRSThrM3JXYllscmJRVHJTaXY0X1RidnJtYzNIb1pORG4wdnNsYms4Ujd6WmNHRjhISk5wX2QtNEl6dzkyUWtwR19Db3I2NE8xek56ZFJGUmVMVEEwYTZYMzBkTDlBWFFhUXZaZ2tuaDRYbkFCejYtb1RhbHBKd19ROXNXcVVqZlZKTHlPUy1UTkJHSXYwckhvSU1rVU51NWtmbm5UNDBRMXFqeWhvRjNVcFFRZmNzMFRoMXRxUHkzc0t4RkptVWhoSUcwZXnSAfYBQVVfeXFMTmhNOHVOUUx4VnMtNDdneGl6UjhvenBJOU9JX21MQ2VTbnFicWZBVGEtQ1VzeWVEVHcwbmhreHIwRTA2aVVMMVd6SUdGZUVVbmlJNGQyYnZubFNSSEdRVkFtc2twQS1YN1VBTVBuMnBmUFlwVFhjemJKLXp6dklIVUJVcUFEZ2R4cjRISThLQWlhZUJtbzFCLVhHUnFxa3FUMGhTUHFKNHNleERLRUlrWmtQOW52UDY5QnJyWW05aHloYVdGUUVYa3BhbU55VEVCSjljRW4xbV9CeWxYcGlpdXBkSUJwa2JPZnlFT3h0WlVJbmJCVTNR?oc=5"
     },
     {
-      "id": "d28c2c63378a5c4ba4",
+      "id": "69a1af597fcf959074",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T16:41:07+02:00",
+      "source": "El Mundo",
+      "title": "La Comunidad de Madrid pon en marcha un plan de apoyo psicológico en las residencias de mayores tras los incendios en la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWWhwWHdWNnNJWnRobXk5V2ZGVEtUMVNkLThDejVaSEQzbW5XU2g3MzV2WU9iZnJEZlJPNzk3Y3lSSWFwWkMwNkF6S1dBelJOXzl4NnVuNXpyNEZoRjBzLW15Ujk0LUZyMTFOMmc1Y0lWQVVTbTdQN0pn0gF6QVVfeXFMTmpZaHBYd1Y2c0ladGhteTlXZkZUS1QxU2QtOEN6NVpIRDNtbldTaDczNXZZT2JmckRmUk83OTdjeVJJYXBaQzA2QXpLV0F6Uk5fOXg2dW41enI0RmhGMHMtbXlSOTQtRnIxMU4yZzVjSVZBVVNtN1A3Smc?oc=5"
+    },
+    {
+      "id": "0af27301e8844e944b",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T15:56:21+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Madrid aprueba una campaña de promoción de la Sierra Oeste y nuevas ayudas para la recuperación tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
@@ -120,18 +132,6 @@
       "title": "Una campaña en redes anima a recorrer los pueblos de Ávila afectados por incendios y descubrir su riqueza",
       "summary": "La Diputación de Ávila ha lanzado a través de las redes sociales una campaña para invitar a los viajeros y a...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
-    },
-    {
-      "id": "d30eb4c64a701142a3",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-06T17:53:53+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Extinguido el incendio de Almorox tras dos semanas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGFLLV9tc3d3aW5LdElENS04Ui1lTllJYV9zT2h4NXZHdHFERzN5ZUNzWmdyYW9tZnZ3VkFzMEZtYVctNk14VHdoX0JoT2djcmxWZUppMWhOaXZQY0lvMWZuYjFrbDJvbkRONDB1Ql8yLW9MTWJ5a2ZQQ21CUUhJMkdWTk5Sdy02akkwS1lQbHlUU2o5elVJMzY0LXQ1ZHdGdUc3R3hWbEFjREEwZk5jR3doZlB5a2J0bF8zVGlyaGQ4N3h4aHZIWFZoZWY5dnFo?oc=5"
     },
     {
       "id": "7ac9c852c3573d30cb",
