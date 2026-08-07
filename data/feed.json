@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:41:31+02:00",
+  "generated_at": "2026-08-07T11:42:15+02:00",
   "items": [
     {
       "id": "1d5cbf1d36b967a40e",
@@ -242,18 +242,6 @@
       "url": "https://www.europapress.es/madrid/noticia-nace-cria-elefante-sumatra-especie-peligro-critico-extincion-zoo-aquarium-madrid-20260806091728.html"
     },
     {
-      "id": "9318744ff6470c0c5f",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-06T11:18:25+02:00",
-      "source": "EFEverde",
-      "title": "Extinguido el incendio forestal de Almorox (Toledo)",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ST29hTlVvb2JvQVQ1eW1vemc1Qk1VbkNVQ3UzQ1pDUV9qUXlSY2VlVjMwOGhZWkpjM0JGVVhkdlBOcmh4NnVaU3FtQmNacWF0UEpla20xWmtiSVdqajh5UTNWbEJFUGlWRTFKaXQ1dm5iVUttVl9id0hfSQ?oc=5"
-    },
-    {
       "id": "15aa02f9c21f19f136",
       "type": "news",
       "severity": "info",
@@ -391,7 +379,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 20
+      "items": 17
     },
     "direct_media": {
       "ok": true,
