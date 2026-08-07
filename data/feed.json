@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:11:10+02:00",
+  "generated_at": "2026-08-07T15:39:55+02:00",
   "items": [
     {
       "id": "ae1d4f77e7d8916947",
@@ -74,6 +74,18 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
     },
     {
+      "id": "d30eb4c64a701142a3",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Almorox",
+      "published": "2026-08-06T17:53:53+02:00",
+      "source": "La Tribuna de Toledo",
+      "title": "Extinguido el incendio de Almorox tras dos semanas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGFLLV9tc3d3aW5LdElENS04Ui1lTllJYV9zT2h4NXZHdHFERzN5ZUNzWmdyYW9tZnZ3VkFzMEZtYVctNk14VHdoX0JoT2djcmxWZUppMWhOaXZQY0lvMWZuYjFrbDJvbkRONDB1Ql8yLW9MTWJ5a2ZQQ21CUUhJMkdWTk5Sdy02akkwS1lQbHlUU2o5elVJMzY0LXQ1ZHdGdUc3R3hWbEFjREEwZk5jR3doZlB5a2J0bF8zVGlyaGQ4N3h4aHZIWFZoZWY5dnFo?oc=5"
+    },
+    {
       "id": "c275e68b5a57a84f6c",
       "type": "news",
       "severity": "info",
@@ -98,18 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNN19aNjJZVXhvbzJuYWh2R00yd1hTWlB6OHF1WnRDbkNkaDFYNjV5LVRRcWV1QW04T29sWDhTZUNKNTR1NlVLbmNoWVhHdHV4UVMwZVpUdmI3blI5U3B1TEQyNWFNem1mQUtnYWFTdGJlVkFxS0tiVDJzUzd2M2xfbWxnU05CMWJZZ1QzQmFEYkJaeFFSQkxHUmRialVJaGJPVDFydVY5V25XRk9vd0V1X3owSXFvYzVHc3huNWd3OG1HeElOVzR1Yk9NNlZBY1pydjZBTGNOT2hkZWxCNEtBUFdnVV8xNElzUXdnUWhhZXNRRnRienpSaEpacTY5NGxua2I0cDhfQ0dyWGF3OEV1MEN2RnoyZWhhN1Z6dmxadC0ySExE0gGkAkFVX3lxTE03X1o2MllVeG9vMm5haHZHTTJ3WFNaUHo4cXVadENuQ2RoMVg2NXktVFFxZXVBbThPb2xYOFNlQ0o1NHU2VUtuY2hZWEd0dXhRUzBlWlR2YjduUjlTcHVMRDI1YU16bWZBS2dhYVN0YmVWQXFLS2JUMnNTN3YzbF9tbGdTTkIxYllnVDNCYURiQlp4UVJCTEdSZGJqVUloYk9UMXJ1VjlXbldGT293RXVfejBJcW9jNUdzeG41Z3c4bUd4SU5XNHViT002VkFjWnJ2NkFMY05PaGRlbEI0S0FQV2dVXzE0SXNRd2dRaGFlc1FGdGJ6elJoSlpxNjk0bG5rYjRwOF9DR3JYYXc4RXUwQ3ZGejJlaGE3Vnp2bFp0LTJITEQ?oc=5"
     },
     {
-      "id": "92d1dc57dfeffe7182",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T17:20:13+02:00",
-      "source": "20minutos.es",
-      "title": "Madrid activa ayudas de hasta 10.000 euros y avales para empresas y autónomos afectados por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlh4akhRRUQ1SlB1M3RjczRHUXI3S2lMMWV6cklkRlZqeEpIRGNFT0Y5N3g1MkVaeFc2YnZWZjNkWmhYSk9DM3AzZm5KY3ZKYnFJUWNYMDJ2R3pQZ0FpQUtNMGprNkdEZnkyTkszQ0dzYTNxWkVnRE9VdjAwV1J0QnVOS1dKZmdDc3FLd3QzeTZMVVZKeWZ2MWF0bmFwVDVKMksyLThDUG5STDBmdzE1SDZzN0g0dUU3TGxCSTNpbl9JYXRMS2lpdkZNa25lSEtESU8ybXNwRnBTb3dwanc?oc=5"
-    },
-    {
       "id": "00a4040d1abdbb7663",
       "type": "news",
       "severity": "info",
@@ -122,13 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2pSaGJGWlY1U3J3QUlsbGpZSFBuODhPVVlnckZ0Nk9uV28yY0lxWl9NNjA5Y1IxNk9IVGFCTzRiTlhMWmFZLU1SY25UcF9SdzZtVEM5VkJVNEtxQlF0dzdxLUJyTThOLTg2U1VwekFvWTU4TVpCU1RTT2xOanRwSjNDbEdIWnFqaTdqUEZIYjlnX21nQU81c0lZVUpVT1ZndFBOczF1bXgwS0E2X0FsSnNkeWttWmVx?oc=5"
     },
     {
-      "id": "78ff5cd75e713cc7ed",
+      "id": "486b53e426c8f597b4",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
       "published": "2026-08-06T16:36:39+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Una recogida de firmas pide prohibir la caza en la zonas afectadas por los incendios de Madrid y Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcGg1MG9kcnd6UVQyaFNPTXYzajBOVzU0M3d4cXJYajUwU1d4d284a2VHaTVXSVlwdG41WUdMb1FpajlfZlBwdUg3bk1VZ09vM2k1WTVKTEhmUWdqakhaMnlsVV81cnpFNW1CSi0tTWVLSFVvUHZkbXppcVRfaTRiRU5Tb3ZENzl6SkN0RVI0UGV5M21YcTUxRGtiMkxmT1dzVldkdkdHZGRTUE9aQ0wxZElWR0M3T2dKZTZPa2diSkgzelRub1NqMDZfenBGMnFnM0dwbdIB1AFBVV95cUxNcGg1MG9kcnd6UVQyaFNPTXYzajBOVzU0M3d4cXJYajUwU1d4d284a2VHaTVXSVlwdG41WUdMb1FpajlfZlBwdUg3bk1VZ09vM2k1WTVKTEhmUWdqakhaMnlsVV81cnpFNW1CSi0tTWVLSFVvUHZkbXppcVRfaTRiRU5Tb3ZENzl6SkN0RVI0UGV5M21YcTUxRGtiMkxmT1dzVldkdkdHZGRTUE9aQ0wxZElWR0M3T2dKZTZPa2diSkgzelRub1NqMDZfenBGMnFnM0dwbQ?oc=5"
@@ -144,54 +144,6 @@
       "title": "Estabilizado el incendio de Burgohondo tras quemar unas 50.000 hectáreas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNczhqYW4zOFE3R3JzRV9ESE5lUy1hbFF1NHBMN2ZuTGRmdHhZZE5wZFJUeXQ4b0hGS1lmazRJLTJmbUtxNEdfTF90OHVqRVROODV2UHFRUXNlVkItVFViNV9SZjJXNXJMenMyNjZWQTdndko3ejNMZDc4Q2xXLXBFQktXNXgwSFhDanB1Y2Y0VHJNU3VYRVBNZ0w1ZktQdnBGM001SmxrUXRybkwtYmVkelA4dXdVeEpiMERmRlJBVFB1SVlmZC03bGZHTdIB3wFBVV95cUxQRTlNbUZVU0l0VmphTXhTU0VST1F1bzBUUHBOeEJqVEVGRmJwTDgxcGlzSzR3SjBUaVBwejkxZlFYTXRlaDVMSGEtZ3dhLVY1cXY4ZVRJSGU4VHRlaWtBWUhwVjBoaExhSDFkNDhXbm51bElraEVQY2tnbGl4cDJzZGthUkR3ajlLaUc5ZXpaWUZ6WkNQX1dvVC01UkN1Q3FrV2JCc0F1M2dDbFBXYlVYbkdsYi1LUVMzWGo5aUF3bXY0bEszdWRDVjI3NnBjQzd5QjRmR29STTBWMXhFYnJ3?oc=5"
-    },
-    {
-      "id": "ad231ff6c1b1bca48a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T15:14:15+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid limitará la caza en montes incendiados la temporada 2026-2027",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMkt4UEJvQVM2WG1iRnhEcVk3SGZXMjlranhEc2lRUkx0RWpMNzR4enVTc2NJUXBXX0gzOGFNM00xMEdvVEU1cTF4X1VBV2dTakNHa21KYVNEOFNUSGZONTdLZEJCSmhtbXVYa2lBT2s2MTN3LVQyS05LN1F5ZmMwbHN2M1d6clQtYm5hQ1VlM2N5WEY2eVhTT1NzZDc3RE4tUEtNM3h6YTFyWmxveGxQQTJlVDhDOVBBSlExMW5DZ2h3TGhBN1NvTDBBSmNrVG41NTBleDlwNVhkRHRMSXRHRU8yb2NwY0VtUG13V0F30gHuAUFVX3lxTE4yS3hQQm9BUzZYbWJGeERxWTdIZlcyOWtqeERzaVFSTHRFakw3NHh6dVNzY0lRcFdfSDM4YU0zTTEwR29URTVxMXhfVUFXZ1NqQ0drbUphU0Q4U1RIZk41N0tkQkJKaG1tdVhraUFPazYxM3ctVDJLTks3UXlmYzBsc3YzV3pyVC1ibmFDVWUzY3lYRjZ5WFNPU3NkNzdETi1QS00zeHphMXJabG94bFBBMmVUOEM5UEFKUTExbkNnaHdMaEE3U29MMEFKY2tUbjU1MGV4OXA1WGREdExJdEdFTzJvY3BjRW1QbXdXQXc?oc=5"
-    },
-    {
-      "id": "03aaae9e8e78928920",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-06T14:33:17+02:00",
-      "source": "Telemadrid",
-      "title": "Dan por extinguido el incendio de Almorox (Toledo) que se unió al de la Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc3BxVjhUYWd0dTRqVk5HaGJHNkdaMGV1UWRLU2Jmd3l6eGxxZGVYUEd2a20wclVnbVJXdTVDaUhQS3pFQmJIZFgzOVdwLUN0MnpIX2pxQ1lPRnN3dUVsOUV0RnZCYkhybklHd2NGc0lJZ0djMXNEX3FWRXZQYlZXV3NzZzExWkw2cXFUTkk2bGpZeXBzTzU2TDV4Sy0tNEFEOFRMYWxzRnkxU1pyNUJhOG9vMnF6d1U1cXRLSmt5OTlnRFExYTdEUS14N1JqVmtLQVJ6SzV6UlpXaHFISkFTRXhkRTBFZjBwQjFEel9PTkRyLUhrWGl4MVZ4UU91WTTSAYQCQVVfeXFMT1BObFpuQnVCam1YMWxCNmlEZXJqUnlwQ2Z4X2VCQTFWcWJRVmVjbF9qMDhDdUYwaWNPMWZNZ0VtN2d0WDAzLVJyMFdWYkVPX1IyUmIwc2dwejRwVHl3dEVfald3OE9yWDdjZVpvXzJzN1R6Vmt1RW9fS2xtMXNrOC1JYUhXZzlXREdqSmthY3k4cmhzeVI1V1BlSjNCWHZPNXo2RTF5UXlBMFI1dUZZaERyZDQtZzBjQlIwWnBwNkhFbWRmLUhLRkxycEw1QWxsd25TQ1N1Xy1WYmdaNW9CU2FYZUVLVnp3cGNvMm5XX2xJY3dmeGk3Q0tvOTZWTVNzT2Q2T3Q?oc=5"
-    },
-    {
-      "id": "1d0356442f3449dbe4",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T14:28:30+02:00",
-      "source": "Telemadrid",
-      "title": "Francisco Martín defiende que el Gobierno \"no falló a Madrid\" durante el incendio y seguirá en ello",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZnN5anExak1WVUcxeVFGNTFSTXVZOFFlMkozcEFlYV9reXUtd1F5aE1ObGdWTDZHNUczMzBXLWU3blB1aEVzdmlFZmN0XzJJandrXy1SQm4xWTNmUUFYU2lSZ1JvVU9zWWRlbGRVclYtdmZZci1faWY2YV8tNnlETWIza0xlMERHVFpEM1YzRGZFdUM5aWZybnNiZkVTR09SWUktX3VMbF81al9DejFTQzNFV2dlQ2xFUFA2V1pZQ3FoZy0yMjRoSGpjdjloSS1ZX1ctd2JLdFFJTV8wV3B3cnR4SXBFb2JFbDBpVEVGYmc3eDdKd0VZV1NsNXg2eVZZX3U5UEZRXzMzTjFZTUdjQWFZRljSAZQCQVVfeXFMTmZzeWpxMWpNVlVHMXlRRjUxUk11WThRZTJKM3BBZWFfa3l1LXdReWhNTmxnVkw2RzVHMzMwVy1lN25QdWhFc3ZpRWZjdF8ySWp3a18tUkJuMVkzZlFBWFNpUmdSb1VPc1lkZWxkVXJWLXZmWXItX2lmNmFfLTZ5RE1iM2tMZTBER1RaRDNWM0RmRXVDOWlmcm5zYmZFU0dPUllJLV91TGxfNWpfQ3oxU0MzRVdnZUNsRVBQNldaWUNxaGctMjI0aEhqY3Y5aEktWV9XLXdiS3RRSU1fMFdwd3J0eElwRW9iRWwwaVRFRmJnN3g3SndFWVdTbDV4NnlWWV91OVBGUV8zM04xWU1HY0FhWUZY?oc=5"
-    },
-    {
-      "id": "b3b233cc9f256019a7",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T14:28:30+02:00",
-      "source": "Telemadrid",
-      "title": "Martín defiende que el Gobierno \"no falló a Madrid\" durante el incendio y seguirá en ello",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaU42WWdaUzJIZS1ZbFlYbHNvMElFR3FUVlFXQ0FWRDJkRXRXcXdxOC00d1psOXlNNnNUNHVBNEhOMktrdzhXTGFMZWVuLUI2NGRPWHZmYWRFTTJkSlFadlpwWkpQd0xXSWc1X1JKeWYxeUN3Ql95TDQtQUFDR19aRWNuR1JYbi1oZDBPRHJfc0lMMzVUclpmOWUtbjc0TXFlWklVV2doSzRKTVpVZG4wb3dqbTZ6MW5Xa0FTbnhRbDItQlNQRmFuSWVycTRrb3Q5VGNXTEoySlp2ODRoVlBQVGFYWDVRNUFhcExuZjBkWjZNRU9GUXhzU3VYMVRuSnhHVUHSAYcCQVVfeXFMUFl5b1ZOYlExeDd2RTR4VlJFLUI2UjhFM2xnbzVpQUlPU3pXcHV4VzdZQk1RN0p3NFNvbDJEQVJ4WFZFeENwaTJHQ3EwcGZuSUFYSjFBZ2N6QWtzYmxUQVU5QjA2TVd3ZVY5aXpEWVNqS21PVHY3MXZxRTVhZ2N4cGtWcnB4WEdCV3I3Q292cG4yYjhjaFlpVkVDMDhZMUVaa0RsaEpDVjhRSktFSUFnbXF5WlJfUkhpanBTOEFjSkRJdVdDZTRnSWgtRFNCRk1PUkVRSkJtckJmeVUxV2ZBdXNJOTBIQVVfX2I4aUdWNzFZM2U5ZTlpSEJ2cU5Mb21qcGhuUDJyZEE?oc=5"
     },
     {
       "id": "caff39666b681e2018",
@@ -355,7 +307,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 16
+      "items": 11
     },
     "direct_media": {
       "ok": true,
