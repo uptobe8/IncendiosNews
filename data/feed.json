@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-07T12:35:06+02:00",
+  "generated_at": "2026-08-07T13:27:57+02:00",
   "items": [
+    {
+      "id": "cab0b2ed45c4243f70",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T12:47:24+02:00",
+      "source": "Cadena SER",
+      "title": "Ecologistas reclaman la extensión de la limitación de la caza a la zona norte de Madrid tras los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTlZFcHRtbFU2cXZFczJvRFhUelUyaWJkMERlanY1SzdNNVZRTTJ3dUJnTVpmTmdfbEQwVm1OWHBZTVNOTy1wNFk4WjA1QzhMRjFqMWlMMjJJbmhITEdZRVNUckRINmptODN1cENzTUFtaEt0U0Mzc0QzenVmRm41U3FabE1CSmw3b2ljUUNvWnAwUzFXWUp1aEtWZ3NYanZhTGg1NVJudW5RTHhEQVI4X0VEeEdmMG9MVFBRYnVFZDk3b0VSeTdaR1dQSzJvN2lmZ2w3cEk3MnVtYTJKQ2oxeUhBQVBneGdKY2NMX2JLNnRuSlBHZFRDSNIBjAJBVV95cUxPQy0tLVN3MklRMXk4TGlVcHFMZmhFaVpsSC04NmljYmN4NlhyS2lhS2M3U3k4NTB5SUI4NTE4cHNHdTZkZjNWbWZVQ0w4SEFTaFRLcXk4SWxmQ0tVYy1wLVYwUVdTU25sOHdlOVcxT3dZRHVGUGF6M2l0QXEycXRGYXk0RUprV2dydndmOFJYOFdCQTh0UkYzSS1CQzh5QnJQaUpaZmdRVUtJY1FTZlBaam94MnA3cjJTdnhMNlA2ZU1FTUpXME1OTEpOd1dRMFFHTzlNYm5qMjdqZ0xsNjJuRmEzUlNYM1dkM1I0dXZuOXI4TkFXVUM5VUkwckFocjBiOGUtaWxOQXpVcERR?oc=5"
+    },
     {
       "id": "1d5cbf1d36b967a40e",
       "type": "news",
@@ -62,13 +74,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNN19aNjJZVXhvbzJuYWh2R00yd1hTWlB6OHF1WnRDbkNkaDFYNjV5LVRRcWV1QW04T29sWDhTZUNKNTR1NlVLbmNoWVhHdHV4UVMwZVpUdmI3blI5U3B1TEQyNWFNem1mQUtnYWFTdGJlVkFxS0tiVDJzUzd2M2xfbWxnU05CMWJZZ1QzQmFEYkJaeFFSQkxHUmRialVJaGJPVDFydVY5V25XRk9vd0V1X3owSXFvYzVHc3huNWd3OG1HeElOVzR1Yk9NNlZBY1pydjZBTGNOT2hkZWxCNEtBUFdnVV8xNElzUXdnUWhhZXNRRnRienpSaEpacTY5NGxua2I0cDhfQ0dyWGF3OEV1MEN2RnoyZWhhN1Z6dmxadC0ySExE0gGkAkFVX3lxTE03X1o2MllVeG9vMm5haHZHTTJ3WFNaUHo4cXVadENuQ2RoMVg2NXktVFFxZXVBbThPb2xYOFNlQ0o1NHU2VUtuY2hZWEd0dXhRUzBlWlR2YjduUjlTcHVMRDI1YU16bWZBS2dhYVN0YmVWQXFLS2JUMnNTN3YzbF9tbGdTTkIxYllnVDNCYURiQlp4UVJCTEdSZGJqVUloYk9UMXJ1VjlXbldGT293RXVfejBJcW9jNUdzeG41Z3c4bUd4SU5XNHViT002VkFjWnJ2NkFMY05PaGRlbEI0S0FQV2dVXzE0SXNRd2dRaGFlc1FGdGJ6elJoSlpxNjk0bG5rYjRwOF9DR3JYYXc4RXUwQ3ZGejJlaGE3Vnp2bFp0LTJITEQ?oc=5"
     },
     {
-      "id": "5cbebeb0c714f806a6",
+      "id": "92d1dc57dfeffe7182",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-06T17:20:13+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Madrid activa ayudas de hasta 10.000 euros y avales para empresas y autónomos afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlh4akhRRUQ1SlB1M3RjczRHUXI3S2lMMWV6cklkRlZqeEpIRGNFT0Y5N3g1MkVaeFc2YnZWZjNkWmhYSk9DM3AzZm5KY3ZKYnFJUWNYMDJ2R3pQZ0FpQUtNMGprNkdEZnkyTkszQ0dzYTNxWkVnRE9VdjAwV1J0QnVOS1dKZmdDc3FLd3QzeTZMVVZKeWZ2MWF0bmFwVDVKMksyLThDUG5STDBmdzE1SDZzN0g0dUU3TGxCSTNpbl9JYXRMS2lpdkZNa25lSEtESU8ybXNwRnBTb3dwanc?oc=5"
@@ -168,18 +180,6 @@
       "title": "Estabilizado el incendio de Burgohondo (Ávila) dos semanas después de su inicio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWd0c28wU0w0TG8waFB3Yndwd2F0SDdhYW5OU0l1RnlTaUdtMGExdFlPZEN4MTFWMEJUX1ZsV0RrUWY5N0hVdmRuUjdNTGR0S1dCTkF6WGdwazZCZHUzWTNubG5yS19TMXpna2F3MWRJeDNnaFFRcHA2Vjh5QURqT1VqQXNFNjRrUU5sSWVnT0VreVJuSm1EMU54bFlWOG9XYmRzZnhxalBwN0kweHFkeVp0NmFiV1lRVkg2dzdWVlV5QXNzOW9Yd1doRGlwVEhzUjhibTdPVFY3Z9IB7gFBVV95cUxQOHQ4TnN1Q3JicnRiRnJpem5PSVV3LVhUc0l5ekcyTUFRSTFIaTJHTWZNeHZUZVpybjNvYXJHM2c4bWdtT3BwSGM3elBNNW1fUXNpaWxjZzZpcTlCNE1pRFFTZmxqczFKdXNmR19haE8xMGx4U1o4NDJKQzVHaUlUQVZ4NWVMbTFzcHU2NWw5c1QyNXd6ZG81UGJ2R3VIN01md1d4YXdWVEVhWTc0eHhLeEYxZ2trOXNKZWk4VnVIRnEtamsySkJBNDZfcC1uUGlFTkJUUmZLMnR3SXBsUUZMMUVsTmV6LVRVS0E2X2x3?oc=5"
-    },
-    {
-      "id": "368842b38bde8d54fb",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T13:24:36+02:00",
-      "source": "Onda Cero",
-      "title": "Cancelaciones y cierres en negocios rurales: el desolador paisaje en la Sierra Oeste de Madrid tras el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0hiNTRUb0pGVFBJclo2cWU1anBhZWJSQm12TGJvRVRJR1pjZllQUnpmTnk2QkZ0ckRCUGREUmtHQ3lEOXRzUUtXOXk1NDRGSHJKbFkxZWE4VzFFUWMyMEVKV0F3UmVMUVZOLWN3eDZ4Q2hHZkkyRVUtbEkyZjV5TlduNElod0gwVzlpbkFOYzVYbU44bmVlU2NqQXJRZ2xacjBmT2JXX1NJVHJjMExyNnVza0RHYWUyWDE3dWlKajVYeEtrWjM5a0lqckVHQWFIdE5yczdMODF5bkc5Vk1hbkNDelpiN2NnWjlndVkxVFd3WnhMdmZWNNIB-AFBVV95cUxOb0hiNTRUb0pGVFBJclo2cWU1anBhZWJSQm12TGJvRVRJR1pjZllQUnpmTnk2QkZ0ckRCUGREUmtHQ3lEOXRzUUtXOXk1NDRGSHJKbFkxZWE4VzFFUWMyMEVKV0F3UmVMUVZOLWN3eDZ4Q2hHZkkyRVUtbEkyZjV5TlduNElod0gwVzlpbkFOYzVYbU44bmVlU2NqQXJRZ2xacjBmT2JXX1NJVHJjMExyNnVza0RHYWUyWDE3dWlKajVYeEtrWjM5a0lqckVHQWFIdE5yczdMODF5bkc5Vk1hbkNDelpiN2NnWjlndVkxVFd3WnhMdmZWNA?oc=5"
     },
     {
       "id": "7ac9c852c3573d30cb",
@@ -337,13 +337,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 13
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
