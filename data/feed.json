@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:18:05+02:00",
+  "generated_at": "2026-08-07T07:07:38+02:00",
   "items": [
     {
       "id": "1d5cbf1d36b967a40e",
@@ -14,16 +14,16 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclR6aFRwQU4yTFRUZW9iY3RkMG1QUG9yaHc5VDhvQzctNnZKVDY4V25SLWZOTlNGeVdTTWJQUXJ2N282LVd0TE82QU5udXF1UTd3WmpFVm9WN21CNWNIUWF4YjBzMlhzWlBpR0ZETDVxOUxKejd2bDZlTnZTdWgxakR0Ulh0VF8yd252ODcwVkVsTnNCNV9NdjQ2WnpjbHlOVjY3TmNvT05EN3NsWHQyQ21UVjQzVG1Ocjc0WEV4dw?oc=5"
     },
     {
-      "id": "ed6d9f237175be57cc",
+      "id": "6c9f4368cde1a4ae47",
       "type": "news",
       "severity": "critical",
       "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-06T19:50:45+02:00",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-06T19:35:00+02:00",
       "source": "Telemadrid",
       "title": "Estabilizado el incendio de Ávila que calcinó más de 50.000 hectáreas y obligó a evacuar a 35.000 personas",
-      "summary": "El incendio forestal declarado el pasado 22 de julio en el término municipal de Burgohondo (Ávila), el mayor registrado en la historia de España...",
-      "url": "https://www.telemadrid.es/noticias/sociedad/Estabilizado-el-incendio-de-Avila-que-calcino-mas-de-50000-hectareas-y-obligo-a-evacuar-a-35000-personas-0-2913908606--20260806073500.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNTVBbVRFNkp3cU91TWtTV3Y1TzNYak13RUxvVm9uQXVtcThydHFWRktFYXI1OXFrMjRHb0tMc0M4WjdrZzBpbDFNU25LUG9pakN5Tm0xVEpBVVFzTFpFdF9RWUtMUzBsbjVoVU1hODAyeEZtMlRKb0FaWVpnRWxtYnBwRkY2V0NwUWZTdEhRRkQ4OE8wZTBoTUg3ekhJam1UMVY2bC1mdGdVWUE0bVlNdS0zeU5fMV8zUVhNNUE0TGo0WHFKWERRQ3pDM24ybnFrWEVVSG9peHlMekg5Qm5lVDJic2ladjg0Y3lvaTVkdDlwc2hYTURvQXlpUERwd1FacG04ODZUbXhwcFk3R3U40gGUAkFVX3lxTFA2WE96WnY1anM2ajM2YzF6SXhhNGx3NXRiYmRlNTg5ZGEwSjY1MTY2Y3Bob0EwS21lTGtqYmVKbmpFdHV1Z1dNTElZcHE3cnhicDBUdUl6WG1kRkdqcFc3QWxUTUlwTmhUVjMzT1dQQ2UwUUo3TGw4dlBmVXltVHRhV1hwTWxDMTFKemlQM3g2eTExaWdZVUVpbjZ6ZWxMN1Y0OE9RczBjUUY1N2thTzRZWXFyaHVDNDExQWJjMGtEcU9LZGVyM1FPLUVUS0lRMDJiY1ppLXBEd1ZuTWFYdUZBZUNwQUdfbHFEcFdXTmM5ZEZTdVZ2VTVsMWZXbmtoY1BzS05zUUJqM0liUV94S3JnRkZXQw?oc=5"
     },
     {
       "id": "54b078f25fc1db4fcb",
@@ -74,13 +74,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNN19aNjJZVXhvbzJuYWh2R00yd1hTWlB6OHF1WnRDbkNkaDFYNjV5LVRRcWV1QW04T29sWDhTZUNKNTR1NlVLbmNoWVhHdHV4UVMwZVpUdmI3blI5U3B1TEQyNWFNem1mQUtnYWFTdGJlVkFxS0tiVDJzUzd2M2xfbWxnU05CMWJZZ1QzQmFEYkJaeFFSQkxHUmRialVJaGJPVDFydVY5V25XRk9vd0V1X3owSXFvYzVHc3huNWd3OG1HeElOVzR1Yk9NNlZBY1pydjZBTGNOT2hkZWxCNEtBUFdnVV8xNElzUXdnUWhhZXNRRnRienpSaEpacTY5NGxua2I0cDhfQ0dyWGF3OEV1MEN2RnoyZWhhN1Z6dmxadC0ySExE0gGkAkFVX3lxTE03X1o2MllVeG9vMm5haHZHTTJ3WFNaUHo4cXVadENuQ2RoMVg2NXktVFFxZXVBbThPb2xYOFNlQ0o1NHU2VUtuY2hZWEd0dXhRUzBlWlR2YjduUjlTcHVMRDI1YU16bWZBS2dhYVN0YmVWQXFLS2JUMnNTN3YzbF9tbGdTTkIxYllnVDNCYURiQlp4UVJCTEdSZGJqVUloYk9UMXJ1VjlXbldGT293RXVfejBJcW9jNUdzeG41Z3c4bUd4SU5XNHViT002VkFjWnJ2NkFMY05PaGRlbEI0S0FQV2dVXzE0SXNRd2dRaGFlc1FGdGJ6elJoSlpxNjk0bG5rYjRwOF9DR3JYYXc4RXUwQ3ZGejJlaGE3Vnp2bFp0LTJITEQ?oc=5"
     },
     {
-      "id": "5cbebeb0c714f806a6",
+      "id": "92d1dc57dfeffe7182",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-06T17:20:13+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Madrid activa ayudas de hasta 10.000 euros y avales para empresas y autónomos afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlh4akhRRUQ1SlB1M3RjczRHUXI3S2lMMWV6cklkRlZqeEpIRGNFT0Y5N3g1MkVaeFc2YnZWZjNkWmhYSk9DM3AzZm5KY3ZKYnFJUWNYMDJ2R3pQZ0FpQUtNMGprNkdEZnkyTkszQ0dzYTNxWkVnRE9VdjAwV1J0QnVOS1dKZmdDc3FLd3QzeTZMVVZKeWZ2MWF0bmFwVDVKMksyLThDUG5STDBmdzE1SDZzN0g0dUU3TGxCSTNpbl9JYXRMS2lpdkZNa25lSEtESU8ybXNwRnBTb3dwanc?oc=5"
@@ -230,13 +230,13 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU05hV2VkNnZOdG1IQjk2Ull1U2tUQU5XNHZnR0t6NDBmRjlRRGZfNDhfSGFOamRyUGVjOGhZdDk0djd6UG54VU5hYmp1YTRDdHpuUzFFVThaRkpjQWUxSVFIZXE0UEVJX0dDbFd3VnlTZi1ZU3ROR05OZ2xLWXl0MmtOVE10OWFSWW1xQ2c1T01wLUs2em14NUV6b1pkak9hZTlfT1JUbmhqNzcyaDllc0MyT1MyQnd4ZmMzbG13SDQ2Mmdnb01fWERjQkY3TmM?oc=5"
     },
     {
-      "id": "a3e1425413f03bf845",
+      "id": "20f0af3a7cebcb7960",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-06T12:04:20+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "El baño y la navegación en el Pantano de San Juan y la Playa del Alberche siguen vetadas tras el incendio en la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2ZVdEZZdXRHWGt1MlhZMXQ3dEFuQXRCWkxKeDFHZ09Sci05M2ZiOUNBd0dPeXlfUG9sdmtNVjduTFBQcGF0MGotaURubDByZTZ3VmZheWxzM0tYWTJyaUxKQTZrckpOWlAycUpVUEpUQzNaR2xUeGtHQW95eGhYdkFidFR4cDlWVjVhVE1zT2t5eEQ3WDMzdGFxclp4TXpBZHVSdVRTT2dmUWVTdnV2ZGxmRm9SQzNWTFlxNnBPNk9uZ3h0Mlp5UjYxMnpqVXNIYVRjb1c4cFJtWXM?oc=5"
@@ -274,7 +274,7 @@
       "published": "2026-08-06T11:58:09+02:00",
       "source": "Europa Press",
       "title": "Nace una cría de elefante de Sumatra, especie en peligro crítico de extinción, en el Zoo Aquarium de Madrid",
-      "summary": "Zoo Aquarium de Madrid ha informado este jueves del nacimiento de una cría de elefante asiático de Sumatra...",
+      "summary": "Zoo Aquarium de Madrid ha informado este jueves del nacimiento de una cría de elefante asiático de...",
       "url": "https://www.europapress.es/madrid/noticia-nace-cria-elefante-sumatra-especie-peligro-critico-extincion-zoo-aquarium-madrid-20260806091728.html"
     },
     {
@@ -467,7 +467,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 10
+      "items": 9
     }
   },
   "refresh_seconds": 300
