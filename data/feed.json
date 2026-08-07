@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-08T00:58:23+02:00",
+  "generated_at": "2026-08-08T01:39:25+02:00",
   "items": [
     {
-      "id": "85c8568cc3252a94a3",
+      "id": "57f2a509d5fd0d47af",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-08-08T00:30:07+02:00",
+      "published": "2026-08-08T01:08:00+02:00",
       "source": "Tribuna de Ávila",
       "title": "La Fiscalía intentará acelerar la investigación del incendio de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -120,6 +120,18 @@
       "title": "Madrid ofrece apoyo psicológico a los mayores evacuados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
+    },
+    {
+      "id": "0d2d5fd2419ad13b99",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T12:48:58+02:00",
+      "source": "Cadena SER",
+      "title": "Ecologistas reclaman la extensión de la limitación de la caza a la zona norte de Madrid tras los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQy0tLVN3MklRMXk4TGlVcHFMZmhFaVpsSC04NmljYmN4NlhyS2lhS2M3U3k4NTB5SUI4NTE4cHNHdTZkZjNWbWZVQ0w4SEFTaFRLcXk4SWxmQ0tVYy1wLVYwUVdTU25sOHdlOVcxT3dZRHVGUGF6M2l0QXEycXRGYXk0RUprV2dydndmOFJYOFdCQTh0UkYzSS1CQzh5QnJQaUpaZmdRVUtJY1FTZlBaam94MnA3cjJTdnhMNlA2ZU1FTUpXME1OTEpOd1dRMFFHTzlNYm5qMjdqZ0xsNjJuRmEzUlNYM1dkM1I0dXZuOXI4TkFXVUM5VUkwckFocjBiOGUtaWxOQXpVcERR0gGMAkFVX3lxTE9DLS0tU3cySVExeThMaVVwcUxmaEVpWmxILTg2aWNiY3g2WHJLaWFLYzdTeTg1MHlJQjg1MThwc0d1NmRmM1ZtZlVDTDhIQVNoVEtxeThJbGZDS1VjLXAtVjBRV1NTbmw4d2U5VzFPd1lEdUZQYXozaXRBcTJxdEZheTRFSmtXZ3J2d2Y4Ulg4V0JBOHRSRjNJLUJDOHlCclBpSlpmZ1FVS0ljUVNmUFpqb3gycDdyMlN2eEw2UDZlTUVNSlcwTU5MSk53V1EwUUdPOU1ibmoyN2pnTGw2Mm5GYTNSU1gzV2QzUjR1dm45cjhOQVdVQzlVSTByQWhyMGI4ZS1pbE5BelVwRFE?oc=5"
     },
     {
       "id": "54b078f25fc1db4fcb",
@@ -265,13 +277,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 9
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 10
     },
     "direct_media": {
       "ok": true,
