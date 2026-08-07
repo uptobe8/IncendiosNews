@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-07T16:39:53+02:00",
+  "generated_at": "2026-08-07T17:35:41+02:00",
   "items": [
+    {
+      "id": "f86dec57c106aa6387",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T16:54:28+02:00",
+      "source": "El Español",
+      "title": "La Comunidad de Madrid activa un plan de apoyo psicológico en las residencias de mayores evacuadas por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEsxSDRxS2JTVllZRXh2T2V2ajNuOUNvdlB5RXZ4Yl9EUlpRSThrM3JXYllscmJRVHJTaXY0X1RidnJtYzNIb1pORG4wdnNsYms4Ujd6WmNHRjhISk5wX2QtNEl6dzkyUWtwR19Db3I2NE8xek56ZFJGUmVMVEEwYTZYMzBkTDlBWFFhUXZaZ2tuaDRYbkFCejYtb1RhbHBKd19ROXNXcVVqZlZKTHlPUy1UTkJHSXYwckhvSU1rVU51NWtmbm5UNDBRMXFqeWhvRjNVcFFRZmNzMFRoMXRxUHkzc0t4RkptVWhoSUcwZXnSAfYBQVVfeXFMTmhNOHVOUUx4VnMtNDdneGl6UjhvenBJOU9JX21MQ2VTbnFicWZBVGEtQ1VzeWVEVHcwbmhreHIwRTA2aVVMMVd6SUdGZUVVbmlJNGQyYnZubFNSSEdRVkFtc2twQS1YN1VBTVBuMnBmUFlwVFhjemJKLXp6dklIVUJVcUFEZ2R4cjRISThLQWlhZUJtbzFCLVhHUnFxa3FUMGhTUHFKNHNleERLRUlrWmtQOW52UDY5QnJyWW05aHloYVdGUUVYa3BhbU55VEVCSjljRW4xbV9CeWxYcGlpdXBkSUJwa2JPZnlFT3h0WlVJbmJCVTNR?oc=5"
+    },
+    {
+      "id": "d28c2c63378a5c4ba4",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T15:56:21+02:00",
+      "source": "20Minutos",
+      "title": "Madrid aprueba una campaña de promoción de la Sierra Oeste y nuevas ayudas para la recuperación tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
+    },
     {
       "id": "5114b573791e37168a",
       "type": "news",
@@ -11,7 +35,7 @@
       "source": "Telemadrid",
       "title": "Madrid ofrece apoyo psicológico a los mayores evacuados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcDNpcDM4OFl5Y0liWVV4YU8zRFRIQzNOeW5XYXlMZS1ZVjljM2FxWDZ4anpudjViMW1vazhsUWFVS09JaVlWaE1DZ3hUcGFTZTcxZVA3NjZpc19uM1hEaWJFZkx6SXN3dkR1cmJ0SXltUkREMzlxWG1uTmZPMXZrQ1B0dXRCSDdleGtoR2FvdWZnaEs1SFFISHRDZnBJVEJLbFB5MDIwSldRaDNGWG1QdDQ4cjFPMXRWSkxGU1dVZ0lzdDFnS0dzYWRhWHFsUVRtdHgtSk4waEh5NTJJSjlLQXVDTjZ5LWUzSkdYX1VpYmMwWFZnWHk2RFg1VlFDRkNPaDUxNDh1ZV9zOWPSAYsCQVVfeXFMTXAzaXAzODhZeWNJYllVeGFPM0RUSEMzTnluV2F5TGUtWVY5YzNhcVg2eGp6bnY1YjFtb2s4bFFhVUtPSWlZVmhNQ2d4VHBhU2U3MWVQNzY2aXNfbjNYRGliRWZMeklzd3ZEdXJidEl5bVJERDM5cVhtbk5mTzF2a0NQdHV0Qkg3ZXhraEdhb3VmZ2hLNUhRSEh0Q2ZwSVRCS2xQeTAyMEpXUWgzRlhtUHQ0OHIxTzF0VkpMRlNXVWdJc3QxZ0tHc2FkYVhxbFFUbXR4LUpOMGhIeTUySUo5S0F1Q042eS1lM0pHWF9VaWJjMFhWZ1h5NkRYNVZRQ0ZDT2g1MTQ4dWVfczlj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
     },
     {
       "id": "5629cb0b898ad6f4ae",
@@ -108,30 +132,6 @@
       "title": "Extinguido el incendio de Almorox tras dos semanas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGFLLV9tc3d3aW5LdElENS04Ui1lTllJYV9zT2h4NXZHdHFERzN5ZUNzWmdyYW9tZnZ3VkFzMEZtYVctNk14VHdoX0JoT2djcmxWZUppMWhOaXZQY0lvMWZuYjFrbDJvbkRONDB1Ql8yLW9MTWJ5a2ZQQ21CUUhJMkdWTk5Sdy02akkwS1lQbHlUU2o5elVJMzY0LXQ1ZHdGdUc3R3hWbEFjREEwZk5jR3doZlB5a2J0bF8zVGlyaGQ4N3h4aHZIWFZoZWY5dnFo?oc=5"
-    },
-    {
-      "id": "11fdedf86456d43d11",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T17:29:34+02:00",
-      "source": "Cadena SER",
-      "title": "Las consecuencias del incendio de la Sierra Oeste en el sector primario: \"En algunas zonas va a ser muy complicada la recuperación.\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNN19aNjJZVXhvbzJuYWh2R00yd1hTWlB6OHF1WnRDbkNkaDFYNjV5LVRRcWV1QW04T29sWDhTZUNKNTR1NlVLbmNoWVhHdHV4UVMwZVpUdmI3blI5U3B1TEQyNWFNem1mQUtnYWFTdGJlVkFxS0tiVDJzUzd2M2xfbWxnU05CMWJZZ1QzQmFEYkJaeFFSQkxHUmRialVJaGJPVDFydVY5V25XRk9vd0V1X3owSXFvYzVHc3huNWd3OG1HeElOVzR1Yk9NNlZBY1pydjZBTGNOT2hkZWxCNEtBUFdnVV8xNElzUXdnUWhhZXNRRnRienpSaEpacTY5NGxua2I0cDhfQ0dyWGF3OEV1MEN2RnoyZWhhN1Z6dmxadC0ySExE0gGkAkFVX3lxTE03X1o2MllVeG9vMm5haHZHTTJ3WFNaUHo4cXVadENuQ2RoMVg2NXktVFFxZXVBbThPb2xYOFNlQ0o1NHU2VUtuY2hZWEd0dXhRUzBlWlR2YjduUjlTcHVMRDI1YU16bWZBS2dhYVN0YmVWQXFLS2JUMnNTN3YzbF9tbGdTTkIxYllnVDNCYURiQlp4UVJCTEdSZGJqVUloYk9UMXJ1VjlXbldGT293RXVfejBJcW9jNUdzeG41Z3c4bUd4SU5XNHViT002VkFjWnJ2NkFMY05PaGRlbEI0S0FQV2dVXzE0SXNRd2dRaGFlc1FGdGJ6elJoSlpxNjk0bG5rYjRwOF9DR3JYYXc4RXUwQ3ZGejJlaGE3Vnp2bFp0LTJITEQ?oc=5"
-    },
-    {
-      "id": "00a4040d1abdbb7663",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-06T16:47:17+02:00",
-      "source": "ABC",
-      "title": "Un estudio constata una caída en el gasto turístico en la provincia de Ávila por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2pSaGJGWlY1U3J3QUlsbGpZSFBuODhPVVlnckZ0Nk9uV28yY0lxWl9NNjA5Y1IxNk9IVGFCTzRiTlhMWmFZLU1SY25UcF9SdzZtVEM5VkJVNEtxQlF0dzdxLUJyTThOLTg2U1VwekFvWTU4TVpCU1RTT2xOanRwSjNDbEdIWnFqaTdqUEZIYjlnX21nQU81c0lZVUpVT1ZndFBOczF1bXgwS0E2X0FsSnNkeWttWmVx?oc=5"
     },
     {
       "id": "7ac9c852c3573d30cb",
@@ -283,7 +283,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 10
+      "items": 11
     },
     "direct_media": {
       "ok": true,
