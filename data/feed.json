@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-07T18:30:25+02:00",
+  "generated_at": "2026-08-07T19:27:28+02:00",
   "items": [
+    {
+      "id": "7fe2188e42471e2758",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T18:46:23+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad de Madrid califica como apta para baño el agua del Pantano de San Juan tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWUNRelVoVDdwbWoyN2lBRklzVTJUR1BJSnRDN2YtVEZZLWp3QXgxbUlHZW9XWmFXLWF4VjhHTkpxcVlmT0p6a0pWWUtrbFZPMU5nS2x4TjM2SkJsY2I2Q3B4ZzJRaVRoV2RYbV9SZ01iVFZGVUVwMzJNX1VlQUlJbC1OM20yQlpOZzJlNmw1NEdFVTZYOFdfckJVYWZ5SUxHeWx1ckFJVVMwcmZRUWc3SmtNUGIwVm1iaU5YelBCS2p3a1AyLTk1Wk5TMTRRR25ZVFNEcl9mclE?oc=5"
+    },
+    {
+      "id": "d82dac79f98be97dbb",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T17:22:15+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid activará apoyo psicológico para las residencias evacuadas por incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblcxdHNSRWhuZXhEOGROS2xMRjFxRkF1aktWc3RnVmpUWnJnckVhZTNpVmlJSjVCT1JpZnB1TnRFVDlGLWwyN1FFVDQ5QlBROU1wQ21QZmgzcWhwVVlKWGxSanlxcU5NYWh4cG1WTVp3emhkUW05cHBsN25UeUc3RExfSG1HVUpxdmEzRE5BOTl1akg0UGo2NW4xSzVuc1RrVE5LOEFpVHBqMWQ2bXo4aXhEbEFKQ2MxeUI4ZXNHRGgtMWVHWmc?oc=5"
+    },
     {
       "id": "f86dec57c106aa6387",
       "type": "news",
@@ -26,13 +50,25 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWWhwWHdWNnNJWnRobXk5V2ZGVEtUMVNkLThDejVaSEQzbW5XU2g3MzV2WU9iZnJEZlJPNzk3Y3lSSWFwWkMwNkF6S1dBelJOXzl4NnVuNXpyNEZoRjBzLW15Ujk0LUZyMTFOMmc1Y0lWQVVTbTdQN0pn0gF6QVVfeXFMTmpZaHBYd1Y2c0ladGhteTlXZkZUS1QxU2QtOEN6NVpIRDNtbldTaDczNXZZT2JmckRmUk83OTdjeVJJYXBaQzA2QXpLV0F6Uk5fOXg2dW41enI0RmhGMHMtbXlSOTQtRnIxMU4yZzVjSVZBVVNtN1A3Smc?oc=5"
     },
     {
-      "id": "0af27301e8844e944b",
+      "id": "4dfd170fc5db87eb11",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-07T16:11:36+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Fiscalía intentará acelerar la investigación del incendio de Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmd1ZnJvOFhnaEZJUF9GNXNNV1BIX3Z4SHNhYjNaZ0s5by1Hb2RhaFVGLXZEX3l3djBEMmFuM2otZ0dGVXpuZkZPN0dTeTJHWjc1WE5FeVZzdDZ1UWd1ZnhVd2pmZkhzSVJrdGlEbjAyZnJScnl4cEtYWHpfQmpfbGlvTlZkdEdsY1pTZ2dqdnhNcENqOW5ENVV6UDZrNHRkYlFaME5kRTh6ZklvSjM2UVVKWUY?oc=5"
+    },
+    {
+      "id": "d28c2c63378a5c4ba4",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T15:56:21+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Madrid aprueba una campaña de promoción de la Sierra Oeste y nuevas ayudas para la recuperación tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
@@ -60,18 +96,6 @@
       "title": "116 víctimas de violencia machista fueron objeto de vigilancia durante el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
-    },
-    {
-      "id": "ae1d4f77e7d8916947",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-07T13:51:04+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El Bar Valle de Iruelas reabre tras el incendio que arrasó el camping de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMG5HcFhfSWM5Q1Q4M1I4dlJTbTdnLVlocHBKa3cyeFhRY2t2V20xYTR3T1kzbWZIQ2VoNzhScnlJTWdtQ1QzaEU5Zndhd1RjMXptTnRHbURsWmlNLWlVX2o3UXg5bE95OEVMdnQzMElLUFZiclBWU3VJdmVUbmY4Q1kteER4RDAtZnlOYTVobXV3dENsQk1mbmRTVGZxYmJteHAxQ3hGSWk0Zk90Y3FraXI5V1U2bGFzbGVGaFZnRjBaNHFTOC1j?oc=5"
     },
     {
       "id": "0d2d5fd2419ad13b99",
@@ -146,28 +170,16 @@
       "url": "https://www.europapress.es/madrid/noticia-servicio-emergencia-social-madrileno-atendio-mas-1300-personas-afectadas-incendio-sierra-oeste-20260806115949.html"
     },
     {
-      "id": "15aa02f9c21f19f136",
+      "id": "85c8e7cbfed1503f6d",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-05T20:00:23+02:00",
+      "published": "2026-08-06T11:58:09+02:00",
       "source": "Europa Press",
-      "title": "La Comunidad ha desplegado ya el 88% de las medidas para los municipios afectados por el incendio de la Sierra Oeste",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha confirmado que su Gobierno ha adoptado ya...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-desplegado-ya-88-medidas-municipios-afectados-incendio-sierra-oeste-20260805145952.html"
-    },
-    {
-      "id": "22d0c69dc6d9c36dca",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-05T18:47:38+02:00",
-      "source": "Europa Press",
-      "title": "La Fundación Alicia Koplowitz dona 150.000 euros a la reconstrucción de la Sierra Oeste tras el incendio",
-      "summary": "La Fundación Alicia Koplowitz ha donado 150.000 euros a la reconstrucción de la Sierra Oeste de la...",
-      "url": "https://www.europapress.es/madrid/noticia-fundacion-alicia-koplowitz-dona-150000-euros-reconstruccion-sierra-oeste-incendio-20260805184738.html"
+      "title": "Nace una cría de elefante de Sumatra, especie en peligro crítico de extinción, en el Zoo Aquarium de Madrid",
+      "summary": "Zoo Aquarium de Madrid ha informado este jueves del nacimiento de una cría de elefante asiático de...",
+      "url": "https://www.europapress.es/madrid/noticia-nace-cria-elefante-sumatra-especie-peligro-critico-extincion-zoo-aquarium-madrid-20260806091728.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -283,11 +295,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 11
+      "items": 12
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 4
     }
   },
   "refresh_seconds": 300
