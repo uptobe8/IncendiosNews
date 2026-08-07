@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:42:15+02:00",
+  "generated_at": "2026-08-07T12:35:06+02:00",
   "items": [
     {
       "id": "1d5cbf1d36b967a40e",
@@ -50,18 +50,6 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
     },
     {
-      "id": "c275e68b5a57a84f6c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-06T17:30:41+02:00",
-      "source": "El Español",
-      "title": "La Junta diseña con los cotos de caza de Ávila un plan de ayudas para recuperar la fauna tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUjluVFJNcVdFQnRtYnR1djZVRVBmM3lFNlRXR1JXZWhBYm5tS1I4eUtBLS0yRTBrQnZRRG1CZ3k1RENaampqa2RDT2I3ZEUxdmh2eEJPYkdtS1h2UU10YTNvcV94ODllVDhUNDZ4OWlzTkp0Sk5JQ1dWOEJNekREb3RWSW1HaGNFUTdBRzhoeGliUTJ1WHhieDlueV9YOC1pRzRNemo4WGlhbFVlZ042cWRvQ1lUakdPWXk3bUx6VG1zZDQyWVFaVF9ETGh6dFk5N2hCR09rUVBRZzJUOXB2YnZqampGV1QzWDRGR1VzekpKUUVa0gH6AUFVX3lxTE81ZmxLSmR4NkpaeXY2dUNRZ2hyM2h2bVdyeVVHYktDX2N1QU43ME9BVGNWX2ZyTVZDYnZhN1VNMUdzMFd2eHdUanZsNjRLRm9oTVNRSnh1ajBuZElMTDRpaEsyZ3dtN3JIU25ZTE02UDN2Mng3aWI0T21CX0ZoRkt5YVZtV0NsTFBRaGkwVW9yYWZXTGxvOHpxYnZpaHByUldkSUVNVkJMUGlCNENTS1ctc2JvUkE5cUVSQ2FlWkNjand2S21wZ09uaVFOd1h5bXJYZWVTOXc2QTlRUHQ2N3ZpZVpmaERWNUdEb19zNWFDNHhHUldNOWtxSHc?oc=5"
-    },
-    {
       "id": "11fdedf86456d43d11",
       "type": "news",
       "severity": "info",
@@ -86,13 +74,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlh4akhRRUQ1SlB1M3RjczRHUXI3S2lMMWV6cklkRlZqeEpIRGNFT0Y5N3g1MkVaeFc2YnZWZjNkWmhYSk9DM3AzZm5KY3ZKYnFJUWNYMDJ2R3pQZ0FpQUtNMGprNkdEZnkyTkszQ0dzYTNxWkVnRE9VdjAwV1J0QnVOS1dKZmdDc3FLd3QzeTZMVVZKeWZ2MWF0bmFwVDVKMksyLThDUG5STDBmdzE1SDZzN0g0dUU3TGxCSTNpbl9JYXRMS2lpdkZNa25lSEtESU8ybXNwRnBTb3dwanc?oc=5"
     },
     {
-      "id": "f3997cd1ff42c317a9",
+      "id": "00a4040d1abdbb7663",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
       "published": "2026-08-06T16:47:17+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Un estudio constata una caída en el gasto turístico en la provincia de Ávila por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2pSaGJGWlY1U3J3QUlsbGpZSFBuODhPVVlnckZ0Nk9uV28yY0lxWl9NNjA5Y1IxNk9IVGFCTzRiTlhMWmFZLU1SY25UcF9SdzZtVEM5VkJVNEtxQlF0dzdxLUJyTThOLTg2U1VwekFvWTU4TVpCU1RTT2xOanRwSjNDbEdIWnFqaTdqUEZIYjlnX21nQU81c0lZVUpVT1ZndFBOczF1bXgwS0E2X0FsSnNkeWttWmVx?oc=5"
@@ -194,30 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0hiNTRUb0pGVFBJclo2cWU1anBhZWJSQm12TGJvRVRJR1pjZllQUnpmTnk2QkZ0ckRCUGREUmtHQ3lEOXRzUUtXOXk1NDRGSHJKbFkxZWE4VzFFUWMyMEVKV0F3UmVMUVZOLWN3eDZ4Q2hHZkkyRVUtbEkyZjV5TlduNElod0gwVzlpbkFOYzVYbU44bmVlU2NqQXJRZ2xacjBmT2JXX1NJVHJjMExyNnVza0RHYWUyWDE3dWlKajVYeEtrWjM5a0lqckVHQWFIdE5yczdMODF5bkc5Vk1hbkNDelpiN2NnWjlndVkxVFd3WnhMdmZWNNIB-AFBVV95cUxOb0hiNTRUb0pGVFBJclo2cWU1anBhZWJSQm12TGJvRVRJR1pjZllQUnpmTnk2QkZ0ckRCUGREUmtHQ3lEOXRzUUtXOXk1NDRGSHJKbFkxZWE4VzFFUWMyMEVKV0F3UmVMUVZOLWN3eDZ4Q2hHZkkyRVUtbEkyZjV5TlduNElod0gwVzlpbkFOYzVYbU44bmVlU2NqQXJRZ2xacjBmT2JXX1NJVHJjMExyNnVza0RHYWUyWDE3dWlKajVYeEtrWjM5a0lqckVHQWFIdE5yczdMODF5bkc5Vk1hbkNDelpiN2NnWjlndVkxVFd3WnhMdmZWNA?oc=5"
     },
     {
-      "id": "d83e9b6bbb0351ca0a",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-06T12:07:03+02:00",
-      "source": "abc.es",
-      "title": "Extinguido el incendio de Almorox tras 14 días activo y quemar 250 hectáreas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU05hV2VkNnZOdG1IQjk2Ull1U2tUQU5XNHZnR0t6NDBmRjlRRGZfNDhfSGFOamRyUGVjOGhZdDk0djd6UG54VU5hYmp1YTRDdHpuUzFFVThaRkpjQWUxSVFIZXE0UEVJX0dDbFd3VnlTZi1ZU3ROR05OZ2xLWXl0MmtOVE10OWFSWW1xQ2c1T01wLUs2em14NUV6b1pkak9hZTlfT1JUbmhqNzcyaDllc0MyT1MyQnd4ZmMzbG13SDQ2Mmdnb01fWERjQkY3TmM?oc=5"
-    },
-    {
-      "id": "a3e1425413f03bf845",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-06T12:04:20+02:00",
-      "source": "20Minutos",
-      "title": "El baño y la navegación en el Pantano de San Juan y la Playa del Alberche siguen vetadas tras el incendio en la Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2ZVdEZZdXRHWGt1MlhZMXQ3dEFuQXRCWkxKeDFHZ09Sci05M2ZiOUNBd0dPeXlfUG9sdmtNVjduTFBQcGF0MGotaURubDByZTZ3VmZheWxzM0tYWTJyaUxKQTZrckpOWlAycUpVUEpUQzNaR2xUeGtHQW95eGhYdkFidFR4cDlWVjVhVE1zT2t5eEQ3WDMzdGFxclp4TXpBZHVSdVRTT2dmUWVTdnV2ZGxmRm9SQzNWTFlxNnBPNk9uZ3h0Mlp5UjYxMnpqVXNIYVRjb1c4cFJtWXM?oc=5"
-    },
-    {
       "id": "7ac9c852c3573d30cb",
       "type": "news",
       "severity": "info",
@@ -226,8 +190,8 @@
       "published": "2026-08-06T11:59:49+02:00",
       "source": "Europa Press",
       "title": "El Servicio de Emergencia Social madrileño atendió a más de 1.300 personas afectadas por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTzRnRlFRY1AzaTJhZGRzYkl0aVVGdFQzV1IzcjUyYXUyVUJGSUxKci02d1R4VHVLQ0R3M1FYTC1ud25VQmtvSGdmeDhXYWdhZkZGbkIxUjhzUWczMy0xLVYtdDh5MTJJR0tsWFJEcWpWb1RpT2RCZ0lvYzUxZnVQaFlPOGc5STBvSGhyUjdKb3BsU243TW83WEhlSklHZmNBLXoxZzdaNnNJWkc3SS1iYzdOXzNVRThWbUZHbXZxTGdWVHdub0lVUHdsUjFzX25TUFdNbWZfVEpTSmJaZVNobEdmVGRobExXYmU2cA?oc=5"
+      "summary": "Un total de 32 profesionales del Servicio de Emergencia Social de la Comunidad de Madrid atendieron a más...",
+      "url": "https://www.europapress.es/madrid/noticia-servicio-emergencia-social-madrileno-atendio-mas-1300-personas-afectadas-incendio-sierra-oeste-20260806115949.html"
     },
     {
       "id": "85c8e7cbfed1503f6d",
@@ -379,7 +343,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 17
+      "items": 13
     },
     "direct_media": {
       "ok": true,
