@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:47:50+02:00",
+  "generated_at": "2026-08-08T19:16:24+02:00",
   "items": [
     {
       "id": "ebf5a30e3ff36cd0c1",
@@ -96,18 +96,6 @@
       "title": "La Fiscalía de Medio Ambiente acelerará la investigación del incendio de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3RPV2l0OWVTeE1hVW5XWVp4NTNfX2xQRjNsS1BJMktFSUp2S1YyUVN6bDR6aFN6c2tKeXdGTWh2TTMtNG12TXpKUlMxRENIWkx4RThWNmdqMGhKZ0kxa0w3SWtMZ1ZhbnBpTmdtN1Z0M1NjWUMtTXhtQU9jcGNtT3hkVHJxNVpWMXUyNWJZVUlBRWE4OXlyb1RHc3FOYVNMVzJHVU9DNlQxUnhXQzcxM1M3c1RRTWtXS0NJcHI4dERLaXdpZ3NxZi1xQVpEY3dtdXNVT2JR0gHqAUFVX3lxTFBKNVcwbFRFcmRWWk8tNXVsTExwV2VXTzVtVVFUdF9Zb3N5ZERMRjZ1c1hXMmJGbFFCNkd3aVF6N2xjcWNSeEFFcHdEUWV1am1jZ2pnbFBZLTFWdWk5RWkyZmdUaUFjTVA4NHFHSTNSSm8xMGZQaThubkRNOXJnaUV6Wmh2X001VDJTdHUzOTk0c2ZMNXJKcVBxWF9wZEIxY2kxTUNOQmtEdm11bHo3Z0ZKMldVS2NoZnZyS0IxTGZZbE1UQ1ZVSmMxU1cyWDRBZ0lzb1N5LVFNRjRYOXFOaTBJUVZmQVBVT2JRZw?oc=5"
-    },
-    {
-      "id": "419b6d0d3a41724a02",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T18:51:02+02:00",
-      "source": "Madrid Actual",
-      "title": "El Pantano de San Juan, apto para el baño tras el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcjdTbzNMbTJtaWVfYVU4QXFTbk1ReC1USHpXR1F4UnNBNFFHLUFyRkhYX0IzWkwwQjZfX0E3d0hDQXVKQ3Jmc1AwbmJmc0NwdlBMdnJISGJtQ1JuMm45SDVpdUYxU0psYXlQaFFkZF9yQkVrZGRGdzdEWWZnUDZJaDA2TFBFVnNwTC16UXk4MS1tWEIzTXdQaXp1aWV5LVlCaUljcXMtTGYxQlRvcjhLTzlHU1A2cVJuajlCRGJNdFpJLVozd0RFc0k3WmRvWFg3VnVyXzBmc0c0U1hDNi1lbEJR?oc=5"
     },
     {
       "id": "7fe2188e42471e2758",
@@ -241,13 +229,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 9
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 10
     },
     "direct_media": {
       "ok": true,
