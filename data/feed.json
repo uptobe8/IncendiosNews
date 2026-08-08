@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:02:40+02:00",
+  "generated_at": "2026-08-08T18:47:50+02:00",
   "items": [
     {
       "id": "ebf5a30e3ff36cd0c1",
@@ -84,6 +84,18 @@
       "title": "\"El jacuzzi salvó al futbolín del incendio\", el sorprendente testimonio de un vecino de Pelayos de la Presa",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORW5EODJxOWJnU0wtRXJBc2pwU0JGa2ZrNXI2cnhSMERMZkFQTFlDVjRyUmhhMnAwX1hsMFI3cm1PUGpkZVEtRF9UUF9XVmZZX1RCWXNWRmNtM082QXJLOHlHSlJ6bXNKbjBQS3lCVHFxbFp5LWIydjZNZW9iLXNyMUplU2UyWHh1WTM3Z20zcGFzc0pSN3dZWmprVmRrRjRkQVlZQzE3OHIwYnMzcWdtRHFwNXYzRjJoTVBndTQ4QVVjWjJWZXM5bUtkYWpwWkNkSzJmVGYwNVVWSGlPRGdtZGdYbXpnbllIZFRPcklRYk41SnpDTlo5Q0oweGRjWEVzZFZzUENjZ1JNaDcxcGJxSVdDVkNwTExDNXFvRXJR0gGeAkFVX3lxTE5FbkQ4MnE5YmdTTC1FckFzanBTQkZrZms1cjZyeFIwRExmQVBMWUNWNHJSaGEycDBfWGwwUjdybU9QamRlUS1EX1RQX1dWZllfVEJZc1ZGY20zTzZBcks4eUdKUnptc0puMFBLeUJUcXFsWnktYjJ2Nk1lb2Itc3IxSmVTZTJYeHVZMzdnbTNwYXNzSlI3d1laamtWZGtGNGRBWVlDMTc4cjBiczNxZ21EcXA1djNGMmhNUGd1NDhBVWNaMlZlczltS2RhanBaQ2RLMmZUZjA1VVZIaU9EZ21kZ1htemduWUhkVE9ySVFiTjVKekNOWjlDSjB4ZGNYRXNkVnNQQ2NnUk1oNzFwYnFJV0NWQ3BMTEM1cW9FclE?oc=5"
+    },
+    {
+      "id": "484f6c64987f16e073",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-07T20:00:15+02:00",
+      "source": "La Razón",
+      "title": "La Fiscalía de Medio Ambiente acelerará la investigación del incendio de Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3RPV2l0OWVTeE1hVW5XWVp4NTNfX2xQRjNsS1BJMktFSUp2S1YyUVN6bDR6aFN6c2tKeXdGTWh2TTMtNG12TXpKUlMxRENIWkx4RThWNmdqMGhKZ0kxa0w3SWtMZ1ZhbnBpTmdtN1Z0M1NjWUMtTXhtQU9jcGNtT3hkVHJxNVpWMXUyNWJZVUlBRWE4OXlyb1RHc3FOYVNMVzJHVU9DNlQxUnhXQzcxM1M3c1RRTWtXS0NJcHI4dERLaXdpZ3NxZi1xQVpEY3dtdXNVT2JR0gHqAUFVX3lxTFBKNVcwbFRFcmRWWk8tNXVsTExwV2VXTzVtVVFUdF9Zb3N5ZERMRjZ1c1hXMmJGbFFCNkd3aVF6N2xjcWNSeEFFcHdEUWV1am1jZ2pnbFBZLTFWdWk5RWkyZmdUaUFjTVA4NHFHSTNSSm8xMGZQaThubkRNOXJnaUV6Wmh2X001VDJTdHUzOTk0c2ZMNXJKcVBxWF9wZEIxY2kxTUNOQmtEdm11bHo3Z0ZKMldVS2NoZnZyS0IxTGZZbE1UQ1ZVSmMxU1cyWDRBZ0lzb1N5LVFNRjRYOXFOaTBJUVZmQVBVT2JRZw?oc=5"
     },
     {
       "id": "419b6d0d3a41724a02",
@@ -235,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 9
+      "items": 10
     },
     "direct_media": {
       "ok": true,
