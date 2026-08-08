@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:00:39+02:00",
+  "generated_at": "2026-08-08T16:40:36+02:00",
   "items": [
     {
       "id": "ad431cee9ebfd7cc5a",
@@ -12,6 +12,18 @@
       "title": "14 familias esperan en Parla y Móstoles la reconstrucción de sus viviendas tras el incendio de Sierra Oeste",
       "summary": "A pesar de que llegaron a atender a más de 400 familias afectadas por los incendios de Sierra Oeste hoy son sólo 14 las que continúan acogidas por...",
       "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/14-familias-esperan-en-Parla-y-Mostoles-la-reconstruccion-de-sus-viviendas-tras-el-incendio-de-Sierra-Oeste-2-2914528524--20260808024427.html"
+    },
+    {
+      "id": "d909b3fda34c339085",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-08T13:19:11+02:00",
+      "source": "Telemadrid",
+      "title": "Un incendio en un restaurante de Gran Vía obliga a cortar el tráfico en pleno centro de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMWdyV0VhZE1GVTVpem1oMDdHb1JXT2FvYlE4RjhOQ0FWNi1rSTR5QUxPZTkxM1FlYXJYelE0TElZbm04OG5VT2d1c01LOVQyLWt2Ui1XRmRpWFNwUVRCZjExNHI2YVVVamZHRnp4TExZMjNTaU80eUFMR3ZLRm5QSDVHaGlKM1pGaUJnckt3N2k5T2I3WXNiUjNYUG9Zd1Y0b2c2Mi1BMll3dHRvbzgzSFdhdDlaUFdmUXBmeHgwX0xQVGx3dFR0Snk0Vl9BZXNaeUs0aXpSUGxtMFhVLWxOOW5NdU5UNHpDb3JJSlZISEtJd3EzSWJOSzVhZ3pacGd4VTF5bNIBhAJBVV95cUxPMWdyV0VhZE1GVTVpem1oMDdHb1JXT2FvYlE4RjhOQ0FWNi1rSTR5QUxPZTkxM1FlYXJYelE0TElZbm04OG5VT2d1c01LOVQyLWt2Ui1XRmRpWFNwUVRCZjExNHI2YVVVamZHRnp4TExZMjNTaU80eUFMR3ZLRm5QSDVHaGlKM1pGaUJnckt3N2k5T2I3WXNiUjNYUG9Zd1Y0b2c2Mi1BMll3dHRvbzgzSFdhdDlaUFdmUXBmeHgwX0xQVGx3dFR0Snk0Vl9BZXNaeUs0aXpSUGxtMFhVLWxOOW5NdU5UNHpDb3JJSlZISEtJd3EzSWJOSzVhZ3pacGd4VTF5bA?oc=5"
     },
     {
       "id": "57f2a509d5fd0d47af",
@@ -241,13 +253,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 10
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 9
     },
     "direct_media": {
       "ok": true,
