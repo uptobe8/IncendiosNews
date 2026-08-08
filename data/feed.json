@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:46:03+02:00",
+  "generated_at": "2026-08-08T14:16:22+02:00",
   "items": [
     {
       "id": "b79120970cedbba3aa",
@@ -38,13 +38,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
     },
     {
-      "id": "c2185e067346887abd",
+      "id": "d0121e9ca8df91f90c",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T21:26:25+02:00",
-      "source": "RTVE.es",
+      "source": "rtve.es",
       "title": "Jorge Agero, el guardián del pantano de San Juan durante el gran incendio de la sierra oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWVjLU4zcGpYSVFOSUdyanVtNm9jN2xTcXRCTjd2RnZ5aURKS1BQQThDMXhxVU1CZ2VGVVNRY2hXYjRvMkRJT0EwQ24zS29RT3p0QWxsUTRjOU5FMHNJYmpQbHNGMThhSkhHdjJ3UVRUaGxUc05oWm1TT21JT2lHR2ZSWVY5ZVlTSWpuOEJHZ1kxemNIOWhpN21R?oc=5"
@@ -108,6 +108,18 @@
       "title": "La Comunidad de Madrid activa un plan de apoyo psicológico en las residencias de mayores evacuadas por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEsxSDRxS2JTVllZRXh2T2V2ajNuOUNvdlB5RXZ4Yl9EUlpRSThrM3JXYllscmJRVHJTaXY0X1RidnJtYzNIb1pORG4wdnNsYms4Ujd6WmNHRjhISk5wX2QtNEl6dzkyUWtwR19Db3I2NE8xek56ZFJGUmVMVEEwYTZYMzBkTDlBWFFhUXZaZ2tuaDRYbkFCejYtb1RhbHBKd19ROXNXcVVqZlZKTHlPUy1UTkJHSXYwckhvSU1rVU51NWtmbm5UNDBRMXFqeWhvRjNVcFFRZmNzMFRoMXRxUHkzc0t4RkptVWhoSUcwZXnSAfYBQVVfeXFMTmhNOHVOUUx4VnMtNDdneGl6UjhvenBJOU9JX21MQ2VTbnFicWZBVGEtQ1VzeWVEVHcwbmhreHIwRTA2aVVMMVd6SUdGZUVVbmlJNGQyYnZubFNSSEdRVkFtc2twQS1YN1VBTVBuMnBmUFlwVFhjemJKLXp6dklIVUJVcUFEZ2R4cjRISThLQWlhZUJtbzFCLVhHUnFxa3FUMGhTUHFKNHNleERLRUlrWmtQOW52UDY5QnJyWW05aHloYVdGUUVYa3BhbU55VEVCSjljRW4xbV9CeWxYcGlpdXBkSUJwa2JPZnlFT3h0WlVJbmJCVTNR?oc=5"
+    },
+    {
+      "id": "69a1af597fcf959074",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T16:41:07+02:00",
+      "source": "El Mundo",
+      "title": "La Comunidad de Madrid pon en marcha un plan de apoyo psicológico en las residencias de mayores tras los incendios en la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWWhwWHdWNnNJWnRobXk5V2ZGVEtUMVNkLThDejVaSEQzbW5XU2g3MzV2WU9iZnJEZlJPNzk3Y3lSSWFwWkMwNkF6S1dBelJOXzl4NnVuNXpyNEZoRjBzLW15Ujk0LUZyMTFOMmc1Y0lWQVVTbTdQN0pn0gF6QVVfeXFMTmpZaHBYd1Y2c0ladGhteTlXZkZUS1QxU2QtOEN6NVpIRDNtbldTaDczNXZZT2JmckRmUk83OTdjeVJJYXBaQzA2QXpLV0F6Uk5fOXg2dW41enI0RmhGMHMtbXlSOTQtRnIxMU4yZzVjSVZBVVNtN1A3Smc?oc=5"
     },
     {
       "id": "d28c2c63378a5c4ba4",
@@ -283,7 +295,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 10
+      "items": 11
     },
     "direct_media": {
       "ok": true,
