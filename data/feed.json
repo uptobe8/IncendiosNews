@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:42:00+02:00",
+  "generated_at": "2026-08-08T07:27:51+02:00",
   "items": [
     {
       "id": "57f2a509d5fd0d47af",
@@ -86,18 +86,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEsxSDRxS2JTVllZRXh2T2V2ajNuOUNvdlB5RXZ4Yl9EUlpRSThrM3JXYllscmJRVHJTaXY0X1RidnJtYzNIb1pORG4wdnNsYms4Ujd6WmNHRjhISk5wX2QtNEl6dzkyUWtwR19Db3I2NE8xek56ZFJGUmVMVEEwYTZYMzBkTDlBWFFhUXZaZ2tuaDRYbkFCejYtb1RhbHBKd19ROXNXcVVqZlZKTHlPUy1UTkJHSXYwckhvSU1rVU51NWtmbm5UNDBRMXFqeWhvRjNVcFFRZmNzMFRoMXRxUHkzc0t4RkptVWhoSUcwZXnSAfYBQVVfeXFMTmhNOHVOUUx4VnMtNDdneGl6UjhvenBJOU9JX21MQ2VTbnFicWZBVGEtQ1VzeWVEVHcwbmhreHIwRTA2aVVMMVd6SUdGZUVVbmlJNGQyYnZubFNSSEdRVkFtc2twQS1YN1VBTVBuMnBmUFlwVFhjemJKLXp6dklIVUJVcUFEZ2R4cjRISThLQWlhZUJtbzFCLVhHUnFxa3FUMGhTUHFKNHNleERLRUlrWmtQOW52UDY5QnJyWW05aHloYVdGUUVYa3BhbU55VEVCSjljRW4xbV9CeWxYcGlpdXBkSUJwa2JPZnlFT3h0WlVJbmJCVTNR?oc=5"
     },
     {
-      "id": "69a1af597fcf959074",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T16:41:07+02:00",
-      "source": "El Mundo",
-      "title": "La Comunidad de Madrid pon en marcha un plan de apoyo psicológico en las residencias de mayores tras los incendios en la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWWhwWHdWNnNJWnRobXk5V2ZGVEtUMVNkLThDejVaSEQzbW5XU2g3MzV2WU9iZnJEZlJPNzk3Y3lSSWFwWkMwNkF6S1dBelJOXzl4NnVuNXpyNEZoRjBzLW15Ujk0LUZyMTFOMmc1Y0lWQVVTbTdQN0pn0gF6QVVfeXFMTmpZaHBYd1Y2c0ladGhteTlXZkZUS1QxU2QtOEN6NVpIRDNtbldTaDczNXZZT2JmckRmUk83OTdjeVJJYXBaQzA2QXpLV0F6Uk5fOXg2dW41enI0RmhGMHMtbXlSOTQtRnIxMU4yZzVjSVZBVVNtN1A3Smc?oc=5"
-    },
-    {
       "id": "d28c2c63378a5c4ba4",
       "type": "news",
       "severity": "info",
@@ -110,13 +98,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
     },
     {
-      "id": "b09e107b9f0df02ed6",
+      "id": "5114b573791e37168a",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T14:37:18+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Madrid ofrece apoyo psicológico a los mayores evacuados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
@@ -295,7 +283,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 11
+      "items": 10
     },
     "direct_media": {
       "ok": true,
