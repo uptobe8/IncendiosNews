@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-08-08T04:18:24+02:00",
+  "generated_at": "2026-08-08T05:47:09+02:00",
   "items": [
-    {
-      "id": "57f2a509d5fd0d47af",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-08T01:08:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "La Fiscalía intentará acelerar la investigación del incendio de Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmd1ZnJvOFhnaEZJUF9GNXNNV1BIX3Z4SHNhYjNaZ0s5by1Hb2RhaFVGLXZEX3l3djBEMmFuM2otZ0dGVXpuZkZPN0dTeTJHWjc1WE5FeVZzdDZ1UWd1ZnhVd2pmZkhzSVJrdGlEbjAyZnJScnl4cEtYWHpfQmpfbGlvTlZkdEdsY1pTZ2dqdnhNcENqOW5ENVV6UDZrNHRkYlFaME5kRTh6ZklvSjM2UVVKWUY?oc=5"
-    },
-    {
-      "id": "4484c2794e4b22c9ff",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-07T22:51:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "116 víctimas de violencia machista fueron objeto de vigilancia durante el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
-    },
     {
       "id": "62ac9d11f3315f6f4f",
       "type": "news",
@@ -295,7 +271,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 11
+      "items": 9
     },
     "direct_media": {
       "ok": true,
