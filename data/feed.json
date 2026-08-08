@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:16:12+02:00",
+  "generated_at": "2026-08-08T16:00:39+02:00",
   "items": [
     {
       "id": "ad431cee9ebfd7cc5a",
@@ -122,30 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWWhwWHdWNnNJWnRobXk5V2ZGVEtUMVNkLThDejVaSEQzbW5XU2g3MzV2WU9iZnJEZlJPNzk3Y3lSSWFwWkMwNkF6S1dBelJOXzl4NnVuNXpyNEZoRjBzLW15Ujk0LUZyMTFOMmc1Y0lWQVVTbTdQN0pn0gF6QVVfeXFMTmpZaHBYd1Y2c0ladGhteTlXZkZUS1QxU2QtOEN6NVpIRDNtbldTaDczNXZZT2JmckRmUk83OTdjeVJJYXBaQzA2QXpLV0F6Uk5fOXg2dW41enI0RmhGMHMtbXlSOTQtRnIxMU4yZzVjSVZBVVNtN1A3Smc?oc=5"
     },
     {
-      "id": "d28c2c63378a5c4ba4",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T15:56:21+02:00",
-      "source": "20Minutos",
-      "title": "Madrid aprueba una campaña de promoción de la Sierra Oeste y nuevas ayudas para la recuperación tras el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
-    },
-    {
-      "id": "07f5f40ac28999981b",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T15:53:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Madrid activará apoyo psicológico para las residencias evacuadas por incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblcxdHNSRWhuZXhEOGROS2xMRjFxRkF1aktWc3RnVmpUWnJnckVhZTNpVmlJSjVCT1JpZnB1TnRFVDlGLWwyN1FFVDQ5QlBROU1wQ21QZmgzcWhwVVlKWGxSanlxcU5NYWh4cG1WTVp3emhkUW05cHBsN25UeUc3RExfSG1HVUpxdmEzRE5BOTl1akg0UGo2NW4xSzVuc1RrVE5LOEFpVHBqMWQ2bXo4aXhEbEFKQ2MxeUI4ZXNHRGgtMWVHWmc?oc=5"
-    },
-    {
       "id": "54b078f25fc1db4fcb",
       "type": "news",
       "severity": "info",
@@ -265,13 +241,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 11
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 9
     },
     "direct_media": {
       "ok": true,
