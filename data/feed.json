@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T13:14:07+02:00",
+  "generated_at": "2026-08-08T13:46:03+02:00",
   "items": [
+    {
+      "id": "b79120970cedbba3aa",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-08T13:21:00+02:00",
+      "source": "Telemadrid",
+      "title": "Un incendio en un restaurante de Gran Vía obliga a cortar el tráfico en pleno centro de Madrid",
+      "summary": "Un incendio declarado este sábado en la cocina de un restaurante situado en el número 55 de la Gran Vía ha obligado a cortar temporalmente la...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Un-incendio-en-un-restaurante-de-Gran-Via-obliga-a-cortar-el-trafico-en-pleno-centro-de-Madrid-0-2914508526--20260808011911.html"
+    },
     {
       "id": "57f2a509d5fd0d47af",
       "type": "news",
@@ -26,25 +38,25 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
     },
     {
-      "id": "d0121e9ca8df91f90c",
+      "id": "c2185e067346887abd",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T21:26:25+02:00",
-      "source": "rtve.es",
+      "source": "RTVE.es",
       "title": "Jorge Agero, el guardián del pantano de San Juan durante el gran incendio de la sierra oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWVjLU4zcGpYSVFOSUdyanVtNm9jN2xTcXRCTjd2RnZ5aURKS1BQQThDMXhxVU1CZ2VGVVNRY2hXYjRvMkRJT0EwQ24zS29RT3p0QWxsUTRjOU5FMHNJYmpQbHNGMThhSkhHdjJ3UVRUaGxUc05oWm1TT21JT2lHR2ZSWVY5ZVlTSWpuOEJHZ1kxemNIOWhpN21R?oc=5"
     },
     {
-      "id": "c57ff6b55cc6f44ad7",
+      "id": "059a36b9699d60f848",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Pelayos de la Presa",
       "published": "2026-08-07T20:06:36+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "\"El jacuzzi salvó al futbolín del incendio\", el sorprendente testimonio de un vecino de Pelayos de la Presa",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORW5EODJxOWJnU0wtRXJBc2pwU0JGa2ZrNXI2cnhSMERMZkFQTFlDVjRyUmhhMnAwX1hsMFI3cm1PUGpkZVEtRF9UUF9XVmZZX1RCWXNWRmNtM082QXJLOHlHSlJ6bXNKbjBQS3lCVHFxbFp5LWIydjZNZW9iLXNyMUplU2UyWHh1WTM3Z20zcGFzc0pSN3dZWmprVmRrRjRkQVlZQzE3OHIwYnMzcWdtRHFwNXYzRjJoTVBndTQ4QVVjWjJWZXM5bUtkYWpwWkNkSzJmVGYwNVVWSGlPRGdtZGdYbXpnbllIZFRPcklRYk41SnpDTlo5Q0oweGRjWEVzZFZzUENjZ1JNaDcxcGJxSVdDVkNwTExDNXFvRXJR0gGeAkFVX3lxTE5FbkQ4MnE5YmdTTC1FckFzanBTQkZrZms1cjZyeFIwRExmQVBMWUNWNHJSaGEycDBfWGwwUjdybU9QamRlUS1EX1RQX1dWZllfVEJZc1ZGY20zTzZBcks4eUdKUnptc0puMFBLeUJUcXFsWnktYjJ2Nk1lb2Itc3IxSmVTZTJYeHVZMzdnbTNwYXNzSlI3d1laamtWZGtGNGRBWVlDMTc4cjBiczNxZ21EcXA1djNGMmhNUGd1NDhBVWNaMlZlczltS2RhanBaQ2RLMmZUZjA1VVZIaU9EZ21kZ1htemduWUhkVE9ySVFiTjVKekNOWjlDSjB4ZGNYRXNkVnNQQ2NnUk1oNzFwYnFJV0NWQ3BMTEM1cW9FclE?oc=5"
@@ -98,18 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEsxSDRxS2JTVllZRXh2T2V2ajNuOUNvdlB5RXZ4Yl9EUlpRSThrM3JXYllscmJRVHJTaXY0X1RidnJtYzNIb1pORG4wdnNsYms4Ujd6WmNHRjhISk5wX2QtNEl6dzkyUWtwR19Db3I2NE8xek56ZFJGUmVMVEEwYTZYMzBkTDlBWFFhUXZaZ2tuaDRYbkFCejYtb1RhbHBKd19ROXNXcVVqZlZKTHlPUy1UTkJHSXYwckhvSU1rVU51NWtmbm5UNDBRMXFqeWhvRjNVcFFRZmNzMFRoMXRxUHkzc0t4RkptVWhoSUcwZXnSAfYBQVVfeXFMTmhNOHVOUUx4VnMtNDdneGl6UjhvenBJOU9JX21MQ2VTbnFicWZBVGEtQ1VzeWVEVHcwbmhreHIwRTA2aVVMMVd6SUdGZUVVbmlJNGQyYnZubFNSSEdRVkFtc2twQS1YN1VBTVBuMnBmUFlwVFhjemJKLXp6dklIVUJVcUFEZ2R4cjRISThLQWlhZUJtbzFCLVhHUnFxa3FUMGhTUHFKNHNleERLRUlrWmtQOW52UDY5QnJyWW05aHloYVdGUUVYa3BhbU55VEVCSjljRW4xbV9CeWxYcGlpdXBkSUJwa2JPZnlFT3h0WlVJbmJCVTNR?oc=5"
     },
     {
-      "id": "69a1af597fcf959074",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T16:41:07+02:00",
-      "source": "El Mundo",
-      "title": "La Comunidad de Madrid pon en marcha un plan de apoyo psicológico en las residencias de mayores tras los incendios en la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWWhwWHdWNnNJWnRobXk5V2ZGVEtUMVNkLThDejVaSEQzbW5XU2g3MzV2WU9iZnJEZlJPNzk3Y3lSSWFwWkMwNkF6S1dBelJOXzl4NnVuNXpyNEZoRjBzLW15Ujk0LUZyMTFOMmc1Y0lWQVVTbTdQN0pn0gF6QVVfeXFMTmpZaHBYd1Y2c0ladGhteTlXZkZUS1QxU2QtOEN6NVpIRDNtbldTaDczNXZZT2JmckRmUk83OTdjeVJJYXBaQzA2QXpLV0F6Uk5fOXg2dW41enI0RmhGMHMtbXlSOTQtRnIxMU4yZzVjSVZBVVNtN1A3Smc?oc=5"
-    },
-    {
       "id": "d28c2c63378a5c4ba4",
       "type": "news",
       "severity": "info",
@@ -122,13 +122,25 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
     },
     {
-      "id": "b09e107b9f0df02ed6",
+      "id": "07f5f40ac28999981b",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T15:53:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid activará apoyo psicológico para las residencias evacuadas por incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblcxdHNSRWhuZXhEOGROS2xMRjFxRkF1aktWc3RnVmpUWnJnckVhZTNpVmlJSjVCT1JpZnB1TnRFVDlGLWwyN1FFVDQ5QlBROU1wQ21QZmgzcWhwVVlKWGxSanlxcU5NYWh4cG1WTVp3emhkUW05cHBsN25UeUc3RExfSG1HVUpxdmEzRE5BOTl1akg0UGo2NW4xSzVuc1RrVE5LOEFpVHBqMWQ2bXo4aXhEbEFKQ2MxeUI4ZXNHRGgtMWVHWmc?oc=5"
+    },
+    {
+      "id": "5114b573791e37168a",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T14:37:18+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Madrid ofrece apoyo psicológico a los mayores evacuados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
@@ -275,7 +287,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
