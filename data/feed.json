@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-08T14:16:22+02:00",
+  "generated_at": "2026-08-08T15:16:12+02:00",
   "items": [
     {
-      "id": "b79120970cedbba3aa",
+      "id": "ad431cee9ebfd7cc5a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-08T13:21:00+02:00",
+      "published": "2026-08-08T14:45:07+02:00",
       "source": "Telemadrid",
-      "title": "Un incendio en un restaurante de Gran Vía obliga a cortar el tráfico en pleno centro de Madrid",
-      "summary": "Un incendio declarado este sábado en la cocina de un restaurante situado en el número 55 de la Gran Vía ha obligado a cortar temporalmente la...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Un-incendio-en-un-restaurante-de-Gran-Via-obliga-a-cortar-el-trafico-en-pleno-centro-de-Madrid-0-2914508526--20260808011911.html"
+      "title": "14 familias esperan en Parla y Móstoles la reconstrucción de sus viviendas tras el incendio de Sierra Oeste",
+      "summary": "A pesar de que llegaron a atender a más de 400 familias afectadas por los incendios de Sierra Oeste hoy son sólo 14 las que continúan acogidas por...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/14-familias-esperan-en-Parla-y-Mostoles-la-reconstruccion-de-sus-viviendas-tras-el-incendio-de-Sierra-Oeste-2-2914528524--20260808024427.html"
     },
     {
       "id": "57f2a509d5fd0d47af",
@@ -38,13 +38,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
     },
     {
-      "id": "d0121e9ca8df91f90c",
+      "id": "c2185e067346887abd",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T21:26:25+02:00",
-      "source": "rtve.es",
+      "source": "RTVE.es",
       "title": "Jorge Agero, el guardián del pantano de San Juan durante el gran incendio de la sierra oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWVjLU4zcGpYSVFOSUdyanVtNm9jN2xTcXRCTjd2RnZ5aURKS1BQQThDMXhxVU1CZ2VGVVNRY2hXYjRvMkRJT0EwQ24zS29RT3p0QWxsUTRjOU5FMHNJYmpQbHNGMThhSkhHdjJ3UVRUaGxUc05oWm1TT21JT2lHR2ZSWVY5ZVlTSWpuOEJHZ1kxemNIOWhpN21R?oc=5"
@@ -146,18 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblcxdHNSRWhuZXhEOGROS2xMRjFxRkF1aktWc3RnVmpUWnJnckVhZTNpVmlJSjVCT1JpZnB1TnRFVDlGLWwyN1FFVDQ5QlBROU1wQ21QZmgzcWhwVVlKWGxSanlxcU5NYWh4cG1WTVp3emhkUW05cHBsN25UeUc3RExfSG1HVUpxdmEzRE5BOTl1akg0UGo2NW4xSzVuc1RrVE5LOEFpVHBqMWQ2bXo4aXhEbEFKQ2MxeUI4ZXNHRGgtMWVHWmc?oc=5"
     },
     {
-      "id": "5114b573791e37168a",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T14:37:18+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid ofrece apoyo psicológico a los mayores evacuados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
-    },
-    {
       "id": "54b078f25fc1db4fcb",
       "type": "news",
       "severity": "info",
@@ -168,18 +156,6 @@
       "title": "Estabilizado el incendio forestal de Burgohondo (Ávila) tras calcinar más de 50.000 hectáreas",
       "summary": "El incendio forestal declarado el pasado 22 de julio en el término municipal de Burgohondo...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-estabilizado-incendio-forestal-burgohondo-avila-calcinar-mas-50000-hectareas-20260806192305.html"
-    },
-    {
-      "id": "6065a9474c6612789a",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-06T17:54:14+02:00",
-      "source": "Europa Press",
-      "title": "Una campaña en redes anima a recorrer los pueblos de Ávila afectados por incendios y descubrir su riqueza",
-      "summary": "La Diputación de Ávila ha lanzado a través de las redes sociales una campaña para invitar a los viajeros y a...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -289,17 +265,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 11
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
