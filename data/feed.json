@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T00:10:53+02:00",
+  "generated_at": "2026-08-09T00:47:24+02:00",
   "items": [
     {
       "id": "ebf5a30e3ff36cd0c1",
@@ -70,7 +70,7 @@
       "published": "2026-08-07T18:46:23+02:00",
       "source": "Europa Press",
       "title": "La Comunidad de Madrid califica como apta para baño el agua del Pantano de San Juan tras el incendio de la Sierra Oeste",
-      "summary": "La Dirección General de Salud Pública de la Comunidad de Madrid ha calificado como apta para el baño la...",
+      "summary": "La Confederación Hidrográfica del Tajo será la encargada decidir si levantar la prohibición de actividades...",
       "url": "https://www.europapress.es/madrid/noticia-comunidad-madrid-califica-apta-bano-agua-pantano-san-juan-incendio-sierra-oeste-20260807184623.html"
     },
     {
@@ -181,10 +181,6 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 6
@@ -192,6 +188,10 @@
     "direct_media": {
       "ok": true,
       "items": 1
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
