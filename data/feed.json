@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:53:01+02:00",
+  "generated_at": "2026-08-08T11:29:45+02:00",
   "items": [
     {
       "id": "57f2a509d5fd0d47af",
@@ -26,13 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHg0TkxjY19SeVVPZzlXcktOc1dGNzRSSzd0YVhiWTNWWDYwdWhZd0ROcU93TEwwMkxndVBCMmdfUElONXA4U3J6R0RIT05LcXVadjNQaDJnaTIzaDdHanp3andralVyZmVBOVRGMmdRZnZDMW1wRzVKTGM5TGhKLUc4RDhPY2FWa1luc05xT3JHc2dGTmJsWkNoSzZzeWZxSmRvaERXcmEtTDdIbmpwdGtQaFNHNzJlZ25nVFJzLVAtUno0aWlVM0dhNEJGNXVOenFHcGpWWDM?oc=5"
     },
     {
-      "id": "059a36b9699d60f848",
+      "id": "c57ff6b55cc6f44ad7",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Pelayos de la Presa",
       "published": "2026-08-07T20:06:36+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "\"El jacuzzi salvó al futbolín del incendio\", el sorprendente testimonio de un vecino de Pelayos de la Presa",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORW5EODJxOWJnU0wtRXJBc2pwU0JGa2ZrNXI2cnhSMERMZkFQTFlDVjRyUmhhMnAwX1hsMFI3cm1PUGpkZVEtRF9UUF9XVmZZX1RCWXNWRmNtM082QXJLOHlHSlJ6bXNKbjBQS3lCVHFxbFp5LWIydjZNZW9iLXNyMUplU2UyWHh1WTM3Z20zcGFzc0pSN3dZWmprVmRrRjRkQVlZQzE3OHIwYnMzcWdtRHFwNXYzRjJoTVBndTQ4QVVjWjJWZXM5bUtkYWpwWkNkSzJmVGYwNVVWSGlPRGdtZGdYbXpnbllIZFRPcklRYk41SnpDTlo5Q0oweGRjWEVzZFZzUENjZ1JNaDcxcGJxSVdDVkNwTExDNXFvRXJR0gGeAkFVX3lxTE5FbkQ4MnE5YmdTTC1FckFzanBTQkZrZms1cjZyeFIwRExmQVBMWUNWNHJSaGEycDBfWGwwUjdybU9QamRlUS1EX1RQX1dWZllfVEJZc1ZGY20zTzZBcks4eUdKUnptc0puMFBLeUJUcXFsWnktYjJ2Nk1lb2Itc3IxSmVTZTJYeHVZMzdnbTNwYXNzSlI3d1laamtWZGtGNGRBWVlDMTc4cjBiczNxZ21EcXA1djNGMmhNUGd1NDhBVWNaMlZlczltS2RhanBaQ2RLMmZUZjA1VVZIaU9EZ21kZ1htemduWUhkVE9ySVFiTjVKekNOWjlDSjB4ZGNYRXNkVnNQQ2NnUk1oNzFwYnFJV0NWQ3BMTEM1cW9FclE?oc=5"
@@ -110,16 +110,40 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUhRVmVvanhlcnJYZ0pEZ1FjcFBXRTNaN0lJZkRZMXU1RDJTZkRuWVFlM1MtSTlTME1zSlVCRUJkZDVXNE9jMEk2Z1dZNGx3LTk0MDRSNG5YZjlUUWVsSVRrZlFEakxNRHN6dGJ3aTZILXBXZmZfMFB6bDFaendwUXFON1BSbF83bGpyMGRYN2RDaGVSakNrZ1FsS1NXU1M4UWtkUUVLTERVdW9uSVRfX2VrM2dfUTNPUnZyaS1tQmx1ODE1eFhyUDlEUXlSTXB4bWIzbnJvV2JhZw?oc=5"
     },
     {
-      "id": "5114b573791e37168a",
+      "id": "b09e107b9f0df02ed6",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-07T14:37:18+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Madrid ofrece apoyo psicológico a los mayores evacuados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWxITThEU29SUXNFWnlQb3BVZXdMSHZ1RmRqWEppT2Q1MkNYQWlGb2tMUE5HSGxHRGtuLTk2NmNhR1BBV3k2RE5XdHNQQTZ0Q05VZHA5bVNqVHV0OXRlMlBZTHZvZ2U1SE1RaVZWeTlMZGZkRzBMUEd5SEtJUkh0c1VaRmd0bWZSWkpmNjhkalNISzJSZlFOaHYtZEZwRndHTzIzX1Y5emdnZ0h2VjJORXRZTExXZTlxcklWaTdOQXQ3UmUzZEFfUGEtNURnaU5OM2V1aFBYZGMtV2lSWjU3Y0hoaGo2aWJfc24yR3JBdVR6ZGc4VlJLM0NxcDJDU0NfVk90R3FB0gGLAkFVX3lxTE1wM2lwMzg4WXljSWJZVXhhTzNEVEhDM055bldheUxlLVlWOWMzYXFYNnhqem52NWIxbW9rOGxRYVVLT0lpWVZoTUNneFRwYVNlNzFlUDc2NmlzX24zWERpYkVmTHpJc3d2RHVyYnRJeW1SREQzOXFYbW5OZk8xdmtDUHR1dEJIN2V4a2hHYW91ZmdoSzVIUUhIdENmcElUQktsUHkwMjBKV1FoM0ZYbVB0NDhyMU8xdFZKTEZTV1VnSXN0MWdLR3NhZGFYcWxRVG10eC1KTjBoSHk1MklKOUtBdUNONnktZTNKR1hfVWliYzBYVmdYeTZEWDVWUUNGQ09oNTE0OHVlX3M5Yw?oc=5"
+    },
+    {
+      "id": "0d2d5fd2419ad13b99",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-07T12:48:58+02:00",
+      "source": "Cadena SER",
+      "title": "Ecologistas reclaman la extensión de la limitación de la caza a la zona norte de Madrid tras los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQy0tLVN3MklRMXk4TGlVcHFMZmhFaVpsSC04NmljYmN4NlhyS2lhS2M3U3k4NTB5SUI4NTE4cHNHdTZkZjNWbWZVQ0w4SEFTaFRLcXk4SWxmQ0tVYy1wLVYwUVdTU25sOHdlOVcxT3dZRHVGUGF6M2l0QXEycXRGYXk0RUprV2dydndmOFJYOFdCQTh0UkYzSS1CQzh5QnJQaUpaZmdRVUtJY1FTZlBaam94MnA3cjJTdnhMNlA2ZU1FTUpXME1OTEpOd1dRMFFHTzlNYm5qMjdqZ0xsNjJuRmEzUlNYM1dkM1I0dXZuOXI4TkFXVUM5VUkwckFocjBiOGUtaWxOQXpVcERR0gGMAkFVX3lxTE9DLS0tU3cySVExeThMaVVwcUxmaEVpWmxILTg2aWNiY3g2WHJLaWFLYzdTeTg1MHlJQjg1MThwc0d1NmRmM1ZtZlVDTDhIQVNoVEtxeThJbGZDS1VjLXAtVjBRV1NTbmw4d2U5VzFPd1lEdUZQYXozaXRBcTJxdEZheTRFSmtXZ3J2d2Y4Ulg4V0JBOHRSRjNJLUJDOHlCclBpSlpmZ1FVS0ljUVNmUFpqb3gycDdyMlN2eEw2UDZlTUVNSlcwTU5MSk53V1EwUUdPOU1ibmoyN2pnTGw2Mm5GYTNSU1gzV2QzUjR1dm45cjhOQVdVQzlVSTByQWhyMGI4ZS1pbE5BelVwRFE?oc=5"
+    },
+    {
+      "id": "69ad4fe275d9a90b3e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-07T12:10:18+02:00",
+      "source": "EL PAÍS",
+      "title": "Viaje entre las llamas de Ávila: fuego, destrucción y caos en el mayor incendio de la historia de España",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYnNXQVh6dUI2aTBib2lGbENMbTl0N05RWXZBNVh5SC1FeE5MVzFVM1AxT3JCU1MwSDNmbDVsRmZFMkp6SE1nQWttaGNJdDlaenJfZGlqN2ZwVUlIbjBLeEdKWm1YTFh3VlQ4OG8zLXdtMTJ4aHpReURodldVLXdEQmozdUpPMmRJalB4REt1dXdyLWhDOXNXbzZiSVZkNjh1RVBEZzM1eEo4VmN2U0xhdnc2QzVyN3l6aTZoRllCSTB6UFMzdEc4TUY2NjJObTh4cW0tTU5JdGlZZ2pD0gHwAUFVX3lxTE1TV3haN3F3dDk2SE1pWjhobDdDeWhJYW56OG9zbVkxX1JoOV80RERuN2hEOTFfYkdvcklMVWJTQVplQi1PeEczS2Y0eG9WU0FxNGhSX0pmNlJ5RVdTWnJzOVMydTBPeFhWelFmaWZsS0dNU2RDU3UxSWRNbUdNenNYVXF6c2xlcWZhYS1SMGFwbWJESldfTVViVUljbG5sUktmanFNY1dsN1BvMk1zX1dFNnRSUWY1dE1MM3RqbjRNQzZ5Y1NHbjB2ZmpKc1JBN0I4MXE2b2oxa2RKZnV4M1JLTDhNcl9SMEw2eFgxSHNqTQ?oc=5"
     },
     {
       "id": "54b078f25fc1db4fcb",
@@ -144,18 +168,6 @@
       "title": "Una campaña en redes anima a recorrer los pueblos de Ávila afectados por incendios y descubrir su riqueza",
       "summary": "La Diputación de Ávila ha lanzado a través de las redes sociales una campaña para invitar a los viajeros y a...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campana-redes-diputacion-avila-anima-recorrer-pueblos-afectados-incendios-descubrir-riqueza-20260806134351.html"
-    },
-    {
-      "id": "caff39666b681e2018",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Almorox",
-      "published": "2026-08-06T13:55:05+02:00",
-      "source": "Europa Press",
-      "title": "Extinguido el incendio de Almorox que hizo que Toledo entrase en emergencia nacional",
-      "summary": "El incendio forestal originado el pasado 22 de julio en la localidad toledana de Almorox, que hizo que se...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-extinguido-incendio-almorox-hizo-toledo-entrase-emergencia-nacional-20260806135505.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -265,17 +277,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 9
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 11
+    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
