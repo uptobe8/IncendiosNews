@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T06:05:25+02:00",
+  "generated_at": "2026-08-09T07:15:32+02:00",
   "items": [
+    {
+      "id": "f1ea67ffe8e323243b",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "La Adrada",
+      "published": "2026-08-08T17:31:30+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Adrada trata de \"recuperar el pulso\" manteniendo sus fiestas tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcE9wYTRRb0thdmluWTRTRmdXWGdIWnF6eDE3cEo1QWdFSzI3NzFDb3NxQ1F1UGZFb25OSmh1T2Y3c3F4eVlOMFRFRFF0RklNLXl0eGhqbjFJR0hwUlhlRElIYWxHVXNtSUdLOHZ2OTJ1dzNtZkg4RjU2Qmw2ZWh4OXpTS2xGTUFoZVB4VDlQVGw5RUd6di04Nkd1SXM1clg3RmZFX1FENlEyNldId19tZzZIWjFyVlEwdmFRU3Qzb00?oc=5"
+    },
     {
       "id": "ebf5a30e3ff36cd0c1",
       "type": "news",
@@ -171,7 +183,7 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "official": {
       "ok": false,
