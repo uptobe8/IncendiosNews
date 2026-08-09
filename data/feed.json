@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:11:30+02:00",
+  "generated_at": "2026-08-09T21:48:36+02:00",
   "items": [
     {
       "id": "d5bd0c20a9fe3adbc9",
@@ -38,18 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0I3R2YtTUtPendWWHlUYmJmZWl6d2U0eXhHWnU3RkVtUkRnbkJUR2JBWFl0VG5ITHk5a005QmNWMTFIa1Z2NENoaXh4bFh5bmMxSTlYV0JoVDJHM0s1aVB1V0pFVXV5RTN6ak5QeWVqZWhFYm9YV1I4dnpuNnRTaExFd1ZXalBSZTkwZVpJS3JsOW9xeWgzZC04MkE0ZzF1R1ZIaUppMTBCSEIyQ2E3M3VyUjltajhYcXozUTB3VG52Rm8?oc=5"
     },
     {
-      "id": "47f85e1283a0afdd5d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Chapinería",
-      "published": "2026-08-09T16:41:37+02:00",
-      "source": "Telemadrid",
-      "title": "Chapinería intenta recuperar la normalidad tras el incendio con la reapertura de su piscina municipal",
-      "summary": "Chapinería trata de recuperar poco a poco la normalidad tras el incendio que ha afectado a la localidad. Hasta un 40% de su término municipal se...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Chapineria-intenta-recuperar-la-normalidad-tras-el-incendio-con-la-reapertura-de-su-piscina-municipal-2-2914828492--20260809044137.html"
-    },
-    {
       "id": "7aab4b748ff8913e7c",
       "type": "news",
       "severity": "info",
@@ -66,12 +54,12 @@
       "type": "news",
       "severity": "info",
       "province": "Madrid",
-      "town": "Comunidad de Madrid",
+      "town": "Pelayos de la Presa",
       "published": "2026-08-09T07:19:54+02:00",
       "source": "Europa Press",
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
+      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
+      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -187,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 4
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 4
     }
   },
   "refresh_seconds": 300
