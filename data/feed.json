@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:05:20+02:00",
+  "generated_at": "2026-08-10T01:43:33+02:00",
   "items": [
     {
       "id": "d5bd0c20a9fe3adbc9",
@@ -24,6 +24,18 @@
       "title": "Los Campamentos CaixaBank-Venero Claro reúnen a más de 500 niños en una edición marcada por los incendios de Ávila",
       "summary": "Los XIV Campamentos CaixaBank-Venero Claro 2026 han reunido a más de 500 niños en Navaluenga (Ávila), en...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campamentos-caixabank-venero-claro-reunen-mas-500-ninos-edicion-marcada-incendios-avila-20260809174452.html"
+    },
+    {
+      "id": "951af36972fc44c555",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T14:09:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Controlado el fuego de Culla; activos otros dos incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0I3R2YtTUtPendWWHlUYmJmZWl6d2U0eXhHWnU3RkVtUkRnbkJUR2JBWFl0VG5ITHk5a005QmNWMTFIa1Z2NENoaXh4bFh5bmMxSTlYV0JoVDJHM0s1aVB1V0pFVXV5RTN6ak5QeWVqZWhFYm9YV1I4dnpuNnRTaExFd1ZXalBSZTkwZVpJS3JsOW9xeWgzZC04MkE0ZzF1R1ZIaUppMTBCSEIyQ2E3M3VyUjltajhYcXozUTB3VG52Rm8?oc=5"
     },
     {
       "id": "7aab4b748ff8913e7c",
@@ -163,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 5
     },
     "direct_media": {
       "ok": true,
