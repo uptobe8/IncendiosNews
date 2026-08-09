@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T16:18:48+02:00",
+  "generated_at": "2026-08-09T16:56:36+02:00",
   "items": [
+    {
+      "id": "47f85e1283a0afdd5d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Chapinería",
+      "published": "2026-08-09T16:41:37+02:00",
+      "source": "Telemadrid",
+      "title": "Chapinería intenta recuperar la normalidad tras el incendio con la reapertura de su piscina municipal",
+      "summary": "Chapinería trata de recuperar poco a poco la normalidad tras el incendio que ha afectado a la localidad. Hasta un 40% de su término municipal se...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Chapineria-intenta-recuperar-la-normalidad-tras-el-incendio-con-la-reapertura-de-su-piscina-municipal-2-2914828492--20260809044137.html"
+    },
     {
       "id": "7aab4b748ff8913e7c",
       "type": "news",
@@ -24,18 +36,6 @@
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
-    },
-    {
-      "id": "ebf5a30e3ff36cd0c1",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-08T16:34:51+02:00",
-      "source": "20Minutos",
-      "title": "El agente de Guardia Civil que se hizo viral al rescatar un perro de un incendio en Madrid: \"Cuando tienes animales, te toca el corazón\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYmtncWY0WFFicEliN3g2RVdBTWJhYlRSTVNmZS1xSUJTSFJicG9fekNBSFNzLUYxc2d5RXp2eXhSR05tMWtwRlZHdFpvcGhCX21CcVJ0SlZ0bXBEZW1jclQxWEJCbkxKQnVqYnljcGplRzMwcDlicURteU1mSVVyM3RsNlE1UmFUNGtPS3lZUWFiNU1RVnFrcTBOMmR4QzZqWUhhUWdTN2ZPTjJuUFczWTMyd1cxQ3I4dFZLMDJ6bkp4TE5pci1XZkFud2tRVWdSbm5ZMWwzV3pzSkFRVk14RC1rMUNFdjZudG9aNzcxeFI4SGxPQmQ4QVRlRdIB-wFBVV95cUxQYmtncWY0WFFicEliN3g2RVdBTWJhYlRSTVNmZS1xSUJTSFJicG9fekNBSFNzLUYxc2d5RXp2eXhSR05tMWtwRlZHdFpvcGhCX21CcVJ0SlZ0bXBEZW1jclQxWEJCbkxKQnVqYnljcGplRzMwcDlicURteU1mSVVyM3RsNlE1UmFUNGtPS3lZUWFiNU1RVnFrcTBOMmR4QzZqWUhhUWdTN2ZPTjJuUFczWTMyd1cxQ3I4dFZLMDJ6bkp4TE5pci1XZkFud2tRVWdSbm5ZMWwzV3pzSkFRVk14RC1rMUNFdjZudG9aNzcxeFI4SGxPQmQ4QVRlRQ?oc=5"
     },
     {
       "id": "7fe2188e42471e2758",
@@ -163,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
