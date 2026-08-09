@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T07:15:32+02:00",
+  "generated_at": "2026-08-09T08:01:47+02:00",
   "items": [
+    {
+      "id": "e708cd5f3c1c8f074a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T07:19:54+02:00",
+      "source": "Europa Press",
+      "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
+    },
     {
       "id": "f1ea67ffe8e323243b",
       "type": "news",
@@ -36,18 +48,6 @@
       "title": "14 familias esperan en Parla y Móstoles la reconstrucción de sus viviendas tras el incendio de Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQnVBVWRGN3drODBuc195VExKWXlSb0QydEpBNk5jVWVmandIVWtRamhqaHVfLTB0c0JXanRhT0ZJVG5QbVdvTWZBU1JESUFCWHNlSnpBODgtWWNqdjQ1ZTRYSTlnQzhXMEpiLXF2REJxVlVzWmdMenpnWHhXc3UzaVVyRkY4TWdZWlpnRDBFX3FHWFNVTWJ1SmJJQkdxMWl6MlhnVDY2U0loeEdKUmdCbTY1T1J2MnppM0FvWTdPVVNXdFgybHJKZWJXZ3JCU3QxbzRiWEt4ZFFXRHVZclgya3g4cXlzT3hsYW5GZDNqT2k5VjZyU00xN1R1RmtRVTY3c0REMlF3Sk5sY0FqWEhzeFd5QTZYazhxa01uLU5yYU5GeUdFQlZlaXZhQ1jSAbICQVVfeXFMUFBRS1JweXBvMV9OemxnSDU4Ni1mbzRBLWp0dFozQ2FzVE1kbk1Mc3FmZ0VIX3BaNEZ4RElfcXIteUlCMXdEUUxFbzNiTHZ0OFo2b3RTbnpNakpzUktRSmRlWkdkeWZBcEtXQ2dIcmJ1UHU0UDB3MnZxMHF3S3RJQjBEUk14ZlM0RXRnQTZ2N3F0WVgzQ0hHdXJLMVBmSXdxZzJSY1M0ZVNYc1VoUFFSR3lZc3k2d3N0UzhkR3NsX1FaSWRqakNWOENKQVN0RHZJaHZSMzJrN0dIVWptYjlEdWNzRWNWUTF5WTBDOS1CTDBwM2J5aXZvQnFzWUxZNTFwNTNoWVhEZHZHX2Y1dDFWdjJxVktJWmpDSUJ2d1czRHowTENFOVQyUUFBbE1NMGV1OEdn?oc=5"
-    },
-    {
-      "id": "44eaa462b4c6095ba5",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-08T13:56:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Prisión provisional para el investigado del incendio de Lozoyuela",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLXVVSGxKZVBuRGZ3ZDV5bTZSWmpJNmlUVVlZU0FjS09CM2d2S01ZMVBubnJyZFppUWlLZVJNQlRqYXlETnVXaXRzbnZod1VEV1Q0djlLNVhpSXhEODB5cjhQbkxONUcwTHRCeTlRcVZqdFdhcUtJbkFJaFRHR3RQdmM3blRlQXBBZWQyVlNFalBZaHFOcXFCZ1Zra1BVTzlyT0lQeUpPdjlwYlQ4ajNacFBkSjB1YjhMM2MyUGk4YUNZNVRQX1o4X1Uza0xibEZ1OWh3X09wZFNFYTlMYzRxYUZRTmwxdw?oc=5"
     },
     {
       "id": "d909b3fda34c339085",
@@ -181,13 +181,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 6
     },
     "direct_media": {
       "ok": true,
