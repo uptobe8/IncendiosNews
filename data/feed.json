@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:14:19+02:00",
+  "generated_at": "2026-08-09T12:54:34+02:00",
   "items": [
     {
       "id": "7aab4b748ff8913e7c",
@@ -60,18 +60,6 @@
       "title": "14 familias esperan en Parla y Móstoles la reconstrucción de sus viviendas tras el incendio de Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQnVBVWRGN3drODBuc195VExKWXlSb0QydEpBNk5jVWVmandIVWtRamhqaHVfLTB0c0JXanRhT0ZJVG5QbVdvTWZBU1JESUFCWHNlSnpBODgtWWNqdjQ1ZTRYSTlnQzhXMEpiLXF2REJxVlVzWmdMenpnWHhXc3UzaVVyRkY4TWdZWlpnRDBFX3FHWFNVTWJ1SmJJQkdxMWl6MlhnVDY2U0loeEdKUmdCbTY1T1J2MnppM0FvWTdPVVNXdFgybHJKZWJXZ3JCU3QxbzRiWEt4ZFFXRHVZclgya3g4cXlzT3hsYW5GZDNqT2k5VjZyU00xN1R1RmtRVTY3c0REMlF3Sk5sY0FqWEhzeFd5QTZYazhxa01uLU5yYU5GeUdFQlZlaXZhQ1jSAbICQVVfeXFMUFBRS1JweXBvMV9OemxnSDU4Ni1mbzRBLWp0dFozQ2FzVE1kbk1Mc3FmZ0VIX3BaNEZ4RElfcXIteUlCMXdEUUxFbzNiTHZ0OFo2b3RTbnpNakpzUktRSmRlWkdkeWZBcEtXQ2dIcmJ1UHU0UDB3MnZxMHF3S3RJQjBEUk14ZlM0RXRnQTZ2N3F0WVgzQ0hHdXJLMVBmSXdxZzJSY1M0ZVNYc1VoUFFSR3lZc3k2d3N0UzhkR3NsX1FaSWRqakNWOENKQVN0RHZJaHZSMzJrN0dIVWptYjlEdWNzRWNWUTF5WTBDOS1CTDBwM2J5aXZvQnFzWUxZNTFwNTNoWVhEZHZHX2Y1dDFWdjJxVktJWmpDSUJ2d1czRHowTENFOVQyUUFBbE1NMGV1OEdn?oc=5"
-    },
-    {
-      "id": "d909b3fda34c339085",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-08T13:19:11+02:00",
-      "source": "Telemadrid",
-      "title": "Un incendio en un restaurante de Gran Vía obliga a cortar el tráfico en pleno centro de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMWdyV0VhZE1GVTVpem1oMDdHb1JXT2FvYlE4RjhOQ0FWNi1rSTR5QUxPZTkxM1FlYXJYelE0TElZbm04OG5VT2d1c01LOVQyLWt2Ui1XRmRpWFNwUVRCZjExNHI2YVVVamZHRnp4TExZMjNTaU80eUFMR3ZLRm5QSDVHaGlKM1pGaUJnckt3N2k5T2I3WXNiUjNYUG9Zd1Y0b2c2Mi1BMll3dHRvbzgzSFdhdDlaUFdmUXBmeHgwX0xQVGx3dFR0Snk0Vl9BZXNaeUs0aXpSUGxtMFhVLWxOOW5NdU5UNHpDb3JJSlZISEtJd3EzSWJOSzVhZ3pacGd4VTF5bNIBhAJBVV95cUxPMWdyV0VhZE1GVTVpem1oMDdHb1JXT2FvYlE4RjhOQ0FWNi1rSTR5QUxPZTkxM1FlYXJYelE0TElZbm04OG5VT2d1c01LOVQyLWt2Ui1XRmRpWFNwUVRCZjExNHI2YVVVamZHRnp4TExZMjNTaU80eUFMR3ZLRm5QSDVHaGlKM1pGaUJnckt3N2k5T2I3WXNiUjNYUG9Zd1Y0b2c2Mi1BMll3dHRvbzgzSFdhdDlaUFdmUXBmeHgwX0xQVGx3dFR0Snk0Vl9BZXNaeUs0aXpSUGxtMFhVLWxOOW5NdU5UNHpDb3JJSlZISEtJd3EzSWJOSzVhZ3pacGd4VTF5bA?oc=5"
     },
     {
       "id": "7fe2188e42471e2758",
@@ -199,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 5
     },
     "direct_media": {
       "ok": true,
