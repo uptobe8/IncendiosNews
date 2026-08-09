@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T18:01:26+02:00",
+  "generated_at": "2026-08-09T18:48:15+02:00",
   "items": [
+    {
+      "id": "de800d8cd7d276fd39",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T18:44:46+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid envía 5 dotaciones y 3 helicópteros para combatir los incendios de Segovia junto al Parque Nacional de Guadarrama",
+      "summary": "La Comunidad de Madrid ha movilizado cinco dotaciones terrestres y tres helicópteros del Cuerpo de Bomberos para colaborar en las labores de...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-envia-5-dotaciones-y-3-helicopteros-para-combatir-los-incendios-de-Segovia-junto-al-Parque-Nacional-de-Guadarrama-0-2914808500--20260809064444.html"
+    },
     {
       "id": "30b6e0c367b29ef00c",
       "type": "news",
@@ -60,18 +72,6 @@
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
-    },
-    {
-      "id": "7fe2188e42471e2758",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-07T18:46:23+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad de Madrid califica como apta para baño el agua del Pantano de San Juan tras el incendio de la Sierra Oeste",
-      "summary": "La Confederación Hidrográfica del Tajo será la encargada decidir si levantar la prohibición de actividades...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-madrid-califica-apta-bano-agua-pantano-san-juan-incendio-sierra-oeste-20260807184623.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
