@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T16:56:36+02:00",
+  "generated_at": "2026-08-09T17:32:59+02:00",
   "items": [
+    {
+      "id": "87b6c1bbf788b5a543",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T17:16:05+02:00",
+      "source": "Madrid Actual",
+      "title": "Controlado el fuego de Culla; activos otros dos incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0I3R2YtTUtPendWWHlUYmJmZWl6d2U0eXhHWnU3RkVtUkRnbkJUR2JBWFl0VG5ITHk5a005QmNWMTFIa1Z2NENoaXh4bFh5bmMxSTlYV0JoVDJHM0s1aVB1V0pFVXV5RTN6ak5QeWVqZWhFYm9YV1I4dnpuNnRTaExFd1ZXalBSZTkwZVpJS3JsOW9xeWgzZC04MkE0ZzF1R1ZIaUppMTBCSEIyQ2E3M3VyUjltajhYcXozUTB3VG52Rm8?oc=5"
+    },
     {
       "id": "47f85e1283a0afdd5d",
       "type": "news",
@@ -30,12 +42,12 @@
       "type": "news",
       "severity": "info",
       "province": "Madrid",
-      "town": "Comunidad de Madrid",
+      "town": "Pelayos de la Presa",
       "published": "2026-08-09T07:19:54+02:00",
       "source": "Europa Press",
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
+      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
+      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
     },
     {
       "id": "7fe2188e42471e2758",
@@ -163,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "direct_media": {
       "ok": true,
