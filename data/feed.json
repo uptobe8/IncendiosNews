@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T10:00:38+02:00",
+  "generated_at": "2026-08-09T10:55:09+02:00",
   "items": [
+    {
+      "id": "97f238f2a5eda5490a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T10:45:30+02:00",
+      "source": "La Vanguardia",
+      "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHY0QlJVdlpOQjF3dDdPb1N2Y0NCUXEzLUl4ajJCSXREdm52R3RGNU9ZS0FWNFRHVURLS1lJQlZrYUpzbUhaU29xcnY0eGk4b3VucG9rWnZrajlhbDEwOXB0OVhtQl9HUWlVR0drMXJzOWlWVjNlMFNPV0RIRlZOVkJjMmdpbHV3WFFJd1E4ZDA0NXRuQ19aRHRabEFkbTNxOHNLRTlpbFJIRWpiSG1KbFBCRTJWQnVON293dTNMOGpvU3dPMU5zZ0FNX2hhS3V1d3fSAdcBQVVfeXFMT1o3WW90M2dIby1MZWZGQ28tSEZfdEVpbDRWWEY3ejdoYnNfNnJDYUZzUWtGUTBGR0IxMjllRnNxVGV5dXhMT0IwTEgtS3ZmdHNMQ183TUtlLVA1dEt6Rll4MEQ1QnpfdWhIOS14VWp1VTRnQ1R1VGtqTHNuVmt6bTF1eGpuMFZNWFBTRzRaQml4YzFsQjN3YnpBa2tvR0FUejhMeDhEeWM3ZkRwa0NvOFR0QzlFcUFZNE5xZW1UOTNSTXhha3lHNmtDUVd3cVRtOHZhUFpqWUU?oc=5"
+    },
     {
       "id": "17a6edcbe297569542",
       "type": "news",
@@ -18,12 +30,12 @@
       "type": "news",
       "severity": "info",
       "province": "Madrid",
-      "town": "Comunidad de Madrid",
+      "town": "Pelayos de la Presa",
       "published": "2026-08-09T07:19:54+02:00",
       "source": "Europa Press",
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
+      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
+      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
     },
     {
       "id": "f1ea67ffe8e323243b",
@@ -203,7 +215,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 4
     }
   },
   "refresh_seconds": 300
