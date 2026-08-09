@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T17:32:59+02:00",
+  "generated_at": "2026-08-09T18:01:26+02:00",
   "items": [
+    {
+      "id": "30b6e0c367b29ef00c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Navaluenga",
+      "published": "2026-08-09T17:44:52+02:00",
+      "source": "Europa Press",
+      "title": "Los Campamentos CaixaBank-Venero Claro reúnen a más de 500 niños en una edición marcada por los incendios de Ávila",
+      "summary": "Los XIV Campamentos CaixaBank-Venero Claro 2026 han reunido a más de 500 niños en Navaluenga (Ávila), en...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-campamentos-caixabank-venero-claro-reunen-mas-500-ninos-edicion-marcada-incendios-avila-20260809174452.html"
+    },
     {
       "id": "87b6c1bbf788b5a543",
       "type": "news",
@@ -42,12 +54,12 @@
       "type": "news",
       "severity": "info",
       "province": "Madrid",
-      "town": "Pelayos de la Presa",
+      "town": "Comunidad de Madrid",
       "published": "2026-08-09T07:19:54+02:00",
       "source": "Europa Press",
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
-      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
     },
     {
       "id": "7fe2188e42471e2758",
@@ -175,11 +187,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 5
     }
   },
   "refresh_seconds": 300
