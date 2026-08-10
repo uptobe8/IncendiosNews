@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-10T20:00:24+02:00",
+  "generated_at": "2026-08-10T21:09:07+02:00",
   "items": [
+    {
+      "id": "d2da6321df52400aec",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-10T20:03:13+02:00",
+      "source": "Europa Press",
+      "title": "El chef José Andrés anima a visitar los pueblos afectados por el incendio de la Sierra Oeste de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0pGcG1tLVROb19mcU1VOE5zSU0zWkZRUjFMcHVaVFpnaUpaQ21jc3hKb18zSl9WWlh5S3RxaWFpTXJLSi1KNzNZbDdUZUFhWC1ObmZ3NmZCVk5mSTIzVFdVVDB3aU5Idkd2a21UR3NyV1hLc0xHZ3gya0ttNjVXZHBIMHZ6aFN5YS1JOXFVTHpuSVFpYVlEc2JMYW95VnMwdjJqSlVsbXZaNXFiaHFQUkxrR0lUVTVYQ1ZaYXRLc2MzLWluT2NRWUJUSjVrSVZOMUpXeEZR?oc=5"
+    },
     {
       "id": "f24820269e0e2eb37c",
       "type": "news",
@@ -235,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 9
     },
     "direct_media": {
       "ok": true,
