@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-10T23:37:54+02:00",
+  "generated_at": "2026-08-11T00:18:45+02:00",
   "items": [
+    {
+      "id": "d2da6321df52400aec",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-10T20:03:13+02:00",
+      "source": "Europa Press",
+      "title": "El chef José Andrés anima a visitar los pueblos afectados por el incendio de la Sierra Oeste de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0pGcG1tLVROb19mcU1VOE5zSU0zWkZRUjFMcHVaVFpnaUpaQ21jc3hKb18zSl9WWlh5S3RxaWFpTXJLSi1KNzNZbDdUZUFhWC1ObmZ3NmZCVk5mSTIzVFdVVDB3aU5Idkd2a21UR3NyV1hLc0xHZ3gya0ttNjVXZHBIMHZ6aFN5YS1JOXFVTHpuSVFpYVlEc2JMYW95VnMwdjJqSlVsbXZaNXFiaHFQUkxrR0lUVTVYQ1ZaYXRLc2MzLWluT2NRWUJUSjVrSVZOMUpXeEZR?oc=5"
+    },
     {
       "id": "f24820269e0e2eb37c",
       "type": "news",
@@ -24,6 +36,18 @@
       "title": "Madrid prepara ayudas para los agricultores y ganaderos afectados por el incendio: cubrir pérdidas, adelantar PAC y recuperar campos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSFdMVm45QXlfNlh5Y3k3OS1vdi04TDBsaGdXaWczR0VmYU5NRVlXZTNOY1pTWWdxbVJhNlZPWWRDanRYLTdIanN0S3JNaDZuZlIxSG4yU3F1MUhJdzRmdkc0ZzZjOWtWclJrTTBJSzdLSjNEdWxGREw1TjJNakdQeDNLZUZDd3NGMDVCcWVfV1ExbVBDeVBIM0ZsZjlqZm1GR2U5Zk1TWUh4Vm84Z2VLVnBrX3RSbGY2enFwbXZwejRLeVQwcWZuTExPaENwbTc1QXo3TjU2VjQxRUZORThtQ2ZyemtqMVlvMHFBeVJXV3VTTHRtTTBTR1l6dnFNMDA?oc=5"
+    },
+    {
+      "id": "bfd3c03c693643e994",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-10T17:03:49+02:00",
+      "source": "Europa Press",
+      "title": "Aparejadores de Madrid colaboran en inspeccionar viviendas dañadas por incendios en la sierra",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGt3ZXhaUVFuallTLWE3QmpkTEFZcEFaT1pzcGNGQzZXczE2S1NkQUhBMldHdElGTWJ1MkpqeVpNa083YnBHaXk1RGMxUHVtOG01V280N1BOYWctb0FROGthMDdDalNEZFNXcXNoQjBOd01HNU5yTS1zM3BXUThpMjY3UWN0c1FOWHotSTVvMEEzZUR4OGZLd3J4bzZoRHYtRFhrbzBOaHdQTXI2OVNjU241OV9CWmcwUGJ3eFpWbVpTSFRhX29JV0xIdzIxNWVZUm80?oc=5"
     },
     {
       "id": "c867b11e6a8a59c648",
@@ -223,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 9
     },
     "direct_media": {
       "ok": true,
