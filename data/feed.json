@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:37:03+02:00",
+  "generated_at": "2026-08-10T04:57:10+02:00",
   "items": [
     {
       "id": "d5bd0c20a9fe3adbc9",
@@ -26,6 +26,18 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campamentos-caixabank-venero-claro-reunen-mas-500-ninos-edicion-marcada-incendios-avila-20260809174452.html"
     },
     {
+      "id": "951af36972fc44c555",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T14:09:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Controlado el fuego de Culla; activos otros dos incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0I3R2YtTUtPendWWHlUYmJmZWl6d2U0eXhHWnU3RkVtUkRnbkJUR2JBWFl0VG5ITHk5a005QmNWMTFIa1Z2NENoaXh4bFh5bmMxSTlYV0JoVDJHM0s1aVB1V0pFVXV5RTN6ak5QeWVqZWhFYm9YV1I4dnpuNnRTaExFd1ZXalBSZTkwZVpJS3JsOW9xeWgzZC04MkE0ZzF1R1ZIaUppMTBCSEIyQ2E3M3VyUjltajhYcXozUTB3VG52Rm8?oc=5"
+    },
+    {
       "id": "7aab4b748ff8913e7c",
       "type": "news",
       "severity": "info",
@@ -42,12 +54,12 @@
       "type": "news",
       "severity": "info",
       "province": "Madrid",
-      "town": "Pelayos de la Presa",
+      "town": "Comunidad de Madrid",
       "published": "2026-08-09T07:19:54+02:00",
       "source": "Europa Press",
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
-      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -161,13 +173,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 5
+    },
     "direct_media": {
       "ok": true,
       "items": 4
-    },
-    "google_news": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
