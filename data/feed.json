@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:41:52+02:00",
+  "generated_at": "2026-08-10T12:47:36+02:00",
   "items": [
     {
       "id": "84b38c8aa57d2dcbf8",
@@ -26,13 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzVnMHVvRlNfT2VxQjNsYWdOQ0gyUVhaODhJUHQ5TzM4T0l4X3FROExfVGIyX3UzLU1EYVN0T2JSd0dILXYxR0RTdVZnUGJzZ0xKX0VISE4yOFE3cHEwd3J2RVcyMU5pQ2xwdzZfMEVHbUM0c1BRRTNPR2Y3VnJUYk1KalNuWlFGV3loNXBqaEhRQzU2UGVxYjFPQnJ2SlBQQWtReFB4VVczRFJrb3QtRHE2S3hVZUkyWlNkZ1IyS1pJckw5blY5MXNMU0lxV2NRbE82Y01fWFdKZG9HUTFqcWhGdG5QWVVhVlYwb0F1WHpqWFpOb2dfbtIBjAJBVV95cUxPbkxhazBESXpVaHU3MUdIZ2RqLXp3OGU4OUxQYmhLSUNYdmhOS2RTd0RNbzcwWEFxYmNqdncyRXZrLXhCeUxfWFVpNmFSM1BudjhkX0RiSUlSQUZDWjJpUHdyQzhrZnhCMHR5eTVuR0ZXZkVFUmdkbHlaRUlnY0Z1T3VNUkg0ZW9VOWZlSE1IeVhqc2h5WHpoZDZKSHVCQmVQQWZUX0xCS0ktV0ZaSGNvZ0EzVFlkMVQxYzF6WWhvS3pEUlNIMml4Z2hKN0lJaEdDdENsMTJZTW9ob1ZfcmVYZWpJQjg1Vm05Q3NydWd1YzhIaFc2aEZTNDBfUGNfbkV4MGN2V1dFTlZxX2VE?oc=5"
     },
     {
-      "id": "465eebfb26e5d3c3fd",
+      "id": "2c7ca665f3a9982fb0",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-09T18:44:44+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Madrid envía 5 dotaciones y 3 helicópteros para combatir los incendios de Segovia junto al Parque Nacional de Guadarrama",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPd1EwaVYxSm5HTGxUNXNJUkdwSjFOWWZLdGNfT2lHb0QzRGprUTRCcEt5bThEVDRYV1FvY0h5aExJSnUzNDU5Q1pRN0RyQXFMSHlWSFlPRUl0SHgwdmVsQm5PdTluWXJ2b2FtYWFaYmhqbGQzcVI0ejR6N0lhM2dnRG9kVGE0MGV4TnhVZTU1WnJ0MEszMWRvSlVWekFLUy1mREpOOGJHLWIzZGZENlBzS0VJZHFDZW9yY1ZYc3JCQ0EwU2kxV1I2dE1rUzNCNjVIcWZyeHVscDJ6OG1iSGlRX2NrM1g2ZWVfeFFTeDB2Ry1qVHdyOTJ2OFBHVnFobE55Q1YzVnZkVjhtX1hHTlhlalAxUlBBaHEyYi1mSDBfZUU1SC1Zenp30gGnAkFVX3lxTE93UTBpVjFKbkdMbFQ1c0lSR3BKMU5ZZkt0Y19PaUdvRDNEamtRNEJwS3ltOERUNFhXUW9jSHloTElKdTM0NTlDWlE3RHJBcUxIeVZIWU9FSXRIeDB2ZWxCbk91OW5ZcnZvYW1hYVpiaGpsZDNxUjR6NHo3SWEzZ2dEb2RUYTQwZXhOeFVlNTVacnQwSzMxZG9KVVZ6QUtTLWZESk44YkctYjNkZkQ2UHNLRUlkcUNlb3JjVlhzckJDQTBTaTFXUjZ0TWtTM0I2NUhxZnJ4dWxwMno4bWJIaVFfY2szWDZlZV94UVN4MHZHLWpUd3I5MnY4UEdWcWhsTnlDVjNWdmRWOG1fWEdOWGVqUDFSUEFocTJiLWZIMF9lRTVILVl6enc?oc=5"
@@ -48,18 +48,6 @@
       "title": "Los Campamentos CaixaBank-Venero Claro reúnen a más de 500 niños en una edición marcada por los incendios de Ávila",
       "summary": "Los XIV Campamentos CaixaBank-Venero Claro 2026 han reunido a más de 500 niños en Navaluenga (Ávila), en...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campamentos-caixabank-venero-claro-reunen-mas-500-ninos-edicion-marcada-incendios-avila-20260809174452.html"
-    },
-    {
-      "id": "951af36972fc44c555",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-09T14:09:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Controlado el fuego de Culla; activos otros dos incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0I3R2YtTUtPendWWHlUYmJmZWl6d2U0eXhHWnU3RkVtUkRnbkJUR2JBWFl0VG5ITHk5a005QmNWMTFIa1Z2NENoaXh4bFh5bmMxSTlYV0JoVDJHM0s1aVB1V0pFVXV5RTN6ak5QeWVqZWhFYm9YV1I4dnpuNnRTaExFd1ZXalBSZTkwZVpJS3JsOW9xeWgzZC04MkE0ZzF1R1ZIaUppMTBCSEIyQ2E3M3VyUjltajhYcXozUTB3VG52Rm8?oc=5"
     },
     {
       "id": "7aab4b748ff8913e7c",
@@ -193,13 +181,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 3
     },
     "direct_media": {
       "ok": true,
