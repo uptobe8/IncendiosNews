@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-08-10T14:29:09+02:00",
+  "generated_at": "2026-08-10T15:58:47+02:00",
   "items": [
     {
-      "id": "54184691223211a0fb",
+      "id": "74c94205912c3b390f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-10T15:52:05+02:00",
+      "source": "Cadena SER",
+      "title": "Los miles de perjudicados por el incendio de Burgohondo podrán personarse en la investigación judicial",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUE9xTG5tZ1AtNHlLNFAwWnhfV2lrVXpJRURxNGpHOFhZTmloTDJHUkZEREFEVGZxRnIyMG5tN25tQTdESEIxbURvRWhMaTlXZEJlaEVUTU5xb0lURTJRWkRRbmhWbzY2UUtoYkVGUERWYndmQXdlUnZOR21HdFVocnNFakR0T3BMcGdiRTFESVpUX1pFa0dQbW4zTXBkXzlQdXpGano3U1JMbmxxeFVlVzZoT3FFMER2d0htWWJpOHViNGppRVpUREMxc3BQOHZuVGhBWUVmYWc5SURDaHROVDlPdkctdGJiZkw5X2UzQW1FUdIBhgJBVV95cUxQd3FQY0VmTGJDTlBqRXljOGV2aFZlUS1DV1VMWGVOMWNhUUhwSW9oVC1KbGxjSjhIVDdwdFlQRmU5d0RFbkZwWXl5bTc4eVF6YUtNU3J0U2VBNGFoQmVKNGplTTR3bUg3ZXZ4aGtyZGtHR0ZXaGIyMDRLcWMwRloxZWpUMzBUTjB5d3RlVmd4Z0lKcW9Ob3pxNGJVX1BYOG5acDZXT0tGcEU3TlFJaXRRbndYUVgyQWFwTVg4dWVuZWRVYV9KNG9Wa3E5X3dPcldZQ3pVWXg0MGEteVlYX2E2eTVWNlpuZmEyaGNrVThwb2VCWjJ1U0xSUUZiTTZoM18zT0xGdHF3?oc=5"
+    },
+    {
+      "id": "21e90d40ddafcea556",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-10T14:02:44+02:00",
+      "published": "2026-08-10T15:35:44+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio de la Sierra Oeste deja 52 embarcaciones hundidas en el pantano de San Juan",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdFdlRzJlczB5dkNFTzdhX0RFd0M0SGZuc0xiQ3k0RV9wOTV6dnN6UUNtVkZRRFRYQnAwQnFFWHB5RUdVbVd2VENCTnhPdVluZGxPYW1fTFdWT0ZMemlQWE4tNlg2NUFRNkh5SlQzU283cnVXSEZZRkZNUm9BVER4eGdid0xseW5GYVdIMVFMd21xVlQ5TVdNcDdvOTVjbEdSNGFmbGxuWjFoMjBJdlpEYWVvakgwUjJtbURIRGRYUms2NnhZalNOVXhtRmVoTWJ2ZUJmbVpqWkhpcXFkQjNDOWJONmJTamVTZ3pGdk5MVkFXdGdBRm82M1VtdXJEMDdGeUHSAYcCQVVfeXFMT2ZXTTdpd1I4ZjRmbE1CTHBjTVlwT284enlxNS11UDFKVkpjS3VyUWx2RHRfSkNLbTV6Nk5KME9XMEJYMG01azFQc1NVemd3bWk1QU43MDFMX2ZEelk3TDBuUi1Tc1V5TkhTVm5FTnFZRnRkT09ySXhaMDVVeGFCbk5KYU5tb0NCNGttX1k2ckwxbjNfLVdVYlBadjU2eXgxdnpCaUlVdmc2dWI2djExOW9HVi0wc2N5RV93ck9XUm1tZXViOFdXRXVPMmE1V3poRmxEWV9LNzNZb2dGbVctM0tNRWs1VHNPd2tFcjN6SERFb2MtRWdubUcyelVLcTVwR1hvSUttQVU?oc=5"
+    },
+    {
+      "id": "70a65bf781fb7cd3f5",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-10T14:46:52+02:00",
       "source": "Europa Press",
       "title": "Ayuso anuncia nuevas ayudas para explotaciones ganaderas y agrícolas afectadas por el incendio de la Sierra Oeste",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes nuevas ayudas...",
@@ -181,17 +205,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 6
+    },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
