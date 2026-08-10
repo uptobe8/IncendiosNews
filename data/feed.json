@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-10T17:06:36+02:00",
+  "generated_at": "2026-08-10T18:07:53+02:00",
   "items": [
+    {
+      "id": "f24820269e0e2eb37c",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-10T17:37:35+02:00",
+      "source": "ABC",
+      "title": "Ayuso anuncia nuevas ayudas para las explotaciones afectadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGNTREhpZ1FjSUFNYjdhekRyOUZFMXZVekpSVWVmODM2OS03YkttZHNQSE9lSzh2OXQzejdIbVZiWFhOSWpxYVV0czd5alo0bDFjUnFITEcwLXZVbkhucjV6d3ZzRVdNM0J2TnVNWGMtRHFDT1hvUVZjYkJJV1Y2elo5NlA3Wl9WZEUyN2U4MDYxZlFVOTY5SnNSNEE0N1BQVmpqSGF2QVBHT1pmSmc?oc=5"
+    },
     {
       "id": "76b88d4c55ad2e0b5d",
       "type": "news",
@@ -72,18 +84,6 @@
       "title": "Madrid autoriza la retirada urgente de la madera quemada en la Sierra Oeste y Lozoyuela para evitar plagas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzVnMHVvRlNfT2VxQjNsYWdOQ0gyUVhaODhJUHQ5TzM4T0l4X3FROExfVGIyX3UzLU1EYVN0T2JSd0dILXYxR0RTdVZnUGJzZ0xKX0VISE4yOFE3cHEwd3J2RVcyMU5pQ2xwdzZfMEVHbUM0c1BRRTNPR2Y3VnJUYk1KalNuWlFGV3loNXBqaEhRQzU2UGVxYjFPQnJ2SlBQQWtReFB4VVczRFJrb3QtRHE2S3hVZUkyWlNkZ1IyS1pJckw5blY5MXNMU0lxV2NRbE82Y01fWFdKZG9HUTFqcWhGdG5QWVVhVlYwb0F1WHpqWFpOb2dfbtIBjAJBVV95cUxPbkxhazBESXpVaHU3MUdIZ2RqLXp3OGU4OUxQYmhLSUNYdmhOS2RTd0RNbzcwWEFxYmNqdncyRXZrLXhCeUxfWFVpNmFSM1BudjhkX0RiSUlSQUZDWjJpUHdyQzhrZnhCMHR5eTVuR0ZXZkVFUmdkbHlaRUlnY0Z1T3VNUkg0ZW9VOWZlSE1IeVhqc2h5WHpoZDZKSHVCQmVQQWZUX0xCS0ktV0ZaSGNvZ0EzVFlkMVQxYzF6WWhvS3pEUlNIMml4Z2hKN0lJaEdDdENsMTJZTW9ob1ZfcmVYZWpJQjg1Vm05Q3NydWd1YzhIaFc2aEZTNDBfUGNfbkV4MGN2V1dFTlZxX2VE?oc=5"
-    },
-    {
-      "id": "2c7ca665f3a9982fb0",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-09T18:44:44+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid envía 5 dotaciones y 3 helicópteros para combatir los incendios de Segovia junto al Parque Nacional de Guadarrama",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPd1EwaVYxSm5HTGxUNXNJUkdwSjFOWWZLdGNfT2lHb0QzRGprUTRCcEt5bThEVDRYV1FvY0h5aExJSnUzNDU5Q1pRN0RyQXFMSHlWSFlPRUl0SHgwdmVsQm5PdTluWXJ2b2FtYWFaYmhqbGQzcVI0ejR6N0lhM2dnRG9kVGE0MGV4TnhVZTU1WnJ0MEszMWRvSlVWekFLUy1mREpOOGJHLWIzZGZENlBzS0VJZHFDZW9yY1ZYc3JCQ0EwU2kxV1I2dE1rUzNCNjVIcWZyeHVscDJ6OG1iSGlRX2NrM1g2ZWVfeFFTeDB2Ry1qVHdyOTJ2OFBHVnFobE55Q1YzVnZkVjhtX1hHTlhlalAxUlBBaHEyYi1mSDBfZUU1SC1Zenp30gGnAkFVX3lxTE93UTBpVjFKbkdMbFQ1c0lSR3BKMU5ZZkt0Y19PaUdvRDNEamtRNEJwS3ltOERUNFhXUW9jSHloTElKdTM0NTlDWlE3RHJBcUxIeVZIWU9FSXRIeDB2ZWxCbk91OW5ZcnZvYW1hYVpiaGpsZDNxUjR6NHo3SWEzZ2dEb2RUYTQwZXhOeFVlNTVacnQwSzMxZG9KVVZ6QUtTLWZESk44YkctYjNkZkQ2UHNLRUlkcUNlb3JjVlhzckJDQTBTaTFXUjZ0TWtTM0I2NUhxZnJ4dWxwMno4bWJIaVFfY2szWDZlZV94UVN4MHZHLWpUd3I5MnY4UEdWcWhsTnlDVjNWdmRWOG1fWEdOWGVqUDFSUEFocTJiLWZIMF9lRTVILVl6enc?oc=5"
     },
     {
       "id": "30b6e0c367b29ef00c",
