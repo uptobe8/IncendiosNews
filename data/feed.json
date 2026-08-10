@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:40:44+02:00",
+  "generated_at": "2026-08-10T08:02:01+02:00",
   "items": [
     {
       "id": "d5bd0c20a9fe3adbc9",
@@ -50,16 +50,40 @@
       "url": "https://www.europapress.es/madrid/noticia-muere-hombre-61-explosion-posterior-incendio-semisotano-edificio-madrid-20260809075008.html"
     },
     {
-      "id": "e708cd5f3c1c8f074a",
+      "id": "e91eee8f9107f68c3d",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
+      "published": "2026-08-09T11:11:01+02:00",
+      "source": "La Razón",
+      "title": "Madrid: la Comunidad ya está personada como acusación popular por el incendio de Lozoyuela",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWmR1NVBPWDJEZWc5TUpIdWo4a1g3MlFLVkNKbHdNYTlLWU5EdFRwb0VKTkN5ZlhYRFAtQmFISWYtWFUxUFdPQV9wc3VocXJvTHd0X09tdFNyT1hpMGFtS09KU0tXMUJ1b05FSHhNTEh3bm9MNk4xMGFzX1dLRWhBUno1b2tXUXNyZzdNMVA1RnRfOEhfUnFwTXRNUmJ2X1hOQVVuZFpNcXRpa3Z3TjVCQmFDcGZMeTYtSG5hdDZYQW1udHF1Z3RmTDBGOUVsZlVNRWUwRDN4RVjSAewBQVVfeXFMT0tMZmJGU0I1YWFFNnQ0SlhTRWlDSXRpVkVMYVBPZkhKbE01bWxSYWZTTkJtNVVzakRFek9pdnR4MkdncVdoWmJwSkR4RV92bjhjU3drSFVxRzA4ZDVXNV9qRWVCNkptc0ZNRGRLOV9KNFYwODRobDQ4eEx6VjdwOWdQeWs3aGttbkpFelhTcFZJTDN5WUU5aXNDazQ5dGVmd0JXSnZsazNad0ttLW9CTXlnTHEySXJhNTY3V3ZOSEJlWmpvOWotRDlEWjVtNlVrd3ZuZktrc0pDbUIxOVFZV0IycXk3aFdPT2hlSVU?oc=5"
+    },
+    {
+      "id": "97f238f2a5eda5490a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-09T10:45:30+02:00",
+      "source": "La Vanguardia",
+      "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHY0QlJVdlpOQjF3dDdPb1N2Y0NCUXEzLUl4ajJCSXREdm52R3RGNU9ZS0FWNFRHVURLS1lJQlZrYUpzbUhaU29xcnY0eGk4b3VucG9rWnZrajlhbDEwOXB0OVhtQl9HUWlVR0drMXJzOWlWVjNlMFNPV0RIRlZOVkJjMmdpbHV3WFFJd1E4ZDA0NXRuQ19aRHRabEFkbTNxOHNLRTlpbFJIRWpiSG1KbFBCRTJWQnVON293dTNMOGpvU3dPMU5zZ0FNX2hhS3V1d3fSAdcBQVVfeXFMT1o3WW90M2dIby1MZWZGQ28tSEZfdEVpbDRWWEY3ejdoYnNfNnJDYUZzUWtGUTBGR0IxMjllRnNxVGV5dXhMT0IwTEgtS3ZmdHNMQ183TUtlLVA1dEt6Rll4MEQ1QnpfdWhIOS14VWp1VTRnQ1R1VGtqTHNuVmt6bTF1eGpuMFZNWFBTRzRaQml4YzFsQjN3YnpBa2tvR0FUejhMeDhEeWM3ZkRwa0NvOFR0QzlFcUFZNE5xZW1UOTNSTXhha3lHNmtDUVd3cVRtOHZhUFpqWUU?oc=5"
+    },
+    {
+      "id": "e708cd5f3c1c8f074a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Pelayos de la Presa",
       "published": "2026-08-09T07:19:54+02:00",
       "source": "Europa Press",
       "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzVXUUo0RGNkWl9nSEZKZTdfbkJXVXBxTHhPVjhvRUNXc2hkTTdGbDZpVl9ReWpnaGFabGc1c3lORWJuMDNZX01lXy05RkFCcl9hd2pwNV85TlpPcFNlTlI2WWJrSE14b09xakc1ZjNOcjVENDVkS2ZZUXZmZm1lZzFxdzN3VXhnc2dBN01OOTJNd2tNNzBZN2VCOEd1UTRiSGZsQkYzS0swUFdVeGR3cDM3UkNzVk1lcm1TS2lUQks4YjBxQXY3akxTWGdtWXhwV0FVUQ?oc=5"
+      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
+      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -175,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "direct_media": {
       "ok": true,
