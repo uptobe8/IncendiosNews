@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-10T15:58:47+02:00",
+  "generated_at": "2026-08-10T17:06:36+02:00",
   "items": [
     {
-      "id": "74c94205912c3b390f",
+      "id": "76b88d4c55ad2e0b5d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-10T16:36:50+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid aumenta su promoción turística en China para captar viajeros en la 'Golden Week'",
+      "summary": "El Ayuntamiento de Madrid ha intensificado su promoción turística en China de cara a la 'Golden Week', el periodo vacacional que se celebra entre...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-aumenta-su-promocion-turistica-en-China-para-captar-viajeros-en-la-Golden-Week-0-2915108493--20260810043558.html"
+    },
+    {
+      "id": "c867b11e6a8a59c648",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-10T15:52:05+02:00",
+      "published": "2026-08-10T15:52:30+02:00",
       "source": "Cadena SER",
       "title": "Los miles de perjudicados por el incendio de Burgohondo podrán personarse en la investigación judicial",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUE9xTG5tZ1AtNHlLNFAwWnhfV2lrVXpJRURxNGpHOFhZTmloTDJHUkZEREFEVGZxRnIyMG5tN25tQTdESEIxbURvRWhMaTlXZEJlaEVUTU5xb0lURTJRWkRRbmhWbzY2UUtoYkVGUERWYndmQXdlUnZOR21HdFVocnNFakR0T3BMcGdiRTFESVpUX1pFa0dQbW4zTXBkXzlQdXpGano3U1JMbmxxeFVlVzZoT3FFMER2d0htWWJpOHViNGppRVpUREMxc3BQOHZuVGhBWUVmYWc5SURDaHROVDlPdkctdGJiZkw5X2UzQW1FUdIBhgJBVV95cUxQd3FQY0VmTGJDTlBqRXljOGV2aFZlUS1DV1VMWGVOMWNhUUhwSW9oVC1KbGxjSjhIVDdwdFlQRmU5d0RFbkZwWXl5bTc4eVF6YUtNU3J0U2VBNGFoQmVKNGplTTR3bUg3ZXZ4aGtyZGtHR0ZXaGIyMDRLcWMwRloxZWpUMzBUTjB5d3RlVmd4Z0lKcW9Ob3pxNGJVX1BYOG5acDZXT0tGcEU3TlFJaXRRbndYUVgyQWFwTVg4dWVuZWRVYV9KNG9Wa3E5X3dPcldZQ3pVWXg0MGEteVlYX2E2eTVWNlpuZmEyaGNrVThwb2VCWjJ1U0xSUUZiTTZoM18zT0xGdHF3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd3FQY0VmTGJDTlBqRXljOGV2aFZlUS1DV1VMWGVOMWNhUUhwSW9oVC1KbGxjSjhIVDdwdFlQRmU5d0RFbkZwWXl5bTc4eVF6YUtNU3J0U2VBNGFoQmVKNGplTTR3bUg3ZXZ4aGtyZGtHR0ZXaGIyMDRLcWMwRloxZWpUMzBUTjB5d3RlVmd4Z0lKcW9Ob3pxNGJVX1BYOG5acDZXT0tGcEU3TlFJaXRRbndYUVgyQWFwTVg4dWVuZWRVYV9KNG9Wa3E5X3dPcldZQ3pVWXg0MGEteVlYX2E2eTVWNlpuZmEyaGNrVThwb2VCWjJ1U0xSUUZiTTZoM18zT0xGdHF30gGGAkFVX3lxTFB3cVBjRWZMYkNOUGpFeWM4ZXZoVmVRLUNXVUxYZU4xY2FRSHBJb2hULUpsbGNKOEhUN3B0WVBGZTl3REVuRnBZeXltNzh5UXphS01TcnRTZUE0YWhCZUo0amVNNHdtSDdldnhoa3Jka0dHRldoYjIwNEtxYzBGWjFlalQzMFROMHl3dGVWZ3hnSUpxb05venE0YlVfUFg4blpwNldPS0ZwRTdOUUlpdFFud1hRWDJBYXBNWDh1ZW5lZFVhX0o0b1ZrcTlfd09yV1lDelVZeDQwYS15WVhfYTZ5NVY2Wm5mYTJoY2tVOHBvZUJaMnVTTFJRRmJNNmgzXzNPTEZ0cXc?oc=5"
     },
     {
       "id": "21e90d40ddafcea556",
@@ -23,7 +35,7 @@
       "source": "Telemadrid",
       "title": "El incendio de la Sierra Oeste deja 52 embarcaciones hundidas en el pantano de San Juan",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdFdlRzJlczB5dkNFTzdhX0RFd0M0SGZuc0xiQ3k0RV9wOTV6dnN6UUNtVkZRRFRYQnAwQnFFWHB5RUdVbVd2VENCTnhPdVluZGxPYW1fTFdWT0ZMemlQWE4tNlg2NUFRNkh5SlQzU283cnVXSEZZRkZNUm9BVER4eGdid0xseW5GYVdIMVFMd21xVlQ5TVdNcDdvOTVjbEdSNGFmbGxuWjFoMjBJdlpEYWVvakgwUjJtbURIRGRYUms2NnhZalNOVXhtRmVoTWJ2ZUJmbVpqWkhpcXFkQjNDOWJONmJTamVTZ3pGdk5MVkFXdGdBRm82M1VtdXJEMDdGeUHSAYcCQVVfeXFMT2ZXTTdpd1I4ZjRmbE1CTHBjTVlwT284enlxNS11UDFKVkpjS3VyUWx2RHRfSkNLbTV6Nk5KME9XMEJYMG01azFQc1NVemd3bWk1QU43MDFMX2ZEelk3TDBuUi1Tc1V5TkhTVm5FTnFZRnRkT09ySXhaMDVVeGFCbk5KYU5tb0NCNGttX1k2ckwxbjNfLVdVYlBadjU2eXgxdnpCaUlVdmc2dWI2djExOW9HVi0wc2N5RV93ck9XUm1tZXViOFdXRXVPMmE1V3poRmxEWV9LNzNZb2dGbVctM0tNRWs1VHNPd2tFcjN6SERFb2MtRWdubUcyelVLcTVwR1hvSUttQVU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZldNN2l3UjhmNGZsTUJMcGNNWXBPbzh6eXE1LXVQMUpWSmNLdXJRbHZEdF9KQ0ttNXo2TkowT1cwQlgwbTVrMVBzU1V6Z3dtaTVBTjcwMUxfZkR6WTdMMG5SLVNzVXlOSFNWbkVOcVlGdGRPT3JJeFowNVV4YUJuTkphTm1vQ0I0a21fWTZyTDFuM18tV1ViUFp2NTZ5eDF2ekJpSVV2ZzZ1YjZ2MTE5b0dWLTBzY3lFX3dyT1dSbW1ldWI4V1dFdU8yYTVXemhGbERZX0s3M1lvZ0ZtVy0zS01FazVUc093a0VyM3pIREVvYy1FZ25tRzJ6VUtxNXBHWG9JS21BVdIBhwJBVV95cUxPZldNN2l3UjhmNGZsTUJMcGNNWXBPbzh6eXE1LXVQMUpWSmNLdXJRbHZEdF9KQ0ttNXo2TkowT1cwQlgwbTVrMVBzU1V6Z3dtaTVBTjcwMUxfZkR6WTdMMG5SLVNzVXlOSFNWbkVOcVlGdGRPT3JJeFowNVV4YUJuTkphTm1vQ0I0a21fWTZyTDFuM18tV1ViUFp2NTZ5eDF2ekJpSVV2ZzZ1YjZ2MTE5b0dWLTBzY3lFX3dyT1dSbW1ldWI4V1dFdU8yYTVXemhGbERZX0s3M1lvZ0ZtVy0zS01FazVUc093a0VyM3pIREVvYy1FZ25tRzJ6VUtxNXBHWG9JS21BVQ?oc=5"
     },
     {
       "id": "70a65bf781fb7cd3f5",
