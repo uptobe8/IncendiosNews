@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-11T19:38:53+02:00",
+  "generated_at": "2026-08-11T20:35:07+02:00",
   "items": [
+    {
+      "id": "97a94ade4d2d2097b4",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-11T20:29:10+02:00",
+      "source": "20minutos.es",
+      "title": "El Obispado de Ávila alerta de un falso párroco que pide dinero para ayudar a una familia tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUHNMY1lWQ0pud0tUWDViUVNCdnZnTWIza0JSZk92Z0Q1SFBBbndMcW9ubFBqZ0NGN3diZ2pMZHhORVZsQl9OampWNGJVZ2tyMWlWQ0FNa0w4UHlOVEp5WWlQR3dCSmJtVGNHX2V6MTQtamotS00yYnUtZzJDZFhWUXAyQXp5N2tvdmpGQUNZVW9NV3BEYmZkcldZYk5wVklWUnFPWENFTXJIRk4yc0trd3hDb0t4Z19xYzFycGp6Nzc3N1lnWmxYYlpWWFJ2U21XMEp1cGc4emo0dlBKMkFVdUF1Snp1M21xREpVVEk5cmJ3TGZLZnI3UA?oc=5"
+    },
     {
       "id": "9b176a2858fe356a2c",
       "type": "news",
@@ -26,6 +38,18 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcnp2R2RZRXVfUEZtWmpLV2lNNjFIOEpPTm1MQXoxR3VwR215M1FUaXYyWU9zVFYtalhGVnV2MFQ4cmNUT2NpVERWczB0QUtLajgtYWRzckdaSWNDTGpVSE82SGhEblpsS0trOGpOcmJ4N21IS0ZpZUZPQV9HWkNrZzllbU1vekVGelBzVWFsRFdBQjBBdDJZaTNDUmdNdmlnZVYwTlJiV09CMFV0NzQwSkFLQUtFVGhXM2Y5M09naTN6MWVyLXRSRGd5SHZQdTRqS0d4a3ZQcmtvalFmVlZSQVp3cHVwZjBHVm9xZjJsUDJHSmRnOWhpdEdZT2xkU0h5QzhwLVF0d9IBjAJBVV95cUxOZUhkVUVuNzFTV0VBT29wbUc4bUppXzJ3OUNvaksyUUdfVWEwbTlONmlEeHJUSWVSR2JjdHRoRGZJNmM4dTNsZ3p1MVdWVVA5dWttcWpkUGdwbG9fNW92WDQ2MVhDejZkZmlyRWxpUkoxOGw4R0ZIc3JhTDVGVnRYaGhfQ0w5VmVnLXYweXhxSGJVcmNDTTdiQ0x0TXlYaXp5RktRQVBZT0xqNHJCMEtUQXBRRzB0VzVBdkdreXVlckRKZTY5N1BENXo5MWdDR1FUeWZ5ODJSV1pEakJLYkVKTmxSLTNucmdBbTViUTF1elM0Mk9KaGktVFBJRXJYRjQ3U3FCSmFBdG9odFBF?oc=5"
     },
     {
+      "id": "5fdaa6858bc9e0690b",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-11T13:36:01+02:00",
+      "source": "EFE Verde",
+      "title": "La Guardia Civil investiga a dos personas por maltrato animal en una explotación cercada por el fuego en Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Wm1pS1IzQXNodDdCS3c1dTZxQWJWU2JySVluX0lMMVQ1SnAtbnZtM0JZcUxadTMzd3ZLbEZBTWxObGR6czdxT3g2enBIV2dRWlFkaVZuVG5oMlRfSjEySnFBZGU1SjVPMGIwT2tmWXFDY2ZOSHMxNw?oc=5"
+    },
+    {
       "id": "75d204bd237e8250c0",
       "type": "news",
       "severity": "info",
@@ -34,8 +58,8 @@
       "published": "2026-08-11T11:12:50+02:00",
       "source": "Europa Press",
       "title": "Dos investigados por maltrato animal en una explotación caprina cercada por el fuego de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSGU4YWRSekV1NjBmUE1lNDFFYXA1aHgxN0VEYWEzbzZwNWFzdVd5SWUwSEJha0U0VkFmZmJ2eGxEeXEtSmI0WUw4cFo4YlN1NnVvM1RhNEdQUDdDbjR6SG9LSldSX0t6QmVVbWRxeVM3WVZmY2RKTExsWkhkRzVwX2IzRTk0M3l5SjY1alBHc2owQnpJRVZpbHdoYW5TQVh5V1k1bHlYbWxkYlZucU56RE8xeXU4Q3d4bml1MHpKRGttOGNESTNya0xqX1BLWkJ6QXhmekdVTlpZQnlwenJsNkJ3?oc=5"
+      "summary": "Agentes de la Guardia Civil de Cebreros (Ávila) investigan a dos personas por maltrato...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-dos-investigados-maltrato-animal-explotacion-caprina-cercada-fuego-burgohondo-20260811111250.html"
     },
     {
       "id": "20f2c0b2445a879d08",
@@ -46,8 +70,8 @@
       "published": "2026-08-11T11:09:48+02:00",
       "source": "Europa Press",
       "title": "La Comunidad prioriza municipios afectados por el incendio de la Sierra Oeste para instalar primeros cajeros automáticos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDN4OXRHaHVjQXkwLUVhMW1NclpCRzZGVzJQMDZZbWhZa2pqSDRHVU96bGJpZWRlalBCNGJlX29MN09iQkt1c2xVeTlYeEgxU3FadnFCdndad2FaZjhpNXpBbDdWRDF1OTktTjJaUWZIWUpDREhSNF84RVc5M2dpdkROZHVwV3hSZHU4VThZOXJ5Unl2R1JYSk1OZ1hkRlpsVWdldWd3M1I0ZDAyZlduZnlJbURERVptVzFoVHNqbU44WERmSDVTNDQzclRwS3ljdnkteEJGQmFjWEJlVDk4WWFNNWR6RURZN3FRWmFlVEQ4QjQ?oc=5"
+      "summary": "La Comunidad de Madrid va a priorizar la instalación de los primeros cajeros automáticos en municipios...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-prioriza-municipios-afectados-incendio-sierra-oeste-instalar-primeros-cajeros-automaticos-20260811110948.html"
     },
     {
       "id": "f847ee81f67075b239",
@@ -62,16 +86,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVhSTlM0dDNjMHIzQzl3N3ZsQlBsQmNBSWJsSnVKa2IyM3QzQlkzZ0UtUzFWZzhqQzVGMndRZDIzcWZDVy1MX1FEYU1kUnVuOEFZQnVEUHp1aUdtYjJpLW5EblRIcTI2QWFhemJ5cXh2NlN4bmxvZ1lxVjRZbjREa29wVjhySlBLcGxpd3JjdXdacGN1QkEwd3JSNGYtRzlZRExWUldGYUE5VURSZVZvR05OcHY4NzhLeGpsNklOYUd1azkxeUNMZFNwT0VqSkJYOHfSAdcBQVVfeXFMUDFJdzREeEhoMUZfdUl3d3pDeHljSlVPNEtVNkRfNDNHeVcyWnpsMU16RDRNZzVfUlVkWC1aZ1dfYWF0OXZLai11TFNMTkY5RmZnS2s3cFR1ZWwweEJUa0ppOThJLTl5MUsyR3B3cjlpS0ptMXFTTzg5LVVjVVpnN1N2bDNYQnhpcGFNQUtUSUhqd0ZXeWVfQW84cG93eVI5cl9LWEFaeGtXV2tlUlFPeExybW5SZUg2cWUwMFl3OURuY0hTZlVtaDUtdnR0eHdNSG1pZU9ERjg?oc=5"
     },
     {
-      "id": "d2da6321df52400aec",
+      "id": "20da21d788b08c7ccc",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-10T20:03:13+02:00",
-      "source": "Europa Press",
-      "title": "El chef José Andrés anima a visitar los pueblos afectados por el incendio de la Sierra Oeste de Madrid",
+      "published": "2026-08-11T05:30:01+02:00",
+      "source": "EL PAÍS",
+      "title": "La Comunidad de Madrid envió a los evacuados de los incendios a municipios del PP, aunque estuviesen más lejos: “Se ha hecho política”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0pGcG1tLVROb19mcU1VOE5zSU0zWkZRUjFMcHVaVFpnaUpaQ21jc3hKb18zSl9WWlh5S3RxaWFpTXJLSi1KNzNZbDdUZUFhWC1ObmZ3NmZCVk5mSTIzVFdVVDB3aU5Idkd2a21UR3NyV1hLc0xHZ3gya0ttNjVXZHBIMHZ6aFN5YS1JOXFVTHpuSVFpYVlEc2JMYW95VnMwdjJqSlVsbXZaNXFiaHFQUkxrR0lUVTVYQ1ZaYXRLc2MzLWluT2NRWUJUSjVrSVZOMUpXeEZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnRXZlVIX19Ta1E2QVl3OERtUGxNcXRyWWxMV082Q25CMFNQMlg5LUtxVXRIbFhTdWFPQkhjTm0zbFZMWV83TWgxWG5tdHVjQ0pMRTRnNkJCMWpmcFZyTWtLMDIwS1JfZ2Z3Ukk4NFBuUG5mODhneGdVOFd2TkZBeDI3b2ExeDlqZHk2WElNUWJ5SV9BSXVSaEs2d0MzOFhveVFJZ1R4c3JONzFJOWt4azUxMjUwbm91SkZ5V0NyOXlSeHZmd2I5akdoY2daT1Q3d0xQcERhQ0h0dDNkQU5oQl8yNXdkSUU5cXJ6OW5MRklBQm1wVmdNc2xTQknSAZACQVVfeXFMUHZEVnNva2lpS01xby0tVWlWSWhSd1BKOTVOcC0xV3hSWHV0cmVnZnZDQzEzX1F6SVo0LUs4M3ZhZHZQc0thU3dabmNpRnlaYTc1bm5wZ0o0Q0paVkRGWG1aRnFBNlYyR1BQMWdZT3JHNl9EeUJHYTlYS2pDcTA5QmVncDFCeVllbVR2bEN6ZUZLcmc1S1FrXzVaTEJpZ1VMSG9pbm5OU1BJaE1yc0FPcXUyNUppMU5XYXlNMjRrbTFBVjlVNWo3YjVPbVpiUEdJRW9ZbWFhSWpzdW9HblZzOW1WMF9wcEhEc1BiRUlvbDhGNGM3aFh0N0NMSkZ6MHF6d1BDY0p3Zl9laTRXOGRsNl8?oc=5"
     },
     {
       "id": "70a65bf781fb7cd3f5",
