@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-11T21:42:05+02:00",
+  "generated_at": "2026-08-11T22:24:57+02:00",
   "items": [
+    {
+      "id": "984b4c769b8168ce56",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-11T20:29:10+02:00",
+      "source": "20Minutos",
+      "title": "El Obispado de Ávila alerta de un falso párroco que pide dinero para ayudar a una familia tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUHNMY1lWQ0pud0tUWDViUVNCdnZnTWIza0JSZk92Z0Q1SFBBbndMcW9ubFBqZ0NGN3diZ2pMZHhORVZsQl9OampWNGJVZ2tyMWlWQ0FNa0w4UHlOVEp5WWlQR3dCSmJtVGNHX2V6MTQtamotS00yYnUtZzJDZFhWUXAyQXp5N2tvdmpGQUNZVW9NV3BEYmZkcldZYk5wVklWUnFPWENFTXJIRk4yc0trd3hDb0t4Z19xYzFycGp6Nzc3N1lnWmxYYlpWWFJ2U21XMEp1cGc4emo0dlBKMkFVdUF1Snp1M21xREpVVEk5cmJ3TGZLZnI3UA?oc=5"
+    },
     {
       "id": "9b176a2858fe356a2c",
       "type": "news",
@@ -70,8 +82,8 @@
       "published": "2026-08-11T11:09:48+02:00",
       "source": "Europa Press",
       "title": "La Comunidad prioriza municipios afectados por el incendio de la Sierra Oeste para instalar primeros cajeros automáticos",
-      "summary": "La Comunidad de Madrid va a priorizar la instalación de los primeros cajeros automáticos en municipios...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-prioriza-municipios-afectados-incendio-sierra-oeste-instalar-primeros-cajeros-automaticos-20260811110948.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDN4OXRHaHVjQXkwLUVhMW1NclpCRzZGVzJQMDZZbWhZa2pqSDRHVU96bGJpZWRlalBCNGJlX29MN09iQkt1c2xVeTlYeEgxU3FadnFCdndad2FaZjhpNXpBbDdWRDF1OTktTjJaUWZIWUpDREhSNF84RVc5M2dpdkROZHVwV3hSZHU4VThZOXJ5Unl2R1JYSk1OZ1hkRlpsVWdldWd3M1I0ZDAyZlduZnlJbURERVptVzFoVHNqbU44WERmSDVTNDQzclRwS3ljdnkteEJGQmFjWEJlVDk4WWFNNWR6RURZN3FRWmFlVEQ4QjQ?oc=5"
     },
     {
       "id": "f847ee81f67075b239",
@@ -223,7 +235,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 8
     },
     "direct_media": {
       "ok": true,
