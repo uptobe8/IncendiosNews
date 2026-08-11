@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T08:10:41+02:00",
+  "generated_at": "2026-08-11T09:37:17+02:00",
   "items": [
     {
       "id": "4aaddfb25d4110bbaf",
@@ -26,13 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0pGcG1tLVROb19mcU1VOE5zSU0zWkZRUjFMcHVaVFpnaUpaQ21jc3hKb18zSl9WWlh5S3RxaWFpTXJLSi1KNzNZbDdUZUFhWC1ObmZ3NmZCVk5mSTIzVFdVVDB3aU5Idkd2a21UR3NyV1hLc0xHZ3gya0ttNjVXZHBIMHZ6aFN5YS1JOXFVTHpuSVFpYVlEc2JMYW95VnMwdjJqSlVsbXZaNXFiaHFQUkxrR0lUVTVYQ1ZaYXRLc2MzLWluT2NRWUJUSjVrSVZOMUpXeEZR?oc=5"
     },
     {
-      "id": "34f7bd846468edc38e",
+      "id": "f24820269e0e2eb37c",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-10T17:37:35+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Ayuso anuncia nuevas ayudas para las explotaciones afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGNTREhpZ1FjSUFNYjdhekRyOUZFMXZVekpSVWVmODM2OS03YkttZHNQSE9lSzh2OXQzejdIbVZiWFhOSWpxYVV0czd5alo0bDFjUnFITEcwLXZVbkhucjV6d3ZzRVdNM0J2TnVNWGMtRHFDT1hvUVZjYkJJV1Y2elo5NlA3Wl9WZEUyN2U4MDYxZlFVOTY5SnNSNEE0N1BQVmpqSGF2QVBHT1pmSmc?oc=5"
@@ -96,30 +96,6 @@
       "title": "Ayuso anuncia nuevas ayudas para explotaciones ganaderas y agrícolas afectadas por el incendio de la Sierra Oeste",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes nuevas ayudas...",
       "url": "https://www.europapress.es/madrid/noticia-ayuso-anuncia-partida-millon-euros-ayudas-explotaciones-agricolas-ganaderas-afectadas-incendios-20260810130139.html"
-    },
-    {
-      "id": "84b38c8aa57d2dcbf8",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-10T09:36:01+02:00",
-      "source": "Cadena SER",
-      "title": "La Comunidad de Madrid se persona contra el presunto autor del incendio de Lozoyuela",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLVo1akI3SUJCNmRYeS1EcjVnbXh0cUVCbTNTYmNOSWtVS2dEaUJ0a291VXY2RS1CV0NmeTVidzl1UDVCNkZHNk5JX1BDMEhPZVd4RVk2ZjZ5YTNSZGFwRVBmX09DNFd4MGEwOEZqQUlTeHpUSF9Rdjg3UVVEdXVnTkNlM3Jxbnl6OTNaQUhwSV9TOHh2SHMxbkthOVR2enV3Z0Y5OUI2WjNVc1RadWlERjZGd3JSTWVMWElZSlM2M1oxWFJkZnZUV2RldE1lcldPYXdFRkdUZGdZaTDSAe8BQVVfeXFMTlNKbnJ3U0M3THN6UWJXRENYY2ZNSDN1OGZxSks3MjlwdUIzNUYyeXY0ekI5MjdmMFhLaHdtaTBtUGhIa2pRbEpWb1c0aTUtWUxNMFZmc1VQbW80V19BZGVlXzE5OXpYN3QyQTRPVUNtTVBpV2ZDam9IRllFcXJxUHVMc2QxTm9XNTV2NjNRY3doSEdnbzBzMEdRMVUtSW41R2w3SXdkLUM0RDJSTGxqenJ4WG5JLWhTOTRSdjdxckxTajdxdUVFaE9WNzI5dTgzVVNFYXZoOU1wUkhUOFhOVG9wcl9WSW8yOUs5N1RqRmc?oc=5"
-    },
-    {
-      "id": "06c21005c0e78bab85",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-10T09:00:16+02:00",
-      "source": "Cadena SER",
-      "title": "Madrid autoriza la retirada urgente de la madera quemada en la Sierra Oeste y Lozoyuela para evitar plagas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbkxhazBESXpVaHU3MUdIZ2RqLXp3OGU4OUxQYmhLSUNYdmhOS2RTd0RNbzcwWEFxYmNqdncyRXZrLXhCeUxfWFVpNmFSM1BudjhkX0RiSUlSQUZDWjJpUHdyQzhrZnhCMHR5eTVuR0ZXZkVFUmdkbHlaRUlnY0Z1T3VNUkg0ZW9VOWZlSE1IeVhqc2h5WHpoZDZKSHVCQmVQQWZUX0xCS0ktV0ZaSGNvZ0EzVFlkMVQxYzF6WWhvS3pEUlNIMml4Z2hKN0lJaEdDdENsMTJZTW9ob1ZfcmVYZWpJQjg1Vm05Q3NydWd1YzhIaFc2aEZTNDBfUGNfbkV4MGN2V1dFTlZxX2VE0gGMAkFVX3lxTE9uTGFrMERJelVodTcxR0hnZGotenc4ZTg5TFBiaEtJQ1h2aE5LZFN3RE1vNzBYQXFiY2p2dzJFdmsteEJ5TF9YVWk2YVIzUG52OGRfRGJJSVJBRkNaMmlQd3JDOGtmeEIwdHl5NW5HRldmRUVSZ2RseVpFSWdjRnVPdU1SSDRlb1U5ZmVITUh5WGpzaHlYemhkNkpIdUJCZVBBZlRfTEJLSS1XRlpIY29nQTNUWWQxVDFjMXpZaG9LekRSU0gyaXhnaEo3SUloR0N0Q2wxMllNb2hvVl9yZVhlaklCODVWbTlDc3J1Z3VjOEhoVzZoRlM0MF9QY19uRXgwY3ZXV0VOVnFfZUQ?oc=5"
     },
     {
       "id": "30b6e0c367b29ef00c",
@@ -247,7 +223,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 10
+      "items": 8
     },
     "direct_media": {
       "ok": true,
