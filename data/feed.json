@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-11T20:35:07+02:00",
+  "generated_at": "2026-08-11T21:42:05+02:00",
   "items": [
-    {
-      "id": "97a94ade4d2d2097b4",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-11T20:29:10+02:00",
-      "source": "20minutos.es",
-      "title": "El Obispado de Ávila alerta de un falso párroco que pide dinero para ayudar a una familia tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUHNMY1lWQ0pud0tUWDViUVNCdnZnTWIza0JSZk92Z0Q1SFBBbndMcW9ubFBqZ0NGN3diZ2pMZHhORVZsQl9OampWNGJVZ2tyMWlWQ0FNa0w4UHlOVEp5WWlQR3dCSmJtVGNHX2V6MTQtamotS00yYnUtZzJDZFhWUXAyQXp5N2tvdmpGQUNZVW9NV3BEYmZkcldZYk5wVklWUnFPWENFTXJIRk4yc0trd3hDb0t4Z19xYzFycGp6Nzc3N1lnWmxYYlpWWFJ2U21XMEp1cGc4emo0dlBKMkFVdUF1Snp1M21xREpVVEk5cmJ3TGZLZnI3UA?oc=5"
-    },
     {
       "id": "9b176a2858fe356a2c",
       "type": "news",
@@ -36,6 +24,18 @@
       "title": "El incendio de la Sierra Oeste también golpea a la hostelería: pérdidas de hasta 10.000 euros",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcnp2R2RZRXVfUEZtWmpLV2lNNjFIOEpPTm1MQXoxR3VwR215M1FUaXYyWU9zVFYtalhGVnV2MFQ4cmNUT2NpVERWczB0QUtLajgtYWRzckdaSWNDTGpVSE82SGhEblpsS0trOGpOcmJ4N21IS0ZpZUZPQV9HWkNrZzllbU1vekVGelBzVWFsRFdBQjBBdDJZaTNDUmdNdmlnZVYwTlJiV09CMFV0NzQwSkFLQUtFVGhXM2Y5M09naTN6MWVyLXRSRGd5SHZQdTRqS0d4a3ZQcmtvalFmVlZSQVp3cHVwZjBHVm9xZjJsUDJHSmRnOWhpdEdZT2xkU0h5QzhwLVF0d9IBjAJBVV95cUxOZUhkVUVuNzFTV0VBT29wbUc4bUppXzJ3OUNvaksyUUdfVWEwbTlONmlEeHJUSWVSR2JjdHRoRGZJNmM4dTNsZ3p1MVdWVVA5dWttcWpkUGdwbG9fNW92WDQ2MVhDejZkZmlyRWxpUkoxOGw4R0ZIc3JhTDVGVnRYaGhfQ0w5VmVnLXYweXhxSGJVcmNDTTdiQ0x0TXlYaXp5RktRQVBZT0xqNHJCMEtUQXBRRzB0VzVBdkdreXVlckRKZTY5N1BENXo5MWdDR1FUeWZ5ODJSV1pEakJLYkVKTmxSLTNucmdBbTViUTF1elM0Mk9KaGktVFBJRXJYRjQ3U3FCSmFBdG9odFBF?oc=5"
+    },
+    {
+      "id": "be5ecee52ca4c43c30",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-11T13:38:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Delegado critica alojar evacuados en pabellón sin normativa",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzZXM204TmpYd0lwT0MyTUxKMDZxWUZ4UkRLMi1BODN0bmdHQXRXQTRkVlY4SUpnM19sREpWbU9UdGw4dERXZ3ZibFkxN0xWOUZpekZaV1ZySjdZcWdJUkpoRENGZW9nVDlZRmQ2MlVwSEIxZ2c4aTBlNU41MFhWbnFKenBtYUFya2E4dzFFU3ZJbTZzcmpYZ2RHR2pUMkR4VHZoTlhHNkc2c3JaZzVROGsyUUtCRlgtdGdxc21YZUU0d19FTmh2SURQVllHNV8yTENxdzRuRDEwcVR4YnRKdA?oc=5"
     },
     {
       "id": "5fdaa6858bc9e0690b",
