@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:07:49+02:00",
+  "generated_at": "2026-08-11T07:20:55+02:00",
   "items": [
     {
       "id": "f24820269e0e2eb37c",
@@ -14,13 +14,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGNTREhpZ1FjSUFNYjdhekRyOUZFMXZVekpSVWVmODM2OS03YkttZHNQSE9lSzh2OXQzejdIbVZiWFhOSWpxYVV0czd5alo0bDFjUnFITEcwLXZVbkhucjV6d3ZzRVdNM0J2TnVNWGMtRHFDT1hvUVZjYkJJV1Y2elo5NlA3Wl9WZEUyN2U4MDYxZlFVOTY5SnNSNEE0N1BQVmpqSGF2QVBHT1pmSmc?oc=5"
     },
     {
-      "id": "b8c77fc1115bebfe80",
+      "id": "c27c8c601ce3deaaa6",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-10T17:29:24+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Madrid prepara ayudas para los agricultores y ganaderos afectados por el incendio: cubrir pérdidas, adelantar PAC y recuperar campos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSFdMVm45QXlfNlh5Y3k3OS1vdi04TDBsaGdXaWczR0VmYU5NRVlXZTNOY1pTWWdxbVJhNlZPWWRDanRYLTdIanN0S3JNaDZuZlIxSG4yU3F1MUhJdzRmdkc0ZzZjOWtWclJrTTBJSzdLSjNEdWxGREw1TjJNakdQeDNLZUZDd3NGMDVCcWVfV1ExbVBDeVBIM0ZsZjlqZm1GR2U5Zk1TWUh4Vm84Z2VLVnBrX3RSbGY2enFwbXZwejRLeVQwcWZuTExPaENwbTc1QXo3TjU2VjQxRUZORThtQ2ZyemtqMVlvMHFBeVJXV3VTTHRtTTBTR1l6dnFNMDA?oc=5"
@@ -96,18 +96,6 @@
       "title": "Los Campamentos CaixaBank-Venero Claro reúnen a más de 500 niños en una edición marcada por los incendios de Ávila",
       "summary": "Los XIV Campamentos CaixaBank-Venero Claro 2026 han reunido a más de 500 niños en Navaluenga (Ávila), en...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-campamentos-caixabank-venero-claro-reunen-mas-500-ninos-edicion-marcada-incendios-avila-20260809174452.html"
-    },
-    {
-      "id": "e708cd5f3c1c8f074a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Pelayos de la Presa",
-      "published": "2026-08-09T07:19:54+02:00",
-      "source": "Europa Press",
-      "title": "El Monasterio de Pelayos reabre sus puertas sin registrar daños por el gran incendio de la Sierra Oeste",
-      "summary": "El Monasterio de Santa María la Real de Valdeiglesias, en Pelayos de la Presa, vuelve a abrir sus puertas...",
-      "url": "https://www.europapress.es/madrid/noticia-monasterio-pelayos-reabre-puertas-registrar-danos-gran-incendio-sierra-oeste-20260809071954.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -217,17 +205,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 6
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 2
     }
   },
   "refresh_seconds": 300
