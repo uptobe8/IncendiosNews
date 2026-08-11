@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-11T14:08:34+02:00",
+  "generated_at": "2026-08-11T15:40:22+02:00",
   "items": [
+    {
+      "id": "e1105e4376c5806951",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-11T14:28:57+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio de la Sierra Oeste también golpea a la hostelería: pérdidas de hasta 10.000 euros",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcnp2R2RZRXVfUEZtWmpLV2lNNjFIOEpPTm1MQXoxR3VwR215M1FUaXYyWU9zVFYtalhGVnV2MFQ4cmNUT2NpVERWczB0QUtLajgtYWRzckdaSWNDTGpVSE82SGhEblpsS0trOGpOcmJ4N21IS0ZpZUZPQV9HWkNrZzllbU1vekVGelBzVWFsRFdBQjBBdDJZaTNDUmdNdmlnZVYwTlJiV09CMFV0NzQwSkFLQUtFVGhXM2Y5M09naTN6MWVyLXRSRGd5SHZQdTRqS0d4a3ZQcmtvalFmVlZSQVp3cHVwZjBHVm9xZjJsUDJHSmRnOWhpdEdZT2xkU0h5QzhwLVF0d9IBjAJBVV95cUxOZUhkVUVuNzFTV0VBT29wbUc4bUppXzJ3OUNvaksyUUdfVWEwbTlONmlEeHJUSWVSR2JjdHRoRGZJNmM4dTNsZ3p1MVdWVVA5dWttcWpkUGdwbG9fNW92WDQ2MVhDejZkZmlyRWxpUkoxOGw4R0ZIc3JhTDVGVnRYaGhfQ0w5VmVnLXYweXhxSGJVcmNDTTdiQ0x0TXlYaXp5RktRQVBZT0xqNHJCMEtUQXBRRzB0VzVBdkdreXVlckRKZTY5N1BENXo5MWdDR1FUeWZ5ODJSV1pEakJLYkVKTmxSLTNucmdBbTViUTF1elM0Mk9KaGktVFBJRXJYRjQ3U3FCSmFBdG9odFBF?oc=5"
+    },
     {
       "id": "5fdaa6858bc9e0690b",
       "type": "news",
@@ -36,6 +48,18 @@
       "title": "La Comunidad prioriza municipios afectados por el incendio de la Sierra Oeste para instalar primeros cajeros automáticos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDN4OXRHaHVjQXkwLUVhMW1NclpCRzZGVzJQMDZZbWhZa2pqSDRHVU96bGJpZWRlalBCNGJlX29MN09iQkt1c2xVeTlYeEgxU3FadnFCdndad2FaZjhpNXpBbDdWRDF1OTktTjJaUWZIWUpDREhSNF84RVc5M2dpdkROZHVwV3hSZHU4VThZOXJ5Unl2R1JYSk1OZ1hkRlpsVWdldWd3M1I0ZDAyZlduZnlJbURERVptVzFoVHNqbU44WERmSDVTNDQzclRwS3ljdnkteEJGQmFjWEJlVDk4WWFNNWR6RURZN3FRWmFlVEQ4QjQ?oc=5"
+    },
+    {
+      "id": "f847ee81f67075b239",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-11T09:57:14+02:00",
+      "source": "La Vanguardia",
+      "title": "José Andrés pide visitar los pueblos afectados por el incendio de Madrid: “Veníos a comer”",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVhSTlM0dDNjMHIzQzl3N3ZsQlBsQmNBSWJsSnVKa2IyM3QzQlkzZ0UtUzFWZzhqQzVGMndRZDIzcWZDVy1MX1FEYU1kUnVuOEFZQnVEUHp1aUdtYjJpLW5EblRIcTI2QWFhemJ5cXh2NlN4bmxvZ1lxVjRZbjREa29wVjhySlBLcGxpd3JjdXdacGN1QkEwd3JSNGYtRzlZRExWUldGYUE5VURSZVZvR05OcHY4NzhLeGpsNklOYUd1azkxeUNMZFNwT0VqSkJYOHfSAdcBQVVfeXFMUDFJdzREeEhoMUZfdUl3d3pDeHljSlVPNEtVNkRfNDNHeVcyWnpsMU16RDRNZzVfUlVkWC1aZ1dfYWF0OXZLai11TFNMTkY5RmZnS2s3cFR1ZWwweEJUa0ppOThJLTl5MUsyR3B3cjlpS0ptMXFTTzg5LVVjVVpnN1N2bDNYQnhpcGFNQUtUSUhqd0ZXeWVfQW84cG93eVI5cl9LWEFaeGtXV2tlUlFPeExybW5SZUg2cWUwMFl3OURuY0hTZlVtaDUtdnR0eHdNSG1pZU9ERjg?oc=5"
     },
     {
       "id": "20da21d788b08c7ccc",
@@ -74,13 +98,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGNTREhpZ1FjSUFNYjdhekRyOUZFMXZVekpSVWVmODM2OS03YkttZHNQSE9lSzh2OXQzejdIbVZiWFhOSWpxYVV0czd5alo0bDFjUnFITEcwLXZVbkhucjV6d3ZzRVdNM0J2TnVNWGMtRHFDT1hvUVZjYkJJV1Y2elo5NlA3Wl9WZEUyN2U4MDYxZlFVOTY5SnNSNEE0N1BQVmpqSGF2QVBHT1pmSmc?oc=5"
     },
     {
-      "id": "b8c77fc1115bebfe80",
+      "id": "c27c8c601ce3deaaa6",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-10T17:29:24+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Madrid prepara ayudas para los agricultores y ganaderos afectados por el incendio: cubrir pérdidas, adelantar PAC y recuperar campos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSFdMVm45QXlfNlh5Y3k3OS1vdi04TDBsaGdXaWczR0VmYU5NRVlXZTNOY1pTWWdxbVJhNlZPWWRDanRYLTdIanN0S3JNaDZuZlIxSG4yU3F1MUhJdzRmdkc0ZzZjOWtWclJrTTBJSzdLSjNEdWxGREw1TjJNakdQeDNLZUZDd3NGMDVCcWVfV1ExbVBDeVBIM0ZsZjlqZm1GR2U5Zk1TWUh4Vm84Z2VLVnBrX3RSbGY2enFwbXZwejRLeVQwcWZuTExPaENwbTc1QXo3TjU2VjQxRUZORThtQ2ZyemtqMVlvMHFBeVJXV3VTTHRtTTBTR1l6dnFNMDA?oc=5"
@@ -108,18 +132,6 @@
       "title": "Los miles de perjudicados por el incendio de Burgohondo podrán personarse en la investigación judicial",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd3FQY0VmTGJDTlBqRXljOGV2aFZlUS1DV1VMWGVOMWNhUUhwSW9oVC1KbGxjSjhIVDdwdFlQRmU5d0RFbkZwWXl5bTc4eVF6YUtNU3J0U2VBNGFoQmVKNGplTTR3bUg3ZXZ4aGtyZGtHR0ZXaGIyMDRLcWMwRloxZWpUMzBUTjB5d3RlVmd4Z0lKcW9Ob3pxNGJVX1BYOG5acDZXT0tGcEU3TlFJaXRRbndYUVgyQWFwTVg4dWVuZWRVYV9KNG9Wa3E5X3dPcldZQ3pVWXg0MGEteVlYX2E2eTVWNlpuZmEyaGNrVThwb2VCWjJ1U0xSUUZiTTZoM18zT0xGdHF30gGGAkFVX3lxTFB3cVBjRWZMYkNOUGpFeWM4ZXZoVmVRLUNXVUxYZU4xY2FRSHBJb2hULUpsbGNKOEhUN3B0WVBGZTl3REVuRnBZeXltNzh5UXphS01TcnRTZUE0YWhCZUo0amVNNHdtSDdldnhoa3Jka0dHRldoYjIwNEtxYzBGWjFlalQzMFROMHl3dGVWZ3hnSUpxb05venE0YlVfUFg4blpwNldPS0ZwRTdOUUlpdFFud1hRWDJBYXBNWDh1ZW5lZFVhX0o0b1ZrcTlfd09yV1lDelVZeDQwYS15WVhfYTZ5NVY2Wm5mYTJoY2tVOHBvZUJaMnVTTFJRRmJNNmgzXzNPTEZ0cXc?oc=5"
-    },
-    {
-      "id": "21e90d40ddafcea556",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-10T15:35:44+02:00",
-      "source": "Telemadrid",
-      "title": "El incendio de la Sierra Oeste deja 52 embarcaciones hundidas en el pantano de San Juan",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZldNN2l3UjhmNGZsTUJMcGNNWXBPbzh6eXE1LXVQMUpWSmNLdXJRbHZEdF9KQ0ttNXo2TkowT1cwQlgwbTVrMVBzU1V6Z3dtaTVBTjcwMUxfZkR6WTdMMG5SLVNzVXlOSFNWbkVOcVlGdGRPT3JJeFowNVV4YUJuTkphTm1vQ0I0a21fWTZyTDFuM18tV1ViUFp2NTZ5eDF2ekJpSVV2ZzZ1YjZ2MTE5b0dWLTBzY3lFX3dyT1dSbW1ldWI4V1dFdU8yYTVXemhGbERZX0s3M1lvZ0ZtVy0zS01FazVUc093a0VyM3pIREVvYy1FZ25tRzJ6VUtxNXBHWG9JS21BVdIBhwJBVV95cUxPZldNN2l3UjhmNGZsTUJMcGNNWXBPbzh6eXE1LXVQMUpWSmNLdXJRbHZEdF9KQ0ttNXo2TkowT1cwQlgwbTVrMVBzU1V6Z3dtaTVBTjcwMUxfZkR6WTdMMG5SLVNzVXlOSFNWbkVOcVlGdGRPT3JJeFowNVV4YUJuTkphTm1vQ0I0a21fWTZyTDFuM18tV1ViUFp2NTZ5eDF2ekJpSVV2ZzZ1YjZ2MTE5b0dWLTBzY3lFX3dyT1dSbW1ldWI4V1dFdU8yYTVXemhGbERZX0s3M1lvZ0ZtVy0zS01FazVUc093a0VyM3pIREVvYy1FZ25tRzJ6VUtxNXBHWG9JS21BVQ?oc=5"
     },
     {
       "id": "70a65bf781fb7cd3f5",
@@ -241,13 +253,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 10
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 9
     },
     "direct_media": {
       "ok": true,
