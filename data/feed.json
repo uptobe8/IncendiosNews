@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:28:10+02:00",
+  "generated_at": "2026-08-12T07:15:38+02:00",
   "items": [
     {
       "id": "984b4c769b8168ce56",
@@ -96,18 +96,6 @@
       "title": "José Andrés pide visitar los pueblos afectados por el incendio de Madrid: “Veníos a comer”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVhSTlM0dDNjMHIzQzl3N3ZsQlBsQmNBSWJsSnVKa2IyM3QzQlkzZ0UtUzFWZzhqQzVGMndRZDIzcWZDVy1MX1FEYU1kUnVuOEFZQnVEUHp1aUdtYjJpLW5EblRIcTI2QWFhemJ5cXh2NlN4bmxvZ1lxVjRZbjREa29wVjhySlBLcGxpd3JjdXdacGN1QkEwd3JSNGYtRzlZRExWUldGYUE5VURSZVZvR05OcHY4NzhLeGpsNklOYUd1azkxeUNMZFNwT0VqSkJYOHfSAdcBQVVfeXFMUDFJdzREeEhoMUZfdUl3d3pDeHljSlVPNEtVNkRfNDNHeVcyWnpsMU16RDRNZzVfUlVkWC1aZ1dfYWF0OXZLai11TFNMTkY5RmZnS2s3cFR1ZWwweEJUa0ppOThJLTl5MUsyR3B3cjlpS0ptMXFTTzg5LVVjVVpnN1N2bDNYQnhpcGFNQUtUSUhqd0ZXeWVfQW84cG93eVI5cl9LWEFaeGtXV2tlUlFPeExybW5SZUg2cWUwMFl3OURuY0hTZlVtaDUtdnR0eHdNSG1pZU9ERjg?oc=5"
-    },
-    {
-      "id": "20da21d788b08c7ccc",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-11T05:30:01+02:00",
-      "source": "EL PAÍS",
-      "title": "La Comunidad de Madrid envió a los evacuados de los incendios a municipios del PP, aunque estuviesen más lejos: “Se ha hecho política”",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnRXZlVIX19Ta1E2QVl3OERtUGxNcXRyWWxMV082Q25CMFNQMlg5LUtxVXRIbFhTdWFPQkhjTm0zbFZMWV83TWgxWG5tdHVjQ0pMRTRnNkJCMWpmcFZyTWtLMDIwS1JfZ2Z3Ukk4NFBuUG5mODhneGdVOFd2TkZBeDI3b2ExeDlqZHk2WElNUWJ5SV9BSXVSaEs2d0MzOFhveVFJZ1R4c3JONzFJOWt4azUxMjUwbm91SkZ5V0NyOXlSeHZmd2I5akdoY2daT1Q3d0xQcERhQ0h0dDNkQU5oQl8yNXdkSUU5cXJ6OW5MRklBQm1wVmdNc2xTQknSAZACQVVfeXFMUHZEVnNva2lpS01xby0tVWlWSWhSd1BKOTVOcC0xV3hSWHV0cmVnZnZDQzEzX1F6SVo0LUs4M3ZhZHZQc0thU3dabmNpRnlaYTc1bm5wZ0o0Q0paVkRGWG1aRnFBNlYyR1BQMWdZT3JHNl9EeUJHYTlYS2pDcTA5QmVncDFCeVllbVR2bEN6ZUZLcmc1S1FrXzVaTEJpZ1VMSG9pbm5OU1BJaE1yc0FPcXUyNUppMU5XYXlNMjRrbTFBVjlVNWo3YjVPbVpiUEdJRW9ZbWFhSWpzdW9HblZzOW1WMF9wcEhEc1BiRUlvbDhGNGM3aFh0N0NMSkZ6MHF6d1BDY0p3Zl9laTRXOGRsNl8?oc=5"
     },
     {
       "id": "70a65bf781fb7cd3f5",
@@ -235,7 +223,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "direct_media": {
       "ok": true,
