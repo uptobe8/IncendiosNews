@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:08:53+02:00",
+  "generated_at": "2026-08-12T15:44:26+02:00",
   "items": [
     {
       "id": "7e344dd1a81abc9ff0",
@@ -48,30 +48,6 @@
       "title": "El Obispado de Ávila alerta que un falso párroco pide dinero para una supuesta familia afectada por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za1840gGkAkFVX3lxTE85c240SmNjQkhEa3huMmU3aWFuLWdRaE55YU1nUmtyb0NQdHRRdGl1S2VjU21WcTVDV3ZDRTZOTEVfRi04eFFnbmU3bEhDcU1qUEhHVEhoYXF6RW14dlRlS2trUHVyTk1PTnBlU0VnVlVSTUkxOFJWLXZkaTE3Nkw1Q1RBaUpUUTlMVVprYTRyTmFTTTJoS0UtakdDNkw4YzN0dy0zaFM4VzM0R1lWVExEX21jaUticHl0RkdNY3otQVFYY0NUbGZaSk5kZFdzSUU3cWhVRWh2cVN1bERBblVyZEhRMVFhSDZ0cUFreVlwUHlBa01LRWo5V0RPMVdDWlpCUjYtT1NVZjM2cGFjTE9rN0hQR0I4Mnp0X2YxaDhvTnNrXzg?oc=5"
-    },
-    {
-      "id": "9b176a2858fe356a2c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-11T14:44:00+02:00",
-      "source": "ABC",
-      "title": "Los municipios afectados por el incendio tendrán los primeros cajeros rurales de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWQzQUg1ckY3Y3VSRnF3bHpVdXRoSDdFVkgzYzVBRl82ZGdNYUUxSVJ0amc5b2Fvay1TbFMyMm12Vk1SajNEWFlxQzc4cHZVRmk2Y2Nvak1ibkJGWGJBam90SldYYU1NTUtudGx2eGtyeTVLRlZ5UG4zWTVoU0RtbnNLMkFHVllRckw2YjV4YWdOZS11cnh1NFc1UE02blpBWVFVZVFQb29XYkRVLWdsNmdVa2I5aHI5?oc=5"
-    },
-    {
-      "id": "e1105e4376c5806951",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-11T14:28:57+02:00",
-      "source": "Telemadrid",
-      "title": "El incendio de la Sierra Oeste también golpea a la hostelería: pérdidas de hasta 10.000 euros",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcnp2R2RZRXVfUEZtWmpLV2lNNjFIOEpPTm1MQXoxR3VwR215M1FUaXYyWU9zVFYtalhGVnV2MFQ4cmNUT2NpVERWczB0QUtLajgtYWRzckdaSWNDTGpVSE82SGhEblpsS0trOGpOcmJ4N21IS0ZpZUZPQV9HWkNrZzllbU1vekVGelBzVWFsRFdBQjBBdDJZaTNDUmdNdmlnZVYwTlJiV09CMFV0NzQwSkFLQUtFVGhXM2Y5M09naTN6MWVyLXRSRGd5SHZQdTRqS0d4a3ZQcmtvalFmVlZSQVp3cHVwZjBHVm9xZjJsUDJHSmRnOWhpdEdZT2xkU0h5QzhwLVF0dw?oc=5"
     },
     {
       "id": "20f2c0b2445a879d08",
@@ -199,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 4
     },
     "direct_media": {
       "ok": true,
