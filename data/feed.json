@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-08-12T19:40:12+02:00",
+  "generated_at": "2026-08-12T20:36:14+02:00",
   "items": [
-    {
-      "id": "c55a838e7079a8b687",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-12T13:04:01+02:00",
-      "source": "Madrid Actual",
-      "title": "Madrid activa la Situación Operativa 0 por riesgo de incendios en el eclipse",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3dCSE5tRkJJU0ZQZDk5Und6VndpSTA4dlZkcVl3LW1ET1IyOFZydXJnMng1TWdKZ1FqaFhjMW1CVVJ6eDBDancyVkstVXZEczNkemJtcGhjUHJQcGNoanBkQWVwdDQ2LXNVTDFyWXZzZHRVUWJ5a1l1UC0tTkpZRnBhWVRabDBHS0dlNEZQTTJTWnlsNi0zVWZFSmZvMFhzWnJuZ1pGR1Rma0ZUbU9ubHloekE5enplOEhzal9fY04xRnJ1dTNkdG5n?oc=5"
-    },
-    {
-      "id": "9c4986bf15f0c64279",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-12T11:07:53+02:00",
-      "source": "RTVE.es",
-      "title": "Ávila - Navaluenga, el epicentro del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckcwM3FEcVNPWDk5bHc3MjVxaWFVcWM4ZHFuMGVFZ1VMX2VqWW1jMjNCbTBacS1lTU9hdjV3QkI2cXNhX2pQaGdDVE13cVVOYTdaWU1VbExRT0lGRmhLNWdUbi11MjExVlpRRkxybDJSOTNjWHpjOUxQdlBaY3BxZTZDam1qNzBOOHp3TXAyNV9aR2xPc3pIeXVWd0dpTHFrU1kzX2NOTHhpUl83YWNtMGNBZ2g5Z2JLeWE1VDhtWkN6YkMxREZHa0RqYlVNdFBzeC12ZExONGY?oc=5"
-    },
-    {
-      "id": "8748580cfb6d68e7bb",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-12T07:45:46+02:00",
-      "source": "Cadena SER",
-      "title": "El Obispado de Ávila alerta que un falso párroco pide dinero para una supuesta familia afectada por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za1840gGkAkFVX3lxTE85c240SmNjQkhEa3huMmU3aWFuLWdRaE55YU1nUmtyb0NQdHRRdGl1S2VjU21WcTVDV3ZDRTZOTEVfRi04eFFnbmU3bEhDcU1qUEhHVEhoYXF6RW14dlRlS2trUHVyTk1PTnBlU0VnVlVSTUkxOFJWLXZkaTE3Nkw1Q1RBaUpUUTlMVVprYTRyTmFTTTJoS0UtakdDNkw4YzN0dy0zaFM4VzM0R1lWVExEX21jaUticHl0RkdNY3otQVFYY0NUbGZaSk5kZFdzSUU3cWhVRWh2cVN1bERBblVyZEhRMVFhSDZ0cUFreVlwUHlBa01LRWo5V0RPMVdDWlpCUjYtT1NVZjM2cGFjTE9rN0hQR0I4Mnp0X2YxaDhvTnNrXzg?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -149,13 +113,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "direct_media": {
       "ok": true,
       "items": 0
+    },
+    "google_news": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
