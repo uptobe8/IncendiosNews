@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-12T20:36:14+02:00",
+  "generated_at": "2026-08-12T21:44:54+02:00",
   "items": [
+    {
+      "id": "4e8e059da786635d4e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-12T18:35:15+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El Obispado alerta de un falso cura que pide dinero tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3YtYzFxcHA5SVhBeS0yUDduZS1OQ29hUFVXa1VETjFIUzlqanVNbkJYTloyRVFMSGdXWkJuVEk3Zk04eUtkR0xKek1BaTFaTmhoU0NFTkFJMzJMSmlaYlZrb1JfSUlSSG9zN1g1ZVB1MHY4OG5TMEIwZndfTG1MWXEwdnIwOEs5X0hjWEh6X014cVNxc183WTQwTWU2cHdXMTdoTC1OX0tGMDVPLUJGdkNKcVV6MXVLZHpYcWtvSENfT2ZSTDZvcEVR?oc=5"
+    },
+    {
+      "id": "c55a838e7079a8b687",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-12T13:04:01+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid activa la Situación Operativa 0 por riesgo de incendios en el eclipse",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3dCSE5tRkJJU0ZQZDk5Und6VndpSTA4dlZkcVl3LW1ET1IyOFZydXJnMng1TWdKZ1FqaFhjMW1CVVJ6eDBDancyVkstVXZEczNkemJtcGhjUHJQcGNoanBkQWVwdDQ2LXNVTDFyWXZzZHRVUWJ5a1l1UC0tTkpZRnBhWVRabDBHS0dlNEZQTTJTWnlsNi0zVWZFSmZvMFhzWnJuZ1pGR1Rma0ZUbU9ubHloekE5enplOEhzal9fY04xRnJ1dTNkdG5n?oc=5"
+    },
+    {
+      "id": "3de04b96e0fc0ae20f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-12T12:37:25+02:00",
+      "source": "Onda Cero",
+      "title": "Las duras imágenes del maltrato animal en una explotación ganadera descubierto a raíz del incendio en Burgohondo: ya hay dos investigados",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNkZOd3JPT24ySXlEaFdlTnZ3VWVOd1dxdEt6SmNINXB1Z0lDYWhvdng3eWNxV3YxR0xpQkJDa0xhOGhyY0pYM3lDQW1Xd1JUTmtFTWRiQkVITTFJRXoxT3JocWdPZWUwU2xkeUhVbEdaa0o3Q1FIWHI1NUpfOE50a2hsNHNWOFBfbzdDbWJQUDZCelpkSkZydV9HQ2ZGektySmtJYWwtdnZacmhBdmNheGtVRm8yUGloVS1FSExoZnVvOUczdXpqSUNmSEZqRlZaUDQyMWUxZ0xIbEE4YkF6VkVBYzJUN0xDamR3ZXRORFItSDlzMnpZX0pFbUtNWFdVdUNmcTkxYWRWQzhueE1ab2o4cEE4d9IBlgJBVV95cUxPejh6b1lUTWg4em1TMHVmcGhrVWxjNzZTZU9OVlNjSWNPUy1CUVRfUXJwYUZSTm9jemNPamdOYUo3UEp0ZWJseXNNYnZjRUpUNnFlb3FxR2ZCVmx5S3MzQ0hSM1dPQ3JKQVFJUjRpWlU3a0xkdktacU5RWHctdHUydjdyUGIzRzEyOTRlQ28wcVZDZVhjb3Z1clJSdVpxQ21zU0E4cTF3V3JMeXZxVWZORDlVOGFXUE82cGZ1REt5cFBVeXBySlEzeFhGYm9zU21wWm5sVTVRX1lmSmJLcmpTdHpuU1ZNSHNTMk9xZHlkTC1JMHpXUXJlQTZrdW91N1hHN0V0MHRZYkN4TVktVWRXRE9MNjhfQQ?oc=5"
+    },
+    {
+      "id": "9c4986bf15f0c64279",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-12T11:07:53+02:00",
+      "source": "RTVE.es",
+      "title": "Ávila - Navaluenga, el epicentro del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckcwM3FEcVNPWDk5bHc3MjVxaWFVcWM4ZHFuMGVFZ1VMX2VqWW1jMjNCbTBacS1lTU9hdjV3QkI2cXNhX2pQaGdDVE13cVVOYTdaWU1VbExRT0lGRmhLNWdUbi11MjExVlpRRkxybDJSOTNjWHpjOUxQdlBaY3BxZTZDam1qNzBOOHp3TXAyNV9aR2xPc3pIeXVWd0dpTHFrU1kzX2NOTHhpUl83YWNtMGNBZ2g5Z2JLeWE1VDhtWkN6YkMxREZHa0RqYlVNdFBzeC12ZExONGY?oc=5"
+    },
+    {
+      "id": "20f2c0b2445a879d08",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-11T11:09:48+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad prioriza municipios afectados por el incendio de la Sierra Oeste para instalar primeros cajeros automáticos",
+      "summary": "La Comunidad de Madrid va a priorizar la instalación de los primeros cajeros automáticos en municipios...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-prioriza-municipios-afectados-incendio-sierra-oeste-instalar-primeros-cajeros-automaticos-20260811110948.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -113,13 +173,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
-    },
-    "google_news": {
-      "ok": false,
-      "error": "RuntimeError"
+      "items": 1
     }
   },
   "refresh_seconds": 300
