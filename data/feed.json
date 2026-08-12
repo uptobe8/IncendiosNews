@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:46:01+02:00",
+  "generated_at": "2026-08-12T10:06:13+02:00",
   "items": [
     {
       "id": "8748580cfb6d68e7bb",
@@ -14,13 +14,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za1840gGkAkFVX3lxTE85c240SmNjQkhEa3huMmU3aWFuLWdRaE55YU1nUmtyb0NQdHRRdGl1S2VjU21WcTVDV3ZDRTZOTEVfRi04eFFnbmU3bEhDcU1qUEhHVEhoYXF6RW14dlRlS2trUHVyTk1PTnBlU0VnVlVSTUkxOFJWLXZkaTE3Nkw1Q1RBaUpUUTlMVVprYTRyTmFTTTJoS0UtakdDNkw4YzN0dy0zaFM4VzM0R1lWVExEX21jaUticHl0RkdNY3otQVFYY0NUbGZaSk5kZFdzSUU3cWhVRWh2cVN1bERBblVyZEhRMVFhSDZ0cUFreVlwUHlBa01LRWo5V0RPMVdDWlpCUjYtT1NVZjM2cGFjTE9rN0hQR0I4Mnp0X2YxaDhvTnNrXzg?oc=5"
     },
     {
-      "id": "6198c7691929d6ed5d",
+      "id": "9b176a2858fe356a2c",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-11T14:44:00+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Los municipios afectados por el incendio tendrán los primeros cajeros rurales de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWQzQUg1ckY3Y3VSRnF3bHpVdXRoSDdFVkgzYzVBRl82ZGdNYUUxSVJ0amc5b2Fvay1TbFMyMm12Vk1SajNEWFlxQzc4cHZVRmk2Y2Nvak1ibkJGWGJBam90SldYYU1NTUtudGx2eGtyeTVLRlZ5UG4zWTVoU0RtbnNLMkFHVllRckw2YjV4YWdOZS11cnh1NFc1UE02blpBWVFVZVFQb29XYkRVLWdsNmdVa2I5aHI5?oc=5"
@@ -84,18 +84,6 @@
       "title": "La Comunidad prioriza municipios afectados por el incendio de la Sierra Oeste para instalar primeros cajeros automáticos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDN4OXRHaHVjQXkwLUVhMW1NclpCRzZGVzJQMDZZbWhZa2pqSDRHVU96bGJpZWRlalBCNGJlX29MN09iQkt1c2xVeTlYeEgxU3FadnFCdndad2FaZjhpNXpBbDdWRDF1OTktTjJaUWZIWUpDREhSNF84RVc5M2dpdkROZHVwV3hSZHU4VThZOXJ5Unl2R1JYSk1OZ1hkRlpsVWdldWd3M1I0ZDAyZlduZnlJbURERVptVzFoVHNqbU44WERmSDVTNDQzclRwS3ljdnkteEJGQmFjWEJlVDk4WWFNNWR6RURZN3FRWmFlVEQ4QjQ?oc=5"
-    },
-    {
-      "id": "f847ee81f67075b239",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-11T09:57:14+02:00",
-      "source": "La Vanguardia",
-      "title": "José Andrés pide visitar los pueblos afectados por el incendio de Madrid: “Veníos a comer”",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVhSTlM0dDNjMHIzQzl3N3ZsQlBsQmNBSWJsSnVKa2IyM3QzQlkzZ0UtUzFWZzhqQzVGMndRZDIzcWZDVy1MX1FEYU1kUnVuOEFZQnVEUHp1aUdtYjJpLW5EblRIcTI2QWFhemJ5cXh2NlN4bmxvZ1lxVjRZbjREa29wVjhySlBLcGxpd3JjdXdacGN1QkEwd3JSNGYtRzlZRExWUldGYUE5VURSZVZvR05OcHY4NzhLeGpsNklOYUd1azkxeUNMZFNwT0VqSkJYOHfSAdcBQVVfeXFMUDFJdzREeEhoMUZfdUl3d3pDeHljSlVPNEtVNkRfNDNHeVcyWnpsMU16RDRNZzVfUlVkWC1aZ1dfYWF0OXZLai11TFNMTkY5RmZnS2s3cFR1ZWwweEJUa0ppOThJLTl5MUsyR3B3cjlpS0ptMXFTTzg5LVVjVVpnN1N2bDNYQnhpcGFNQUtUSUhqd0ZXeWVfQW84cG93eVI5cl9LWEFaeGtXV2tlUlFPeExybW5SZUg2cWUwMFl3OURuY0hTZlVtaDUtdnR0eHdNSG1pZU9ERjg?oc=5"
     },
     {
       "id": "70a65bf781fb7cd3f5",
@@ -223,7 +211,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 6
     },
     "direct_media": {
       "ok": true,
