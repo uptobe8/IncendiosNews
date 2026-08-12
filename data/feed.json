@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-12T18:38:07+02:00",
+  "generated_at": "2026-08-12T19:40:12+02:00",
   "items": [
-    {
-      "id": "4e8e059da786635d4e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-12T18:35:15+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El Obispado alerta de un falso cura que pide dinero tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3YtYzFxcHA5SVhBeS0yUDduZS1OQ29hUFVXa1VETjFIUzlqanVNbkJYTloyRVFMSGdXWkJuVEk3Zk04eUtkR0xKek1BaTFaTmhoU0NFTkFJMzJMSmlaYlZrb1JfSUlSSG9zN1g1ZVB1MHY4OG5TMEIwZndfTG1MWXEwdnIwOEs5X0hjWEh6X014cVNxc183WTQwTWU2cHdXMTdoTC1OX0tGMDVPLUJGdkNKcVV6MXVLZHpYcWtvSENfT2ZSTDZvcEVR?oc=5"
-    },
     {
       "id": "c55a838e7079a8b687",
       "type": "news",
@@ -163,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
