@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-13T07:12:09+02:00",
+  "generated_at": "2026-08-13T08:46:22+02:00",
   "items": [
+    {
+      "id": "6de3b58e283505d42a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-13T07:29:45+02:00",
+      "source": "20Minutos",
+      "title": "Madrid reparará 62 viviendas sociales de forma exprés para realojar a los afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREYwYXRQemc5M1dybEZTQ3c5UGF6WWhYNlc4aWcwU05qWV9tTUpDc0JCa0RFel9ZbHdReVhZSlhOcXVOUFNKRzF5bnFrcXZiMllxeWtHNXluN09uV3JjWXc0OHZHT3BjNHhGcHBVQkVSQ05YMU9IemI2bDBrUTNXM1NXZzljQ0pQakxPYnplWmVDUU5landTNW9KclpZcVVnbG1FQ2FYdlJRbHNydTFzbkY5LTV3MHVPcVVYbjVfQUt5UEIza0Jha1ZaR1VZSzY3RDN1cTFSNHlmcXo2eGVTY3JZYXV6QQ?oc=5"
+    },
     {
       "id": "b7c5efb2878070e174",
       "type": "news",
@@ -163,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
