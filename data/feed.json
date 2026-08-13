@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-13T01:42:52+02:00",
+  "generated_at": "2026-08-13T02:44:54+02:00",
   "items": [
+    {
+      "id": "1c74ab9a2430618852",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-12T19:06:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El Obispado alerta de un falso cura que pide dinero tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3YtYzFxcHA5SVhBeS0yUDduZS1OQ29hUFVXa1VETjFIUzlqanVNbkJYTloyRVFMSGdXWkJuVEk3Zk04eUtkR0xKek1BaTFaTmhoU0NFTkFJMzJMSmlaYlZrb1JfSUlSSG9zN1g1ZVB1MHY4OG5TMEIwZndfTG1MWXEwdnIwOEs5X0hjWEh6X014cVNxc183WTQwTWU2cHdXMTdoTC1OX0tGMDVPLUJGdkNKcVV6MXVLZHpYcWtvSENfT2ZSTDZvcEVR?oc=5"
+    },
+    {
+      "id": "c55a838e7079a8b687",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-12T13:04:01+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid activa la Situación Operativa 0 por riesgo de incendios en el eclipse",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3dCSE5tRkJJU0ZQZDk5Und6VndpSTA4dlZkcVl3LW1ET1IyOFZydXJnMng1TWdKZ1FqaFhjMW1CVVJ6eDBDancyVkstVXZEczNkemJtcGhjUHJQcGNoanBkQWVwdDQ2LXNVTDFyWXZzZHRVUWJ5a1l1UC0tTkpZRnBhWVRabDBHS0dlNEZQTTJTWnlsNi0zVWZFSmZvMFhzWnJuZ1pGR1Rma0ZUbU9ubHloekE5enplOEhzal9fY04xRnJ1dTNkdG5n?oc=5"
+    },
     {
       "id": "3de04b96e0fc0ae20f",
       "type": "news",
@@ -133,13 +157,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 2
     },
     "direct_media": {
       "ok": true,
