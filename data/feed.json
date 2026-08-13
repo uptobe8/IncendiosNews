@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-13T14:11:26+02:00",
+  "generated_at": "2026-08-13T15:48:49+02:00",
   "items": [
+    {
+      "id": "d800ad4b6519c4643c",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-13T14:49:09+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid triplicará la producción de plantas autóctonas en las zonas afectadas tras incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkdpbk4wdkNxREFrOHZ2cmVOZWV4YUp0ckNUX2dWUlJYc0toR3RfbzVJNWNxbnBkT1Y5MEFYRGhnRDh2VTNOZ2gyNkRLZ0JDQWZmX1VoQldTSEo4YzhuRnowOVA0SVVJbUdfYVVJeFRGcEpPU0FGN3FjRU5lOGk3a2F2NzlJLUpyT1plQWFqOWhfdlFzVXVkcm5pbGllbWVRS3p5aHRpR3FVMjllRmZpMXV6MWJqZjR6R25oS09wMXRpRnZReG80N0s5UFJYR19GMzlEZHJVd1RxdENyUy1aODB6X1UzbGEyVFFra3R4Q3FDcGNnVm9UXzNHbVRpdGpQaTNvaDZGNNIBjAJBVV95cUxPRjZUYjJ2TUx5aFcxS29ZcWNITlZybzdXUVFoQWE3TEZOcmRlWEwwWVFzMFlKTzZlM0hCZGk1dG1ZVS1TNUVkM0lFeWRCemtNLWZ4dzc5TzMycGtkT1c0bFNxbEhWR3gzXzd1RHUwSnZYZWFFQ2JRc3cxOV9pZ0ROYi1rb2laNDVfRDRJRkdMejhKaUo4YWtjdEhkNE5Mck9wNmpBWGt0b1d3dlhpVWNDb1g3V09kU0xXaGhLUjJVQkVsY2xfenpQYWU0TlF0NXNoblBXemphTW56YVgzVENOZDFSNUFIUWVQWUNpSVpwWGg0NTFxSmF0S2tLeWl5MXpVZV9jT1MzNFBvZ1ZS?oc=5"
+    },
     {
       "id": "338f81632b29ba154c",
       "type": "news",
@@ -10,7 +22,7 @@
       "published": "2026-08-13T12:48:21+02:00",
       "source": "Europa Press",
       "title": "Afectada por inhalación de humo una mujer tras el incendio en la caldera de una cocina en Sonseca (Toledo)",
-      "summary": "Una mujer de 32 años ha resultado afectada por inhalación de humo este jueves tras el incendio en la caldera...",
+      "summary": "Una mujer de 32 años ha resultado afectada por inhalación de humo este jueves tras el incendio en la...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-afectada-inhalacion-humo-mujer-incendio-caldera-cocina-sonseca-toledo-20260813124821.html"
     },
     {
@@ -38,13 +50,13 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbFkwdGZDa1h6dU8zSHNETGpMbkpzWVBvZVMxcmppMVdGUE9tdHJlNTltZ1Y0UGwwZjcwRFE5MWtPN1JIaF95eDNuMERhUC0zRko0YTNWMjVtbTRfdF9OTjRhOXpZRHJPZ1QwRFBUUG1qbWJ3WVUxRmU4Q1g1a0YzVWhGcFQzZDNkLWMwNTY0SGptckxFWmpkd2RkY0JrRmpGTDNlWVNVajBHalZOY2xpT2piQWRTcERBVWVqOW5ZXzh6TEpHYmVfOUtIOXZLMFBSSW5NX0t0WnY3c0I2WGxTZ1Y3MGgtZE1makptMG9hNzVFVlhrSF9XMThMaWo1MFZpRzZIclNDTUNqMGVvU1J0QTY0dkdPUlItQ0dF0gGgAkFVX3lxTE1lMEs3SHV5WmRBMjFzTURVb1NTUi1EaGNCbUUxVVNIdkkzbnVxX2FiRnU1N3l0WVdvVFVmNThMc3ZCY2NHdDhCcU1QZUpNM1EtWG1ZdThtSVZ6cnFweUVJNkp6X3Y3OWZqck9ZdWJCZE9iN0xrTUpMNkt2M1d3SDlsay0wdnktVVBCRVFIQmp4bFE3U2xLVUdMYWkxYXJ1dWtzcHhaZ1V4aGtpang3YUJia2hubU5tQnZYd2lDTklCYzFSdE9oTFhONDVrMFVXcWlDaHhFTlhwV3FfTExUNXlzYXE1ZTI1QjZxSE1OT3drbUlyYV8yUTFPUXVrdU9RNXJZWU9xcGZqcFFHUjRYamhpR2V0MVZZWC1hVmJleGh1eQ?oc=5"
     },
     {
-      "id": "6f314234a8ed04358d",
+      "id": "6de3b58e283505d42a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-13T07:29:45+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Madrid reparará 62 viviendas sociales de forma exprés para realojar a los afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREYwYXRQemc5M1dybEZTQ3c5UGF6WWhYNlc4aWcwU05qWV9tTUpDc0JCa0RFel9ZbHdReVhZSlhOcXVOUFNKRzF5bnFrcXZiMllxeWtHNXluN09uV3JjWXc0OHZHT3BjNHhGcHBVQkVSQ05YMU9IemI2bDBrUTNXM1NXZzljQ0pQakxPYnplWmVDUU5landTNW9KclpZcVVnbG1FQ2FYdlJRbHNydTFzbkY5LTV3MHVPcVVYbjVfQUt5UEIza0Jha1ZaR1VZSzY3RDN1cTFSNHlmcXo2eGVTY3JZYXV6QQ?oc=5"
@@ -72,18 +84,6 @@
       "title": "El Obispado alerta de un falso cura que pide dinero tras el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3YtYzFxcHA5SVhBeS0yUDduZS1OQ29hUFVXa1VETjFIUzlqanVNbkJYTloyRVFMSGdXWkJuVEk3Zk04eUtkR0xKek1BaTFaTmhoU0NFTkFJMzJMSmlaYlZrb1JfSUlSSG9zN1g1ZVB1MHY4OG5TMEIwZndfTG1MWXEwdnIwOEs5X0hjWEh6X014cVNxc183WTQwTWU2cHdXMTdoTC1OX0tGMDVPLUJGdkNKcVV6MXVLZHpYcWtvSENfT2ZSTDZvcEVR?oc=5"
-    },
-    {
-      "id": "72883119610aa481d8",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-12T15:27:43+02:00",
-      "source": "Cadena SER",
-      "title": "El Obispado de Ávila alerta que un falso párroco pide dinero para una supuesta familia afectada por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbkdSMUVfMHZEUmEtS1k2WUlmYnVfdUhPMkNkZEtQM0ZUTVNZZERNbGdzclVGWGVjNmdFLTNlZlNlaDdLYldTQVhTMUFFLUJCdnBGU005dmp3S2pPazRWSUFxUk01eWY0SHplc1BzZkJpaGpGWlpSeTVneWt1M1ZqRjRWR09rYVl5VU1obmFJMzFvS2U0Y0hHYnNzMmRtR0hlTEZXZ0x5OW9FRWRpbnVYeGZSbnlvcG9nOHlwellCU1VqNTBrY0xLSGhRRTUzcnpldG5oR2lXZ1dDVU41LUIzOEVobFVTN0g2MmFfWTNOb2xRSUZDN2ZRZzQ0RnYyRk9hc25RcVY0UDRMVVR2ZmRUdtIBpAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za184?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -193,13 +193,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 6
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
