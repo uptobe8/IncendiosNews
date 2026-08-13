@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:48:49+02:00",
+  "generated_at": "2026-08-13T16:47:25+02:00",
   "items": [
     {
       "id": "d800ad4b6519c4643c",
@@ -50,13 +50,13 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbFkwdGZDa1h6dU8zSHNETGpMbkpzWVBvZVMxcmppMVdGUE9tdHJlNTltZ1Y0UGwwZjcwRFE5MWtPN1JIaF95eDNuMERhUC0zRko0YTNWMjVtbTRfdF9OTjRhOXpZRHJPZ1QwRFBUUG1qbWJ3WVUxRmU4Q1g1a0YzVWhGcFQzZDNkLWMwNTY0SGptckxFWmpkd2RkY0JrRmpGTDNlWVNVajBHalZOY2xpT2piQWRTcERBVWVqOW5ZXzh6TEpHYmVfOUtIOXZLMFBSSW5NX0t0WnY3c0I2WGxTZ1Y3MGgtZE1makptMG9hNzVFVlhrSF9XMThMaWo1MFZpRzZIclNDTUNqMGVvU1J0QTY0dkdPUlItQ0dF0gGgAkFVX3lxTE1lMEs3SHV5WmRBMjFzTURVb1NTUi1EaGNCbUUxVVNIdkkzbnVxX2FiRnU1N3l0WVdvVFVmNThMc3ZCY2NHdDhCcU1QZUpNM1EtWG1ZdThtSVZ6cnFweUVJNkp6X3Y3OWZqck9ZdWJCZE9iN0xrTUpMNkt2M1d3SDlsay0wdnktVVBCRVFIQmp4bFE3U2xLVUdMYWkxYXJ1dWtzcHhaZ1V4aGtpang3YUJia2hubU5tQnZYd2lDTklCYzFSdE9oTFhONDVrMFVXcWlDaHhFTlhwV3FfTExUNXlzYXE1ZTI1QjZxSE1OT3drbUlyYV8yUTFPUXVrdU9RNXJZWU9xcGZqcFFHUjRYamhpR2V0MVZZWC1hVmJleGh1eQ?oc=5"
     },
     {
-      "id": "6de3b58e283505d42a",
+      "id": "6f314234a8ed04358d",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-13T07:29:45+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Madrid reparará 62 viviendas sociales de forma exprés para realojar a los afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREYwYXRQemc5M1dybEZTQ3c5UGF6WWhYNlc4aWcwU05qWV9tTUpDc0JCa0RFel9ZbHdReVhZSlhOcXVOUFNKRzF5bnFrcXZiMllxeWtHNXluN09uV3JjWXc0OHZHT3BjNHhGcHBVQkVSQ05YMU9IemI2bDBrUTNXM1NXZzljQ0pQakxPYnplWmVDUU5landTNW9KclpZcVVnbG1FQ2FYdlJRbHNydTFzbkY5LTV3MHVPcVVYbjVfQUt5UEIza0Jha1ZaR1VZSzY3RDN1cTFSNHlmcXo2eGVTY3JZYXV6QQ?oc=5"
@@ -72,18 +72,6 @@
       "title": "El incendio de la Sierra Oeste también golpea a la hostelería: pérdidas de hasta 10.000 euros",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcnp2R2RZRXVfUEZtWmpLV2lNNjFIOEpPTm1MQXoxR3VwR215M1FUaXYyWU9zVFYtalhGVnV2MFQ4cmNUT2NpVERWczB0QUtLajgtYWRzckdaSWNDTGpVSE82SGhEblpsS0trOGpOcmJ4N21IS0ZpZUZPQV9HWkNrZzllbU1vekVGelBzVWFsRFdBQjBBdDJZaTNDUmdNdmlnZVYwTlJiV09CMFV0NzQwSkFLQUtFVGhXM2Y5M09naTN6MWVyLXRSRGd5SHZQdTRqS0d4a3ZQcmtvalFmVlZSQVp3cHVwZjBHVm9xZjJsUDJHSmRnOWhpdEdZT2xkU0h5QzhwLVF0d9IBjAJBVV95cUxOZUhkVUVuNzFTV0VBT29wbUc4bUppXzJ3OUNvaksyUUdfVWEwbTlONmlEeHJUSWVSR2JjdHRoRGZJNmM4dTNsZ3p1MVdWVVA5dWttcWpkUGdwbG9fNW92WDQ2MVhDejZkZmlyRWxpUkoxOGw4R0ZIc3JhTDVGVnRYaGhfQ0w5VmVnLXYweXhxSGJVcmNDTTdiQ0x0TXlYaXp5RktRQVBZT0xqNHJCMEtUQXBRRzB0VzVBdkdreXVlckRKZTY5N1BENXo5MWdDR1FUeWZ5ODJSV1pEakJLYkVKTmxSLTNucmdBbTViUTF1elM0Mk9KaGktVFBJRXJYRjQ3U3FCSmFBdG9odFBF?oc=5"
-    },
-    {
-      "id": "1c74ab9a2430618852",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-12T19:06:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El Obispado alerta de un falso cura que pide dinero tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3YtYzFxcHA5SVhBeS0yUDduZS1OQ29hUFVXa1VETjFIUzlqanVNbkJYTloyRVFMSGdXWkJuVEk3Zk04eUtkR0xKek1BaTFaTmhoU0NFTkFJMzJMSmlaYlZrb1JfSUlSSG9zN1g1ZVB1MHY4OG5TMEIwZndfTG1MWXEwdnIwOEs5X0hjWEh6X014cVNxc183WTQwTWU2cHdXMTdoTC1OX0tGMDVPLUJGdkNKcVV6MXVLZHpYcWtvSENfT2ZSTDZvcEVR?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -193,13 +181,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 5
     },
     "direct_media": {
       "ok": true,
