@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:56:31+02:00",
+  "generated_at": "2026-08-14T01:42:24+02:00",
   "items": [
-    {
-      "id": "a8fe6e23ff55dffe1b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-13T17:17:16+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "La Junta prolonga la alerta por riesgo de incendios en toda la Comunidad un día más",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVdGNGpXYkVfcDU5VEhuODF4TDE3N09NUU1GOFh1a2R4WFJjcVFGVUpndHJEV1FpTWNLT0Y1VEFQYWFEbGFHM3liTnhDZlFJc1FWVVhpNWI2MzU0dXRheFJFMTdzYkdIRnl2VVN6WGM1OVpFOE1EdUxXVlEwNjVCNEtMUDdQRVZ0eEI5bEpzSkdtMXhEOVJxcVhnUjVhaXJHSWhEMjZDTUZmMmU1c0FVY0lFTFNrWWx4Q1hYcU8zOGJsemVYamZv?oc=5"
-    },
     {
       "id": "d800ad4b6519c4643c",
       "type": "news",
@@ -36,6 +24,30 @@
       "title": "Afectada por inhalación de humo una mujer tras el incendio en la caldera de una cocina en Sonseca (Toledo)",
       "summary": "Una mujer de 32 años ha resultado afectada por inhalación de humo este jueves tras el incendio en la...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-afectada-inhalacion-humo-mujer-incendio-caldera-cocina-sonseca-toledo-20260813124821.html"
+    },
+    {
+      "id": "1a0828b8c7838e52c7",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-13T12:45:52+02:00",
+      "source": "Cadena SER",
+      "title": "La Comunidad de Madrid anuncia ayudas para eliminar arizónicas un año después del incendio de Tres Cantos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVFJpOVFpRVJfaGJRUGZxOXVCUi1qNjYwTkNwZHVVc1BZNWNJd041Zi1JVUx6eW1fdm44NjY3dW9WYTZRbXhYdEZrTVNPMVJaMDFMTUpqOVNEN1JoVXNfYTRsUU5KWENzMmFCRkoxTHVZWjdiTkVWVTVHSXFiVDQ4bXN1UWJtWDlCSWJiVmdoYVBITTExQWM3Nl9RZ1FSa0QtRHptQWhLeDJzM0NQU2FJbkdPLV8ySHlzQ1RmQmxEQ1FyT24teW55RVZPSXVORmZLRThPc0NPb3pBbDRkcVBzdkVKRllBLWNQUThuX3BlaHl0bEc4cEMw0gGLAkFVX3lxTE1XNDVPNC03Q1dzcVB3X1FxYS1rbUVBeXg2TWZMQW5xU2c5QzVkNXJjX2szekFYOWNvTXZUajZSdHBBWGxLeFRRZlVyeDYwYkRZMG1NYnV0UDdmWUhPWlg5WjRxZm5NNGVQY2RtYWNGaWdjS1lQcjRLTGItclBRWDJrLVlwU21tZmtuUWFSYnVjZ3hibDlIdmlkQmtKY1VvTFhleWxySm9RMGp0cmJoYzg0OEVnUE5kTm9uS2EtblJ2b3AxaUZESTdud2ZiNDQteVdqcVRNSU9qemZiY2FfQ1dDUm9SNjZFbW9MSVJqVFJ2d3RWS3VQUlpVQks0akpxUHlvaklUdnE5aDRjSQ?oc=5"
+    },
+    {
+      "id": "e30668dbff984244ac",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-13T11:56:15+02:00",
+      "source": "Cadena SER",
+      "title": "El Obispado de Ávila alerta que un falso párroco pide dinero para una supuesta familia afectada por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbkdSMUVfMHZEUmEtS1k2WUlmYnVfdUhPMkNkZEtQM0ZUTVNZZERNbGdzclVGWGVjNmdFLTNlZlNlaDdLYldTQVhTMUFFLUJCdnBGU005dmp3S2pPazRWSUFxUk01eWY0SHplc1BzZkJpaGpGWlpSeTVneWt1M1ZqRjRWR09rYVl5VU1obmFJMzFvS2U0Y0hHYnNzMmRtR0hlTEZXZ0x5OW9FRWRpbnVYeGZSbnlvcG9nOHlwellCU1VqNTBrY0xLSGhRRTUzcnpldG5oR2lXZ1dDVU41LUIzOEVobFVTN0g2MmFfWTNOb2xRSUZDN2ZRZzQ0RnYyRk9hc25RcVY0UDRMVVR2ZmRUdtIBpAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za184?oc=5"
     },
     {
       "id": "0b4c36d128295827f2",
@@ -169,13 +181,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 5
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 4
     },
     "direct_media": {
       "ok": true,
