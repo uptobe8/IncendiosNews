@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-13T11:31:24+02:00",
+  "generated_at": "2026-08-13T12:39:55+02:00",
   "items": [
+    {
+      "id": "dd060136dc24b36735",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-13T11:54:56+02:00",
+      "source": "Telemadrid",
+      "title": "La Sierra Oeste comienza a retirar los árboles quemados tras el peor incendio de la historia de Madrid",
+      "summary": "Madrid ha sufrido este verano el peor incendio de su historia. En la segunda quincena de julio, tres focos de fuego se unieron en un gran incendio...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/La-Sierra-Oeste-comienza-a-retirar-los-arboles-quemados-tras-el-peor-incendio-de-la-historia-de-Madrid-2-2916028370--20260813115455.html"
+    },
     {
       "id": "6de3b58e283505d42a",
       "type": "news",
@@ -38,16 +50,16 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3YtYzFxcHA5SVhBeS0yUDduZS1OQ29hUFVXa1VETjFIUzlqanVNbkJYTloyRVFMSGdXWkJuVEk3Zk04eUtkR0xKek1BaTFaTmhoU0NFTkFJMzJMSmlaYlZrb1JfSUlSSG9zN1g1ZVB1MHY4OG5TMEIwZndfTG1MWXEwdnIwOEs5X0hjWEh6X014cVNxc183WTQwTWU2cHdXMTdoTC1OX0tGMDVPLUJGdkNKcVV6MXVLZHpYcWtvSENfT2ZSTDZvcEVR?oc=5"
     },
     {
-      "id": "3de04b96e0fc0ae20f",
+      "id": "72883119610aa481d8",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-12T12:37:25+02:00",
-      "source": "Onda Cero",
-      "title": "Las duras imágenes del maltrato animal en una explotación ganadera descubierto a raíz del incendio en Burgohondo: ya hay dos investigados",
+      "published": "2026-08-12T15:27:43+02:00",
+      "source": "Cadena SER",
+      "title": "El Obispado de Ávila alerta que un falso párroco pide dinero para una supuesta familia afectada por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNkZOd3JPT24ySXlEaFdlTnZ3VWVOd1dxdEt6SmNINXB1Z0lDYWhvdng3eWNxV3YxR0xpQkJDa0xhOGhyY0pYM3lDQW1Xd1JUTmtFTWRiQkVITTFJRXoxT3JocWdPZWUwU2xkeUhVbEdaa0o3Q1FIWHI1NUpfOE50a2hsNHNWOFBfbzdDbWJQUDZCelpkSkZydV9HQ2ZGektySmtJYWwtdnZacmhBdmNheGtVRm8yUGloVS1FSExoZnVvOUczdXpqSUNmSEZqRlZaUDQyMWUxZ0xIbEE4YkF6VkVBYzJUN0xDamR3ZXRORFItSDlzMnpZX0pFbUtNWFdVdUNmcTkxYWRWQzhueE1ab2o4cEE4d9IBlgJBVV95cUxPejh6b1lUTWg4em1TMHVmcGhrVWxjNzZTZU9OVlNjSWNPUy1CUVRfUXJwYUZSTm9jemNPamdOYUo3UEp0ZWJseXNNYnZjRUpUNnFlb3FxR2ZCVmx5S3MzQ0hSM1dPQ3JKQVFJUjRpWlU3a0xkdktacU5RWHctdHUydjdyUGIzRzEyOTRlQ28wcVZDZVhjb3Z1clJSdVpxQ21zU0E4cTF3V3JMeXZxVWZORDlVOGFXUE82cGZ1REt5cFBVeXBySlEzeFhGYm9zU21wWm5sVTVRX1lmSmJLcmpTdHpuU1ZNSHNTMk9xZHlkTC1JMHpXUXJlQTZrdW91N1hHN0V0MHRZYkN4TVktVWRXRE9MNjhfQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbkdSMUVfMHZEUmEtS1k2WUlmYnVfdUhPMkNkZEtQM0ZUTVNZZERNbGdzclVGWGVjNmdFLTNlZlNlaDdLYldTQVhTMUFFLUJCdnBGU005dmp3S2pPazRWSUFxUk01eWY0SHplc1BzZkJpaGpGWlpSeTVneWt1M1ZqRjRWR09rYVl5VU1obmFJMzFvS2U0Y0hHYnNzMmRtR0hlTEZXZ0x5OW9FRWRpbnVYeGZSbnlvcG9nOHlwellCU1VqNTBrY0xLSGhRRTUzcnpldG5oR2lXZ1dDVU41LUIzOEVobFVTN0g2MmFfWTNOb2xRSUZDN2ZRZzQ0RnYyRk9hc25RcVY0UDRMVVR2ZmRUdtIBpAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za184?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -159,7 +171,7 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "official": {
       "ok": false,
@@ -167,7 +179,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
