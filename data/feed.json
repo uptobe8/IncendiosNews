@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-13T05:17:12+02:00",
+  "generated_at": "2026-08-13T07:12:09+02:00",
   "items": [
+    {
+      "id": "b7c5efb2878070e174",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-13T00:19:00+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio de la Sierra Oeste también golpea a la hostelería: pérdidas de hasta 10.000 euros",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcnp2R2RZRXVfUEZtWmpLV2lNNjFIOEpPTm1MQXoxR3VwR215M1FUaXYyWU9zVFYtalhGVnV2MFQ4cmNUT2NpVERWczB0QUtLajgtYWRzckdaSWNDTGpVSE82SGhEblpsS0trOGpOcmJ4N21IS0ZpZUZPQV9HWkNrZzllbU1vekVGelBzVWFsRFdBQjBBdDJZaTNDUmdNdmlnZVYwTlJiV09CMFV0NzQwSkFLQUtFVGhXM2Y5M09naTN6MWVyLXRSRGd5SHZQdTRqS0d4a3ZQcmtvalFmVlZSQVp3cHVwZjBHVm9xZjJsUDJHSmRnOWhpdEdZT2xkU0h5QzhwLVF0d9IBjAJBVV95cUxOZUhkVUVuNzFTV0VBT29wbUc4bUppXzJ3OUNvaksyUUdfVWEwbTlONmlEeHJUSWVSR2JjdHRoRGZJNmM4dTNsZ3p1MVdWVVA5dWttcWpkUGdwbG9fNW92WDQ2MVhDejZkZmlyRWxpUkoxOGw4R0ZIc3JhTDVGVnRYaGhfQ0w5VmVnLXYweXhxSGJVcmNDTTdiQ0x0TXlYaXp5RktRQVBZT0xqNHJCMEtUQXBRRzB0VzVBdkdreXVlckRKZTY5N1BENXo5MWdDR1FUeWZ5ODJSV1pEakJLYkVKTmxSLTNucmdBbTViUTF1elM0Mk9KaGktVFBJRXJYRjQ3U3FCSmFBdG9odFBF?oc=5"
+    },
     {
       "id": "1c74ab9a2430618852",
       "type": "news",
@@ -151,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
