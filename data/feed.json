@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-13T12:39:55+02:00",
+  "generated_at": "2026-08-13T13:27:36+02:00",
   "items": [
+    {
+      "id": "338f81632b29ba154c",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-08-13T12:48:21+02:00",
+      "source": "Europa Press",
+      "title": "Afectada por inhalación de humo una mujer tras el incendio en la caldera de una cocina en Sonseca (Toledo)",
+      "summary": "Una mujer de 32 años ha resultado afectada por inhalación de humo este jueves tras el incendio en la...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-afectada-inhalacion-humo-mujer-incendio-caldera-cocina-sonseca-toledo-20260813124821.html"
+    },
+    {
+      "id": "1a0828b8c7838e52c7",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-13T12:45:52+02:00",
+      "source": "Cadena SER",
+      "title": "La Comunidad de Madrid anuncia ayudas para eliminar arizónicas un año después del incendio de Tres Cantos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVFJpOVFpRVJfaGJRUGZxOXVCUi1qNjYwTkNwZHVVc1BZNWNJd041Zi1JVUx6eW1fdm44NjY3dW9WYTZRbXhYdEZrTVNPMVJaMDFMTUpqOVNEN1JoVXNfYTRsUU5KWENzMmFCRkoxTHVZWjdiTkVWVTVHSXFiVDQ4bXN1UWJtWDlCSWJiVmdoYVBITTExQWM3Nl9RZ1FSa0QtRHptQWhLeDJzM0NQU2FJbkdPLV8ySHlzQ1RmQmxEQ1FyT24teW55RVZPSXVORmZLRThPc0NPb3pBbDRkcVBzdkVKRllBLWNQUThuX3BlaHl0bEc4cEMw0gGLAkFVX3lxTE1XNDVPNC03Q1dzcVB3X1FxYS1rbUVBeXg2TWZMQW5xU2c5QzVkNXJjX2szekFYOWNvTXZUajZSdHBBWGxLeFRRZlVyeDYwYkRZMG1NYnV0UDdmWUhPWlg5WjRxZm5NNGVQY2RtYWNGaWdjS1lQcjRLTGItclBRWDJrLVlwU21tZmtuUWFSYnVjZ3hibDlIdmlkQmtKY1VvTFhleWxySm9RMGp0cmJoYzg0OEVnUE5kTm9uS2EtblJ2b3AxaUZESTdud2ZiNDQteVdqcVRNSU9qemZiY2FfQ1dDUm9SNjZFbW9MSVJqVFJ2d3RWS3VQUlpVQks0akpxUHlvaklUdnE5aDRjSQ?oc=5"
+    },
     {
       "id": "dd060136dc24b36735",
       "type": "news",
@@ -169,17 +193,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 6
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
