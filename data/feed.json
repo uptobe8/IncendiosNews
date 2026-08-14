@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:06:14+02:00",
+  "generated_at": "2026-08-14T08:39:32+02:00",
   "items": [
     {
       "id": "d800ad4b6519c4643c",
@@ -60,18 +60,6 @@
       "title": "La Sierra Oeste comienza a retirar los árboles quemados tras el peor incendio de la historia de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTBLN0h1eVpkQTIxc01EVW9TU1ItRGhjQm1FMVVTSHZJM251cV9hYkZ1NTd5dFlXb1RVZjU4THN2QmNjR3Q4QnFNUGVKTTNRLVhtWXU4bUlWenJxcHlFSTZKel92NzlmanJPWXViQmRPYjdMa01KTDZLdjNXd0g5bGstMHZ5LVVQQkVRSEJqeGxRN1NsS1VHTGFpMWFydXVrc3B4WmdVeGhraWp4N2FCYmtobm1ObUJ2WHdpQ05JQmMxUnRPaExYTjQ1azBVV3FpQ2h4RU5YcFdxX0xMVDV5c2FxNWUyNUI2cUhNTk93a21JcmFfMlExT1F1a3VPUTVyWVlPcXBmanBRR1I0WGpoaUdldDFWWVgtYVZiZXhodXnSAaACQVVfeXFMTWUwSzdIdXlaZEEyMXNNRFVvU1NSLURoY0JtRTFVU0h2STNudXFfYWJGdTU3eXRZV29UVWY1OExzdkJjY0d0OEJxTVBlSk0zUS1YbVl1OG1JVnpycXB5RUk2Snpfdjc5ZmpyT1l1YkJkT2I3TGtNSkw2S3YzV3dIOWxrLTB2eS1VUEJFUUhCanhsUTdTbEtVR0xhaTFhcnV1a3NweFpnVXhoa2lqeDdhQmJraG5tTm1Cdlh3aUNOSUJjMVJ0T2hMWE40NWswVVdxaUNoeEVOWHBXcV9MTFQ1eXNhcTVlMjVCNnFITU5Pd2ttSXJhXzJRMU9RdWt1T1E1cllZT3FwZmpwUUdSNFhqaGlHZXQxVllYLWFWYmV4aHV5?oc=5"
-    },
-    {
-      "id": "6de3b58e283505d42a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-13T07:29:45+02:00",
-      "source": "20Minutos",
-      "title": "Madrid reparará 62 viviendas sociales de forma exprés para realojar a los afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREYwYXRQemc5M1dybEZTQ3c5UGF6WWhYNlc4aWcwU05qWV9tTUpDc0JCa0RFel9ZbHdReVhZSlhOcXVOUFNKRzF5bnFrcXZiMllxeWtHNXluN09uV3JjWXc0OHZHT3BjNHhGcHBVQkVSQ05YMU9IemI2bDBrUTNXM1NXZzljQ0pQakxPYnplWmVDUU5landTNW9KclpZcVVnbG1FQ2FYdlJRbHNydTFzbkY5LTV3MHVPcVVYbjVfQUt5UEIza0Jha1ZaR1VZSzY3RDN1cTFSNHlmcXo2eGVTY3JZYXV6QQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -187,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 4
     },
     "direct_media": {
       "ok": true,
