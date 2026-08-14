@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:02:50+02:00",
+  "generated_at": "2026-08-14T15:34:16+02:00",
   "items": [
     {
       "id": "211bf5aafd0db9b713",
@@ -36,18 +36,6 @@
       "title": "El plan para reforestar Madrid tras los incendios: 300.000 árboles en viveros, mapeo por satélite y retirar vegetación",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVFqUng3Qi1hZlNOa2FzTzNucGE4V09aM2hXWmhCUUhOMVBobDdTVmZvcEJzZzhBMUxsMXNkU3ByOG9wd1I3OGIxd29MWHJTeWtWbHl6YkhwNDRRajFQLUljZUVPMWFWcVdDTkQ3Z25ZaU45anJmMm9wM0Q3eHlUbzNRMTJydzc4Qy0tM2VfTzlZOTRYRmtHdEI3NnMzZ1RPRWRxSEFkSmNoanRtNnlGUHJ0QTRsejd1cllSeWxXVkxldTJqQ2NsTXkyR0cyUi0xWHdfWVlJU0xPWDVmSHlTSkZLOHhuc2FST1VCOXdGR0U4aUV3ekE?oc=5"
-    },
-    {
-      "id": "d800ad4b6519c4643c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-13T14:49:09+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid triplicará la producción de plantas autóctonas en las zonas afectadas tras incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRjZUYjJ2TUx5aFcxS29ZcWNITlZybzdXUVFoQWE3TEZOcmRlWEwwWVFzMFlKTzZlM0hCZGk1dG1ZVS1TNUVkM0lFeWRCemtNLWZ4dzc5TzMycGtkT1c0bFNxbEhWR3gzXzd1RHUwSnZYZWFFQ2JRc3cxOV9pZ0ROYi1rb2laNDVfRDRJRkdMejhKaUo4YWtjdEhkNE5Mck9wNmpBWGt0b1d3dlhpVWNDb1g3V09kU0xXaGhLUjJVQkVsY2xfenpQYWU0TlF0NXNoblBXemphTW56YVgzVENOZDFSNUFIUWVQWUNpSVpwWGg0NTFxSmF0S2tLeWl5MXpVZV9jT1MzNFBvZ1ZS0gGMAkFVX3lxTE9GNlRiMnZNTHloVzFLb1lxY0hOVnJvN1dRUWhBYTdMRk5yZGVYTDBZUXMwWUpPNmUzSEJkaTV0bVlVLVM1RWQzSUV5ZEJ6a00tZnh3NzlPMzJwa2RPVzRsU3FsSFZHeDNfN3VEdTBKdlhlYUVDYlFzdzE5X2lnRE5iLWtvaVo0NV9ENElGR0x6OEppSjhha2N0SGQ0TkxyT3A2akFYa3RvV3d2WGlVY0NvWDdXT2RTTFdoaEtSMlVCRWxjbF96elBhZTROUXQ1c2huUFd6amFNbnphWDNUQ05kMVI1QUhRZVBZQ2lJWnBYaDQ1MXFKYXRLa0t5aXkxelVlX2NPUzM0UG9nVlI?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 5
     },
     "direct_media": {
       "ok": true,
