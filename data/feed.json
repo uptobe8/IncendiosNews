@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:20:52+02:00",
+  "generated_at": "2026-08-14T14:02:50+02:00",
   "items": [
     {
       "id": "211bf5aafd0db9b713",
@@ -11,7 +11,7 @@
       "source": "RTVE.es",
       "title": "El turismo de la Sierra de San Vicente se recupera tras los incendios de Ávila y Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNektGclVzNTF4Q1FDRS16NkViR1ZLYkZaTkkwNXVOeXJBMlNpS25fMG1fanhYUDIyQm1EMXdGeE4yRms4TzRtZnZIVWZyOTJFWmJwZEx4NEpmTUJJZmpUWGlkTlJTeXYyVGdNT1A4YkFqNHF4RDJqUklGLXpTWkxUZGh3R2hZTkdmQjdRMUN2MnlxU0xlRU1XWTJoWTZ5Nm4wUHhUcjk0c0ZqWENXRktJZVI4eDlHZkZNa2RJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmFDbWd3clBtcDdqUXdIZDlNbUF1ODVQaFYteFRrVENIQkJiSi1JQjZ5UFROTDYtT1VpbWJURTdLSDN0Zy1LM1NBbFdwUnZreTZwbUpVTmNRdU9tTGdFazRjYUZJX1U0Vkd4WXpOSHItLTc3RnlmVndoV21zczV5WGlOVkJxalFNLTBkUzc0ZDNmX3R4d184RWs4SDVkTVlvX0xETWgxam9BWVA5N2FvWmxPTDRNZXVhMC13?oc=5"
     },
     {
       "id": "3900f94dde0c174e1c",
@@ -24,6 +24,18 @@
       "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
+    },
+    {
+      "id": "53b8d87040ca5f045b",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-14T07:34:08+02:00",
+      "source": "20Minutos",
+      "title": "El plan para reforestar Madrid tras los incendios: 300.000 árboles en viveros, mapeo por satélite y retirar vegetación",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVFqUng3Qi1hZlNOa2FzTzNucGE4V09aM2hXWmhCUUhOMVBobDdTVmZvcEJzZzhBMUxsMXNkU3ByOG9wd1I3OGIxd29MWHJTeWtWbHl6YkhwNDRRajFQLUljZUVPMWFWcVdDTkQ3Z25ZaU45anJmMm9wM0Q3eHlUbzNRMTJydzc4Qy0tM2VfTzlZOTRYRmtHdEI3NnMzZ1RPRWRxSEFkSmNoanRtNnlGUHJ0QTRsejd1cllSeWxXVkxldTJqQ2NsTXkyR0cyUi0xWHdfWVlJU0xPWDVmSHlTSkZLOHhuc2FST1VCOXdGR0U4aUV3ekE?oc=5"
     },
     {
       "id": "d800ad4b6519c4643c",
@@ -151,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 6
     },
     "direct_media": {
       "ok": true,
