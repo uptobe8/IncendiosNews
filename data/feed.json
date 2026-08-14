@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-14T15:34:16+02:00",
+  "generated_at": "2026-08-14T16:34:19+02:00",
   "items": [
+    {
+      "id": "dea7b515a6fc2b79d9",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-14T15:48:10+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
+    },
     {
       "id": "211bf5aafd0db9b713",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "El turismo de la Sierra de San Vicente se recupera tras los incendios de Ávila y Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmFDbWd3clBtcDdqUXdIZDlNbUF1ODVQaFYteFRrVENIQkJiSi1JQjZ5UFROTDYtT1VpbWJURTdLSDN0Zy1LM1NBbFdwUnZreTZwbUpVTmNRdU9tTGdFazRjYUZJX1U0Vkd4WXpOSHItLTc3RnlmVndoV21zczV5WGlOVkJxalFNLTBkUzc0ZDNmX3R4d184RWs4SDVkTVlvX0xETWgxam9BWVA5N2FvWmxPTDRNZXVhMC13?oc=5"
-    },
-    {
-      "id": "3900f94dde0c174e1c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-14T10:47:52+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
     },
     {
       "id": "53b8d87040ca5f045b",
