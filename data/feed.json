@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-14T11:16:25+02:00",
+  "generated_at": "2026-08-14T12:27:47+02:00",
   "items": [
+    {
+      "id": "211bf5aafd0db9b713",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-14T11:05:12+02:00",
+      "source": "RTVE.es",
+      "title": "El turismo de la Sierra de San Vicente se recupera tras los incendios de Ávila y Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNektGclVzNTF4Q1FDRS16NkViR1ZLYkZaTkkwNXVOeXJBMlNpS25fMG1fanhYUDIyQm1EMXdGeE4yRms4TzRtZnZIVWZyOTJFWmJwZEx4NEpmTUJJZmpUWGlkTlJTeXYyVGdNT1A4YkFqNHF4RDJqUklGLXpTWkxUZGh3R2hZTkdmQjdRMUN2MnlxU0xlRU1XWTJoWTZ5Nm4wUHhUcjk0c0ZqWENXRktJZVI4eDlHZkZNa2RJ?oc=5"
+    },
+    {
+      "id": "3900f94dde0c174e1c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-14T10:47:52+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
+    },
     {
       "id": "d800ad4b6519c4643c",
       "type": "news",
@@ -14,52 +38,16 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkdpbk4wdkNxREFrOHZ2cmVOZWV4YUp0ckNUX2dWUlJYc0toR3RfbzVJNWNxbnBkT1Y5MEFYRGhnRDh2VTNOZ2gyNkRLZ0JDQWZmX1VoQldTSEo4YzhuRnowOVA0SVVJbUdfYVVJeFRGcEpPU0FGN3FjRU5lOGk3a2F2NzlJLUpyT1plQWFqOWhfdlFzVXVkcm5pbGllbWVRS3p5aHRpR3FVMjllRmZpMXV6MWJqZjR6R25oS09wMXRpRnZReG80N0s5UFJYR19GMzlEZHJVd1RxdENyUy1aODB6X1UzbGEyVFFra3R4Q3FDcGNnVm9UXzNHbVRpdGpQaTNvaDZGNNIBjAJBVV95cUxPRjZUYjJ2TUx5aFcxS29ZcWNITlZybzdXUVFoQWE3TEZOcmRlWEwwWVFzMFlKTzZlM0hCZGk1dG1ZVS1TNUVkM0lFeWRCemtNLWZ4dzc5TzMycGtkT1c0bFNxbEhWR3gzXzd1RHUwSnZYZWFFQ2JRc3cxOV9pZ0ROYi1rb2laNDVfRDRJRkdMejhKaUo4YWtjdEhkNE5Mck9wNmpBWGt0b1d3dlhpVWNDb1g3V09kU0xXaGhLUjJVQkVsY2xfenpQYWU0TlF0NXNoblBXemphTW56YVgzVENOZDFSNUFIUWVQWUNpSVpwWGg0NTFxSmF0S2tLeWl5MXpVZV9jT1MzNFBvZ1ZS?oc=5"
     },
     {
-      "id": "338f81632b29ba154c",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-13T12:48:21+02:00",
-      "source": "Europa Press",
-      "title": "Afectada por inhalación de humo una mujer tras el incendio en la caldera de una cocina en Sonseca (Toledo)",
-      "summary": "Una mujer de 32 años ha resultado afectada por inhalación de humo este jueves tras el incendio en la...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-afectada-inhalacion-humo-mujer-incendio-caldera-cocina-sonseca-toledo-20260813124821.html"
-    },
-    {
-      "id": "1a0828b8c7838e52c7",
+      "id": "44fed7ee254bf29114",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-13T12:45:52+02:00",
+      "published": "2026-08-13T12:49:08+02:00",
       "source": "Cadena SER",
       "title": "La Comunidad de Madrid anuncia ayudas para eliminar arizónicas un año después del incendio de Tres Cantos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVFJpOVFpRVJfaGJRUGZxOXVCUi1qNjYwTkNwZHVVc1BZNWNJd041Zi1JVUx6eW1fdm44NjY3dW9WYTZRbXhYdEZrTVNPMVJaMDFMTUpqOVNEN1JoVXNfYTRsUU5KWENzMmFCRkoxTHVZWjdiTkVWVTVHSXFiVDQ4bXN1UWJtWDlCSWJiVmdoYVBITTExQWM3Nl9RZ1FSa0QtRHptQWhLeDJzM0NQU2FJbkdPLV8ySHlzQ1RmQmxEQ1FyT24teW55RVZPSXVORmZLRThPc0NPb3pBbDRkcVBzdkVKRllBLWNQUThuX3BlaHl0bEc4cEMw0gGLAkFVX3lxTE1XNDVPNC03Q1dzcVB3X1FxYS1rbUVBeXg2TWZMQW5xU2c5QzVkNXJjX2szekFYOWNvTXZUajZSdHBBWGxLeFRRZlVyeDYwYkRZMG1NYnV0UDdmWUhPWlg5WjRxZm5NNGVQY2RtYWNGaWdjS1lQcjRLTGItclBRWDJrLVlwU21tZmtuUWFSYnVjZ3hibDlIdmlkQmtKY1VvTFhleWxySm9RMGp0cmJoYzg0OEVnUE5kTm9uS2EtblJ2b3AxaUZESTdud2ZiNDQteVdqcVRNSU9qemZiY2FfQ1dDUm9SNjZFbW9MSVJqVFJ2d3RWS3VQUlpVQks0akpxUHlvaklUdnE5aDRjSQ?oc=5"
-    },
-    {
-      "id": "e30668dbff984244ac",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-13T11:56:15+02:00",
-      "source": "Cadena SER",
-      "title": "El Obispado de Ávila alerta que un falso párroco pide dinero para una supuesta familia afectada por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbkdSMUVfMHZEUmEtS1k2WUlmYnVfdUhPMkNkZEtQM0ZUTVNZZERNbGdzclVGWGVjNmdFLTNlZlNlaDdLYldTQVhTMUFFLUJCdnBGU005dmp3S2pPazRWSUFxUk01eWY0SHplc1BzZkJpaGpGWlpSeTVneWt1M1ZqRjRWR09rYVl5VU1obmFJMzFvS2U0Y0hHYnNzMmRtR0hlTEZXZ0x5OW9FRWRpbnVYeGZSbnlvcG9nOHlwellCU1VqNTBrY0xLSGhRRTUzcnpldG5oR2lXZ1dDVU41LUIzOEVobFVTN0g2MmFfWTNOb2xRSUZDN2ZRZzQ0RnYyRk9hc25RcVY0UDRMVVR2ZmRUdtIBpAJBVV95cUxPOXNuNEpjY0JIRGt4bjJlN2lhbi1nUWhOeWFNZ1Jrcm9DUHR0UXRpdUtlY1NtVnE1Q1d2Q0U2TkxFX0YtOHhRZ25lN2xIQ3FNalBIR1RIaGFxekVteHZUZUtra1B1ck5NT05wZVNFZ1ZVUk1JMThSVi12ZGkxNzZMNUNUQWlKVFE5TFVaa2E0ck5hU00yaEtFLWpHQzZMOGMzdHctM2hTOFczNEdZVlRMRF9tY2lLYnB5dEZHTWN6LUFRWGNDVGxmWkpOZGRXc0lFN3FoVUVodnFTdWxEQW5VcmRIUTFRYUg2dHFBa3lZcFB5QWtNS0VqOVdETzFXQ1paQlI2LU9TVWYzNnBhY0xPazdIUEdCODJ6dF9mMWg4b05za184?oc=5"
-    },
-    {
-      "id": "0b4c36d128295827f2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-13T11:54:55+02:00",
-      "source": "Telemadrid",
-      "title": "La Sierra Oeste comienza a retirar los árboles quemados tras el peor incendio de la historia de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTBLN0h1eVpkQTIxc01EVW9TU1ItRGhjQm1FMVVTSHZJM251cV9hYkZ1NTd5dFlXb1RVZjU4THN2QmNjR3Q4QnFNUGVKTTNRLVhtWXU4bUlWenJxcHlFSTZKel92NzlmanJPWXViQmRPYjdMa01KTDZLdjNXd0g5bGstMHZ5LVVQQkVRSEJqeGxRN1NsS1VHTGFpMWFydXVrc3B4WmdVeGhraWp4N2FCYmtobm1ObUJ2WHdpQ05JQmMxUnRPaExYTjQ1azBVV3FpQ2h4RU5YcFdxX0xMVDV5c2FxNWUyNUI2cUhNTk93a21JcmFfMlExT1F1a3VPUTVyWVlPcXBmanBRR1I0WGpoaUdldDFWWVgtYVZiZXhodXnSAaACQVVfeXFMTWUwSzdIdXlaZEEyMXNNRFVvU1NSLURoY0JtRTFVU0h2STNudXFfYWJGdTU3eXRZV29UVWY1OExzdkJjY0d0OEJxTVBlSk0zUS1YbVl1OG1JVnpycXB5RUk2Snpfdjc5ZmpyT1l1YkJkT2I3TGtNSkw2S3YzV3dIOWxrLTB2eS1VUEJFUUhCanhsUTdTbEtVR0xhaTFhcnV1a3NweFpnVXhoa2lqeDdhQmJraG5tTm1Cdlh3aUNOSUJjMVJ0T2hMWE40NWswVVdxaUNoeEVOWHBXcV9MTFQ1eXNhcTVlMjVCNnFITU5Pd2ttSXJhXzJRMU9RdWt1T1E1cllZT3FwZmpwUUdSNFhqaGlHZXQxVllYLWFWYmV4aHV5?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -175,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
