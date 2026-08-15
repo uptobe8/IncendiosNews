@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-16T01:28:51+02:00",
+  "generated_at": "2026-08-16T01:48:18+02:00",
   "items": [
+    {
+      "id": "5633f3d3d2db29a044",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-15T22:16:51+02:00",
+      "source": "EFE Verde",
+      "title": "Controlado tres semanas después el incendio de Burgohondo (Ávila), el mayor de España",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Rk9tM2FBY09FaU1xTFNwdEVRazJaWjc3T1lxc2pvdFBkcV9jd3M4Z3RaTnRuZ09yOF8xbVZRM1hJcnNNUy1RamRPM1c4QWQzYzlwNzFVUmEtT01YV1cyMlJlWlRVMUNSbV9TUE9fRmJCdWF4REgxVE1jVQ?oc=5"
+    },
     {
       "id": "b5fce101b7e1ea4fd2",
       "type": "news",
@@ -187,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
