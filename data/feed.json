@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T14:17:10+02:00",
+  "generated_at": "2026-08-15T15:02:48+02:00",
   "items": [
     {
-      "id": "1977c1ead07dc7b362",
+      "id": "13f0add4146b8e34bc",
       "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-15T13:01:01+02:00",
-      "source": "Madrid Actual",
-      "title": "Ayuso anuncia grandes inversiones en las zonas incendiadas de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlF3Z3RHdm9NbjExeVVFckY3dmJJWnIyZVRHVGVCTThQYm5fRkNucmRkcHF1NzNkYWFXQm1UeWRuQUhhOTdva2tFdDVQcHF0dm5MamVKRnZCelhCc3Z4WHl2NzQ3S2J5SjNyVVd6ajlhOUp3V3FJR2ZvYmRmZnptM0xsM3RhTkhTYzhaOWQ1bHdfbjl4WUNtOTZyS2N6WDF5aDlfc0dOV1hyU0VlMHVMeldwUUtBREpHdjEtejhoeXhyU2phNWFn?oc=5"
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-15T14:30:06+02:00",
+      "source": "Europa Press",
+      "title": "Evacuado en helicóptero un joven tras caerse con la moto en Navalperal de Pinares (Ávila)",
+      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al caerse de la moto en...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-helicoptero-joven-caerse-moto-navalperal-pinares-avila-20260815143006.html"
     },
     {
       "id": "57eb757105070d820b",
@@ -22,8 +22,8 @@
       "published": "2026-08-15T12:54:29+02:00",
       "source": "Europa Press",
       "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha asegurado que el Ejecutivo autonómico va a...",
-      "url": "https://www.europapress.es/madrid/noticia-ayuso-adelanta-campana-extraordinaria-otono-visitar-sierra-oeste-afectada-incendios-20260815125429.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUNxX3Nha1Y4T0xDZFg0ZmRwZWxLY0xUZDlZOGg2aElYdUIyR1JkYTd6ZVNxX2FJTFo2TGVDVVp2RXdxaXBfWUZlRm9aZEl6Ujh3MElxd0lvVUxjRmhHMlF6SkVtSERkODB6c2s4RlU1bjJ4TUZpeGRzWl9hdktVNFctOVRCUElocDhUcXp1NjFTOXNwZndXRVRwUE5VLW5POWhOZTdNQmRIM2pfTFUxU3hOenRHVnllRVFmTmRpcEwyQ1ltazljdXNSSTYyRWI2aGJkc19wYUJYTC1ueVE?oc=5"
     },
     {
       "id": "20eaee89fc9229000c",
@@ -167,7 +167,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
