@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T10:15:51+02:00",
+  "generated_at": "2026-08-15T10:48:30+02:00",
   "items": [
+    {
+      "id": "20eaee89fc9229000c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-14T19:45:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
+    },
     {
       "id": "7471d78427b9a7e1d5",
       "type": "news",
@@ -139,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
