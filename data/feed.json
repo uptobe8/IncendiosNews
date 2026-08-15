@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:14:01+02:00",
+  "generated_at": "2026-08-15T07:44:05+02:00",
   "items": [
     {
       "id": "20eaee89fc9229000c",
@@ -24,18 +24,6 @@
       "title": "El turismo de la Sierra de San Vicente se recupera tras los incendios de Ávila y Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmFDbWd3clBtcDdqUXdIZDlNbUF1ODVQaFYteFRrVENIQkJiSi1JQjZ5UFROTDYtT1VpbWJURTdLSDN0Zy1LM1NBbFdwUnZreTZwbUpVTmNRdU9tTGdFazRjYUZJX1U0Vkd4WXpOSHItLTc3RnlmVndoV21zczV5WGlOVkJxalFNLTBkUzc0ZDNmX3R4d184RWs4SDVkTVlvX0xETWgxam9BWVA5N2FvWmxPTDRNZXVhMC13?oc=5"
-    },
-    {
-      "id": "53b8d87040ca5f045b",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-14T07:34:08+02:00",
-      "source": "20Minutos",
-      "title": "El plan para reforestar Madrid tras los incendios: 300.000 árboles en viveros, mapeo por satélite y retirar vegetación",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVFqUng3Qi1hZlNOa2FzTzNucGE4V09aM2hXWmhCUUhOMVBobDdTVmZvcEJzZzhBMUxsMXNkU3ByOG9wd1I3OGIxd29MWHJTeWtWbHl6YkhwNDRRajFQLUljZUVPMWFWcVdDTkQ3Z25ZaU45anJmMm9wM0Q3eHlUbzNRMTJydzc4Qy0tM2VfTzlZOTRYRmtHdEI3NnMzZ1RPRWRxSEFkSmNoanRtNnlGUHJ0QTRsejd1cllSeWxXVkxldTJqQ2NsTXkyR0cyUi0xWHdfWVlJU0xPWDVmSHlTSkZLOHhuc2FST1VCOXdGR0U4aUV3ekE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 4
     },
     "direct_media": {
       "ok": true,
