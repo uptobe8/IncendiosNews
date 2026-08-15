@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-15T15:57:50+02:00",
+  "generated_at": "2026-08-15T16:27:45+02:00",
   "items": [
     {
-      "id": "f1f0a7ffded702dabf",
+      "id": "cecf8fff3917df3f1d",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-08-15T15:12:54+02:00",
+      "published": "2026-08-15T16:02:56+02:00",
       "source": "Tribuna de Ávila",
       "title": "Intento de fraude en uno de los ayuntamientos abulenses afectado por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -157,13 +157,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 3
     },
     "direct_media": {
       "ok": true,
