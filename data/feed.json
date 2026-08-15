@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:09:22+02:00",
+  "generated_at": "2026-08-15T21:33:11+02:00",
   "items": [
     {
       "id": "b5fce101b7e1ea4fd2",
@@ -38,6 +38,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3FBU0ZpODhFdTNTZjhDOVVUdTVXN1dfU01YYzFTRVR1SnV2dHhBUVliZVM3LVBKVjlscHQtM0laRms3V2JKdjJERVk5Nlp2NGhuUDA4YzMtMWVrbE9BZFdaZ2N0bE9yWnF6TkpBazVEMHUtM1hVbUJGSWRia3JyOVFzMWhlRWFVYWRPMm96QVhkZ2RTejI5S18zaWphZGIzQ3ZlOGY1Tl9JaTVUNWdNdzVMZWlxTlNB?oc=5"
     },
     {
+      "id": "dc3f1cfec513623dea",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-15T18:33:11+02:00",
+      "source": "20Minutos",
+      "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2xJQ2d6NXUwSXhYT2NUTDlBMHlKMGdvTFZVQjh4SjNZR2ZETENWSFVKN2paV1RpcWpUQ0VZaG9KQ0c1OVNudlRuWklrbEVWZ1dlb3Q0X0dVb09sNHhkcUlFWVhUYThkcjZuU1ZfcE1ZNEFQLVJJT0FXRDdOWlNmRVUyUWp3Q2kwbGNYdHpMQmJ5dXRCUEpfSU5DeEdURnNTRWZTa2dUeUMxRzU5cGkyNGZlbVVZZ2FnNS1zLUh4VGNxeThDLWlYWDRPNnN2eVByUmZjSHhHcURISUhKYjZHTA?oc=5"
+    },
+    {
       "id": "de6d797512f11b3f45",
       "type": "news",
       "severity": "info",
@@ -60,18 +72,6 @@
       "title": "Evacuado en helicóptero un joven tras caerse con la moto en Navalperal de Pinares (Ávila)",
       "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-helicoptero-joven-caerse-moto-navalperal-pinares-avila-20260815143006.html"
-    },
-    {
-      "id": "57eb757105070d820b",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-15T12:54:29+02:00",
-      "source": "Europa Press",
-      "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUNxX3Nha1Y4T0xDZFg0ZmRwZWxLY0xUZDlZOGg2aElYdUIyR1JkYTd6ZVNxX2FJTFo2TGVDVVp2RXdxaXBfWUZlRm9aZEl6Ujh3MElxd0lvVUxjRmhHMlF6SkVtSERkODB6c2s4RlU1bjJ4TUZpeGRzWl9hdktVNFctOVRCUElocDhUcXp1NjFTOXNwZndXRVRwUE5VLW5POWhOZTdNQmRIM2pfTFUxU3hOenRHVnllRVFmTmRpcEwyQ1ltazljdXNSSTYyRWI2aGJkc19wYUJYTC1ueVE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
