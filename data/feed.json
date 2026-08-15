@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:48:30+02:00",
+  "generated_at": "2026-08-15T11:12:28+02:00",
   "items": [
     {
       "id": "20eaee89fc9229000c",
@@ -24,18 +24,6 @@
       "title": "Sotillo de la Adrada homenajea a los voluntarios que lucharon contra el fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc2RpdWNGcm95Z1lIMG0tOTI5ZnA3cmNuN3pfd3dhSzRIUDk0X3FIZ0pIWmRXUVRHZ2FMSksyNGhOTmVOdVZINEljUGtqVzl6TVFwdlFrVVdpVnZ2Qm0yaEtEaEdlWklVVzZ3X25TSlduYTZaNy1yQ0xVNUM1T2UzaXlsSW12UUZLNVZ3REZyS25kQ0Z1VGlnaFA3U2owVkdLc0FZZExqb0Q2RmVvSnFENHplMXR6bmZGRF9NcjB2UTB4LWJJM09ZdFlzalhyVGdDVW1pYjk5RnEyNXBTTTd0dFNfVHPSAeQBQVVfeXFMTXNkaXVjRnJveWdZSDBtLTkyOWZwN3Jjbjd6X3d3YUs0SFA5NF9xSGdKSFpkV1FUR2dhTEpLMjRoTk5lTnVWSDRJY1Bralc5ek1RcHZRa1VXaVZ2dkJtMmhLRGhHZVpJVVc2d19uU0pXbmE2WjctckNMVTVDNU9lM2l5bEltdlFGSzVWd0RGcktuZENGdVRpZ2hQN1NqMFZHS3NBWWRMam9ENkZlb0pxRDR6ZTF0em5mRkRfTXIwdlEweC1iSTNPWXRZc2pYclRnQ1VtaWI5OUZxMjVwU003dHRTX1Rz?oc=5"
-    },
-    {
-      "id": "211bf5aafd0db9b713",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-14T11:05:12+02:00",
-      "source": "RTVE.es",
-      "title": "El turismo de la Sierra de San Vicente se recupera tras los incendios de Ávila y Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmFDbWd3clBtcDdqUXdIZDlNbUF1ODVQaFYteFRrVENIQkJiSi1JQjZ5UFROTDYtT1VpbWJURTdLSDN0Zy1LM1NBbFdwUnZreTZwbUpVTmNRdU9tTGdFazRjYUZJX1U0Vkd4WXpOSHItLTc3RnlmVndoV21zczV5WGlOVkJxalFNLTBkUzc0ZDNmX3R4d184RWs4SDVkTVlvX0xETWgxam9BWVA5N2FvWmxPTDRNZXVhMC13?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 2
     },
     "direct_media": {
       "ok": true,
