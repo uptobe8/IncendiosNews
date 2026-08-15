@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T15:02:48+02:00",
+  "generated_at": "2026-08-15T15:38:02+02:00",
   "items": [
+    {
+      "id": "f1f0a7ffded702dabf",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-15T15:12:54+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Intento de fraude en uno de los ayuntamientos abulenses afectado por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR011WS03LXZLYUFqSVNoaHlsUjFtTGFZcmtGOWY0TjJ1ZGlWOUlta3VwRzllXzJuZDlKSlU4QjNzZ0hFZUVzV200ZEcyMnNOa3I3MWljQmdzN09COHg5OHZsRWdKVm9kTlhsNy1EenA2d0xISnl6VFRaNFFMRTlYc1N5WjdUTHBfZy16bjN3cURRMGhSSGx2RDhKTzhnLWJITS02eDZYOXhNVGJhNHJJaVZ5OFhPelJGbmxKWUVoWU0tNnBCTkE?oc=5"
+    },
     {
       "id": "13f0add4146b8e34bc",
       "type": "news",
@@ -10,7 +22,7 @@
       "published": "2026-08-15T14:30:06+02:00",
       "source": "Europa Press",
       "title": "Evacuado en helicóptero un joven tras caerse con la moto en Navalperal de Pinares (Ávila)",
-      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al caerse de la moto en...",
+      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-helicoptero-joven-caerse-moto-navalperal-pinares-avila-20260815143006.html"
     },
     {
@@ -157,13 +169,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 3
     },
     "direct_media": {
       "ok": true,
