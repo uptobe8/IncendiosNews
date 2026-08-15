@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:13:10+02:00",
+  "generated_at": "2026-08-15T18:42:56+02:00",
   "items": [
     {
       "id": "0e5a163e7fbc904e3b",
@@ -26,6 +26,18 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-denuncia-intento-fraude-recabar-informacion-ciudadanos-afectado-incendios-avila-20260815172303.html"
     },
     {
+      "id": "f1f0a7ffded702dabf",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-15T15:12:54+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Intento de fraude en uno de los ayuntamientos abulenses afectado por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR011WS03LXZLYUFqSVNoaHlsUjFtTGFZcmtGOWY0TjJ1ZGlWOUlta3VwRzllXzJuZDlKSlU4QjNzZ0hFZUVzV200ZEcyMnNOa3I3MWljQmdzN09COHg5OHZsRWdKVm9kTlhsNy1EenA2d0xISnl6VFRaNFFMRTlYc1N5WjdUTHBfZy16bjN3cURRMGhSSGx2RDhKTzhnLWJITS02eDZYOXhNVGJhNHJJaVZ5OFhPelJGbmxKWUVoWU0tNnBCTkE?oc=5"
+    },
+    {
       "id": "13f0add4146b8e34bc",
       "type": "news",
       "severity": "critical",
@@ -48,6 +60,18 @@
       "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUNxX3Nha1Y4T0xDZFg0ZmRwZWxLY0xUZDlZOGg2aElYdUIyR1JkYTd6ZVNxX2FJTFo2TGVDVVp2RXdxaXBfWUZlRm9aZEl6Ujh3MElxd0lvVUxjRmhHMlF6SkVtSERkODB6c2s4RlU1bjJ4TUZpeGRzWl9hdktVNFctOVRCUElocDhUcXp1NjFTOXNwZndXRVRwUE5VLW5POWhOZTdNQmRIM2pfTFUxU3hOenRHVnllRVFmTmRpcEwyQ1ltazljdXNSSTYyRWI2aGJkc19wYUJYTC1ueVE?oc=5"
+    },
+    {
+      "id": "20eaee89fc9229000c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-14T19:45:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 4
     },
     "direct_media": {
       "ok": true,
