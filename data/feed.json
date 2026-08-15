@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T17:33:42+02:00",
+  "generated_at": "2026-08-15T17:52:32+02:00",
   "items": [
+    {
+      "id": "0e5a163e7fbc904e3b",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-15T17:40:36+02:00",
+      "source": "ABC",
+      "title": "Denuncian un intento de fraude para recabar información de ciudadanos afectado por incendios en Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXdxeGVvb1hqX2ZScGYzaGEyZ0UxUFdWNGRWMndlWmdUNlZMWV9wYTdRRFhNQlluS2ZvRzlCZjhHY0t0bFFoc2hIU1doaHV6Q2M2WXNNQXctS2o2QzlMWEgxbncwMG9zOF9ESS1qbFM1RC1BbmptRTRYU0RwWkNOLUQtYTExaW1pNlU5SWNTTXJQYi1kZDBVSU1sM2hPZnZLeWxJU1NPU01kbEZadWZSUWZjTTduSHBXTnZMdnZRc01NcWgtNXc?oc=5"
+    },
     {
       "id": "de6d797512f11b3f45",
       "type": "news",
@@ -171,15 +183,15 @@
   "checks": {
     "google_news": {
       "ok": true,
+      "items": 4
+    },
+    "direct_media": {
+      "ok": true,
       "items": 3
     },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 3
     }
   },
   "refresh_seconds": 300
