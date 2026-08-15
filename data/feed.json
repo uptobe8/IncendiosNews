@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:38:02+02:00",
+  "generated_at": "2026-08-15T15:57:50+02:00",
   "items": [
     {
       "id": "f1f0a7ffded702dabf",
@@ -22,7 +22,7 @@
       "published": "2026-08-15T14:30:06+02:00",
       "source": "Europa Press",
       "title": "Evacuado en helicóptero un joven tras caerse con la moto en Navalperal de Pinares (Ávila)",
-      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al...",
+      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al caerse de la moto en...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-helicoptero-joven-caerse-moto-navalperal-pinares-avila-20260815143006.html"
     },
     {
@@ -48,18 +48,6 @@
       "title": "Donan 17 toneladas de paja, agua y tuberías para el ganado afectado por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdW1qZkV3NFpya3pja0dvMUltQlowMnREdEdFYmVnNFZ6T08zTThNa1BCZXEwV2ZYcDJBSUJHUTJZWGk5dWdJTXF4UUQ3anpCRllPdWs1NFcyTDVOSDBxQUpzZDFIM2N6SVJjNHV3X3NZRjZDZE5TblY2VF9UajNjS25felNmT3BUOHBCNkUtaXBaYVlGRHFsdkdtbFI5X0hTS0t1M3R3eVJCbnc0d25ZcXc1dkhrNzBsM3NYXzZTLXc5N2tBZ2l4Y3FPNkhMMnk1a3pQMVpYU2c?oc=5"
-    },
-    {
-      "id": "7471d78427b9a7e1d5",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Sotillo de la Adrada",
-      "published": "2026-08-14T15:51:43+02:00",
-      "source": "Cadena SER",
-      "title": "Sotillo de la Adrada homenajea a los voluntarios que lucharon contra el fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc2RpdWNGcm95Z1lIMG0tOTI5ZnA3cmNuN3pfd3dhSzRIUDk0X3FIZ0pIWmRXUVRHZ2FMSksyNGhOTmVOdVZINEljUGtqVzl6TVFwdlFrVVdpVnZ2Qm0yaEtEaEdlWklVVzZ3X25TSlduYTZaNy1yQ0xVNUM1T2UzaXlsSW12UUZLNVZ3REZyS25kQ0Z1VGlnaFA3U2owVkdLc0FZZExqb0Q2RmVvSnFENHplMXR6bmZGRF9NcjB2UTB4LWJJM09ZdFlzalhyVGdDVW1pYjk5RnEyNXBTTTd0dFNfVHPSAeQBQVVfeXFMTXNkaXVjRnJveWdZSDBtLTkyOWZwN3Jjbjd6X3d3YUs0SFA5NF9xSGdKSFpkV1FUR2dhTEpLMjRoTk5lTnVWSDRJY1Bralc5ek1RcHZRa1VXaVZ2dkJtMmhLRGhHZVpJVVc2d19uU0pXbmE2WjctckNMVTVDNU9lM2l5bEltdlFGSzVWd0RGcktuZENGdVRpZ2hQN1NqMFZHS3NBWWRMam9ENkZlb0pxRDR6ZTF0em5mRkRfTXIwdlEweC1iSTNPWXRZc2pYclRnQ1VtaWI5OUZxMjVwU003dHRTX1Rz?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -171,7 +159,7 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "official": {
       "ok": false,
