@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-16T22:31:09+02:00",
+  "generated_at": "2026-08-16T22:51:44+02:00",
   "items": [
+    {
+      "id": "24b229421333b1c5d9",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-16T20:27:13+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Voluntarios contra la erosión y cenizas en El Tiemblo por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
+    },
     {
       "id": "896ca4de951c85c5df",
       "type": "news",
@@ -187,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
