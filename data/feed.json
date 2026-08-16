@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:58:50+02:00",
+  "generated_at": "2026-08-16T22:31:09+02:00",
   "items": [
     {
       "id": "896ca4de951c85c5df",
@@ -36,18 +36,6 @@
       "title": "Intento de fraude en uno de los ayuntamientos abulenses afectado por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR011WS03LXZLYUFqSVNoaHlsUjFtTGFZcmtGOWY0TjJ1ZGlWOUlta3VwRzllXzJuZDlKSlU4QjNzZ0hFZUVzV200ZEcyMnNOa3I3MWljQmdzN09COHg5OHZsRWdKVm9kTlhsNy1EenA2d0xISnl6VFRaNFFMRTlYc1N5WjdUTHBfZy16bjN3cURRMGhSSGx2RDhKTzhnLWJITS02eDZYOXhNVGJhNHJJaVZ5OFhPelJGbmxKWUVoWU0tNnBCTkE?oc=5"
-    },
-    {
-      "id": "5633f3d3d2db29a044",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-15T22:16:51+02:00",
-      "source": "EFE Verde",
-      "title": "Controlado tres semanas después el incendio de Burgohondo (Ávila), el mayor de España",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Rk9tM2FBY09FaU1xTFNwdEVRazJaWjc3T1lxc2pvdFBkcV9jd3M4Z3RaTnRuZ09yOF8xbVZRM1hJcnNNUy1RamRPM1c4QWQzYzlwNzFVUmEtT01YV1cyMlJlWlRVMUNSbV9TUE9fRmJCdWF4REgxVE1jVQ?oc=5"
     },
     {
       "id": "b5fce101b7e1ea4fd2",
@@ -199,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
