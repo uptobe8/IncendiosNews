@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:33:14+02:00",
+  "generated_at": "2026-08-16T12:54:24+02:00",
   "items": [
     {
       "id": "b184cdc9bbd7216a70",
@@ -84,6 +84,18 @@
       "title": "La Junta denuncia un intento de fraude para recabar información de ciudadanos afectado por incendios en Ávila",
       "summary": "La Junta ha denunciado ante la Guardia Civil un intento de fraude cuyo fin último era recabar información...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-denuncia-intento-fraude-recabar-informacion-ciudadanos-afectado-incendios-avila-20260815172303.html"
+    },
+    {
+      "id": "22ac178e7d4367e44e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-15T16:01:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Vox felicita a los bomberos por su generosidad en la extinción de los fuegos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUwxZmd6NmZBSW04WGxiTm85V1VkR05CZU5rQTJBSGtzc1ZzTnpVeU91OHFYeFVPS2o3WTlUbGxQclJMQXZOY0F6LWVGeVM3REI5dEdUUjkyWDJaVFVpa0hPYnUwWGVydTd4bC1VMElKZm5McjMtdTB0ZVhlSG04UWFuUFRpSzB5VnVzblgzeDE1U0VYTmlDeDNlWkVBN25qeEppYUd1RmxJQ09WY21nWUx0QVM5M0g5LWRuZG9XM2NmM21DeGU1UU1rUmtnZmZVWmxWYXItcHJzZkk?oc=5"
     },
     {
       "id": "13f0add4146b8e34bc",
@@ -205,17 +217,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 6
+    },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 4
     }
   },
   "refresh_seconds": 300
