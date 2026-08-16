@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:36:17+02:00",
+  "generated_at": "2026-08-17T00:54:38+02:00",
   "items": [
     {
       "id": "24b229421333b1c5d9",
@@ -14,6 +14,30 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
     },
     {
+      "id": "896ca4de951c85c5df",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-16T18:52:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Controlado tres semanas después el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
+    },
+    {
+      "id": "e8eee0111937bd85cf",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-16T18:36:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "El 'gran hermano' contra el fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGVWX3J3NjRCa0lGY1c3SlpqSjF5UDNSQUlOU3FRNFl2MURHVEJkNWNnV0tIeTFyc2VTeW5ySFJsSkR1WWM5bHdJelJGQV9xdlFhc0JJNC02LVYwMk85RTh2WTh6d3BnQVFpS3NNWHVfTFJvZ2JhbzJRTGRxdWtpbEpNUTNIRmpQQTNqWHcyY0VCMEFVNGxzSGh4SzNHaEVoeWdWT3Y5NnBmZkl6ajZOZTJn?oc=5"
+    },
+    {
       "id": "9e38624f2c5d21f8e6",
       "type": "news",
       "severity": "info",
@@ -24,18 +48,6 @@
       "title": "Madrid triplicará la producción de plantas autóctonas en las zonas afectadas tras incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkdpbk4wdkNxREFrOHZ2cmVOZWV4YUp0ckNUX2dWUlJYc0toR3RfbzVJNWNxbnBkT1Y5MEFYRGhnRDh2VTNOZ2gyNkRLZ0JDQWZmX1VoQldTSEo4YzhuRnowOVA0SVVJbUdfYVVJeFRGcEpPU0FGN3FjRU5lOGk3a2F2NzlJLUpyT1plQWFqOWhfdlFzVXVkcm5pbGllbWVRS3p5aHRpR3FVMjllRmZpMXV6MWJqZjR6R25oS09wMXRpRnZReG80N0s5UFJYR19GMzlEZHJVd1RxdENyUy1aODB6X1UzbGEyVFFra3R4Q3FDcGNnVm9UXzNHbVRpdGpQaTNvaDZGNNIBjAJBVV95cUxPRjZUYjJ2TUx5aFcxS29ZcWNITlZybzdXUVFoQWE3TEZOcmRlWEwwWVFzMFlKTzZlM0hCZGk1dG1ZVS1TNUVkM0lFeWRCemtNLWZ4dzc5TzMycGtkT1c0bFNxbEhWR3gzXzd1RHUwSnZYZWFFQ2JRc3cxOV9pZ0ROYi1rb2laNDVfRDRJRkdMejhKaUo4YWtjdEhkNE5Mck9wNmpBWGt0b1d3dlhpVWNDb1g3V09kU0xXaGhLUjJVQkVsY2xfenpQYWU0TlF0NXNoblBXemphTW56YVgzVENOZDFSNUFIUWVQWUNpSVpwWGg0NTFxSmF0S2tLeWl5MXpVZV9jT1MzNFBvZ1ZS?oc=5"
-    },
-    {
-      "id": "0a92e8700fabfb28fe",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T09:52:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Controlado tres semanas después el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
     },
     {
       "id": "b5fce101b7e1ea4fd2",
@@ -187,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
