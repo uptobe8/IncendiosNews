@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-16T09:50:09+02:00",
+  "generated_at": "2026-08-16T10:12:36+02:00",
   "items": [
+    {
+      "id": "6e36b752b5f365ae1a",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-16T09:53:33+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Controlado tres semanas después el incendio de Burgohondo (Ávila)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
+    },
     {
       "id": "b5fce101b7e1ea4fd2",
       "type": "news",
@@ -181,17 +193,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
       "items": 4
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
