@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:01:17+02:00",
+  "generated_at": "2026-08-16T18:36:23+02:00",
   "items": [
     {
       "id": "e49b138fe45290056c",
@@ -14,18 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
     },
     {
-      "id": "8ffc461b82aafbe0eb",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Navas del Rey",
-      "published": "2026-08-16T14:50:44+02:00",
-      "source": "Telemadrid",
-      "title": "Nacieron entre llamas: la historia de Brave y Kyrie, las mellizas que llegaron a Navas del Rey en plena lucha contra el incendio",
-      "summary": "Navas del Rey ha sido uno de los municipios más golpeados por el incendio que ha arrasado la Sierra Oeste. Las llamas llegaron a afectar al 90% de...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Nacieron-entre-llamas-la-historia-de-Brave-y-Kyrie-las-mellizas-que-llegaron-a-Navas-del-Rey-en-plena-lucha-contra-el-incendio-2-2916928286--20260816025043.html"
-    },
-    {
       "id": "b5fce101b7e1ea4fd2",
       "type": "news",
       "severity": "info",
@@ -36,6 +24,18 @@
       "title": "Controlado el incendio de Burgohondo (Ávila) que baja a nivel 0",
       "summary": "La Junta ha dado por controlado el incendio de Burgohondo (Ávila), que llegó a ser...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-da-controlado-incendio-burgohondo-avila-baja-nivel-20260815192952.html"
+    },
+    {
+      "id": "cd156124ed586eb712",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-15T19:57:10+02:00",
+      "source": "Diario de Ávila",
+      "title": "Controlado el incendio de Burgohondo, que baja a IGR-0",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDBreW1RR0Y3TzRZVUVKQUVrdl81dFdlY2hCRWhTcWFpdG05TjFEUE5kSWxIeUpxQ2l6STl2SzhnTzRqeTR3NXV5a0k2ajFOSnE1SmloTEtLcEExQWVCR2c5S1FYYXh3UGhzdDEyQVF6Vkh0X2s4R2hGMnJQeHlCMVRHTDNKLUYwcE9xWFZTZE96Tm1PZ3BCUUJSM0FwanpxNERjWHNwbjNSWDFQdE93UTlVZXRXS05ySExKVjRkVWptbm8ydHdick8ydDloX0E?oc=5"
     },
     {
       "id": "cbc9481b07a62cf272",
@@ -50,18 +50,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3FBU0ZpODhFdTNTZjhDOVVUdTVXN1dfU01YYzFTRVR1SnV2dHhBUVliZVM3LVBKVjlscHQtM0laRms3V2JKdjJERVk5Nlp2NGhuUDA4YzMtMWVrbE9BZFdaZ2N0bE9yWnF6TkpBazVEMHUtM1hVbUJGSWRia3JyOVFzMWhlRWFVYWRPMm96QVhkZ2RTejI5S18zaWphZGIzQ3ZlOGY1Tl9JaTVUNWdNdzVMZWlxTlNB?oc=5"
     },
     {
-      "id": "dc3f1cfec513623dea",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-15T18:33:11+02:00",
-      "source": "20Minutos",
-      "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2xJQ2d6NXUwSXhYT2NUTDlBMHlKMGdvTFZVQjh4SjNZR2ZETENWSFVKN2paV1RpcWpUQ0VZaG9KQ0c1OVNudlRuWklrbEVWZ1dlb3Q0X0dVb09sNHhkcUlFWVhUYThkcjZuU1ZfcE1ZNEFQLVJJT0FXRDdOWlNmRVUyUWp3Q2kwbGNYdHpMQmJ5dXRCUEpfSU5DeEdURnNTRWZTa2dUeUMxRzU5cGkyNGZlbVVZZ2FnNS1zLUh4VGNxeThDLWlYWDRPNnN2eVByUmZjSHhHcURISUhKYjZHTA?oc=5"
-    },
-    {
       "id": "de6d797512f11b3f45",
       "type": "news",
       "severity": "info",
@@ -74,16 +62,16 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-denuncia-intento-fraude-recabar-informacion-ciudadanos-afectado-incendios-avila-20260815172303.html"
     },
     {
-      "id": "13f0add4146b8e34bc",
+      "id": "57eb757105070d820b",
       "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-15T14:30:06+02:00",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-15T12:54:29+02:00",
       "source": "Europa Press",
-      "title": "Evacuado en helicóptero un joven tras caerse con la moto en Navalperal de Pinares (Ávila)",
-      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-helicoptero-joven-caerse-moto-navalperal-pinares-avila-20260815143006.html"
+      "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha asegurado que el Ejecutivo autonómico va a...",
+      "url": "https://www.europapress.es/madrid/noticia-ayuso-adelanta-campana-extraordinaria-otono-visitar-sierra-oeste-afectada-incendios-20260815125429.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -193,17 +181,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 4
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 3
     }
   },
   "refresh_seconds": 300
