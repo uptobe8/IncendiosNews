@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:42:07+02:00",
+  "generated_at": "2026-08-16T19:57:00+02:00",
   "items": [
     {
       "id": "e49b138fe45290056c",
@@ -12,6 +12,18 @@
       "title": "Controlado tres semanas después el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
+    },
+    {
+      "id": "a0d2530df99f2a0d04",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-16T00:12:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Intento de fraude en uno de los ayuntamientos abulenses afectado por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR011WS03LXZLYUFqSVNoaHlsUjFtTGFZcmtGOWY0TjJ1ZGlWOUlta3VwRzllXzJuZDlKSlU4QjNzZ0hFZUVzV200ZEcyMnNOa3I3MWljQmdzN09COHg5OHZsRWdKVm9kTlhsNy1EenA2d0xISnl6VFRaNFFMRTlYc1N5WjdUTHBfZy16bjN3cURRMGhSSGx2RDhKTzhnLWJITS02eDZYOXhNVGJhNHJJaVZ5OFhPelJGbmxKWUVoWU0tNnBCTkE?oc=5"
     },
     {
       "id": "b5fce101b7e1ea4fd2",
@@ -36,18 +48,6 @@
       "title": "Controlado el incendio de Burgohondo, que baja a IGR-0",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDBreW1RR0Y3TzRZVUVKQUVrdl81dFdlY2hCRWhTcWFpdG05TjFEUE5kSWxIeUpxQ2l6STl2SzhnTzRqeTR3NXV5a0k2ajFOSnE1SmloTEtLcEExQWVCR2c5S1FYYXh3UGhzdDEyQVF6Vkh0X2s4R2hGMnJQeHlCMVRHTDNKLUYwcE9xWFZTZE96Tm1PZ3BCUUJSM0FwanpxNERjWHNwbjNSWDFQdE93UTlVZXRXS05ySExKVjRkVWptbm8ydHdick8ydDloX0E?oc=5"
-    },
-    {
-      "id": "cbc9481b07a62cf272",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-15T19:49:54+02:00",
-      "source": "ABC",
-      "title": "La Junta da por «controlado» el incendio de Burgohondo (Ávila), 24 días después de su declaración",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3FBU0ZpODhFdTNTZjhDOVVUdTVXN1dfU01YYzFTRVR1SnV2dHhBUVliZVM3LVBKVjlscHQtM0laRms3V2JKdjJERVk5Nlp2NGhuUDA4YzMtMWVrbE9BZFdaZ2N0bE9yWnF6TkpBazVEMHUtM1hVbUJGSWRia3JyOVFzMWhlRWFVYWRPMm96QVhkZ2RTejI5S18zaWphZGIzQ3ZlOGY1Tl9JaTVUNWdNdzVMZWlxTlNB?oc=5"
     },
     {
       "id": "de6d797512f11b3f45",
@@ -187,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
