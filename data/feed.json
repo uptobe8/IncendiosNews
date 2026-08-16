@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:57:00+02:00",
+  "generated_at": "2026-08-16T20:33:03+02:00",
   "items": [
     {
       "id": "e49b138fe45290056c",
@@ -36,18 +36,6 @@
       "title": "Controlado el incendio de Burgohondo (Ávila) que baja a nivel 0",
       "summary": "La Junta ha dado por controlado el incendio de Burgohondo (Ávila), que llegó a ser...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-da-controlado-incendio-burgohondo-avila-baja-nivel-20260815192952.html"
-    },
-    {
-      "id": "cd156124ed586eb712",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-15T19:57:10+02:00",
-      "source": "Diario de Ávila",
-      "title": "Controlado el incendio de Burgohondo, que baja a IGR-0",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDBreW1RR0Y3TzRZVUVKQUVrdl81dFdlY2hCRWhTcWFpdG05TjFEUE5kSWxIeUpxQ2l6STl2SzhnTzRqeTR3NXV5a0k2ajFOSnE1SmloTEtLcEExQWVCR2c5S1FYYXh3UGhzdDEyQVF6Vkh0X2s4R2hGMnJQeHlCMVRHTDNKLUYwcE9xWFZTZE96Tm1PZ3BCUUJSM0FwanpxNERjWHNwbjNSWDFQdE93UTlVZXRXS05ySExKVjRkVWptbm8ydHdick8ydDloX0E?oc=5"
     },
     {
       "id": "de6d797512f11b3f45",
@@ -181,13 +169,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 3
     },
     "direct_media": {
       "ok": true,
