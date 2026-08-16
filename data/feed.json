@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-08-16T04:54:13+02:00",
+  "generated_at": "2026-08-16T05:43:09+02:00",
   "items": [
-    {
-      "id": "5633f3d3d2db29a044",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-15T22:16:51+02:00",
-      "source": "EFE Verde",
-      "title": "Controlado tres semanas después el incendio de Burgohondo (Ávila), el mayor de España",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Rk9tM2FBY09FaU1xTFNwdEVRazJaWjc3T1lxc2pvdFBkcV9jd3M4Z3RaTnRuZ09yOF8xbVZRM1hJcnNNUy1RamRPM1c4QWQzYzlwNzFVUmEtT01YV1cyMlJlWlRVMUNSbV9TUE9fRmJCdWF4REgxVE1jVQ?oc=5"
-    },
-    {
-      "id": "b5fce101b7e1ea4fd2",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-15T19:59:23+02:00",
-      "source": "Europa Press",
-      "title": "Controlado el incendio de Burgohondo (Ávila) que baja a nivel 0",
-      "summary": "La Junta ha dado por controlado el incendio de Burgohondo (Ávila), que llegó a ser...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-da-controlado-incendio-burgohondo-avila-baja-nivel-20260815192952.html"
-    },
     {
       "id": "cd156124ed586eb712",
       "type": "news",
@@ -60,30 +36,6 @@
       "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2xJQ2d6NXUwSXhYT2NUTDlBMHlKMGdvTFZVQjh4SjNZR2ZETENWSFVKN2paV1RpcWpUQ0VZaG9KQ0c1OVNudlRuWklrbEVWZ1dlb3Q0X0dVb09sNHhkcUlFWVhUYThkcjZuU1ZfcE1ZNEFQLVJJT0FXRDdOWlNmRVUyUWp3Q2kwbGNYdHpMQmJ5dXRCUEpfSU5DeEdURnNTRWZTa2dUeUMxRzU5cGkyNGZlbVVZZ2FnNS1zLUh4VGNxeThDLWlYWDRPNnN2eVByUmZjSHhHcURISUhKYjZHTA?oc=5"
-    },
-    {
-      "id": "de6d797512f11b3f45",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-15T17:23:03+02:00",
-      "source": "Europa Press",
-      "title": "La Junta denuncia un intento de fraude para recabar información de ciudadanos afectado por incendios en Ávila",
-      "summary": "La Junta ha denunciado ante la Guardia Civil un intento de fraude cuyo fin último era recabar información...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-denuncia-intento-fraude-recabar-informacion-ciudadanos-afectado-incendios-avila-20260815172303.html"
-    },
-    {
-      "id": "13f0add4146b8e34bc",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-15T14:30:06+02:00",
-      "source": "Europa Press",
-      "title": "Evacuado en helicóptero un joven tras caerse con la moto en Navalperal de Pinares (Ávila)",
-      "summary": "Un joven de unos 25 años ha sido trasladado en el helicóptero tras resultar herido al...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-helicoptero-joven-caerse-moto-navalperal-pinares-avila-20260815143006.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -193,17 +145,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 1
     }
   },
   "refresh_seconds": 300
