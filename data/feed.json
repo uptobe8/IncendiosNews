@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-16T14:41:25+02:00",
+  "generated_at": "2026-08-16T15:19:16+02:00",
   "items": [
     {
-      "id": "b184cdc9bbd7216a70",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-16T12:09:12+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid envía 40 efectivos y 15 vehículos para colaborar en la extinción del incendio de Peñas de Riglos, en Huesca",
-      "summary": "La Comunidad de Madrid ha movilizado 40 efectivos y 15 vehículos para colaborar en las labores de extinción del incendio forestal declarado en Las...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-envia-40-efectivos-y-15-vehiculos-para-colaborar-en-la-extincion-del-incendio-de-Penas-de-Riglos-en-Huesca-2-2916928281--20260816120911.html"
-    },
-    {
-      "id": "6e36b752b5f365ae1a",
+      "id": "72abd3c96fe85cf213",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-16T09:53:33+02:00",
+      "published": "2026-08-16T14:51:02+02:00",
       "source": "Tribuna de Ávila",
-      "title": "Controlado tres semanas después el incendio de Burgohondo (Ávila)",
+      "title": "Controlado tres semanas después el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
+    },
+    {
+      "id": "8ffc461b82aafbe0eb",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Navas del Rey",
+      "published": "2026-08-16T14:50:44+02:00",
+      "source": "Telemadrid",
+      "title": "Nacieron entre llamas: la historia de Brave y Kyrie, las mellizas que llegaron a Navas del Rey en plena lucha contra el incendio",
+      "summary": "Navas del Rey ha sido uno de los municipios más golpeados por el incendio que ha arrasado la Sierra Oeste. Las llamas llegaron a afectar al 90% de...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Nacieron-entre-llamas-la-historia-de-Brave-y-Kyrie-las-mellizas-que-llegaron-a-Navas-del-Rey-en-plena-lucha-contra-el-incendio-2-2916928286--20260816025043.html"
     },
     {
       "id": "b5fce101b7e1ea4fd2",
@@ -62,13 +62,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3FBU0ZpODhFdTNTZjhDOVVUdTVXN1dfU01YYzFTRVR1SnV2dHhBUVliZVM3LVBKVjlscHQtM0laRms3V2JKdjJERVk5Nlp2NGhuUDA4YzMtMWVrbE9BZFdaZ2N0bE9yWnF6TkpBazVEMHUtM1hVbUJGSWRia3JyOVFzMWhlRWFVYWRPMm96QVhkZ2RTejI5S18zaWphZGIzQ3ZlOGY1Tl9JaTVUNWdNdzVMZWlxTlNB?oc=5"
     },
     {
-      "id": "dc3f1cfec513623dea",
+      "id": "bb7445d3f9af81c462",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-15T18:33:11+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Ayuso adelanta una \"campaña extraordinaria de otoño\" para visitar la sierra oeste afectada por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2xJQ2d6NXUwSXhYT2NUTDlBMHlKMGdvTFZVQjh4SjNZR2ZETENWSFVKN2paV1RpcWpUQ0VZaG9KQ0c1OVNudlRuWklrbEVWZ1dlb3Q0X0dVb09sNHhkcUlFWVhUYThkcjZuU1ZfcE1ZNEFQLVJJT0FXRDdOWlNmRVUyUWp3Q2kwbGNYdHpMQmJ5dXRCUEpfSU5DeEdURnNTRWZTa2dUeUMxRzU5cGkyNGZlbVVZZ2FnNS1zLUh4VGNxeThDLWlYWDRPNnN2eVByUmZjSHhHcURISUhKYjZHTA?oc=5"
