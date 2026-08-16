@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-16T12:01:14+02:00",
+  "generated_at": "2026-08-16T12:33:14+02:00",
   "items": [
+    {
+      "id": "b184cdc9bbd7216a70",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-16T12:09:12+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid envía 40 efectivos y 15 vehículos para colaborar en la extinción del incendio de Peñas de Riglos, en Huesca",
+      "summary": "La Comunidad de Madrid ha movilizado 40 efectivos y 15 vehículos para colaborar en las labores de extinción del incendio forestal declarado en Las...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-envia-40-efectivos-y-15-vehiculos-para-colaborar-en-la-extincion-del-incendio-de-Penas-de-Riglos-en-Huesca-2-2916928281--20260816120911.html"
+    },
     {
       "id": "6e36b752b5f365ae1a",
       "type": "news",
@@ -193,17 +205,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 5
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 5
     }
   },
   "refresh_seconds": 300
