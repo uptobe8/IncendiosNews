@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:46:11+02:00",
+  "generated_at": "2026-08-17T08:22:25+02:00",
   "items": [
     {
       "id": "24b229421333b1c5d9",
@@ -48,18 +48,6 @@
       "title": "Madrid triplicará la producción de plantas autóctonas en las zonas afectadas tras incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkdpbk4wdkNxREFrOHZ2cmVOZWV4YUp0ckNUX2dWUlJYc0toR3RfbzVJNWNxbnBkT1Y5MEFYRGhnRDh2VTNOZ2gyNkRLZ0JDQWZmX1VoQldTSEo4YzhuRnowOVA0SVVJbUdfYVVJeFRGcEpPU0FGN3FjRU5lOGk3a2F2NzlJLUpyT1plQWFqOWhfdlFzVXVkcm5pbGllbWVRS3p5aHRpR3FVMjllRmZpMXV6MWJqZjR6R25oS09wMXRpRnZReG80N0s5UFJYR19GMzlEZHJVd1RxdENyUy1aODB6X1UzbGEyVFFra3R4Q3FDcGNnVm9UXzNHbVRpdGpQaTNvaDZGNNIBjAJBVV95cUxPRjZUYjJ2TUx5aFcxS29ZcWNITlZybzdXUVFoQWE3TEZOcmRlWEwwWVFzMFlKTzZlM0hCZGk1dG1ZVS1TNUVkM0lFeWRCemtNLWZ4dzc5TzMycGtkT1c0bFNxbEhWR3gzXzd1RHUwSnZYZWFFQ2JRc3cxOV9pZ0ROYi1rb2laNDVfRDRJRkdMejhKaUo4YWtjdEhkNE5Mck9wNmpBWGt0b1d3dlhpVWNDb1g3V09kU0xXaGhLUjJVQkVsY2xfenpQYWU0TlF0NXNoblBXemphTW56YVgzVENOZDFSNUFIUWVQWUNpSVpwWGg0NTFxSmF0S2tLeWl5MXpVZV9jT1MzNFBvZ1ZS?oc=5"
-    },
-    {
-      "id": "4ee6f1704578e281e9",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Navas del Rey",
-      "published": "2026-08-16T14:50:43+02:00",
-      "source": "Telemadrid",
-      "title": "Nacieron entre llamas: la historia de Brave y Kyrie, las mellizas que llegaron a Navas del Rey en plena lucha contra el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZklqLTNnV3pwLXcyQnV3TEZ5dUhnSE01bUJ2clVSWXE4RXYtdHlGV0tJRGFHOWtBalhXNldhVEZIM0dJbFpYdTcwS1oyMFJGVmlsclRaSy1LbXF3c2hoS3pSVEZ4NWVsbTNUbUNtb2RXX1JLcU5WT2hZejBuQ3dkZ3dDRndWdjhFTFk3WkJXT0hlblhCWE5GMldxQnpibDZreldxSUsyOWtjOVBKM3N4OEN0dnp2ZHpFMHlPOGhpaElqN2xVS0wtYWdDU2RQMnpDSW5DM00xVGhaMl80dUVXV205elU2WWw0V0dXMzRjdmRIS1BkMWNXSVE1YVJUZk9ORXNvcjVNZ1RpZGpSMDQxMTFQSkxDaXZ1THN6RmRWX2RnQjVRX0I2dnhJUjlyYkdVX3F3cGRTMS1va0pwSE5CYjY3a3dYZFBnQnFr0gHLAkFVX3lxTFBmSWotM2dXenAtdzJCdXdMRnl1SGdITTVtQnZyVVJZcThFdi10eUZXS0lEYUc5a0FqWFc2V2FURkgzR0lsWlh1NzBLWjIwUkZWaWxyVFpLLUttcXdzaGhLelJURng1ZWxtM1RtQ21vZFdfUktxTlZPaFl6MG5Dd2Rnd0NGd1Z2OEVMWTdaQldPSGVuWEJYTkYyV3FCemJsNmt6V3FJSzI5a2M5UEozc3g4Q3R2enZkekUweU84aGloSWo3bFVLTC1hZ0NTZFAyekNJbkMzTTFUaFoyXzR1RVdXbTl6VTZZbDRXR1czNGN2ZEhLUGQxY1dJUTVhUlRmT05Fc29yNU1nVGlkalIwNDExMVBKTENpdnVMc3pGZFZfZGdCNVFfQjZ2eElSOXJiR1VfcXdwZFMxLW9rSnBITkJiNjdrd1hkUGdCcWs?oc=5"
     },
     {
       "id": "b5fce101b7e1ea4fd2",
@@ -205,13 +193,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 4
     },
     "direct_media": {
       "ok": true,
