@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T16:47:03+02:00",
+  "generated_at": "2026-08-17T17:10:54+02:00",
   "items": [
+    {
+      "id": "f7faf91e1719ffccd4",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "San Martín de Valdeiglesias",
+      "published": "2026-08-17T17:09:14+02:00",
+      "source": "Telemadrid",
+      "title": "Nuevas ayudas de apoyo al sector vitivinícola afectado por el incendio de la Sierra Oeste de Madrid",
+      "summary": "TMDHTM20240527_0010 La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha visitado este lunes, en San Martín de Valdeiglesias, la...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Nuevas-ayudas-de-apoyo-al-sector-vitivinicola-afectado-por-el-incendio-de-la-Sierra-Oeste-de-Madrid-2-2917228260--20260817030136.html"
+    },
     {
       "id": "e45c19ccc954544201",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
-    },
-    {
-      "id": "86ae1938e45deee43f",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "San Martín de Valdeiglesias",
-      "published": "2026-08-17T15:03:29+02:00",
-      "source": "Telemadrid",
-      "title": "Nuevas ayudas de apoyo al sector vitivinícola afectado por el incendio de la Sierra Oeste de Madrid",
-      "summary": "TMDHTM20240527_0010 La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha visitado este lunes, en San Martín de Valdeiglesias, la...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Nuevas-ayudas-de-apoyo-al-sector-vitivinicola-afectado-por-el-incendio-de-la-Sierra-Oeste-de-Madrid-2-2917228260--20260817030136.html"
     },
     {
       "id": "fc65f4cc41f5910f84",
@@ -50,13 +50,13 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
     },
     {
-      "id": "00f18f347ed1c30270",
+      "id": "de7dfa9ac9c9701ef6",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-17T14:04:07+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Ayuso inyecta media millón de euros al sector del vino tras el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
@@ -205,13 +205,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 7
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 7
     },
     "direct_media": {
       "ok": true,
