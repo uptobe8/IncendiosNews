@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T16:13:40+02:00",
+  "generated_at": "2026-08-17T16:47:03+02:00",
   "items": [
+    {
+      "id": "e45c19ccc954544201",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-17T15:03:57+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
+    },
     {
       "id": "86ae1938e45deee43f",
       "type": "news",
@@ -14,16 +26,16 @@
       "url": "https://www.telemadrid.es/programas/telenoticias-1/Nuevas-ayudas-de-apoyo-al-sector-vitivinicola-afectado-por-el-incendio-de-la-Sierra-Oeste-de-Madrid-2-2917228260--20260817030136.html"
     },
     {
-      "id": "a4087fbb0c2d1e630c",
+      "id": "fc65f4cc41f5910f84",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-08-17T14:34:08+02:00",
+      "published": "2026-08-17T14:34:09+02:00",
       "source": "Cadena SER",
       "title": "'Renace Ávila': una llamada a voluntarios que quieran ayudar a cicatrizar la herida que ha dejado el fuego en los montes",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUWd4aWZvc3lhY1NKWXlwQmRHRGk5eVpDZ3ZhSzFkTEVyQVFTeHJxUGxOMFM1endHLXo2SjJ2S3BBRE9HUWJSOTFDcVQ2dC1WMzRmVmFLSDlPV25pSHJ1NTJjTTlCU1lDaGc2ckFTT0JraDhJd3J0WkVxNGd2T1Bzb2l1RE9HWTg3OUxFa3BSSVU0VlJoLTM2M1NPTkQyOHhBMEluVTdEbzg4bVlvNFp6X2ZOWmo5ZUlRTGZHZTJiUWQxTnlNMkhhN0lfWUp2blZNTHJmYjBGRHpJSHJTY1FCMHlYYWZkY0NRYnB4WlljRDVxclZTUVppakc3MTMtY1NwemhXcmhR0gGaAkFVX3lxTE8zWlVYc0JXajRWWi04TkVSN08xVnhxdzFzeG1LS29fa0NNQlQ2NGxPRXNXUGR5NUFjQ2ZpZzRyYkNLbmxMenp4R3JjSGFUMkhBNjl5MnUwejFISWY4MUhnNXduQktuQ1MwTnJiWFp0MUhyX3NLbktEMkRMeTA4OW1HMEFYUm9kbU5Wdjh4OWpPQmpnUV9KYjF1Wk5pOVpUVDJDUlhfUkdnSTJCbDBrYlJXLWtEd2prWVpicXduQlBWaHdqY1Jlcll1TG5ZQ3Z5TTBndTFrSnozWTZhMVVNMGdqLW9RSHEwY254SGlZSFBzM3NCRHZ3TktUZmNuYnhfX3RJUDBCTDQwRTEyLUpyQ212LWtjeXFjd0RHdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM1pVWHNCV2o0VlotOE5FUjdPMVZ4cXcxc3htS0tvX2tDTUJUNjRsT0VzV1BkeTVBY0NmaWc0cmJDS25sTHp6eEdyY0hhVDJIQTY5eTJ1MHoxSElmODFIZzV3bkJLbkNTME5yYlhadDFIcl9zS25LRDJETHkwODltRzBBWFJvZG1OVnY4eDlqT0JqZ1FfSmIxdVpOaTlaVFQyQ1JYX1JHZ0kyQmwwa2JSVy1rRHdqa1laYnF3bkJQVmh3amNSZXJZdUxuWUN2eU0wZ3Uxa0p6M1k2YTFVTTBnai1vUUhxMGNueEhpWUhQczNzQkR2d05LVGZjbmJ4X190SVAwQkw0MEUxMi1KckNtdi1rY3lxY3dER3fSAZoCQVVfeXFMTzNaVVhzQldqNFZaLThORVI3TzFWeHF3MXN4bUtLb19rQ01CVDY0bE9Fc1dQZHk1QWNDZmlnNHJiQ0tubEx6enhHcmNIYVQySEE2OXkydTB6MUhJZjgxSGc1d25CS25DUzBOcmJYWnQxSHJfc0tuS0QyREx5MDg5bUcwQVhSb2RtTlZ2OHg5ak9CamdRX0piMXVaTmk5WlRUMkNSWF9SR2dJMkJsMGtiUlcta0R3amtZWmJxd25CUFZod2pjUmVyWXVMbllDdnlNMGd1MWtKejNZNmExVU0wZ2otb1FIcTBjbnhIaVlIUHMzc0JEdndOS1RmY25ieF9fdElQMEJMNDBFMTItSnJDbXYta2N5cWN3REd3?oc=5"
     },
     {
       "id": "65850acf74eb1aa453",
@@ -38,13 +50,13 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
     },
     {
-      "id": "de7dfa9ac9c9701ef6",
+      "id": "00f18f347ed1c30270",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-17T14:04:07+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "Ayuso inyecta media millón de euros al sector del vino tras el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
@@ -60,6 +72,30 @@
       "title": "Ayuso anuncia 500.000 euros en nuevas ayudas al sector vitivinícola afectado por el incendio de la Sierra Oeste",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes nuevas ayudas de...",
       "url": "https://www.europapress.es/madrid/noticia-ayuso-anuncia-500000-euros-nuevas-ayudas-sector-vitivinicola-afectado-incendio-sierra-oeste-20260817130806.html"
+    },
+    {
+      "id": "24b229421333b1c5d9",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-16T20:27:13+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Voluntarios contra la erosión y cenizas en El Tiemblo por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
+    },
+    {
+      "id": "896ca4de951c85c5df",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-16T18:52:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Controlado tres semanas después el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -169,13 +205,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 7
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 4
     },
     "direct_media": {
       "ok": true,
