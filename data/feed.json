@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T08:22:25+02:00",
+  "generated_at": "2026-08-17T09:29:43+02:00",
   "items": [
+    {
+      "id": "3ab4ec2ffc11f91733",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T09:02:18+02:00",
+      "source": "Europa Press",
+      "title": "Dos personas heridas tras ser atropelladas gravemente en dos incidentes distintos esta madrugrada en Madrid",
+      "summary": "El servicio de Emergencias de Madrid informa de dos atropellos graves registrados esta madrugada en la...",
+      "url": "https://www.europapress.es/madrid/noticia-dos-personas-heridas-ser-atropelladas-gravemente-dos-incidentes-distintos-madrugrada-madrid-20260817090218.html"
+    },
     {
       "id": "24b229421333b1c5d9",
       "type": "news",
@@ -203,7 +215,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
