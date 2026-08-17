@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:09:45+02:00",
+  "generated_at": "2026-08-18T01:35:25+02:00",
   "items": [
     {
       "id": "fa3297c8020bb86385",
@@ -12,18 +12,6 @@
       "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
-    },
-    {
-      "id": "a4330888b89c51ad17",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-17T19:43:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Levantan confinamiento de urbanizaciones en Galápagos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzhMYXpfZ3dqQmswTFpFOWlFaXZuTEF1MHFjcXpKYkFBLUI3TkR0VmtHMkl3QzAzdmdDeFVEelU3MmppWGVJcjR1bTdYcDJkTFBRWE9JZTZmSkFuYl94dWdueWdyMUNHaVN2QU5TN0JkUkJMUFh2MHFtamxKMDJIOTdZamFZbmxHUWxFd0xqWHBjSFBMb0Vkd203U0o2dHFNZXVpVnR5b2ZRS3lMVk5OOUsyY1JPZWlka2pmVlJTTUM5SFpBUnV0UGJMV2ZtN1ZYOHZiZA?oc=5"
     },
     {
       "id": "4c495c430de137bec5",
@@ -187,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 5
     },
     "direct_media": {
       "ok": true,
