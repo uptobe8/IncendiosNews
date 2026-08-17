@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:50:39+02:00",
+  "generated_at": "2026-08-18T01:09:45+02:00",
   "items": [
     {
       "id": "fa3297c8020bb86385",
@@ -36,6 +36,18 @@
       "title": "Nuevas ayudas de apoyo al sector vitivinícola afectado por el incendio de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZWl6R3FYbWpWRmVmNkpWUGJEOXYyTUpjajJzMkgzNHB5RXhDODRPMGIya04zTVRFYkdGMXgxR2VSdjRBTGFNODRwOEFITUtZQzJQdDRVWkZpdHR3Q1dIZWI3MWNKdjl3U0g2UTl0dFFxUEZtVHJ1TEdjZjRNbDVNTFE3UzFxNENkZno1dlJEOHZKQkY2Q2ZQd01INHFkNndKZDdVaVNqMXU0cWQwcUxmZzIteEJnV0dxNEx6S3lRRFNLcEwwRFpTTzNsb0wwd1RZVUpVMU1mSGFSR0Q0RVotVEpETlN3QTRhMHpIeHFaZ3dKR0RUbDFTd21MVDZSajZxNUNpbzA4clA2MFhKbXV6WVl30gGXAkFVX3lxTFBXS0tBY3RSVHkyZEI0c3YtM3BxQ0xkZHJCOGJJTklINndNTnM0MklSTUhBV1Z1X1AyNFZJUjJoNUhvRjhwVjNYdWxyUEhRX21nVGFpWmIyR1AxdHEwUm5nSFNKaUF6LVhob2ZRX3E4dnlfZTZoNy0xaDJQUmJkeXlzYzAwWFhzaVBhQm4zcXdoSTV5dF9mNlNRWl8xeGFycTFJaTBVLXFqeWNCNjRCSENubTBfVDFOWXFjaURLV1BlVVcwMG5HUi1RYjNfM0tqdHhPOGhGanNlYWV5RWxEa2RRR0dvNmdzTXZ2Q2xDNTRJdEtNQm5xVUZuUmRfSWJqT2NiUThxQ250dW1yZ1B4UHVKZTVZTThiaw?oc=5"
+    },
+    {
+      "id": "fc65f4cc41f5910f84",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-17T14:34:09+02:00",
+      "source": "Cadena SER",
+      "title": "'Renace Ávila': una llamada a voluntarios que quieran ayudar a cicatrizar la herida que ha dejado el fuego en los montes",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM1pVWHNCV2o0VlotOE5FUjdPMVZ4cXcxc3htS0tvX2tDTUJUNjRsT0VzV1BkeTVBY0NmaWc0cmJDS25sTHp6eEdyY0hhVDJIQTY5eTJ1MHoxSElmODFIZzV3bkJLbkNTME5yYlhadDFIcl9zS25LRDJETHkwODltRzBBWFJvZG1OVnY4eDlqT0JqZ1FfSmIxdVpOaTlaVFQyQ1JYX1JHZ0kyQmwwa2JSVy1rRHdqa1laYnF3bkJQVmh3amNSZXJZdUxuWUN2eU0wZ3Uxa0p6M1k2YTFVTTBnai1vUUhxMGNueEhpWUhQczNzQkR2d05LVGZjbmJ4X190SVAwQkw0MEUxMi1KckNtdi1rY3lxY3dER3fSAZoCQVVfeXFMTzNaVVhzQldqNFZaLThORVI3TzFWeHF3MXN4bUtLb19rQ01CVDY0bE9Fc1dQZHk1QWNDZmlnNHJiQ0tubEx6enhHcmNIYVQySEE2OXkydTB6MUhJZjgxSGc1d25CS25DUzBOcmJYWnQxSHJfc0tuS0QyREx5MDg5bUcwQVhSb2RtTlZ2OHg5ak9CamdRX0piMXVaTmk5WlRUMkNSWF9SR2dJMkJsMGtiUlcta0R3amtZWmJxd25CUFZod2pjUmVyWXVMbllDdnlNMGd1MWtKejNZNmExVU0wZ2otb1FIcTBjbnhIaVlIUHMzc0JEdndOS1RmY25ieF9fdElQMEJMNDBFMTItSnJDbXYta2N5cWN3REd3?oc=5"
     },
     {
       "id": "65850acf74eb1aa453",
@@ -175,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 7
     },
     "direct_media": {
       "ok": true,
