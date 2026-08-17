@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:09:00+02:00",
+  "generated_at": "2026-08-17T10:59:40+02:00",
   "items": [
     {
       "id": "3ab4ec2ffc11f91733",
@@ -72,18 +72,6 @@
       "title": "Controlado el incendio de Burgohondo (Ávila) que baja a nivel 0",
       "summary": "La Junta ha dado por controlado el incendio de Burgohondo (Ávila), que llegó a ser...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-da-controlado-incendio-burgohondo-avila-baja-nivel-20260815192952.html"
-    },
-    {
-      "id": "de6d797512f11b3f45",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-15T17:23:03+02:00",
-      "source": "Europa Press",
-      "title": "La Junta denuncia un intento de fraude para recabar información de ciudadanos afectado por incendios en Ávila",
-      "summary": "La Junta ha denunciado ante la Guardia Civil un intento de fraude cuyo fin último era recabar información...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-denuncia-intento-fraude-recabar-informacion-ciudadanos-afectado-incendios-avila-20260815172303.html"
     },
     {
       "id": "57eb757105070d820b",
@@ -215,7 +203,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
