@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T15:01:01+02:00",
+  "generated_at": "2026-08-17T15:47:20+02:00",
   "items": [
+    {
+      "id": "86ae1938e45deee43f",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "San Martín de Valdeiglesias",
+      "published": "2026-08-17T15:03:29+02:00",
+      "source": "Telemadrid",
+      "title": "Nuevas ayudas de apoyo al sector vitivinícola afectado por el incendio de la Sierra Oeste de Madrid",
+      "summary": "TMDHTM20240527_0010 La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha visitado este lunes, en San Martín de Valdeiglesias, la...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Nuevas-ayudas-de-apoyo-al-sector-vitivinicola-afectado-por-el-incendio-de-la-Sierra-Oeste-de-Madrid-2-2917228260--20260817030136.html"
+    },
     {
       "id": "a4087fbb0c2d1e630c",
       "type": "news",
@@ -14,37 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUWd4aWZvc3lhY1NKWXlwQmRHRGk5eVpDZ3ZhSzFkTEVyQVFTeHJxUGxOMFM1endHLXo2SjJ2S3BBRE9HUWJSOTFDcVQ2dC1WMzRmVmFLSDlPV25pSHJ1NTJjTTlCU1lDaGc2ckFTT0JraDhJd3J0WkVxNGd2T1Bzb2l1RE9HWTg3OUxFa3BSSVU0VlJoLTM2M1NPTkQyOHhBMEluVTdEbzg4bVlvNFp6X2ZOWmo5ZUlRTGZHZTJiUWQxTnlNMkhhN0lfWUp2blZNTHJmYjBGRHpJSHJTY1FCMHlYYWZkY0NRYnB4WlljRDVxclZTUVppakc3MTMtY1NwemhXcmhR0gGaAkFVX3lxTE8zWlVYc0JXajRWWi04TkVSN08xVnhxdzFzeG1LS29fa0NNQlQ2NGxPRXNXUGR5NUFjQ2ZpZzRyYkNLbmxMenp4R3JjSGFUMkhBNjl5MnUwejFISWY4MUhnNXduQktuQ1MwTnJiWFp0MUhyX3NLbktEMkRMeTA4OW1HMEFYUm9kbU5Wdjh4OWpPQmpnUV9KYjF1Wk5pOVpUVDJDUlhfUkdnSTJCbDBrYlJXLWtEd2prWVpicXduQlBWaHdqY1Jlcll1TG5ZQ3Z5TTBndTFrSnozWTZhMVVNMGdqLW9RSHEwY254SGlZSFBzM3NCRHZ3TktUZmNuYnhfX3RJUDBCTDQwRTEyLUpyQ212LWtjeXFjd0RHdw?oc=5"
     },
     {
-      "id": "d44bb063263bdcf997",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-17T14:29:07+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
-    },
-    {
-      "id": "2913b6542692dd1b86",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-17T14:28:57+02:00",
-      "source": "Telemadrid",
-      "title": "Cercanías y carreteras de Madrid, en obras este agosto: las 5 líneas afectadas y los grandes proyectos que transforman la capital",
-      "summary": "Madrid afronta un agosto marcado por las obras, tanto en la red de Cercanías como en algunas de las principales carreteras de la capital. Aunque...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Cercanias-y-carreteras-de-Madrid-en-obras-este-agosto-las-5-lineas-afectadas-y-los-grandes-proyectos-que-transforman-la-capital-2-2917228261--20260817022857.html"
-    },
-    {
-      "id": "32b3111e935b747e38",
+      "id": "65850acf74eb1aa453",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-17T14:09:14+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Brave y Kyrie, las dos mellizas nacidas en medio de la tragedia de los incendios de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
@@ -72,30 +60,6 @@
       "title": "Ayuso anuncia 500.000 euros en nuevas ayudas al sector vitivinícola afectado por el incendio de la Sierra Oeste",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes nuevas ayudas de...",
       "url": "https://www.europapress.es/madrid/noticia-ayuso-anuncia-500000-euros-nuevas-ayudas-sector-vitivinicola-afectado-incendio-sierra-oeste-20260817130806.html"
-    },
-    {
-      "id": "24b229421333b1c5d9",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T20:27:13+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Voluntarios contra la erosión y cenizas en El Tiemblo por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
-    },
-    {
-      "id": "896ca4de951c85c5df",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T18:52:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Controlado tres semanas después el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -211,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 4
     },
     "direct_media": {
       "ok": true,
