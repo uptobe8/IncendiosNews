@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:59:40+02:00",
+  "generated_at": "2026-08-17T11:51:50+02:00",
   "items": [
     {
       "id": "3ab4ec2ffc11f91733",
@@ -12,30 +12,6 @@
       "title": "Dos personas heridas tras ser atropelladas gravemente en dos incidentes distintos esta madrugrada en Madrid",
       "summary": "El servicio de Emergencias de Madrid informa de dos atropellos graves registrados esta madrugada en la...",
       "url": "https://www.europapress.es/madrid/noticia-dos-personas-heridas-ser-atropelladas-gravemente-dos-incidentes-distintos-madrugrada-madrid-20260817090218.html"
-    },
-    {
-      "id": "24b229421333b1c5d9",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T20:27:13+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Voluntarios contra la erosión y cenizas en El Tiemblo por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
-    },
-    {
-      "id": "896ca4de951c85c5df",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T18:52:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Controlado tres semanas después el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
     },
     {
       "id": "e8eee0111937bd85cf",
@@ -199,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 2
     },
     "direct_media": {
       "ok": true,
