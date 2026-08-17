@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:35:10+02:00",
+  "generated_at": "2026-08-17T20:00:14+02:00",
   "items": [
     {
       "id": "c07057a4f32826a546",
@@ -12,18 +12,6 @@
       "title": "Declarado un incendio en Galápagos (Guadalajara), próximo al límite con Madrid",
       "summary": "TMDHTM20240527_0010 El incendio forestal iniciado este lunes en el residencial Montelar, entidad menor de Galapagos (Guadalajara), ha alcanzado...",
       "url": "https://www.telemadrid.es/noticias/madrid/Declarado-un-incendio-en-Galapagos-Guadalajara-proximo-al-limite-con-Madrid-0-2917208274--20260817065129.html"
-    },
-    {
-      "id": "3055c4cf28b3846691",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-17T18:16:57+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
     },
     {
       "id": "4c495c430de137bec5",
@@ -72,18 +60,6 @@
       "title": "Ayuso inyecta medio millón de euros al sector del vino tras el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
-    },
-    {
-      "id": "24b229421333b1c5d9",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T20:27:13+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Voluntarios contra la erosión y cenizas en El Tiemblo por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -199,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 4
     },
     "direct_media": {
       "ok": true,
