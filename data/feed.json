@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-17T14:02:05+02:00",
+  "generated_at": "2026-08-17T15:01:01+02:00",
   "items": [
+    {
+      "id": "a4087fbb0c2d1e630c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-17T14:34:08+02:00",
+      "source": "Cadena SER",
+      "title": "'Renace Ávila': una llamada a voluntarios que quieran ayudar a cicatrizar la herida que ha dejado el fuego en los montes",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUWd4aWZvc3lhY1NKWXlwQmRHRGk5eVpDZ3ZhSzFkTEVyQVFTeHJxUGxOMFM1endHLXo2SjJ2S3BBRE9HUWJSOTFDcVQ2dC1WMzRmVmFLSDlPV25pSHJ1NTJjTTlCU1lDaGc2ckFTT0JraDhJd3J0WkVxNGd2T1Bzb2l1RE9HWTg3OUxFa3BSSVU0VlJoLTM2M1NPTkQyOHhBMEluVTdEbzg4bVlvNFp6X2ZOWmo5ZUlRTGZHZTJiUWQxTnlNMkhhN0lfWUp2blZNTHJmYjBGRHpJSHJTY1FCMHlYYWZkY0NRYnB4WlljRDVxclZTUVppakc3MTMtY1NwemhXcmhR0gGaAkFVX3lxTE8zWlVYc0JXajRWWi04TkVSN08xVnhxdzFzeG1LS29fa0NNQlQ2NGxPRXNXUGR5NUFjQ2ZpZzRyYkNLbmxMenp4R3JjSGFUMkhBNjl5MnUwejFISWY4MUhnNXduQktuQ1MwTnJiWFp0MUhyX3NLbktEMkRMeTA4OW1HMEFYUm9kbU5Wdjh4OWpPQmpnUV9KYjF1Wk5pOVpUVDJDUlhfUkdnSTJCbDBrYlJXLWtEd2prWVpicXduQlBWaHdqY1Jlcll1TG5ZQ3Z5TTBndTFrSnozWTZhMVVNMGdqLW9RSHEwY254SGlZSFBzM3NCRHZ3TktUZmNuYnhfX3RJUDBCTDQwRTEyLUpyQ212LWtjeXFjd0RHdw?oc=5"
+    },
+    {
+      "id": "d44bb063263bdcf997",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-17T14:29:07+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
+    },
+    {
+      "id": "2913b6542692dd1b86",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T14:28:57+02:00",
+      "source": "Telemadrid",
+      "title": "Cercanías y carreteras de Madrid, en obras este agosto: las 5 líneas afectadas y los grandes proyectos que transforman la capital",
+      "summary": "Madrid afronta un agosto marcado por las obras, tanto en la red de Cercanías como en algunas de las principales carreteras de la capital. Aunque...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Cercanias-y-carreteras-de-Madrid-en-obras-este-agosto-las-5-lineas-afectadas-y-los-grandes-proyectos-que-transforman-la-capital-2-2917228261--20260817022857.html"
+    },
+    {
+      "id": "32b3111e935b747e38",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T14:09:14+02:00",
+      "source": "20minutos.es",
+      "title": "Brave y Kyrie, las dos mellizas nacidas en medio de la tragedia de los incendios de la Sierra Oeste de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
+    },
+    {
+      "id": "de7dfa9ac9c9701ef6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T14:04:07+02:00",
+      "source": "ABC",
+      "title": "Ayuso inyecta media millón de euros al sector del vino tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
+    },
     {
       "id": "7853310a071fa5ecf6",
       "type": "news",
@@ -36,18 +96,6 @@
       "title": "Controlado tres semanas después el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
-    },
-    {
-      "id": "e8eee0111937bd85cf",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-16T18:36:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "El 'gran hermano' contra el fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGVWX3J3NjRCa0lGY1c3SlpqSjF5UDNSQUlOU3FRNFl2MURHVEJkNWNnV0tIeTFyc2VTeW5ySFJsSkR1WWM5bHdJelJGQV9xdlFhc0JJNC02LVYwMk85RTh2WTh6d3BnQVFpS3NNWHVfTFJvZ2JhbzJRTGRxdWtpbEpNUTNIRmpQQTNqWHcyY0VCMEFVNGxzSGh4SzNHaEVoeWdWT3Y5NnBmZkl6ajZOZTJn?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +211,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 6
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
