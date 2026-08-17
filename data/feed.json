@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:39:41+02:00",
+  "generated_at": "2026-08-17T17:58:50+02:00",
   "items": [
     {
       "id": "e98835dfba19ed1b95",
@@ -26,13 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
     },
     {
-      "id": "dd541186e2dfc26167",
+      "id": "4c495c430de137bec5",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-17T15:01:36+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Nuevas ayudas de apoyo al sector vitivinícola afectado por el incendio de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZWl6R3FYbWpWRmVmNkpWUGJEOXYyTUpjajJzMkgzNHB5RXhDODRPMGIya04zTVRFYkdGMXgxR2VSdjRBTGFNODRwOEFITUtZQzJQdDRVWkZpdHR3Q1dIZWI3MWNKdjl3U0g2UTl0dFFxUEZtVHJ1TEdjZjRNbDVNTFE3UzFxNENkZno1dlJEOHZKQkY2Q2ZQd01INHFkNndKZDdVaVNqMXU0cWQwcUxmZzIteEJnV0dxNEx6S3lRRFNLcEwwRFpTTzNsb0wwd1RZVUpVMU1mSGFSR0Q0RVotVEpETlN3QTRhMHpIeHFaZ3dKR0RUbDFTd21MVDZSajZxNUNpbzA4clA2MFhKbXV6WVl30gGXAkFVX3lxTFBXS0tBY3RSVHkyZEI0c3YtM3BxQ0xkZHJCOGJJTklINndNTnM0MklSTUhBV1Z1X1AyNFZJUjJoNUhvRjhwVjNYdWxyUEhRX21nVGFpWmIyR1AxdHEwUm5nSFNKaUF6LVhob2ZRX3E4dnlfZTZoNy0xaDJQUmJkeXlzYzAwWFhzaVBhQm4zcXdoSTV5dF9mNlNRWl8xeGFycTFJaTBVLXFqeWNCNjRCSENubTBfVDFOWXFjaURLV1BlVVcwMG5HUi1RYjNfM0tqdHhPOGhGanNlYWV5RWxEa2RRR0dvNmdzTXZ2Q2xDNTRJdEtNQm5xVUZuUmRfSWJqT2NiUThxQ250dW1yZ1B4UHVKZTVZTThiaw?oc=5"
@@ -60,18 +60,6 @@
       "title": "Brave y Kyrie, las dos mellizas nacidas en medio de la tragedia de los incendios de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
-    },
-    {
-      "id": "7853310a071fa5ecf6",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-17T13:08:06+02:00",
-      "source": "Europa Press",
-      "title": "Ayuso anuncia 500.000 euros en nuevas ayudas al sector vitivinícola afectado por el incendio de la Sierra Oeste",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes nuevas ayudas de...",
-      "url": "https://www.europapress.es/madrid/noticia-ayuso-anuncia-500000-euros-nuevas-ayudas-sector-vitivinicola-afectado-incendio-sierra-oeste-20260817130806.html"
     },
     {
       "id": "24b229421333b1c5d9",
@@ -215,7 +203,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
