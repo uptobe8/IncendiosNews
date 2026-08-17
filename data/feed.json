@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-08-17T20:51:46+02:00",
+  "generated_at": "2026-08-17T21:19:38+02:00",
   "items": [
     {
-      "id": "c07057a4f32826a546",
+      "id": "0813d7bf7f69be199f",
       "type": "news",
       "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-17T19:01:52+02:00",
-      "source": "Telemadrid",
-      "title": "Declarado un incendio en Galápagos (Guadalajara), próximo al límite con Madrid",
-      "summary": "TMDHTM20240527_0010 El incendio forestal iniciado este lunes en el residencial Montelar, entidad menor de Galapagos (Guadalajara), ha alcanzado...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Declarado-un-incendio-en-Galapagos-Guadalajara-proximo-al-limite-con-Madrid-0-2917208274--20260817065129.html"
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-17T21:18:34+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
     },
     {
-      "id": "dd541186e2dfc26167",
+      "id": "a4330888b89c51ad17",
+      "type": "news",
+      "severity": "critical",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-08-17T19:43:00+02:00",
+      "source": "La Tribuna de Toledo",
+      "title": "Levantan confinamiento de urbanizaciones en Galápagos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzhMYXpfZ3dqQmswTFpFOWlFaXZuTEF1MHFjcXpKYkFBLUI3TkR0VmtHMkl3QzAzdmdDeFVEelU3MmppWGVJcjR1bTdYcDJkTFBRWE9JZTZmSkFuYl94dWdueWdyMUNHaVN2QU5TN0JkUkJMUFh2MHFtamxKMDJIOTdZamFZbmxHUWxFd0xqWHBjSFBMb0Vkd203U0o2dHFNZXVpVnR5b2ZRS3lMVk5OOUsyY1JPZWlka2pmVlJTTUM5SFpBUnV0UGJMV2ZtN1ZYOHZiZA?oc=5"
+    },
+    {
+      "id": "4c495c430de137bec5",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-17T15:01:36+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Nuevas ayudas de apoyo al sector vitivinícola afectado por el incendio de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZWl6R3FYbWpWRmVmNkpWUGJEOXYyTUpjajJzMkgzNHB5RXhDODRPMGIya04zTVRFYkdGMXgxR2VSdjRBTGFNODRwOEFITUtZQzJQdDRVWkZpdHR3Q1dIZWI3MWNKdjl3U0g2UTl0dFFxUEZtVHJ1TEdjZjRNbDVNTFE3UzFxNENkZno1dlJEOHZKQkY2Q2ZQd01INHFkNndKZDdVaVNqMXU0cWQwcUxmZzIteEJnV0dxNEx6S3lRRFNLcEwwRFpTTzNsb0wwd1RZVUpVMU1mSGFSR0Q0RVotVEpETlN3QTRhMHpIeHFaZ3dKR0RUbDFTd21MVDZSajZxNUNpbzA4clA2MFhKbXV6WVl30gGXAkFVX3lxTFBXS0tBY3RSVHkyZEI0c3YtM3BxQ0xkZHJCOGJJTklINndNTnM0MklSTUhBV1Z1X1AyNFZJUjJoNUhvRjhwVjNYdWxyUEhRX21nVGFpWmIyR1AxdHEwUm5nSFNKaUF6LVhob2ZRX3E4dnlfZTZoNy0xaDJQUmJkeXlzYzAwWFhzaVBhQm4zcXdoSTV5dF9mNlNRWl8xeGFycTFJaTBVLXFqeWNCNjRCSENubTBfVDFOWXFjaURLV1BlVVcwMG5HUi1RYjNfM0tqdHhPOGhGanNlYWV5RWxEa2RRR0dvNmdzTXZ2Q2xDNTRJdEtNQm5xVUZuUmRfSWJqT2NiUThxQ250dW1yZ1B4UHVKZTVZTThiaw?oc=5"
@@ -38,13 +50,13 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM1pVWHNCV2o0VlotOE5FUjdPMVZ4cXcxc3htS0tvX2tDTUJUNjRsT0VzV1BkeTVBY0NmaWc0cmJDS25sTHp6eEdyY0hhVDJIQTY5eTJ1MHoxSElmODFIZzV3bkJLbkNTME5yYlhadDFIcl9zS25LRDJETHkwODltRzBBWFJvZG1OVnY4eDlqT0JqZ1FfSmIxdVpOaTlaVFQyQ1JYX1JHZ0kyQmwwa2JSVy1rRHdqa1laYnF3bkJQVmh3amNSZXJZdUxuWUN2eU0wZ3Uxa0p6M1k2YTFVTTBnai1vUUhxMGNueEhpWUhQczNzQkR2d05LVGZjbmJ4X190SVAwQkw0MEUxMi1KckNtdi1rY3lxY3dER3fSAZoCQVVfeXFMTzNaVVhzQldqNFZaLThORVI3TzFWeHF3MXN4bUtLb19rQ01CVDY0bE9Fc1dQZHk1QWNDZmlnNHJiQ0tubEx6enhHcmNIYVQySEE2OXkydTB6MUhJZjgxSGc1d25CS25DUzBOcmJYWnQxSHJfc0tuS0QyREx5MDg5bUcwQVhSb2RtTlZ2OHg5ak9CamdRX0piMXVaTmk5WlRUMkNSWF9SR2dJMkJsMGtiUlcta0R3amtZWmJxd25CUFZod2pjUmVyWXVMbllDdnlNMGd1MWtKejNZNmExVU0wZ2otb1FIcTBjbnhIaVlIUHMzc0JEdndOS1RmY25ieF9fdElQMEJMNDBFMTItSnJDbXYta2N5cWN3REd3?oc=5"
     },
     {
-      "id": "65850acf74eb1aa453",
+      "id": "32b3111e935b747e38",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-17T14:09:14+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Brave y Kyrie, las dos mellizas nacidas en medio de la tragedia de los incendios de la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
@@ -175,11 +187,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 7
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
