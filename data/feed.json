@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T18:36:37+02:00",
+  "generated_at": "2026-08-17T19:00:10+02:00",
   "items": [
+    {
+      "id": "cfb50dab8e52489f72",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T18:56:34+02:00",
+      "source": "Telemadrid",
+      "title": "Declarado un incendio en Galápagos (Guadalajara), próximo al límite con Madrid",
+      "summary": "TMDHTM20240527_0010 El incendio forestal iniciado este lunes en el residencial Montelar, entidad menor de Galapagos (Guadalajara), ha alcanzado...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Declarado-un-incendio-en-Galapagos-Guadalajara-proximo-al-limite-con-Madrid-0-2917208274--20260817065129.html"
+    },
     {
       "id": "3055c4cf28b3846691",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
-    },
-    {
-      "id": "e98835dfba19ed1b95",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-17T16:46:53+02:00",
-      "source": "ABC",
-      "title": "Ayuso inyecta medio millón de euros al sector del vino tras el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
     },
     {
       "id": "dd541186e2dfc26167",
@@ -62,6 +62,18 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXRVZ21ha2V0NDE4UGNtS3U3R0RQLW4tMlVSMWNSZjhPRFBIZ2FUVTlGaUdQVjVlSU5pNTFKcVJXdU8wTWJ6NXRYOGZ3dndkRFNWTTlvUVNJcWl3M3d3TzVqYjl4RjZuLV9IVnpMcjk4ZVJQcXlzc2hzUml6SmJyc3puLUFLQ3pZZTdVWUpTMjhidkVjcEhfUmZhdzlKcHd1S0VicWYzb1dfTExaQUl0S1BmbzRneEVBWlp6ejdiZw?oc=5"
     },
     {
+      "id": "a51cd55f1b6f80c1cd",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T14:04:07+02:00",
+      "source": "ABC",
+      "title": "Ayuso inyecta medio millón de euros al sector del vino tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
+    },
+    {
       "id": "24b229421333b1c5d9",
       "type": "news",
       "severity": "info",
@@ -72,18 +84,6 @@
       "title": "Voluntarios contra la erosión y cenizas en El Tiemblo por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlR1eVdtdDZ5VnYzeGdBUW4yZGIyUzBtcldad09JdjBsMGhTVzFFLXRtMXpfRGx5UkpnVDE0aUh6WHhDakRMbnBGR3JaODJyLWYtRlJRcVRLZ0hFUGR0WkxwTldCd3NzNldRU0xsYXRNb1pPem1KSXRvYldZYkFMTDFHbkt4SEVHYUVqTTBoZjYxQWJDcUx3cC0ybWIxM2dBZGgwT25RekdHeU85Q0Q4NmRkZHF3azZ2QnJhMG94ZnoyUGJreU93?oc=5"
-    },
-    {
-      "id": "896ca4de951c85c5df",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-16T18:52:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Controlado tres semanas después el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1E2SnZ2SkYxc1NqRkx3Y3FENko3M25mU0pBdUEtazhSUEd2Q21wQkZPcE84WDFRb1E2ZGVCc3E4MWY0ZXFYWFAzT2h4QUxHU2JqVXM2SktfektDa3Z3UHViWDJRTzI3cThmUU9HS2RwU01JVlNITXRiUEppQlhRZmo2NGF3WF9rY1ZPLUIyVjBmZzBKMnhRXzZHbWxqYk9NX0J1ZXZkM01WY1NY?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -193,17 +193,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 7
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 6
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
