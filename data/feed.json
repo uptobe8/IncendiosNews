@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:43:03+02:00",
+  "generated_at": "2026-08-19T01:59:28+02:00",
   "items": [
     {
       "id": "59ca086a2496469b84",
@@ -12,18 +12,6 @@
       "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
-    },
-    {
-      "id": "32b6d1cb9bbb597174",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T00:07:00+02:00",
-      "source": "El Mundo",
-      "title": "La Comunidad de Madrid asegura que los colegios afectados por los incendios de verano volverán a clase con normalidad",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQWI1SmYtdUt1Tm5YbFUtcHc3bUdodjljZnRla1lKcUV4b1FkWDU3YWhfZnluWXkxN0o5NUF4ZUFIQ1h0TVVaUmJYTzBfdngtaUx6UXZYSkNodjQyd2NyOEI4VEtvME1WRHVtSndRSkxvdFhTVXU5QjBB0gF6QVVfeXFMTmx0WWVXQ3Ywb0c2SWplcy1kTDFLby1MNWlQdElJbUJ2c0p0c25qY1JJTkNJV2lBd2ItQzlCSXVMdHZpWjFSak1USDFuWEhNcm5yQ3I0U1pQNEc4enFIeFR5LWJlM3JGdFpJZUp4dm56UDVrQTNQYURielE?oc=5"
     },
     {
       "id": "8f15cfd7f97c57b697",
@@ -199,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 5
     },
     "direct_media": {
       "ok": true,
