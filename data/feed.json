@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-18T19:38:30+02:00",
+  "generated_at": "2026-08-18T20:00:48+02:00",
   "items": [
+    {
+      "id": "8d39ed8e862d379ce3",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-18T19:45:48+02:00",
+      "source": "Europa Press",
+      "title": "Un incendio en un centro de tratamiento de residuos de Urraca-Miguel (Ávila) moviliza a Bomberos y Policía",
+      "summary": "Un incendio declarado en un centro de tratamiento de residuos de Urraca-Miguel, en el...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-centro-tratamiento-residuos-urraca-miguel-avila-moviliza-bomberos-policia-20260818194548.html"
+    },
     {
       "id": "443438f94f0fbc966c",
       "type": "news",
@@ -48,18 +60,6 @@
       "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
-    },
-    {
-      "id": "a4330888b89c51ad17",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-17T19:43:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Levantan confinamiento de urbanizaciones en Galápagos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzhMYXpfZ3dqQmswTFpFOWlFaXZuTEF1MHFjcXpKYkFBLUI3TkR0VmtHMkl3QzAzdmdDeFVEelU3MmppWGVJcjR1bTdYcDJkTFBRWE9JZTZmSkFuYl94dWdueWdyMUNHaVN2QU5TN0JkUkJMUFh2MHFtamxKMDJIOTdZamFZbmxHUWxFd0xqWHBjSFBMb0Vkd203U0o2dHFNZXVpVnR5b2ZRS3lMVk5OOUsyY1JPZWlka2pmVlJTTUM5SFpBUnV0UGJMV2ZtN1ZYOHZiZA?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -175,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
