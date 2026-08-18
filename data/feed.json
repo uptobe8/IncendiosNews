@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-18T13:10:24+02:00",
+  "generated_at": "2026-08-18T13:40:16+02:00",
   "items": [
+    {
+      "id": "142be5c20096a23c4e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-18T13:23:33+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad trabaja para que colegios afectados por el incendio de la Sierra Oeste comiencen el curso con normalidad",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPckJUZ3E3RWJTRS1XN0gyLVpTVkJwTmpEMGRzbWR2QURyaU5VQnpRZ3NuYVc0eUdqblNWSWlXN0RMeWFRR3FFNU9rZ3N4VzkwTWZobWplaEVFd1BrTjhTSEtDQXhRbGk5RVJuMFZBLXlHVlRhX1lxR0stQks2Y1ZXNmNMYmJBc2NqMmdWbmNSYjFJODZKOWxGMmRmMUpRTG5IM1U1bnFkX3VjcW5ET0xnclFVazh4eV9WUGpfNmJIQ3dkOUI1SU5DMktuSm9tMy1wQTIzQ0Z1ZFc2R3NvQURCeA?oc=5"
+    },
     {
       "id": "fa3297c8020bb86385",
       "type": "news",
@@ -175,11 +187,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 7
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
