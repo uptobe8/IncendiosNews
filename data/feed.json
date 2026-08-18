@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-18T20:00:48+02:00",
+  "generated_at": "2026-08-18T20:50:48+02:00",
   "items": [
+    {
+      "id": "8f15cfd7f97c57b697",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-08-18T20:26:29+02:00",
+      "source": "La Tribuna de Toledo",
+      "title": "Extinguido el incendio forestal de Galápagos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONERoRTgtRzVnaU9tbDlEb1RaS3NQbFZfOENLMEJfSVZQZlhwMDVQekpYVUdFZmFWVm51dzNoNjhsbEw3ZVFmNXVJeUxqREZ4Vkdsc2gtUEt5SEtWTWYxa2xfNjZuanluQkpKcXEzYVB5Q0lZU0lodEk1N0RwWmVudG92c2pJc3ZYZmlwQWJwaV9YbG4yZTJKaUJ0UlpXX21qVTVLUXJoN2VKdEVPS0cyN3JYMWc5VzNQWFZib1NfMGNEa3NZeWpGZg?oc=5"
+    },
     {
       "id": "8d39ed8e862d379ce3",
       "type": "news",
@@ -14,13 +26,13 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-centro-tratamiento-residuos-urraca-miguel-avila-moviliza-bomberos-policia-20260818194548.html"
     },
     {
-      "id": "443438f94f0fbc966c",
+      "id": "cdd8982f9c918a0c8d",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-18T14:26:02+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlAya1dleTRRZWhIQnVZM0pxLWVPaC1fODQzSElOTS11U2RIOVlKTnlGUGYyX3lQMC0zVkxRTDIwTmlfcWplTHNTRVRCOE1KTFRJOW9CaWJBbXEyVURXd2R0bVJzWUF0RVFHQVB3azNQVUw5OTEyU19hbmwwcXl1VWpvS3BVRGtLZzZpVkJIU0lYb2lTSWhhcnVlNFlheGJTRlhqLUlob2NBZGdBUVE?oc=5"
@@ -175,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 5
     },
     "direct_media": {
       "ok": true,
