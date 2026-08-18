@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:53:15+02:00",
+  "generated_at": "2026-08-18T10:26:41+02:00",
   "items": [
     {
       "id": "fa3297c8020bb86385",
@@ -72,6 +72,18 @@
       "title": "Ayuso inyecta medio millón de euros al sector del vino tras el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVB2RnQxcjV2dTZCTE1IbFlvQjE4QW03WndpUTkzY0FTS1pOcjVabEJESVRaaDQzaEZLazM2WkNQUmtMZ2VrUWdUTERCaEhEVmdXbThoQUxiVFByVVpoRjk0WDlVQm51dmZNQkVlNmYtbGlJczB5RVVyNldMb2RCZkFMeEI0cFVoblJDUFJMWkxUOF9oSFJ1RlhQZXJJSjBDWFE?oc=5"
+    },
+    {
+      "id": "7853310a071fa5ecf6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-17T13:08:06+02:00",
+      "source": "Europa Press",
+      "title": "Ayuso anuncia 500.000 euros en nuevas ayudas al sector vitivinícola afectado por el incendio de la Sierra Oeste",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes nuevas ayudas de...",
+      "url": "https://www.europapress.es/madrid/noticia-ayuso-anuncia-500000-euros-nuevas-ayudas-sector-vitivinicola-afectado-incendio-sierra-oeste-20260817130806.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -191,7 +203,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
