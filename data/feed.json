@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-18T15:01:58+02:00",
+  "generated_at": "2026-08-18T15:50:57+02:00",
   "items": [
+    {
+      "id": "a20513e1fa31184f51",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-18T15:17:53+02:00",
+      "source": "Telemadrid",
+      "title": "Cercanías Madrid afronta nuevos cortes y cambios en las líneas C-2, C-7 y C-8 por obras",
+      "summary": "Cercanías Madrid volverá a modificar su servicio este fin de semana debido a diferentes obras de infraestructura. Las actuaciones afectarán...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Cercanias-Madrid-afronta-nuevos-cortes-y-cambios-en-las-lineas-C-2-C-7-y-C-8-por-obras-0-2917508239--20260818031753.html"
+    },
     {
       "id": "dff7dd9295b6b782f0",
       "type": "news",
@@ -24,6 +36,18 @@
       "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlAya1dleTRRZWhIQnVZM0pxLWVPaC1fODQzSElOTS11U2RIOVlKTnlGUGYyX3lQMC0zVkxRTDIwTmlfcWplTHNTRVRCOE1KTFRJOW9CaWJBbXEyVURXd2R0bVJzWUF0RVFHQVB3azNQVUw5OTEyU19hbmwwcXl1VWpvS3BVRGtLZzZpVkJIU0lYb2lTSWhhcnVlNFlheGJTRlhqLUlob2NBZGdBUVE?oc=5"
+    },
+    {
+      "id": "809d72ee30fc168271",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-18T13:45:34+02:00",
+      "source": "Cadena SER",
+      "title": "La literatura también quiere ser solidaria con los pueblos afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZE9laFMwRTNkNXJNRzNpWmRJdF9PT2VzSVNrZkhPN1ktMF9MbmR2Wjd6UlJWZDIxbHotaGFQbGZyRGp2Rms4OVZKN1lSekRRWDJlR2haUXhuTXJhT1NHNGNjWHFTS3c1WTlZN3pLaEY4YnpOLUxxcXE4Uk91WVZCcjNIUm44SUVYU2ZJLS11ZmlYcWh5eXJoTFNUNEFoV2JPZmdHOVRDQWREZUtIMTBZSmJ6bkt6VXBmMnpLT2JYT1ZnLXJMemN0NVc0MENHN0k1dzktQzhwY05VQkZ3c21OQlk4RmhlTTF5bU83V3Zwbi1jQnlkMmUwUnNGdVV5ZWNF0gGAAkFVX3lxTE5kT2VoUzBFM2Q1ck1HM2laZEl0X09PZXNJU2tmSE83WS0wX0xuZHZaN3pSUlZkMjFsei1oYVBsZnJEanZGazg5Vko3WVJ6RFFYMmVHaFpReG5NcmFPU0c0Y2NYcVNLdzVZOVk3ektoRjhiek4tTHFxcThST3VZVkJyM0hSbjhJRVhTZkktLXVmaVhxaHl5cmhMU1Q0QWhXYk9mZ0c5VENBZERlS0gxMFlKYnpuS3pVcGYyektPYlhPVmctckx6Y3Q1VzQwQ0c3STV3OS1DOHBjTlVCRndzbU5CWThGaGVNMXltTzdXdnBuLWNCeWQyZTBSc0Z1VXllY0U?oc=5"
     },
     {
       "id": "142be5c20096a23c4e",
@@ -175,11 +199,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 3
     }
   },
   "refresh_seconds": 300
