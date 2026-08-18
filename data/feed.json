@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-18T20:50:48+02:00",
+  "generated_at": "2026-08-18T21:18:23+02:00",
   "items": [
-    {
-      "id": "8f15cfd7f97c57b697",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-18T20:26:29+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Extinguido el incendio forestal de Galápagos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONERoRTgtRzVnaU9tbDlEb1RaS3NQbFZfOENLMEJfSVZQZlhwMDVQekpYVUdFZmFWVm51dzNoNjhsbEw3ZVFmNXVJeUxqREZ4Vkdsc2gtUEt5SEtWTWYxa2xfNjZuanluQkpKcXEzYVB5Q0lZU0lodEk1N0RwWmVudG92c2pJc3ZYZmlwQWJwaV9YbG4yZTJKaUJ0UlpXX21qVTVLUXJoN2VKdEVPS0cyN3JYMWc5VzNQWFZib1NfMGNEa3NZeWpGZg?oc=5"
-    },
     {
       "id": "8d39ed8e862d379ce3",
       "type": "news",
@@ -187,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 3
     },
     "direct_media": {
       "ok": true,
