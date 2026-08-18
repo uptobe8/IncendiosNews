@@ -1,26 +1,14 @@
 {
-  "generated_at": "2026-08-18T18:41:17+02:00",
+  "generated_at": "2026-08-18T19:04:54+02:00",
   "items": [
     {
-      "id": "a20513e1fa31184f51",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-18T15:17:53+02:00",
-      "source": "Telemadrid",
-      "title": "Cercanías Madrid afronta nuevos cortes y cambios en las líneas C-2, C-7 y C-8 por obras",
-      "summary": "Cercanías Madrid volverá a modificar su servicio este fin de semana debido a diferentes obras de infraestructura. Las actuaciones afectarán...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Cercanias-Madrid-afronta-nuevos-cortes-y-cambios-en-las-lineas-C-2-C-7-y-C-8-por-obras-0-2917508239--20260818031753.html"
-    },
-    {
-      "id": "cdd8982f9c918a0c8d",
+      "id": "443438f94f0fbc966c",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-18T14:26:02+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlAya1dleTRRZWhIQnVZM0pxLWVPaC1fODQzSElOTS11U2RIOVlKTnlGUGYyX3lQMC0zVkxRTDIwTmlfcWplTHNTRVRCOE1KTFRJOW9CaWJBbXEyVURXd2R0bVJzWUF0RVFHQVB3azNQVUw5OTEyU19hbmwwcXl1VWpvS3BVRGtLZzZpVkJIU0lYb2lTSWhhcnVlNFlheGJTRlhqLUlob2NBZGdBUVE?oc=5"
@@ -48,6 +36,18 @@
       "title": "La Comunidad trabaja para que colegios afectados por el incendio de la Sierra Oeste comiencen el curso con normalidad",
       "summary": "La Comunidad de Madrid trabaja para garantizar que los centros educativos de las localidades más...",
       "url": "https://www.europapress.es/madrid/noticia-comunidad-trabaja-colegios-afectados-incendio-sierra-oeste-comiencen-curso-normalidad-20260818132333.html"
+    },
+    {
+      "id": "fa3297c8020bb86385",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-17T23:27:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
     },
     {
       "id": "a4330888b89c51ad17",
@@ -175,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
