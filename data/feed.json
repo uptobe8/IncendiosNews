@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:19:42+02:00",
+  "generated_at": "2026-08-18T16:56:52+02:00",
   "items": [
     {
       "id": "a20513e1fa31184f51",
@@ -12,18 +12,6 @@
       "title": "Cercanías Madrid afronta nuevos cortes y cambios en las líneas C-2, C-7 y C-8 por obras",
       "summary": "Cercanías Madrid volverá a modificar su servicio este fin de semana debido a diferentes obras de infraestructura. Las actuaciones afectarán...",
       "url": "https://www.telemadrid.es/noticias/madrid/Cercanias-Madrid-afronta-nuevos-cortes-y-cambios-en-las-lineas-C-2-C-7-y-C-8-por-obras-0-2917508239--20260818031753.html"
-    },
-    {
-      "id": "dff7dd9295b6b782f0",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-18T14:57:51+02:00",
-      "source": "Telemadrid",
-      "title": "La vendimia se adelanta más de 20 días en Madrid por las altas temperaturas y los incendios",
-      "summary": "Los viticultores de la Comunidad de Madrid han adelantado más de veinte días el inicio de la vendimia debido a las altas temperaturas registradas...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/La-vendimia-se-adelanta-mas-de-20-dias-en-Madrid-por-las-altas-temperaturas-y-los-incendios-2-2917528237--20260818025750.html"
     },
     {
       "id": "cdd8982f9c918a0c8d",
@@ -72,18 +60,6 @@
       "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
-    },
-    {
-      "id": "a4330888b89c51ad17",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-17T19:43:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Levantan confinamiento de urbanizaciones en Galápagos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzhMYXpfZ3dqQmswTFpFOWlFaXZuTEF1MHFjcXpKYkFBLUI3TkR0VmtHMkl3QzAzdmdDeFVEelU3MmppWGVJcjR1bTdYcDJkTFBRWE9JZTZmSkFuYl94dWdueWdyMUNHaVN2QU5TN0JkUkJMUFh2MHFtamxKMDJIOTdZamFZbmxHUWxFd0xqWHBjSFBMb0Vkd203U0o2dHFNZXVpVnR5b2ZRS3lMVk5OOUsyY1JPZWlka2pmVlJTTUM5SFpBUnV0UGJMV2ZtN1ZYOHZiZA?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -199,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 2
     }
   },
   "refresh_seconds": 300
