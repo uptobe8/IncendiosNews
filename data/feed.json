@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T01:22:13+02:00",
+  "generated_at": "2026-08-19T01:43:03+02:00",
   "items": [
+    {
+      "id": "59ca086a2496469b84",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-19T01:22:03+02:00",
+      "source": "ABC",
+      "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
+    },
     {
       "id": "32b6d1cb9bbb597174",
       "type": "news",
@@ -187,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "direct_media": {
       "ok": true,
