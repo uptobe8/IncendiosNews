@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:22:34+02:00",
+  "generated_at": "2026-08-18T23:44:39+02:00",
   "items": [
     {
       "id": "8f15cfd7f97c57b697",
@@ -60,18 +60,6 @@
       "title": "La Comunidad trabaja para que colegios afectados por el incendio de la Sierra Oeste comiencen el curso con normalidad",
       "summary": "La Comunidad de Madrid trabaja para garantizar que los centros educativos de las localidades más...",
       "url": "https://www.europapress.es/madrid/noticia-comunidad-trabaja-colegios-afectados-incendio-sierra-oeste-comiencen-curso-normalidad-20260818132333.html"
-    },
-    {
-      "id": "fa3297c8020bb86385",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-17T23:27:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Renace Ávila, plataforma de voluntariado ambiental tras el gran incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFFBcVVkMDBoLXVZZm81WDdWMGhkbjVLQ1JXTmdfekdSeURyV01fR0N4SVlyUXdtVGZ4Szh4bDVKd3kxcDhCQTJkZnZNc2YwMFFQLXhpVHdXVUVZMWFhbWs2Y25UR3ZuVmFFRmlMMVNMWm9teXlUcWl5czZHdkp6TmVGbzhjcHh1NkhjT0pGQ2h5RnNyeXhmU1RnTlZLWklsQ0c1QkdXQXdOVlZnemVoenhTUklkWC1VQ3lnaWlYZlI4NXZQRjNYRUVR?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -181,13 +169,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 4
     },
     "direct_media": {
       "ok": true,
