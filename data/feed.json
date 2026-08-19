@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-19T13:02:10+02:00",
+  "generated_at": "2026-08-19T13:34:34+02:00",
   "items": [
-    {
-      "id": "08f2cc44f5b5ac8c8c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T12:33:40+02:00",
-      "source": "Madrid Actual",
-      "title": "La Sierra Oeste avanza en su recuperación tras los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlhuNzRYSE5HeHZwTWl6NEhDcVFlZkJoYkQyem1zbFZLVkY2Z1dMSFJRMXNiYW9adHpNVVQ4NjRUT0ZIZVZyQ3pMM0tlM3FDeXBNSzdDS1NXSlB6Z1pQQUNPZ2Y1QnpDNnJUOGM1SjlEZjlmVW94TnJwLWNsSVFlV1BrRFhKMTd4TDQtZ3RKR2RaY0hUMmdzX2Q1UFBhaUMwSVF5UlBJeVFUOHhxTl9EUnllZ0VBOHdtY2tWbC02b3BLc3M?oc=5"
-    },
     {
       "id": "5bd925b817aa3804af",
       "type": "news",
@@ -98,16 +86,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZE9laFMwRTNkNXJNRzNpWmRJdF9PT2VzSVNrZkhPN1ktMF9MbmR2Wjd6UlJWZDIxbHotaGFQbGZyRGp2Rms4OVZKN1lSekRRWDJlR2haUXhuTXJhT1NHNGNjWHFTS3c1WTlZN3pLaEY4YnpOLUxxcXE4Uk91WVZCcjNIUm44SUVYU2ZJLS11ZmlYcWh5eXJoTFNUNEFoV2JPZmdHOVRDQWREZUtIMTBZSmJ6bkt6VXBmMnpLT2JYT1ZnLXJMemN0NVc0MENHN0k1dzktQzhwY05VQkZ3c21OQlk4RmhlTTF5bU83V3Zwbi1jQnlkMmUwUnNGdVV5ZWNF0gGAAkFVX3lxTE5kT2VoUzBFM2Q1ck1HM2laZEl0X09PZXNJU2tmSE83WS0wX0xuZHZaN3pSUlZkMjFsei1oYVBsZnJEanZGazg5Vko3WVJ6RFFYMmVHaFpReG5NcmFPU0c0Y2NYcVNLdzVZOVk3ektoRjhiek4tTHFxcThST3VZVkJyM0hSbjhJRVhTZkktLXVmaVhxaHl5cmhMU1Q0QWhXYk9mZ0c5VENBZERlS0gxMFlKYnpuS3pVcGYyektPYlhPVmctckx6Y3Q1VzQwQ0c3STV3OS1DOHBjTlVCRndzbU5CWThGaGVNMXltTzdXdnBuLWNCeWQyZTBSc0Z1VXllY0U?oc=5"
     },
     {
-      "id": "142be5c20096a23c4e",
+      "id": "94608d85ce06d5b09e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-18T13:23:33+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad trabaja para que colegios afectados por el incendio de la Sierra Oeste comiencen el curso con normalidad",
-      "summary": "La Comunidad de Madrid trabaja para garantizar que los centros educativos de las localidades más...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-trabaja-colegios-afectados-incendio-sierra-oeste-comiencen-curso-normalidad-20260818132333.html"
+      "published": "2026-08-18T13:44:56+02:00",
+      "source": "La Razón",
+      "title": "Los colegios afectados por el incendio de la Sierra Oeste comenzarán el curso con normalidad",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd093V3BNVVVzMHE4SEJoNmttYmR2NXZ6R3NQT0lMWmJXb1kwUVExNVlMaFQxUER1aDlfVmZfdXpLc3U4ZGVlNkpiZ21hU0dtc0FoRU5JODNQdHF5VEwwN3NlWXh1azYyR2tlbG5QSXBWMks0bEkxc0RqU3RpV1c2eUhsaXRnbnphaHI2cDlXa2Y2QkRzR3JUUG9INFNsck1yVGVWN1ZySHJmMDVpMTZSZXpHem1YSVdlTnpaQkg1eHJ5a1ZoZWdqX09zSVI0WThHM1HSAeYBQVVfeXFMTkFVVTZIajVlUHZwT0ZmTGhXU3paQTdiVTBmbnFyOW5HTkV5Q2N2di1wMEhydXVGZWJCSmhWd21ISUZTaVFqbnhzdGlTRXJQZ2hJR092TURNMVN4V0RCZ2xneFF3Sy01N0N2NVg3dUVVcDlLRjVCcFlVX2hfTWNUTW1QR0VlVDkxMk1Za01iMi1NdlVHTWQ0bEl3QUM4X2x5Q3o4WkxEREVVY0FHQ3ZUV1lkZmRtelpOakl3N3lnbmQtRldrdy1OZ204eHpjY29LSFVMWXJBelhBRlZkVWlwWHZMZUVwNlE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -227,7 +215,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
