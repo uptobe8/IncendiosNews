@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:27:02+02:00",
+  "generated_at": "2026-08-19T22:55:01+02:00",
   "items": [
     {
       "id": "abc851f51a1580bfe3",
@@ -26,12 +26,12 @@
       "url": "https://www.telemadrid.es/programas/telenoticias-2/Susto-de-nuevo-en-la-Sierra-Oeste-por-un-incendio-que-llego-a-desalojar-varias-urbanizaciones-2-2917828228--20260819091212.html"
     },
     {
-      "id": "129530bf0791ca7b80",
+      "id": "3f2511631bafda1283",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-19T21:24:55+02:00",
+      "published": "2026-08-19T21:20:50+02:00",
       "source": "Europa Press",
       "title": "El incendio en Aldea del Fresno se encuentra estabilizado con un balance de 330 hectáreas afectadas",
       "summary": "El incendio forestal originado en el término municipal de Aldea del Fresno, en la sierra suroeste...",
@@ -98,6 +98,18 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFJXNWI1dTR3ZDlEaHpYWm1YQldwM0t4SzNsVW1zSHc0VmtEYmJXTWFneFB0eWxWSElLaC1PLVZlNzFGTm90dWNld21QbXFkb3FvdGsyQkZHS1JraEcxb3cyWGFDMHdOSlN4cDZKdWpIQVhtblRKSHdvTktxTzdSbEtkLW1MUkZyams5dTJBU05iaHR0SkdndE5ZOVAtclFYdE1acHllVlBNNHlLeEZQdXFaNnZHRHlQa2hkazJ3Y0NEakRDS1ZKOUhGejE4YUlUX2tFMDFPd1p5V2FzaUV6Q1RrelbSAeQBQVVfeXFMUGxSVzViNXU0d2Q5RGh6WFptWEJXcDNLeEszbFVtc0h3NFZrRGJiV01hZ3hQdHlsVkhJS2gtTy1WZTcxRk5vdHVjZXdtUG1xZG9xb3RrMkJGR0tSa2hHMW93MlhhQzB3TkpTeHA2SnVqSEFYbW5USkh3b05LcU83UmxLZC1tTFJGcmprOXUyQVNOYmh0dEpHZ3ROWTlQLXJRWHRNWnB5ZVZQTTR5S3hGUHVxWjZ2R0R5UGtoZGsyd2NDRGpEQ0tWSjlIRnoxOGFJVF9rRTAxT3daeVdhc2lFekNUa3pW?oc=5"
     },
     {
+      "id": "34f0652b89c56958d5",
+      "type": "news",
+      "severity": "critical",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-08-19T17:13:51+02:00",
+      "source": "La Tribuna de Toledo",
+      "title": "Un nuevo incendio en Madrid obliga a confinar dos localidades",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlBuTXB5Qkd4SzNzZkMtakdpRllxUWRIYXJ2bmVUTUU3TGd1TnJSMllNcElBdS1ZSGFWVk5KWTZueFJpQm5BM3hFOEQxUTNRQjl4ZXU1ZUpHVHJXMTVZNWV3Y3k3dlR3T0Q5ckVEYW5xS0Z3bTRQbWZReWJ5MEkwbC0wWVhPSTROQjNfSU53TFhfWlI2eTUxVXBqYWRudjR6cVdENW9XV3RLRmFFWVduYm9aeFBIU01SeVcyS1o5YnZLNFpzMGZWQUNNT1R1T2VHQmZ1VkI4bVBNYTBxN0RJ?oc=5"
+    },
+    {
       "id": "0e291f6d26bce746f3",
       "type": "news",
       "severity": "critical",
@@ -156,6 +168,18 @@
       "title": "Veinte dotaciones de bomberos luchan contra un incendio forestal en la M-510 a la altura de Aldea del Fresno",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFpodFlTVEllSkxkMmR5Y1R1NUdSeFdibjlpbXNkZEdLXzFlclE2V2JDamNqdE5iSHR0UHVEOHZLZWpiMUJla0laTE5lZTk1M2tEM29FMnJ6amJZeGFXMjlWVWpOM3gyc3l1cjl0eFRDSEJ2VTVQVEVEWnpKZ012dERlVjRjd3pjQ0NxdHZhSXd6aXVWUkNnSjM0THVYekRLeFpkeUR5MTR2WlhzWFJjRUdQR1ZUTnBDR3dZci1WdnRqU3ItMzdaUTF6azhJUFUxbVlZMG5QSm05Rm8z0gHwAUFVX3lxTE94QURNY1lmdnY2UjBqZC1NUW9DNFk0SEJHRTdLQkpDWE5OblljZTI5bHBndERrWERXWS1QMWFqYXVuQUpzM1l6M3RvNGJaV0lpNVFISFZnZGVqblF3bkxKeDlzd1BrbldodlFIaUJXUHU4WEk1SWcwYVRnY0xaOGlwcEFOd1ZJRUhBR2g4T25lU25pc3NLUVhDRkpfZ0Rpckx5by14NURIVUI0Sm5peXNKWmFxRVpObVJtcW1XdHY0eDI3aHhvSTkzZE83cUdHUWprS1I2bHBnNV92NzFQTTI0SUFkQUdjTjluLVZzcXNoSQ?oc=5"
+    },
+    {
+      "id": "8ed7d5bb453fec3409",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T16:05:32+02:00",
+      "source": "EL PAÍS",
+      "title": "El nuevo incendio de Aldea del Fresno entra en fase de estabilización",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2FiNkNUY1F5N3BVQ3pybEdtT2QwQi1pdWIwVGpSMUh3Tm5IWXVQeFFhbGh4ckhIMHhUUGtTOTYzMDRiVFBmTmlUN1lGX3pCNTR0UUlYYWZuSU8zc3FweHhIUGpCckVzWXN6VEJYb0dLNDEzQTA0V0M0NzBia2NsbExjNjYxMzF2N3lPbkZpa1FXcURIcVYyaThvR3B2WEV3aEhEYkgwbUp2ZC0ya2M3bG9NT0E3cjdtZ1lyV1ZBYnRXQW9sY0lvZzRzbEgwLUEyb3d1TVhBWmnSAewBQVVfeXFMUENYWkVYOGt2Z0szZzJBQzlJbWJyZjNGWEphWXEwZ1RrWFVyaEJacVA1WFBqbmwzM3AyVlVWTVlmcjlGWDlKYlk1VTVIdWIxcVFqWlQ3bGRpekFUN1J4VGtpYnR0bnZ0cWk2MW5rYktabGJjUGNfSEh3MFdpZDdscm8xU2FoOVNwX3g5ek1TTU9Cems5bkljV0NJNHluTW5HRGtreWtnclN0Z1F3NHk1MmFTWXJiTHFrRk9lUlN1a3p5Z2NWWWlmRDhCTDF3TVFjdUxfZnhlSDVpNkpleWZTQXRiRUZFcEZRUFJsb0w?oc=5"
     },
     {
       "id": "e20caf358db9fbe77c",
@@ -240,6 +264,18 @@
       "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
+    },
+    {
+      "id": "32b6d1cb9bbb597174",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-19T00:07:00+02:00",
+      "source": "El Mundo",
+      "title": "La Comunidad de Madrid asegura que los colegios afectados por los incendios de verano volverán a clase con normalidad",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sdFllV0N2MG9HNklqZXMtZEwxS28tTDVpUHRJSW1CdnNKdHNuamNSSU5DSVdpQXdiLUM5Qkl1THR2aVoxUmpNVEgxblhITXJuckNyNFNaUDRHOHpxSHhUeS1iZTNyRnRaSWVKeHZuelA1a0EzUGFEYnpR0gF6QVVfeXFMTmx0WWVXQ3Ywb0c2SWplcy1kTDFLby1MNWlQdElJbUJ2c0p0c25qY1JJTkNJV2lBd2ItQzlCSXVMdHZpWjFSak1USDFuWEhNcm5yQ3I0U1pQNEc4enFIeFR5LWJlM3JGdFpJZUp4dm56UDVrQTNQYURielE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -355,7 +391,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 20
+      "items": 26
     },
     "direct_media": {
       "ok": true,
