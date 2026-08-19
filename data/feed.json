@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:31:23+02:00",
+  "generated_at": "2026-08-19T07:59:28+02:00",
   "items": [
     {
       "id": "59ca086a2496469b84",
@@ -26,6 +26,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sdFllV0N2MG9HNklqZXMtZEwxS28tTDVpUHRJSW1CdnNKdHNuamNSSU5DSVdpQXdiLUM5Qkl1THR2aVoxUmpNVEgxblhITXJuckNyNFNaUDRHOHpxSHhUeS1iZTNyRnRaSWVKeHZuelA1a0EzUGFEYnpR0gF6QVVfeXFMTmx0WWVXQ3Ywb0c2SWplcy1kTDFLby1MNWlQdElJbUJ2c0p0c25qY1JJTkNJV2lBd2ItQzlCSXVMdHZpWjFSak1USDFuWEhNcm5yQ3I0U1pQNEc4enFIeFR5LWJlM3JGdFpJZUp4dm56UDVrQTNQYURielE?oc=5"
     },
     {
+      "id": "8f15cfd7f97c57b697",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-08-18T20:26:29+02:00",
+      "source": "La Tribuna de Toledo",
+      "title": "Extinguido el incendio forestal de Galápagos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONERoRTgtRzVnaU9tbDlEb1RaS3NQbFZfOENLMEJfSVZQZlhwMDVQekpYVUdFZmFWVm51dzNoNjhsbEw3ZVFmNXVJeUxqREZ4Vkdsc2gtUEt5SEtWTWYxa2xfNjZuanluQkpKcXEzYVB5Q0lZU0lodEk1N0RwWmVudG92c2pJc3ZYZmlwQWJwaV9YbG4yZTJKaUJ0UlpXX21qVTVLUXJoN2VKdEVPS0cyN3JYMWc5VzNQWFZib1NfMGNEa3NZeWpGZg?oc=5"
+    },
+    {
       "id": "8d39ed8e862d379ce3",
       "type": "news",
       "severity": "info",
@@ -48,6 +60,18 @@
       "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlAya1dleTRRZWhIQnVZM0pxLWVPaC1fODQzSElOTS11U2RIOVlKTnlGUGYyX3lQMC0zVkxRTDIwTmlfcWplTHNTRVRCOE1KTFRJOW9CaWJBbXEyVURXd2R0bVJzWUF0RVFHQVB3azNQVUw5OTEyU19hbmwwcXl1VWpvS3BVRGtLZzZpVkJIU0lYb2lTSWhhcnVlNFlheGJTRlhqLUlob2NBZGdBUVE?oc=5"
+    },
+    {
+      "id": "809d72ee30fc168271",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-18T13:45:34+02:00",
+      "source": "Cadena SER",
+      "title": "La literatura también quiere ser solidaria con los pueblos afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZE9laFMwRTNkNXJNRzNpWmRJdF9PT2VzSVNrZkhPN1ktMF9MbmR2Wjd6UlJWZDIxbHotaGFQbGZyRGp2Rms4OVZKN1lSekRRWDJlR2haUXhuTXJhT1NHNGNjWHFTS3c1WTlZN3pLaEY4YnpOLUxxcXE4Uk91WVZCcjNIUm44SUVYU2ZJLS11ZmlYcWh5eXJoTFNUNEFoV2JPZmdHOVRDQWREZUtIMTBZSmJ6bkt6VXBmMnpLT2JYT1ZnLXJMemN0NVc0MENHN0k1dzktQzhwY05VQkZ3c21OQlk4RmhlTTF5bU83V3Zwbi1jQnlkMmUwUnNGdVV5ZWNF0gGAAkFVX3lxTE5kT2VoUzBFM2Q1ck1HM2laZEl0X09PZXNJU2tmSE83WS0wX0xuZHZaN3pSUlZkMjFsei1oYVBsZnJEanZGazg5Vko3WVJ6RFFYMmVHaFpReG5NcmFPU0c0Y2NYcVNLdzVZOVk3ektoRjhiek4tTHFxcThST3VZVkJyM0hSbjhJRVhTZkktLXVmaVhxaHl5cmhMU1Q0QWhXYk9mZ0c5VENBZERlS0gxMFlKYnpuS3pVcGYyektPYlhPVmctckx6Y3Q1VzQwQ0c3STV3OS1DOHBjTlVCRndzbU5CWThGaGVNMXltTzdXdnBuLWNCeWQyZTBSc0Z1VXllY0U?oc=5"
     },
     {
       "id": "142be5c20096a23c4e",
@@ -175,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 6
     },
     "direct_media": {
       "ok": true,
