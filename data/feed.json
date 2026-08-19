@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T13:56:53+02:00",
+  "generated_at": "2026-08-19T14:51:59+02:00",
   "items": [
+    {
+      "id": "6765826c66203ff930",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-19T14:15:42+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad ayudará a autónomos y pymes afectados por incendios de la Sierra Oeste a recuperar equipos informáticos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUFMxS3JxM0dvQUNDVVFtN041NzdqQ0x1Vl9SNThHZzJWNDRkSmJqUWJzYWd3UFZuWHh4c3BLVkhwSXMwSGs2THNVS3czcWVVNWdNcU05OEhmVUVaeUdQeHkxdmgwdmVlQUFvXzVHa2g1MnVVeGtaMVFZZW5EZ2pOZlB5Y2w4QVRpRXY0c2RmSVJyNDhYSV9PQ083Z3lfTUNySHBUVFc2SjFleXplOVprcFNTUGdGX05CVkt5RGtnem1TLUpxU01WM1FzTnlfMGFWRmVtZmZHa0lwRmpxcGdpcG9tWGpDb1AxckIzdlJDcFM?oc=5"
+    },
     {
       "id": "08f2cc44f5b5ac8c8c",
       "type": "news",
@@ -47,7 +59,7 @@
       "source": "El Mundo",
       "title": "La Comunidad de Madrid asegura que los colegios afectados por los incendios de verano volverán a clase con normalidad",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sdFllV0N2MG9HNklqZXMtZEwxS28tTDVpUHRJSW1CdnNKdHNuamNSSU5DSVdpQXdiLUM5Qkl1THR2aVoxUmpNVEgxblhITXJuckNyNFNaUDRHOHpxSHhUeS1iZTNyRnRaSWVKeHZuelA1a0EzUGFEYnpR0gF6QVVfeXFMTmx0WWVXQ3Ywb0c2SWplcy1kTDFLby1MNWlQdElJbUJ2c0p0c25qY1JJTkNJV2lBd2ItQzlCSXVMdHZpWjFSak1USDFuWEhNcm5yQ3I0U1pQNEc4enFIeFR5LWJlM3JGdFpJZUp4dm56UDVrQTNQYURielE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQWI1SmYtdUt1Tm5YbFUtcHc3bUdodjljZnRla1lKcUV4b1FkWDU3YWhfZnluWXkxN0o5NUF4ZUFIQ1h0TVVaUmJYTzBfdngtaUx6UXZYSkNodjQyd2NyOEI4VEtvME1WRHVtSndRSkxvdFhTVXU5QjBB0gF6QVVfeXFMTmx0WWVXQ3Ywb0c2SWplcy1kTDFLby1MNWlQdElJbUJ2c0p0c25qY1JJTkNJV2lBd2ItQzlCSXVMdHZpWjFSak1USDFuWEhNcm5yQ3I0U1pQNEc4enFIeFR5LWJlM3JGdFpJZUp4dm56UDVrQTNQYURielE?oc=5"
     },
     {
       "id": "8f15cfd7f97c57b697",
@@ -72,18 +84,6 @@
       "title": "Un incendio en un centro de tratamiento de residuos de Urraca-Miguel (Ávila) moviliza a Bomberos y Policía",
       "summary": "Un incendio declarado en un centro de tratamiento de residuos de Urraca-Miguel, en el...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-centro-tratamiento-residuos-urraca-miguel-avila-moviliza-bomberos-policia-20260818194548.html"
-    },
-    {
-      "id": "cdd8982f9c918a0c8d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-18T14:26:02+02:00",
-      "source": "ABC",
-      "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlAya1dleTRRZWhIQnVZM0pxLWVPaC1fODQzSElOTS11U2RIOVlKTnlGUGYyX3lQMC0zVkxRTDIwTmlfcWplTHNTRVRCOE1KTFRJOW9CaWJBbXEyVURXd2R0bVJzWUF0RVFHQVB3azNQVUw5OTEyU19hbmwwcXl1VWpvS3BVRGtLZzZpVkJIU0lYb2lTSWhhcnVlNFlheGJTRlhqLUlob2NBZGdBUVE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -193,17 +193,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 7
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
