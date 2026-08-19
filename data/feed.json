@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T01:00:10+02:00",
+  "generated_at": "2026-08-20T01:30:53+02:00",
   "items": [
+    {
+      "id": "241026b042433ce907",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-20T01:03:07+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio forestal en Aldea del Fresno está ya en fase de estabilización",
+      "summary": "TMDHTM20240527_0010 El incendio forestal declarado este miércoles en Aldea del Fresno evoluciona favorablemente y ya se encuentra en fase de...",
+      "url": "https://www.telemadrid.es/programas/madrid-directo/El-incendio-forestal-en-Aldea-del-Fresno-esta-ya-en-fase-de-estabilizacion-2-2917828225--20260819082921.html"
+    },
     {
       "id": "78140586f8299fe180",
       "type": "news",
@@ -36,18 +48,6 @@
       "title": "El incendio en Aldea del Fresno obliga a cortar varios kilómetros de la M-510 y M-507 y se suspende el autobús 548",
       "summary": "El incendio forestal en Aldea del Fresno ha obligado a cortar varios kilómetros de la M-510 y de la M-507 y...",
       "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-obliga-cortar-510-largo-varios-kilometros-suspende-autobus-548-20260819164709.html"
-    },
-    {
-      "id": "e9c47fbd17557615c3",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T20:29:21+02:00",
-      "source": "Telemadrid",
-      "title": "El incendio forestal en Aldea del Fresno está ya en fase de estabilización",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEw4UWk1WDJabkNPaEFDYkt2clUwYTRCQUIxdWpvM3FVd2xtajB2Z1lrMXExTWlrVklXcTJNcG5XWlMzWnlYbWlQRmFyd0doM2xLT2o5RWlyRjBwdGFQX1kxQTB3VnA1dThsd0FJNHdoTS1POUw5RmVLb0Q5SGNfT1lGQUxmbUxiZVN2R2VjOFZlTjRvTEVvRE9Lakd6Sktkd0VDeVJzdkUxdU4zWEZyM0dkellJR3NwM0ZQMGd5SnVCb1RURkxwLTU3S3duNTlYTmxOMTktRG1zdG81Y2xxVFlFcWhnVzVubVlZUnZ1QkrSAfYBQVVfeXFMUDgtTjlOemtuMDRLSnVzTkY4WHFTV0hRNnI0b1dZc29fVDdpZjNFcnY2VS0tOUJrY1llSXYzbzBEa2lDeTE1V0ZQdGhEUVRRMi1fdWx3ZWlLbHVZQ2c2N3BqdHF2eGdnM0NEYkUya1Z5LTRVZzJHY3lUNWVzandLcGFjX3prQk15UTNyNnVHSzIzU3hPQjJ5X1FTR1lUOFQ3eEJacHVzUHAtNVItU2podzRQNW1jWi1lQnlzZjlUUFR2YS13RExYRzNoTHpqeDRwQV9waUE3UWFKVE5IQVAtTjdOWFgwSWRKRURVWDM1djJQaWlwSmFn?oc=5"
     },
     {
       "id": "a9263dff06fc0355cf",
@@ -206,14 +206,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalA4OWFSNjNEMEVyWEZiNGZJeTZNU1F2UXVud3Y0M2lDUTMtc1ExMkY4Nk1raU9oZGppU244bzlyNHBwbU1MU29pRmVUX0MyTFkybWtCTmFUeTBRTUZCUkhHX3k3VXhGT2FrQnMxVklUZl83aHp1SU1pTl9WYmMzRDVnakZqWktHVUMweE50Ym1fb2l0Wk82ZzZueWdYM1N5WWlEVENTWnllTUNjOExZTU1xUVVTNTZPZnA5SnNQbE5PT1BZdDRPT09QMjBPbGJxYkM3SHNFbXgzTU5DOHfSAeMBQVVfeXFMTU5zYkduT1NDZ3hMV0dRVHRQWG8xTmlyT1JWRHNSNTNodTN1T182T0JZa2s2QTBFcno2LUstODZJMTFmX3FBbnh0R0xKWmwwQmdUNXY0M3VIZ19mWTZEQmhPYk5UT0JzR2lEalhrajVZQ21NVnRWbXljRUY1NlJ4VlRGUWJSdmVkUi1TQ3EwTzd2aFlwRUVmUXFTbWFvVm04cnROOExwRmRVYnJYYmdfTUhUVm9mXzlvOE8xVUlSN0pSOXhLTUV0YmhBQUk5MVhYbDBTd29LN2VKS0VrMGZCUU9EUkE?oc=5"
     },
     {
-      "id": "2b2761a7a451e03a0b",
+      "id": "e27624bff743a6ad4b",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Aldea del Fresno",
       "published": "2026-08-19T15:39:04+02:00",
       "source": "El Español",
-      "title": "El incendio que ha obligado a confinar los pueblos de Aldea del Fresno y Villamantilla está ya en fase de estabilización",
+      "title": "El incendio que ha obligado a confinar los pueblos de Aldea del Fresno y Villamantilla está estabilizado tras quemar 330 ha",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWW50NDdZQTVpYzkyMDJZM2RvQ0JzN1BUQmRYb3RWRU5kVzNITHZtMUxNQWxnYU12MUZLYzRzRklsSmRZdTF0bXRKQTlsaS1fOVRKMHdvN3BUTFJ5ZDJ5Z0c2OGVpNURLVGRGQUNVUEdyOC1IcHIxbnpjU09IQUhJdV9GeXBaWDRfdldFZXVZMmFkRF9iR0NqZDNsbUJtYzNfX0RqQWVTR1JkdXc3VUROT2JBek9oWXgzbFJBRTdiNm9MVUZBTlo4Tk80U1ZUTF8yaXh1bjlNc3h6U3dvSEdPelZQal9odjJEd2E4QzJn0gHzAUFVX3lxTE03aWJIQlYzZl9tenl6SXcyY1B2ajBSMmdpVkZOZERIZHg5SG9ieTh5OGxWeEJYOHkyczdzdkJUNWszeGcxaFFMRkkySFVyeXJ5eGo5VkVuLV9Ia1B3em1iaUJSTWdLdU5ocV9td296cHYxQTJSZGxtM3lLSUZYQzI2QmdZZk5rQnFBN0hQamtCeTFHY1RsYkwwREV4UlVfSU1ISmNoYXVMVUtVOWZjZ3VjX3JiamVNSy1HTTlTZGJxUWE3MWd6SmNZTGk5aXJhY2JFcEE5ZjA0OHhOUzNWQmJkT2RYWm9XYmhBVXBKVjhWanBUdw?oc=5"
     },
@@ -252,18 +252,6 @@
       "title": "La Sierra Oeste avanza en su recuperación tras los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlhuNzRYSE5HeHZwTWl6NEhDcVFlZkJoYkQyem1zbFZLVkY2Z1dMSFJRMXNiYW9adHpNVVQ4NjRUT0ZIZVZyQ3pMM0tlM3FDeXBNSzdDS1NXSlB6Z1pQQUNPZ2Y1QnpDNnJUOGM1SjlEZjlmVW94TnJwLWNsSVFlV1BrRFhKMTd4TDQtZ3RKR2RaY0hUMmdzX2Q1UFBhaUMwSVF5UlBJeVFUOHhxTl9EUnllZ0VBOHdtY2tWbC02b3BLc3M?oc=5"
-    },
-    {
-      "id": "59ca086a2496469b84",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T01:22:03+02:00",
-      "source": "ABC",
-      "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -379,7 +367,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 26
+      "items": 25
     },
     "direct_media": {
       "ok": true,
