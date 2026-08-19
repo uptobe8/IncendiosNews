@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-19T17:32:05+02:00",
+  "generated_at": "2026-08-19T18:00:18+02:00",
   "items": [
     {
-      "id": "b7941f4259c1b665bb",
+      "id": "fe2d8f1cb38aeb32bd",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-19T17:25:37+02:00",
+      "published": "2026-08-19T17:41:52+02:00",
       "source": "ABC",
       "title": "Un nuevo incendio forestal en la Sierra Oeste de Madrid obliga a confinar Aldea del Fresno y Villamantilla",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1JxSURnWHRUeThMTWhvQnJIbjQwZTJkdi1ZdlpIMjRNenRPeGFQcC1sZDk3X2ZvUkt6YU1lc212V25RRlVkOWFVTWQzLTliWHA1a0ZCSy1ERXltdk5HdTlPaXBNWUN5bzZZTnd5bXJ0TGpOYjFPMGRWeWVjVUV6Wm1tbWlRaEhFc19MTVROdWk2MGJnTV9OYWpnZ0dEZGZEQ3k5OEhSQkVZVnoxZXdURmNPeEhKR2M?oc=5"
+    },
+    {
+      "id": "68567beebcfea1bd5b",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T17:38:00+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste de Madrid: confinados Aldea del Fresno y Villamantilla",
+      "summary": "Un nuevo incendio forestal se ha declarado este miércoles en Aldea del Fresno y ha obligado a confinar esta localidad y el municipio próximo de...",
+      "url": "https://www.telemadrid.es/noticias/madrid/El-fuego-vuelve-a-la-Sierra-Oeste-de-Madrid-confinados-Aldea-del-Fresno-y-Villamantilla-2-2917828217--20260819035841.html"
     },
     {
       "id": "1f6519c9f7f701995f",
@@ -26,18 +38,6 @@
       "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-obliga-cortar-510-largo-varios-kilometros-suspende-autobus-548-20260819164709.html"
     },
     {
-      "id": "0e291f6d26bce746f3",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T17:04:23+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste de Madrid: confinados Aldea del Fresno y Villamantilla",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGdZcXVXRnhUMTF3Mjh4ZDBTeHN6bTBqRXJNOHVzcnR6ekZTbE92YjVMVFNkNFpZNER1TEVwQTZFbXV6SHVUeDNrWG9WcVkwX0Fwa05wUlZYVnZ1b3d2bWxWS1FITDJBRVJhN1hMWm1xZ0ZXQXM3eE1fUnZWYVBvVjlVM0FMMVJoRmliNU9KMEowYVhXRkJWamdWZzNueWNxMlpYX3R3bVNPZXhMbURMU2NEMTU2UVFNUXppTVp5TVpaaENfeEk5a094VTgxVXFvQU1TbEN2UUNhUEFLN1dMQV9jVGhsRk03d1UtbXNNcXZlUDFXTXfSAfsBQVVfeXFMUE52SGZ1UUFVdDZGS0NsWTFmb2pCOHppbzNQT0IyWlNzWGVuTUpQVGkxY0FUUFFsT245a2RiZTRUUktQeVRRU25oSFhSRTdfMTU0ZVR2VVIyb0lJSEZsTGRPX21PZDMtdFQ4dkdVeFNBOGk5ZzI0NU9CU3J1bVcwa1lrV213UDNGS0xQU2lVY0tadGpyTFNWWHIxd1kxVVJkYS1sNmYyRG5ubnZxZEdiLVBYclBQeHlYN1VrQ0NOYWRYUTl6amJZQnRwaWlsV0NyRkxFNW0zVzRxTjNoWUZuMlp2M3ZIWXlHMjF2R2FyTUszS0V5UExQeVJGV0U?oc=5"
-    },
-    {
       "id": "66a0804751227b0f31",
       "type": "news",
       "severity": "critical",
@@ -50,16 +50,16 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY0w0VEtlVDcyLXR2NEJsTjNNOEd6S3NObl9CRlBSVkxNSm9JSDdvUGtoTElHd3hhcHpDOExyMHVIWllRUlVBeHlEUGZxbTZVZjdEZUtKS2tOYkdUU3QxT05xeHRGQ21vZkJKczlXLUk4el9iRmJkdjdicFptdHdZX09SVFZvWHVYaEREc3Z1SWlhdnJJU2pMcy01OFA3aFdIb05YbmN6VWFHcnA0WU5VVGZEbVVVRHZZdmI0SkVUU3BtLVZzbHhmMFMzZVktYUI2WXZVUUpCcXRXNE11WnZMakNBaEtfVkJkbmlma1lfSTTSAfABQVVfeXFMT25uQWlTODFma0VsSEFUa3k0SWFPZHJxVjVCVnltejJHZ25ySnMtcUJkOUN0TDZlb1dTVmxRbF9ncTFnUE83b2p6Y2tjM2E5bkpYWFlIU0pNUzFqSWFyRjk5MkU4U3VjVkQxRVU1Mnkwa251WEZCd0t4eHpyRUdtR0JvWlJ2ZC14a0xGQzBzeVJjdjRGQkhndE8wR2FnTWpoYlIwdXVxUUVXN3Fmb2dVbFZmRUExNjUwaUNsU2NSLWJzdExXc3ZTcnhpMFoyZEFxRGZaRlhqOGV2Q2owV2RJMjlmNVI0OWJqX18zQ1JRY3RK?oc=5"
     },
     {
-      "id": "8b50a48deeebeb89ed",
+      "id": "36024dab13e8a14936",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-19T16:37:30+02:00",
+      "published": "2026-08-19T16:36:21+02:00",
       "source": "Cadena SER",
       "title": "La reconstrucción del monte después de un incendio: \"Harán falta entre 20 y 50 años para recuperar la Sierra Oeste (Madrid)\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUJpVFZWRUxWN0pzLTdOUno4VVBSOG95S09Ddk5qUG9SUTNxU09KalJSNTk1Vk51Y1l4dzVyUlhXSnlReUpVZk1ONUF2YzJ5VDBRZVFtbTZpTm1ubDZObnZKb3pjMmFKY0JsYlVjVTFyVUdfMGpDN1NjUjcxeXNNcWkzeklYVEhwajlLYm4tUEFpTDAwTE9LNDYzWklKVnFvVEVxcFNaV3Z2cTVWbERFR19GeFpacG40WERYdmdyM0liZGt0bUtJMHpDQl93dnotaERBVG9YS1NJUzVmbGZHOWJKRWJyM1k2eDE0NlJVVi1oRjdzbm0tSEc1b1lybnBvRTBrVNIBmAJBVV95cUxNS3Uyd2ZKNVNCR05RX2tmQ3BZbVp3TFpuRXdYbWp5MEVRZ2twcG1CQ2pnZlpWdFdwTmI5a3VZbjdWQ1pQSmc1MTIxY29OMjBhNzlwZUdRRHJYTXZlSi1pSUhmRVB2eDNUOUtfcnhwX1A5WFJkRlBpNU00YktqYVpHU2hkQ1REV2RvQV90Vk15SGl4R1dGR0s0UHN5enFJZWtfYW9Ld2ZEVWdxbTdCWEZ2YnBLaHItZFZMUVpfOWxzTTZMeThMZUpreklXSVptVWVkUktqQ1E0amY3Y3Rja1NLTWJyRERoeVdsTmV5UFo3SWcweUY4UVpvM0pPUTE2dDhmTjhfQTFXcUVpSTVCcUd4WmEzdk9mRzFi?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNS3Uyd2ZKNVNCR05RX2tmQ3BZbVp3TFpuRXdYbWp5MEVRZ2twcG1CQ2pnZlpWdFdwTmI5a3VZbjdWQ1pQSmc1MTIxY29OMjBhNzlwZUdRRHJYTXZlSi1pSUhmRVB2eDNUOUtfcnhwX1A5WFJkRlBpNU00YktqYVpHU2hkQ1REV2RvQV90Vk15SGl4R1dGR0s0UHN5enFJZWtfYW9Ld2ZEVWdxbTdCWEZ2YnBLaHItZFZMUVpfOWxzTTZMeThMZUpreklXSVptVWVkUktqQ1E0amY3Y3Rja1NLTWJyRERoeVdsTmV5UFo3SWcweUY4UVpvM0pPUTE2dDhmTjhfQTFXcUVpSTVCcUd4WmEzdk9mRzFi0gGYAkFVX3lxTE1LdTJ3Zko1U0JHTlFfa2ZDcFltWndMWm5Fd1htankwRVFna3BwbUJDamdmWlZ0V3BOYjlrdVluN1ZDWlBKZzUxMjFjb04yMGE3OXBlR1FEclhNdmVKLWlJSGZFUHZ4M1Q5S19yeHBfUDlYUmRGUGk1TTRiS2phWkdTaGRDVERXZG9BX3RWTXlIaXhHV0ZHSzRQc3l6cUlla19hb0t3ZkRVZ3FtN0JYRnZicEtoci1kVkxRWl85bHNNNkx5OExlSmt6SVdJWm1VZWRSS2pDUTRqZjdjdGNrU0tNYnJERGh5V2xOZXlQWjdJZzB5RjhRWm8zSk9RMTZ0OGZOOF9BMVdxRWlJNUJxR3haYTN2T2ZHMWI?oc=5"
     },
     {
       "id": "b8c8441434ce5b587c",
