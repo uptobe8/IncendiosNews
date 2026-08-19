@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-08-19T16:56:20+02:00",
+  "generated_at": "2026-08-19T17:32:05+02:00",
   "items": [
     {
-      "id": "30dab849a3f2470f08",
+      "id": "b7941f4259c1b665bb",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T17:25:37+02:00",
+      "source": "ABC",
+      "title": "Un nuevo incendio forestal en la Sierra Oeste de Madrid obliga a confinar Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1JxSURnWHRUeThMTWhvQnJIbjQwZTJkdi1ZdlpIMjRNenRPeGFQcC1sZDk3X2ZvUkt6YU1lc212V25RRlVkOWFVTWQzLTliWHA1a0ZCSy1ERXltdk5HdTlPaXBNWUN5bzZZTnd5bXJ0TGpOYjFPMGRWeWVjVUV6Wm1tbWlRaEhFc19MTVROdWk2MGJnTV9OYWpnZ0dEZGZEQ3k5OEhSQkVZVnoxZXdURmNPeEhKR2M?oc=5"
+    },
+    {
+      "id": "1f6519c9f7f701995f",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-19T16:47:09+02:00",
+      "published": "2026-08-19T17:18:12+02:00",
       "source": "Europa Press",
       "title": "El incendio en Aldea del Fresno obliga a cortar la M-510 a lo largo de varios kilómetros y se suspende el autobús 548",
       "summary": "El incendio forestal en Aldea del Fresno ha obligado a cortar la M-510 desde el kilómetro 50 al 54 y a...",
       "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-obliga-cortar-510-largo-varios-kilometros-suspende-autobus-548-20260819164709.html"
+    },
+    {
+      "id": "0e291f6d26bce746f3",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T17:04:23+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste de Madrid: confinados Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGdZcXVXRnhUMTF3Mjh4ZDBTeHN6bTBqRXJNOHVzcnR6ekZTbE92YjVMVFNkNFpZNER1TEVwQTZFbXV6SHVUeDNrWG9WcVkwX0Fwa05wUlZYVnZ1b3d2bWxWS1FITDJBRVJhN1hMWm1xZ0ZXQXM3eE1fUnZWYVBvVjlVM0FMMVJoRmliNU9KMEowYVhXRkJWamdWZzNueWNxMlpYX3R3bVNPZXhMbURMU2NEMTU2UVFNUXppTVp5TVpaaENfeEk5a094VTgxVXFvQU1TbEN2UUNhUEFLN1dMQV9jVGhsRk03d1UtbXNNcXZlUDFXTXfSAfsBQVVfeXFMUE52SGZ1UUFVdDZGS0NsWTFmb2pCOHppbzNQT0IyWlNzWGVuTUpQVGkxY0FUUFFsT245a2RiZTRUUktQeVRRU25oSFhSRTdfMTU0ZVR2VVIyb0lJSEZsTGRPX21PZDMtdFQ4dkdVeFNBOGk5ZzI0NU9CU3J1bVcwa1lrV213UDNGS0xQU2lVY0tadGpyTFNWWHIxd1kxVVJkYS1sNmYyRG5ubnZxZEdiLVBYclBQeHlYN1VrQ0NOYWRYUTl6amJZQnRwaWlsV0NyRkxFNW0zVzRxTjNoWUZuMlp2M3ZIWXlHMjF2R2FyTUszS0V5UExQeVJGV0U?oc=5"
+    },
+    {
+      "id": "66a0804751227b0f31",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-19T16:42:18+02:00",
+      "source": "Onda Cero Radio",
+      "title": "Un nuevo incendio forestal en la Sierra Oeste obliga a activar la situación operativa 2 y a confinar dos municipios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY0w0VEtlVDcyLXR2NEJsTjNNOEd6S3NObl9CRlBSVkxNSm9JSDdvUGtoTElHd3hhcHpDOExyMHVIWllRUlVBeHlEUGZxbTZVZjdEZUtKS2tOYkdUU3QxT05xeHRGQ21vZkJKczlXLUk4el9iRmJkdjdicFptdHdZX09SVFZvWHVYaEREc3Z1SWlhdnJJU2pMcy01OFA3aFdIb05YbmN6VWFHcnA0WU5VVGZEbVVVRHZZdmI0SkVUU3BtLVZzbHhmMFMzZVktYUI2WXZVUUpCcXRXNE11WnZMakNBaEtfVkJkbmlma1lfSTTSAfABQVVfeXFMT25uQWlTODFma0VsSEFUa3k0SWFPZHJxVjVCVnltejJHZ25ySnMtcUJkOUN0TDZlb1dTVmxRbF9ncTFnUE83b2p6Y2tjM2E5bkpYWFlIU0pNUzFqSWFyRjk5MkU4U3VjVkQxRVU1Mnkwa251WEZCd0t4eHpyRUdtR0JvWlJ2ZC14a0xGQzBzeVJjdjRGQkhndE8wR2FnTWpoYlIwdXVxUUVXN3Fmb2dVbFZmRUExNjUwaUNsU2NSLWJzdExXc3ZTcnhpMFoyZEFxRGZaRlhqOGV2Q2owV2RJMjlmNVI0OWJqX18zQ1JRY3RK?oc=5"
     },
     {
       "id": "8b50a48deeebeb89ed",
@@ -26,30 +62,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUJpVFZWRUxWN0pzLTdOUno4VVBSOG95S09Ddk5qUG9SUTNxU09KalJSNTk1Vk51Y1l4dzVyUlhXSnlReUpVZk1ONUF2YzJ5VDBRZVFtbTZpTm1ubDZObnZKb3pjMmFKY0JsYlVjVTFyVUdfMGpDN1NjUjcxeXNNcWkzeklYVEhwajlLYm4tUEFpTDAwTE9LNDYzWklKVnFvVEVxcFNaV3Z2cTVWbERFR19GeFpacG40WERYdmdyM0liZGt0bUtJMHpDQl93dnotaERBVG9YS1NJUzVmbGZHOWJKRWJyM1k2eDE0NlJVVi1oRjdzbm0tSEc1b1lybnBvRTBrVNIBmAJBVV95cUxNS3Uyd2ZKNVNCR05RX2tmQ3BZbVp3TFpuRXdYbWp5MEVRZ2twcG1CQ2pnZlpWdFdwTmI5a3VZbjdWQ1pQSmc1MTIxY29OMjBhNzlwZUdRRHJYTXZlSi1pSUhmRVB2eDNUOUtfcnhwX1A5WFJkRlBpNU00YktqYVpHU2hkQ1REV2RvQV90Vk15SGl4R1dGR0s0UHN5enFJZWtfYW9Ld2ZEVWdxbTdCWEZ2YnBLaHItZFZMUVpfOWxzTTZMeThMZUpreklXSVptVWVkUktqQ1E0amY3Y3Rja1NLTWJyRERoeVdsTmV5UFo3SWcweUY4UVpvM0pPUTE2dDhmTjhfQTFXcUVpSTVCcUd4WmEzdk9mRzFi?oc=5"
     },
     {
-      "id": "024568eb68cabc5e2d",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T16:36:19+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste: confinados Aldea del Fresno y Villamantilla",
-      "summary": "Un nuevo incendio forestal se ha declarado este miércoles en Aldea del Fresno y ha obligado a confinar esta localidad y el municipio próximo de...",
-      "url": "https://www.telemadrid.es/noticias/madrid/El-fuego-vuelve-a-la-Sierra-Oeste-confinados-Aldea-del-Fresno-y-Villamantilla-2-2917828217--20260819035841.html"
-    },
-    {
-      "id": "23d2e922067dd74419",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T16:26:15+02:00",
-      "source": "Cadena SER",
-      "title": "Un nuevo incendio en Aldea del Fresno (Madrid) obliga a activar la situación operativa 2 y a confinar dos municipios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWdNUlpxZ29hcGZ6OUNRUWpwNmZPbGJEMWpPX1JNVm9FVDZfQWFXVTFoQ1hsZTIyQnA1MVhaWHpGOERET0JvMVpKdTRZZ2EwRUwzNHpZWVJ6ZHRCMGQ5cS0tSno3bXRoTUZSaWtYTk91OG9SSW1VdzJadDVDanc1djZ3bHFST3pGel9sQV9BOWpHZmJualdmWFBRcHZIc0pibkJiQi1VbWFqblFKRzRQeGZvTjRZeVpCUzRHdDNINVpIaVh6bVdmNUtfQ0cydk1oUURBZjdKN0g2WGxqS2QySTNsdVAwQTNkSHFDWEhoS2l6UzctdERKLWdNMHM1d9IBkgJBVV95cUxONTRIbzI2MUdtaUN1ZzVEOE45X3NjYzN0a2ZqbWF4Qi1GNTluLXo2N1BjWXVFWjhHaTFHS2xSRnJlQ2FNTGFyV3NpVGlmb29SQm1MaWEybm1zN3lPSFJ4Z0YwbXhuVVM5ZW04N0RNU0hkVUFNOC02ZXQwMzZBd2hrLW5ZZXZobVpnMHk4aXl5cUhzUW9zOVM3cnBoZWVOUXNLVjZscGY3SkxtRWRpVW9IVk1qTnoySG5MY2gxaFIwUEdOc2pWUlJXN3JoS3l5RlhwOXVjTUtOSWdnYVc0dXZqLWZGX3BQak9mVDhUV3J5MS1DMlppampYVkhUdFB0d2RPLW5zVGdMOWk5aWxjaTZ2WV93?oc=5"
-    },
-    {
       "id": "b8c8441434ce5b587c",
       "type": "news",
       "severity": "critical",
@@ -62,16 +74,28 @@
       "url": "https://www.europapress.es/madrid/noticia-incendio-forestal-aldea-fresno-obliga-confinar-localidad-villamantilla-20260819154905.html"
     },
     {
-      "id": "cfef5d537965a3ee54",
+      "id": "968f9a485d5c08f65c",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-19T15:53:18+02:00",
-      "source": "abc.es",
-      "title": "Un nuevo incendio forestal en la Sierra Oeste de Madrid obliga a confinar Aldea del Fresno y Villamantilla",
+      "published": "2026-08-19T16:04:06+02:00",
+      "source": "Cadena SER",
+      "title": "Un nuevo incendio en Aldea del Fresno (Madrid) obliga a activar la situación operativa 2 y a confinar dos municipios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1JxSURnWHRUeThMTWhvQnJIbjQwZTJkdi1ZdlpIMjRNenRPeGFQcC1sZDk3X2ZvUkt6YU1lc212V25RRlVkOWFVTWQzLTliWHA1a0ZCSy1ERXltdk5HdTlPaXBNWUN5bzZZTnd5bXJ0TGpOYjFPMGRWeWVjVUV6Wm1tbWlRaEhFc19MTVROdWk2MGJnTV9OYWpnZ0dEZGZEQ3k5OEhSQkVZVnoxZXdURmNPeEhKR2M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWdNUlpxZ29hcGZ6OUNRUWpwNmZPbGJEMWpPX1JNVm9FVDZfQWFXVTFoQ1hsZTIyQnA1MVhaWHpGOERET0JvMVpKdTRZZ2EwRUwzNHpZWVJ6ZHRCMGQ5cS0tSno3bXRoTUZSaWtYTk91OG9SSW1VdzJadDVDanc1djZ3bHFST3pGel9sQV9BOWpHZmJualdmWFBRcHZIc0pibkJiQi1VbWFqblFKRzRQeGZvTjRZeVpCUzRHdDNINVpIaVh6bVdmNUtfQ0cydk1oUURBZjdKN0g2WGxqS2QySTNsdVAwQTNkSHFDWEhoS2l6UzctdERKLWdNMHM1d9IBkgJBVV95cUxONTRIbzI2MUdtaUN1ZzVEOE45X3NjYzN0a2ZqbWF4Qi1GNTluLXo2N1BjWXVFWjhHaTFHS2xSRnJlQ2FNTGFyV3NpVGlmb29SQm1MaWEybm1zN3lPSFJ4Z0YwbXhuVVM5ZW04N0RNU0hkVUFNOC02ZXQwMzZBd2hrLW5ZZXZobVpnMHk4aXl5cUhzUW9zOVM3cnBoZWVOUXNLVjZscGY3SkxtRWRpVW9IVk1qTnoySG5MY2gxaFIwUEdOc2pWUlJXN3JoS3l5RlhwOXVjTUtOSWdnYVc0dXZqLWZGX3BQak9mVDhUV3J5MS1DMlppampYVkhUdFB0d2RPLW5zVGdMOWk5aWxjaTZ2WV93?oc=5"
+    },
+    {
+      "id": "b9e254dde81c5ee65d",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:58:41+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste, confinados Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVW9GWkZ1UGxWZ2MzVDdvSTJBOENCRFBQaVFEblRkc1VvZW0yT1d6SE1naG1uNEVCUGtqcXVtd0YtdkMyekxZYW5QdUo1MFRBTmRzLXhINUpmR1REN05pRXAwRUkwczhZT3UxY3RITWtoeHY1S0lHMktlazIzTi1ud3gyaHRwaGU0YkZSaGozM2k5RlFpUVpqZ0RoT25wUHpXRXJfWmFuT0RpMzFoMi14R0x4M2xQbjZvdm9oU20tU01FN3pkLUxrYl9pcHoxaHhMQ3VSVWlNZUJFM2I0ejhrZ1lxX3VCTnNi0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
     },
     {
       "id": "dc9ebb685fa090b414",
@@ -122,28 +146,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN0gGDAkFVX3lxTE1IaEttSEw3X0pOTUNybDJ2blhZY2lJSmxFZ1JRT0hLNnZMVFFwV1JGUGZhaU5IMzA3NGJtQzN6N0h1Q00wOUxnZG5HTm1DY2xCTEwxRkV0X1VmbndZNGttbXkySDY4M0VDSFRMQjYzTEloc0ViRWZWUExQdGctd2tUQmxabUVpWGQ5ZWNGWEhJNkplb1ZYNko2M3JrX000VDlFYUhsbVhwZjQ2UDJEWGdiMjhFaV9IdjhyVFdtU2xjcThnTklLRF8wTS1JbkJkMF9nZmtmOTdTS1lGY1REckdZTm04SXlkWjB2LVlvRzVLd2gwdGktSVlEYldvSFFzbDBXaE0?oc=5"
     },
     {
-      "id": "595ef2d3831e138501",
+      "id": "59ca086a2496469b84",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-19T01:22:03+02:00",
-      "source": "abc.es",
+      "source": "ABC",
       "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
-    },
-    {
-      "id": "32b6d1cb9bbb597174",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T00:07:00+02:00",
-      "source": "El Mundo",
-      "title": "La Comunidad de Madrid asegura que los colegios afectados por los incendios de verano volverán a clase con normalidad",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sdFllV0N2MG9HNklqZXMtZEwxS28tTDVpUHRJSW1CdnNKdHNuamNSSU5DSVdpQXdiLUM5Qkl1THR2aVoxUmpNVEgxblhITXJuckNyNFNaUDRHOHpxSHhUeS1iZTNyRnRaSWVKeHZuelA1a0EzUGFEYnpR0gF6QVVfeXFMTmx0WWVXQ3Ywb0c2SWplcy1kTDFLby1MNWlQdElJbUJ2c0p0c25qY1JJTkNJV2lBd2ItQzlCSXVMdHZpWjFSak1USDFuWEhNcm5yQ3I0U1pQNEc4enFIeFR5LWJlM3JGdFpJZUp4dm56UDVrQTNQYURielE?oc=5"
     },
     {
       "id": "8f15cfd7f97c57b697",
@@ -283,7 +295,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 11
+      "items": 13
     },
     "direct_media": {
       "ok": true,
