@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:55:01+02:00",
+  "generated_at": "2026-08-19T23:22:39+02:00",
   "items": [
     {
       "id": "abc851f51a1580bfe3",
@@ -26,12 +26,12 @@
       "url": "https://www.telemadrid.es/programas/telenoticias-2/Susto-de-nuevo-en-la-Sierra-Oeste-por-un-incendio-que-llego-a-desalojar-varias-urbanizaciones-2-2917828228--20260819091212.html"
     },
     {
-      "id": "3f2511631bafda1283",
+      "id": "129530bf0791ca7b80",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-19T21:20:50+02:00",
+      "published": "2026-08-19T21:24:55+02:00",
       "source": "Europa Press",
       "title": "El incendio en Aldea del Fresno se encuentra estabilizado con un balance de 330 hectáreas afectadas",
       "summary": "El incendio forestal originado en el término municipal de Aldea del Fresno, en la sierra suroeste...",
@@ -98,16 +98,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFJXNWI1dTR3ZDlEaHpYWm1YQldwM0t4SzNsVW1zSHc0VmtEYmJXTWFneFB0eWxWSElLaC1PLVZlNzFGTm90dWNld21QbXFkb3FvdGsyQkZHS1JraEcxb3cyWGFDMHdOSlN4cDZKdWpIQVhtblRKSHdvTktxTzdSbEtkLW1MUkZyams5dTJBU05iaHR0SkdndE5ZOVAtclFYdE1acHllVlBNNHlLeEZQdXFaNnZHRHlQa2hkazJ3Y0NEakRDS1ZKOUhGejE4YUlUX2tFMDFPd1p5V2FzaUV6Q1RrelbSAeQBQVVfeXFMUGxSVzViNXU0d2Q5RGh6WFptWEJXcDNLeEszbFVtc0h3NFZrRGJiV01hZ3hQdHlsVkhJS2gtTy1WZTcxRk5vdHVjZXdtUG1xZG9xb3RrMkJGR0tSa2hHMW93MlhhQzB3TkpTeHA2SnVqSEFYbW5USkh3b05LcU83UmxLZC1tTFJGcmprOXUyQVNOYmh0dEpHZ3ROWTlQLXJRWHRNWnB5ZVZQTTR5S3hGUHVxWjZ2R0R5UGtoZGsyd2NDRGpEQ0tWSjlIRnoxOGFJVF9rRTAxT3daeVdhc2lFekNUa3pW?oc=5"
     },
     {
-      "id": "34f0652b89c56958d5",
+      "id": "df55ebdebcdcf99786",
       "type": "news",
       "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
       "published": "2026-08-19T17:13:51+02:00",
-      "source": "La Tribuna de Toledo",
+      "source": "Diario de Ávila",
       "title": "Un nuevo incendio en Madrid obliga a confinar dos localidades",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlBuTXB5Qkd4SzNzZkMtakdpRllxUWRIYXJ2bmVUTUU3TGd1TnJSMllNcElBdS1ZSGFWVk5KWTZueFJpQm5BM3hFOEQxUTNRQjl4ZXU1ZUpHVHJXMTVZNWV3Y3k3dlR3T0Q5ckVEYW5xS0Z3bTRQbWZReWJ5MEkwbC0wWVhPSTROQjNfSU53TFhfWlI2eTUxVXBqYWRudjR6cVdENW9XV3RLRmFFWVduYm9aeFBIU01SeVcyS1o5YnZLNFpzMGZWQUNNT1R1T2VHQmZ1VkI4bVBNYTBxN0RJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNUdacW5JVDNOb3hIQ0pKYmlJd0VNWWptcWd5cUdlSHhqQ2xLQ2VYYm5UeE41NlVMVTV4ZmxEbnRHYW81MS1LSVpqcE9CTHRBXy1FWjRIWGlPRl9sY0xya2JTWU5OVnlNM2NOMDN5aFZUTWpaQ0YwVS1qakZQV2JMb1g5cVdRVzdZTXl2SUN0aEttdXlYaFhHWU9RV3NKOVpjTlVBWHhMRDdWaGtURzZWWVBRc09BR0FhU29hQ3NiUXN3ZnZFM3ZwQmtyMG9CT041LVRTU0xsckZXUQ?oc=5"
     },
     {
       "id": "0e291f6d26bce746f3",
@@ -239,7 +239,7 @@
       "source": "EL PAÍS",
       "title": "La Comunidad de Madrid destina un millón de euros para ayudar a autónomos y pymes afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN0gGDAkFVX3lxTE1IaEttSEw3X0pOTUNybDJ2blhZY2lJSmxFZ1JRT0hLNnZMVFFwV1JGUGZhaU5IMzA3NGJtQzN6N0h1Q00wOUxnZG5HTm1DY2xCTEwxRkV0X1VmbndZNGttbXkySDY4M0VDSFRMQjYzTEloc0ViRWZWUExQdGctd2tUQmxabUVpWGQ5ZWNGWEhJNkplb1ZYNko2M3JrX000VDlFYUhsbVhwZjQ2UDJEWGdiMjhFaV9IdjhyVFdtU2xjcThnTklLRF8wTS1JbkJkMF9nZmtmOTdTS1lGY1REckdZTm04SXlkWjB2LVlvRzVLd2gwdGktSVlEYldvSFFzbDBXaE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0ljWGROTEdWeEZ2M2hHWTY0SmYycnVlU2k2UVdranVhM0RleXFCNGw4RWtFVmQzbVJ3MXJzdHJMX09KQ0NnT044UFFxQ2tmNDJfZ3pFVVZBNXFnNWdMUHg5S3N2M25nZEFRVVQxWjN5dE9oN3ZFWVdxODBrLWoyLXFydDBwb0RiU1JWZzBoSHRESG9fbUE0UkNMc1FmTHViOC1pUmd0bjM4SWg0d0ZxdkJDN3ZETkJEZGFkRE10MWg1ZW1sVF9WTXBKMExaejRibEloNy1nS0hVbXVEVW9IcGlVX19FZkJCTmVySWdKc9IBgwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN?oc=5"
     },
     {
       "id": "71923ac9d69be6497d",
@@ -385,13 +385,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 26
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
