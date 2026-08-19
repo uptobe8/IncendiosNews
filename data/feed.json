@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-19T23:22:39+02:00",
+  "generated_at": "2026-08-19T23:47:36+02:00",
   "items": [
-    {
-      "id": "abc851f51a1580bfe3",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T21:59:09+02:00",
-      "source": "ABC",
-      "title": "Un nuevo incendio forestal en la Sierra Oeste de Madrid obliga a desalojar varias urbanizaciones en Aldea del Fresno",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1JxSURnWHRUeThMTWhvQnJIbjQwZTJkdi1ZdlpIMjRNenRPeGFQcC1sZDk3X2ZvUkt6YU1lc212V25RRlVkOWFVTWQzLTliWHA1a0ZCSy1ERXltdk5HdTlPaXBNWUN5bzZZTnd5bXJ0TGpOYjFPMGRWeWVjVUV6Wm1tbWlRaEhFc19MTVROdWk2MGJnTV9OYWpnZ0dEZGZEQ3k5OEhSQkVZVnoxZXdURmNPeEhKR2M?oc=5"
-    },
     {
       "id": "78140586f8299fe180",
       "type": "news",
@@ -122,14 +110,14 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRdIB-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRQ?oc=5"
     },
     {
-      "id": "5963ae5f18497428e6",
+      "id": "1714cb63d5fed17096",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
       "province": "Madrid",
-      "town": "Aldea del Fresno",
+      "town": "Comunidad de Madrid",
       "published": "2026-08-19T16:42:59+02:00",
       "source": "RTVE.es",
-      "title": "Un nuevo incendio en la Sierra Oeste de Madrid obliga a evacuar urbanizaciones y confinar Aldea del Fresno",
+      "title": "Estabilizado el nuevo incendio en la Sierra Oeste de Madrid que ha vuelto a hacer saltar las alarmas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWF9FaUtodXBESVJNYWtmWER3N0lXcEdLcnNmRG5GSUVyR0dBOENIR1EtTm5JNzZ6aERSS1V3RTkzaVZ4bERpUzVZRDd6UFUtdm1MTjcwdFZwYkJ5aEdULTZrZ2VaaHo3Y3cyczgySXNuMXVLS0JxNklKM21ycFVDczJQMDNPT2d6anJQY0Q5VVNWczN6OGV3VG8tSFF6VHd1dnh5UVAzWlN3MXFldm9xcm1YRUg1SlYza2xJWnFMT1YtX195a2xkck9LdWhRdEhDYUFLSjJsZHVtdw?oc=5"
     },
@@ -194,6 +182,30 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVW9GWkZ1UGxWZ2MzVDdvSTJBOENCRFBQaVFEblRkc1VvZW0yT1d6SE1naG1uNEVCUGtqcXVtd0YtdkMyekxZYW5QdUo1MFRBTmRzLXhINUpmR1REN05pRXAwRUkwczhZT3UxY3RITWtoeHY1S0lHMktlazIzTi1ud3gyaHRwaGU0YkZSaGozM2k5RlFpUVpqZ0RoT25wUHpXRXJfWmFuT0RpMzFoMi14R0x4M2xQbjZvdm9oU20tU01FN3pkLUxrYl9pcHoxaHhMQ3VSVWlNZUJFM2I0ejhrZ1lxX3VCTnNi0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
     },
     {
+      "id": "348254b982c6c4db6b",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:58:41+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste de Madrid: Aldea del Fresno queda confinada y Villamantilla, en alerta",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ZMYVg5dmFqRmloRFhpam0xb2Qzb3BBald1REtjSmNYMTc2Zk10TEk0MmluVDlJYktFNXNBTVpObEVnY1YxalBiZGU3dVd2U1RPUk1Yc29FYjQtQ3pvaVFkenZwRE5oX0tjNDJUX015NVd3Z01ZNFBYUlZZNzB4dU1ISEpscW1jdVdMNGU1Qk5PcnlWS3J6Q0V5bVVfYTAzMmVNeWlmZlM3UmJiNG1HTzFsOXFfXzNwYUNwdzE2NGZkY3ZoMTEtYTZydXQ1elI4NVBuazJFQk8yclZjRUpsZnNiU2pLQlliSWJMTmhCMV9VcmR3ajVrZEtoR0J1Zm8tU2ZWdHh1NWo3QdIBjwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN?oc=5"
+    },
+    {
+      "id": "e890f2e3dfe7638b8f",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:53:18+02:00",
+      "source": "abc.es",
+      "title": "Un nuevo incendio forestal en la Sierra Oeste de Madrid obliga a desalojar varias urbanizaciones en Aldea del Fresno",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1JxSURnWHRUeThMTWhvQnJIbjQwZTJkdi1ZdlpIMjRNenRPeGFQcC1sZDk3X2ZvUkt6YU1lc212V25RRlVkOWFVTWQzLTliWHA1a0ZCSy1ERXltdk5HdTlPaXBNWUN5bzZZTnd5bXJ0TGpOYjFPMGRWeWVjVUV6Wm1tbWlRaEhFc19MTVROdWk2MGJnTV9OYWpnZ0dEZGZEQ3k5OEhSQkVZVnoxZXdURmNPeEhKR2M?oc=5"
+    },
+    {
       "id": "5369dff215e5755d4f",
       "type": "news",
       "severity": "critical",
@@ -254,13 +266,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlhuNzRYSE5HeHZwTWl6NEhDcVFlZkJoYkQyem1zbFZLVkY2Z1dMSFJRMXNiYW9adHpNVVQ4NjRUT0ZIZVZyQ3pMM0tlM3FDeXBNSzdDS1NXSlB6Z1pQQUNPZ2Y1QnpDNnJUOGM1SjlEZjlmVW94TnJwLWNsSVFlV1BrRFhKMTd4TDQtZ3RKR2RaY0hUMmdzX2Q1UFBhaUMwSVF5UlBJeVFUOHhxTl9EUnllZ0VBOHdtY2tWbC02b3BLc3M?oc=5"
     },
     {
-      "id": "59ca086a2496469b84",
+      "id": "595ef2d3831e138501",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-19T01:22:03+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
@@ -385,13 +397,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 26
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 27
     },
     "direct_media": {
       "ok": true,
