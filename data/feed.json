@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-19T15:36:09+02:00",
+  "generated_at": "2026-08-19T16:16:25+02:00",
   "items": [
+    {
+      "id": "37098672155f820ff6",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T16:07:52+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste, confinados Aldea del Fresno y Villamantilla",
+      "summary": "Un nuevo incendio forestal se ha declarado este miércoles en Aldea del Fresno y ha obligado a confinar esta localidad y el municipio próximo de...",
+      "url": "https://www.telemadrid.es/noticias/madrid/El-fuego-vuelve-a-la-Sierra-Oeste-confinados-Aldea-del-Fresno-y-Villamantilla-2-2917828217--20260819035841.html"
+    },
+    {
+      "id": "b8c8441434ce5b587c",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T16:05:52+02:00",
+      "source": "Europa Press",
+      "title": "Un incendio forestal en Aldea del Fresno obliga a confinar esta localidad y Villamantilla",
+      "summary": "Un incendio forestal localizado en Aldea del Fresno a las 14.30 horas está obligando a confinar esta...",
+      "url": "https://www.europapress.es/madrid/noticia-incendio-forestal-aldea-fresno-obliga-confinar-localidad-villamantilla-20260819154905.html"
+    },
+    {
+      "id": "0765e337e1d791255d",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T16:01:16+02:00",
+      "source": "Cadena SER",
+      "title": "Un nuevo incendio en Aldea del Fresno (Madrid) obliga a activar la situación operativa 2 y a confinar dos municipios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWdNUlpxZ29hcGZ6OUNRUWpwNmZPbGJEMWpPX1JNVm9FVDZfQWFXVTFoQ1hsZTIyQnA1MVhaWHpGOERET0JvMVpKdTRZZ2EwRUwzNHpZWVJ6ZHRCMGQ5cS0tSno3bXRoTUZSaWtYTk91OG9SSW1VdzJadDVDanc1djZ3bHFST3pGel9sQV9BOWpHZmJualdmWFBRcHZIc0pibkJiQi1VbWFqblFKRzRQeGZvTjRZeVpCUzRHdDNINVpIaVh6bVdmNUtfQ0cydk1oUURBZjdKN0g2WGxqS2QySTNsdVAwQTNkSHFDWEhoS2l6UzctdERKLWdNMHM1d9IBkgJBVV95cUxONTRIbzI2MUdtaUN1ZzVEOE45X3NjYzN0a2ZqbWF4Qi1GNTluLXo2N1BjWXVFWjhHaTFHS2xSRnJlQ2FNTGFyV3NpVGlmb29SQm1MaWEybm1zN3lPSFJ4Z0YwbXhuVVM5ZW04N0RNU0hkVUFNOC02ZXQwMzZBd2hrLW5ZZXZobVpnMHk4aXl5cUhzUW9zOVM3cnBoZWVOUXNLVjZscGY3SkxtRWRpVW9IVk1qTnoySG5MY2gxaFIwUEdOc2pWUlJXN3JoS3l5RlhwOXVjTUtOSWdnYVc0dXZqLWZGX3BQak9mVDhUV3J5MS1DMlppampYVkhUdFB0d2RPLW5zVGdMOWk5aWxjaTZ2WV93?oc=5"
+    },
+    {
+      "id": "b7ccd30f09f0819de5",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:53:18+02:00",
+      "source": "ABC",
+      "title": "Un nuevo incendio forestal en la Sierra Oeste de Madrid obliga a confinar Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1JxSURnWHRUeThMTWhvQnJIbjQwZTJkdi1ZdlpIMjRNenRPeGFQcC1sZDk3X2ZvUkt6YU1lc212V25RRlVkOWFVTWQzLTliWHA1a0ZCSy1ERXltdk5HdTlPaXBNWUN5bzZZTnd5bXJ0TGpOYjFPMGRWeWVjVUV6Wm1tbWlRaEhFc19MTVROdWk2MGJnTV9OYWpnZ0dEZGZEQ3k5OEhSQkVZVnoxZXdURmNPeEhKR2M?oc=5"
+    },
+    {
+      "id": "dc9ebb685fa090b414",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:45:54+02:00",
+      "source": "Telemadrid",
+      "title": "Incendio en Aldea del Fresno, confinada esta localidad y Villamantilla",
+      "summary": "www.telemadrid.es - Incendio en Aldea del Fresno, confinada esta localidad y Villamantilla",
+      "url": "https://www.telemadrid.es/noticias/madrid/Incendio-en-Aldea-del-Fresno-confinada-esta-localidad-y-Villamantilla-0-2917808208--20260819034553.html"
+    },
+    {
+      "id": "3ee2068139edd71187",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:39:04+02:00",
+      "source": "El Español",
+      "title": "Un nuevo incendio en la Sierra Oeste de Madrid obliga a confinar los pueblos de Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWW50NDdZQTVpYzkyMDJZM2RvQ0JzN1BUQmRYb3RWRU5kVzNITHZtMUxNQWxnYU12MUZLYzRzRklsSmRZdTF0bXRKQTlsaS1fOVRKMHdvN3BUTFJ5ZDJ5Z0c2OGVpNURLVGRGQUNVUEdyOC1IcHIxbnpjU09IQUhJdV9GeXBaWDRfdldFZXVZMmFkRF9iR0NqZDNsbUJtYzNfX0RqQWVTR1JkdXc3VUROT2JBek9oWXgzbFJBRTdiNm9MVUZBTlo4Tk80U1ZUTF8yaXh1bjlNc3h6U3dvSEdPelZQal9odjJEd2E4QzJn0gHzAUFVX3lxTE03aWJIQlYzZl9tenl6SXcyY1B2ajBSMmdpVkZOZERIZHg5SG9ieTh5OGxWeEJYOHkyczdzdkJUNWszeGcxaFFMRkkySFVyeXJ5eGo5VkVuLV9Ia1B3em1iaUJSTWdLdU5ocV9td296cHYxQTJSZGxtM3lLSUZYQzI2QmdZZk5rQnFBN0hQamtCeTFHY1RsYkwwREV4UlVfSU1ISmNoYXVMVUtVOWZjZ3VjX3JiamVNSy1HTTlTZGJxUWE3MWd6SmNZTGk5aXJhY2JFcEE5ZjA0OHhOUzNWQmJkT2RYWm9XYmhBVXBKVjhWanBUdw?oc=5"
+    },
     {
       "id": "6765826c66203ff930",
       "type": "news",
@@ -23,19 +95,7 @@
       "source": "EL PAÍS",
       "title": "La Comunidad de Madrid destina un millón de euros para ayudar a autónomos y pymes afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0ljWGROTEdWeEZ2M2hHWTY0SmYycnVlU2k2UVdranVhM0RleXFCNGw4RWtFVmQzbVJ3MXJzdHJMX09KQ0NnT044UFFxQ2tmNDJfZ3pFVVZBNXFnNWdMUHg5S3N2M25nZEFRVVQxWjN5dE9oN3ZFWVdxODBrLWoyLXFydDBwb0RiU1JWZzBoSHRESG9fbUE0UkNMc1FmTHViOC1pUmd0bjM4SWg0d0ZxdkJDN3ZETkJEZGFkRE10MWg1ZW1sVF9WTXBKMExaejRibEloNy1nS0hVbXVEVW9IcGlVX19FZkJCTmVySWdKc9IBgwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN?oc=5"
-    },
-    {
-      "id": "08f2cc44f5b5ac8c8c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T12:33:40+02:00",
-      "source": "Madrid Actual",
-      "title": "La Sierra Oeste avanza en su recuperación tras los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlhuNzRYSE5HeHZwTWl6NEhDcVFlZkJoYkQyem1zbFZLVkY2Z1dMSFJRMXNiYW9adHpNVVQ4NjRUT0ZIZVZyQ3pMM0tlM3FDeXBNSzdDS1NXSlB6Z1pQQUNPZ2Y1QnpDNnJUOGM1SjlEZjlmVW94TnJwLWNsSVFlV1BrRFhKMTd4TDQtZ3RKR2RaY0hUMmdzX2Q1UFBhaUMwSVF5UlBJeVFUOHhxTl9EUnllZ0VBOHdtY2tWbC02b3BLc3M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN0gGDAkFVX3lxTE1IaEttSEw3X0pOTUNybDJ2blhZY2lJSmxFZ1JRT0hLNnZMVFFwV1JGUGZhaU5IMzA3NGJtQzN6N0h1Q00wOUxnZG5HTm1DY2xCTEwxRkV0X1VmbndZNGttbXkySDY4M0VDSFRMQjYzTEloc0ViRWZWUExQdGctd2tUQmxabUVpWGQ5ZWNGWEhJNkplb1ZYNko2M3JrX000VDlFYUhsbVhwZjQ2UDJEWGdiMjhFaV9IdjhyVFdtU2xjcThnTklLRF8wTS1JbkJkMF9nZmtmOTdTS1lGY1REckdZTm04SXlkWjB2LVlvRzVLd2gwdGktSVlEYldvSFFzbDBXaE0?oc=5"
     },
     {
       "id": "5bd925b817aa3804af",
@@ -211,11 +271,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 11
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 5
     }
   },
   "refresh_seconds": 300
