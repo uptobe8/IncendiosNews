@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T20:36:31+02:00",
+  "generated_at": "2026-08-19T21:05:58+02:00",
   "items": [
+    {
+      "id": "165a7e8ae1677c9cb5",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T20:49:23+02:00",
+      "source": "Europa Press",
+      "title": "El incendio en Aldea del Fresno obliga a cortar varios kilómetros de la M-510 y M-507 y se suspende el autobús 548",
+      "summary": "El incendio forestal en Aldea del Fresno ha obligado a cortar varios kilómetros de la M-510 y de la M-507 y...",
+      "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-obliga-cortar-510-largo-varios-kilometros-suspende-autobus-548-20260819164709.html"
+    },
     {
       "id": "e9c47fbd17557615c3",
       "type": "news",
@@ -10,8 +22,8 @@
       "published": "2026-08-19T20:29:21+02:00",
       "source": "Telemadrid",
       "title": "El incendio forestal en Aldea del Fresno está ya en fase de estabilización",
-      "summary": "TMDHTM20240527_0010 El incendio forestal declarado este miércoles en Aldea del Fresno evoluciona favorablemente y ya se encuentra en fase de...",
-      "url": "https://www.telemadrid.es/programas/madrid-directo/El-incendio-forestal-en-Aldea-del-Fresno-esta-ya-en-fase-de-estabilizacion-2-2917828225--20260819082921.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEw4UWk1WDJabkNPaEFDYkt2clUwYTRCQUIxdWpvM3FVd2xtajB2Z1lrMXExTWlrVklXcTJNcG5XWlMzWnlYbWlQRmFyd0doM2xLT2o5RWlyRjBwdGFQX1kxQTB3VnA1dThsd0FJNHdoTS1POUw5RmVLb0Q5SGNfT1lGQUxmbUxiZVN2R2VjOFZlTjRvTEVvRE9Lakd6Sktkd0VDeVJzdkUxdU4zWEZyM0dkellJR3NwM0ZQMGd5SnVCb1RURkxwLTU3S3duNTlYTmxOMTktRG1zdG81Y2xxVFlFcWhnVzVubVlZUnZ1QkrSAfYBQVVfeXFMUDgtTjlOemtuMDRLSnVzTkY4WHFTV0hRNnI0b1dZc29fVDdpZjNFcnY2VS0tOUJrY1llSXYzbzBEa2lDeTE1V0ZQdGhEUVRRMi1fdWx3ZWlLbHVZQ2c2N3BqdHF2eGdnM0NEYkUya1Z5LTRVZzJHY3lUNWVzandLcGFjX3prQk15UTNyNnVHSzIzU3hPQjJ5X1FTR1lUOFQ3eEJacHVzUHAtNVItU2podzRQNW1jWi1lQnlzZjlUUFR2YS13RExYRzNoTHpqeDRwQV9waUE3UWFKVE5IQVAtTjdOWFgwSWRKRURVWDM1djJQaWlwSmFn?oc=5"
     },
     {
       "id": "a9263dff06fc0355cf",
@@ -48,18 +60,6 @@
       "title": "Un nuevo incendio en Aldea del Fresno (Madrid) obliga a activar la situación operativa 2 y a confinar dos municipios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWdNUlpxZ29hcGZ6OUNRUWpwNmZPbGJEMWpPX1JNVm9FVDZfQWFXVTFoQ1hsZTIyQnA1MVhaWHpGOERET0JvMVpKdTRZZ2EwRUwzNHpZWVJ6ZHRCMGQ5cS0tSno3bXRoTUZSaWtYTk91OG9SSW1VdzJadDVDanc1djZ3bHFST3pGel9sQV9BOWpHZmJualdmWFBRcHZIc0pibkJiQi1VbWFqblFKRzRQeGZvTjRZeVpCUzRHdDNINVpIaVh6bVdmNUtfQ0cydk1oUURBZjdKN0g2WGxqS2QySTNsdVAwQTNkSHFDWEhoS2l6UzctdERKLWdNMHM1d9IBkgJBVV95cUxONTRIbzI2MUdtaUN1ZzVEOE45X3NjYzN0a2ZqbWF4Qi1GNTluLXo2N1BjWXVFWjhHaTFHS2xSRnJlQ2FNTGFyV3NpVGlmb29SQm1MaWEybm1zN3lPSFJ4Z0YwbXhuVVM5ZW04N0RNU0hkVUFNOC02ZXQwMzZBd2hrLW5ZZXZobVpnMHk4aXl5cUhzUW9zOVM3cnBoZWVOUXNLVjZscGY3SkxtRWRpVW9IVk1qTnoySG5MY2gxaFIwUEdOc2pWUlJXN3JoS3l5RlhwOXVjTUtOSWdnYVc0dXZqLWZGX3BQak9mVDhUV3J5MS1DMlppampYVkhUdFB0d2RPLW5zVGdMOWk5aWxjaTZ2WV93?oc=5"
-    },
-    {
-      "id": "c7e078a71da120f194",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T19:00:07+02:00",
-      "source": "Europa Press",
-      "title": "El incendio en Aldea del Fresno obliga a cortar varios kilómetros de la M-510 y M-507 y se suspende el autobús 548",
-      "summary": "El incendio forestal en Aldea del Fresno ha obligado a cortar varios kilómetros de la M-510 y de la M-507 y...",
-      "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-obliga-cortar-510-largo-varios-kilometros-suspende-autobus-548-20260819164709.html"
     },
     {
       "id": "9aefd4218375ab72e9",
@@ -146,14 +146,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFpodFlTVEllSkxkMmR5Y1R1NUdSeFdibjlpbXNkZEdLXzFlclE2V2JDamNqdE5iSHR0UHVEOHZLZWpiMUJla0laTE5lZTk1M2tEM29FMnJ6amJZeGFXMjlWVWpOM3gyc3l1cjl0eFRDSEJ2VTVQVEVEWnpKZ012dERlVjRjd3pjQ0NxdHZhSXd6aXVWUkNnSjM0THVYekRLeFpkeUR5MTR2WlhzWFJjRUdQR1ZUTnBDR3dZci1WdnRqU3ItMzdaUTF6azhJUFUxbVlZMG5QSm05Rm8z0gHwAUFVX3lxTE94QURNY1lmdnY2UjBqZC1NUW9DNFk0SEJHRTdLQkpDWE5OblljZTI5bHBndERrWERXWS1QMWFqYXVuQUpzM1l6M3RvNGJaV0lpNVFISFZnZGVqblF3bkxKeDlzd1BrbldodlFIaUJXUHU4WEk1SWcwYVRnY0xaOGlwcEFOd1ZJRUhBR2g4T25lU25pc3NLUVhDRkpfZ0Rpckx5by14NURIVUI0Sm5peXNKWmFxRVpObVJtcW1XdHY0eDI3aHhvSTkzZE83cUdHUWprS1I2bHBnNV92NzFQTTI0SUFkQUdjTjluLVZzcXNoSQ?oc=5"
     },
     {
-      "id": "b9e254dde81c5ee65d",
+      "id": "e20caf358db9fbe77c",
       "type": "news",
       "severity": "critical",
       "province": "Madrid",
       "town": "Aldea del Fresno",
       "published": "2026-08-19T15:58:41+02:00",
       "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste, confinados Aldea del Fresno y Villamantilla",
+      "title": "El fuego vuelve a la Sierra Oeste: confinados Aldea del Fresno y Villamantilla",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVW9GWkZ1UGxWZ2MzVDdvSTJBOENCRFBQaVFEblRkc1VvZW0yT1d6SE1naG1uNEVCUGtqcXVtd0YtdkMyekxZYW5QdUo1MFRBTmRzLXhINUpmR1REN05pRXAwRUkwczhZT3UxY3RITWtoeHY1S0lHMktlazIzTi1ud3gyaHRwaGU0YkZSaGozM2k5RlFpUVpqZ0RoT25wUHpXRXJfWmFuT0RpMzFoMi14R0x4M2xQbjZvdm9oU20tU01FN3pkLUxrYl9pcHoxaHhMQ3VSVWlNZUJFM2I0ejhrZ1lxX3VCTnNi0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
     },
@@ -216,6 +216,18 @@
       "title": "La Comunidad de Madrid destina un millón de euros para ayudar a autónomos y pymes afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN0gGDAkFVX3lxTE1IaEttSEw3X0pOTUNybDJ2blhZY2lJSmxFZ1JRT0hLNnZMVFFwV1JGUGZhaU5IMzA3NGJtQzN6N0h1Q00wOUxnZG5HTm1DY2xCTEwxRkV0X1VmbndZNGttbXkySDY4M0VDSFRMQjYzTEloc0ViRWZWUExQdGctd2tUQmxabUVpWGQ5ZWNGWEhJNkplb1ZYNko2M3JrX000VDlFYUhsbVhwZjQ2UDJEWGdiMjhFaV9IdjhyVFdtU2xjcThnTklLRF8wTS1JbkJkMF9nZmtmOTdTS1lGY1REckdZTm04SXlkWjB2LVlvRzVLd2gwdGktSVlEYldvSFFzbDBXaE0?oc=5"
+    },
+    {
+      "id": "71923ac9d69be6497d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-19T10:35:02+02:00",
+      "source": "Madrid Actual",
+      "title": "La Sierra Oeste avanza en su recuperación tras los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlhuNzRYSE5HeHZwTWl6NEhDcVFlZkJoYkQyem1zbFZLVkY2Z1dMSFJRMXNiYW9adHpNVVQ4NjRUT0ZIZVZyQ3pMM0tlM3FDeXBNSzdDS1NXSlB6Z1pQQUNPZ2Y1QnpDNnJUOGM1SjlEZjlmVW94TnJwLWNsSVFlV1BrRFhKMTd4TDQtZ3RKR2RaY0hUMmdzX2Q1UFBhaUMwSVF5UlBJeVFUOHhxTl9EUnllZ0VBOHdtY2tWbC02b3BLc3M?oc=5"
     },
     {
       "id": "59ca086a2496469b84",
@@ -355,7 +367,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 19
+      "items": 21
     },
     "direct_media": {
       "ok": true,
