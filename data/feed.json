@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T09:43:07+02:00",
+  "generated_at": "2026-08-19T10:16:50+02:00",
   "items": [
     {
-      "id": "59ca086a2496469b84",
+      "id": "595ef2d3831e138501",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-19T01:22:03+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE9JODRFYmNSY1BraVMxV3RoVXgxMGJLV3FQc2F4YXZYWE52Yk9hakNkTndFUkluTXVJc3F1T0MyUzl0RmVpczZXLTRZcXNaY0xfNVUwR0NHTldoazZ2QVh1djNFZWJmSzR6UndhcmlnOTZTOW0yS1VycE4yVV9saUhuVUFqS0N3c2ZPQmZDMWFVUldZS3J0MGFGTzNfVENvbkVYSEVyT3hwYlVWWldFaWs4Xy1SU3Qwd1FEXw?oc=5"
@@ -50,13 +50,13 @@
       "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-centro-tratamiento-residuos-urraca-miguel-avila-moviliza-bomberos-policia-20260818194548.html"
     },
     {
-      "id": "cdd8982f9c918a0c8d",
+      "id": "443438f94f0fbc966c",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-18T14:26:02+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlAya1dleTRRZWhIQnVZM0pxLWVPaC1fODQzSElOTS11U2RIOVlKTnlGUGYyX3lQMC0zVkxRTDIwTmlfcWplTHNTRVRCOE1KTFRJOW9CaWJBbXEyVURXd2R0bVJzWUF0RVFHQVB3azNQVUw5OTEyU19hbmwwcXl1VWpvS3BVRGtLZzZpVkJIU0lYb2lTSWhhcnVlNFlheGJTRlhqLUlob2NBZGdBUVE?oc=5"
@@ -193,13 +193,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 6
     },
     "direct_media": {
       "ok": true,
