@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T16:59:28+02:00",
+  "generated_at": "2026-08-20T17:41:15+02:00",
   "items": [
+    {
+      "id": "da62bfe1db1d69f952",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T17:25:16+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
+    },
     {
       "id": "468281c41cbfcaf0b2",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "Abonan 3,1 millones en indemnizaciones de los incendios en cultivos y cabañas ganaderas entre 2017 y 2025",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFJVeWZJcjZjaW1QRE5KRjZPUnBhTWdmT1dPYkhsdHdTcWtwd2ZfOE1YWFBhdXo5ZWQ5bTI0TDQ1dHNhYWRUbVRoeEsyX2NnaTdQV3lwX2R3ZnFVcDUzcmthV0Vqam9MWTRpQ2U0R1c5U0tybndqd2dScEd1THNMUVl3MHpWWDM3dE9CNjhvYlE2NnlRVGZqZUIxTldQVzF3cFU5TXFhanE4eWdHNVdEdF90UmxhdkpuRUJlR1o1Sl9GUlNqOS02NXJQNW90MnJROWFRRGxxYVpGbFQzTWJSQVUwN2U?oc=5"
-    },
-    {
-      "id": "fd3cd452b7399b2c66",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T16:46:05+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
     },
     {
       "id": "9488dabd72a6ae8e7b",
@@ -230,30 +230,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN0gGPAkFVX3lxTE4wMnJhYTZRZGVPWFdTQkhiQUsyX2dYM09mdlVjZnBmdV9RWDVmc0VTX0o1ZHpyckJCTFFHUUl0c1kycnh5WWVWX3piZnlPbWpZLVo1OHhBV1RuM2ZJU3kzMW1tRXdLZm84N004cHNXcTFZZjJJeW1zMjFBNDgzc1NSbXFXVmctNVl2TjZweDlXOW5yU1k4a0ZOazNrZ0tWZVhsNXVhSU9fNlJvcko2enZUT0xSWVRZZTA2WE5tWTdDVFNVTHR1Wmc2NlNodlZMZTJJVDlacmVsdmFyU1VYTjBkM0hXZ1FsQWxPT0VzNjlyRGM0YTk2dUdfNGIyeEUxb2RXR2h4VV9xcXFlZlpfak0?oc=5"
     },
     {
-      "id": "df55ebdebcdcf99786",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-19T17:13:51+02:00",
-      "source": "Diario de Ávila",
-      "title": "Un nuevo incendio en Madrid obliga a confinar dos localidades",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNUdacW5JVDNOb3hIQ0pKYmlJd0VNWWptcWd5cUdlSHhqQ2xLQ2VYYm5UeE41NlVMVTV4ZmxEbnRHYW81MS1LSVpqcE9CTHRBXy1FWjRIWGlPRl9sY0xya2JTWU5OVnlNM2NOMDN5aFZUTWpaQ0YwVS1qakZQV2JMb1g5cVdRVzdZTXl2SUN0aEttdXlYaFhHWU9RV3NKOVpjTlVBWHhMRDdWaGtURzZWWVBRc09BR0FhU29hQ3NiUXN3ZnZFM3ZwQmtyMG9CT041LVRTU0xsckZXUQ?oc=5"
-    },
-    {
-      "id": "0e291f6d26bce746f3",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T17:04:23+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste de Madrid: confinados Aldea del Fresno y Villamantilla",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRdIB-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRQ?oc=5"
-    },
-    {
       "id": "6765826c66203ff930",
       "type": "news",
       "severity": "info",
@@ -379,7 +355,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 19
+      "items": 17
     },
     "direct_media": {
       "ok": true,
