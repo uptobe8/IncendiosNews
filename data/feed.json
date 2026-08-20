@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T11:18:41+02:00",
+  "generated_at": "2026-08-20T11:54:23+02:00",
   "items": [
+    {
+      "id": "3edc319e11d4b9c04c",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-20T11:35:09+02:00",
+      "source": "Europa Press",
+      "title": "El incendio en Aldea del Fresno sigue una evolución \"muy favorable\" continuando con las tareas de refresco",
+      "summary": "El incendio forestal en Aldea del Fresno sigue una evolución \"muy favorable\" continuando a lo largo de la...",
+      "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-sigue-evolucion-muy-favorable-continuando-tareas-refresco-20260820113509.html"
+    },
     {
       "id": "a33dc34c49c5379abc",
       "type": "news",
@@ -10,20 +22,8 @@
       "published": "2026-08-20T11:12:32+02:00",
       "source": "Europa Press",
       "title": "La Comunidad activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid activa desde este jueves una línea telefónica directa de información para los...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-activa-linea-telefonica-17-ayuntamientos-afectados-incendio-sierra-oeste-20260820111232.html"
-    },
-    {
-      "id": "cf9a587164fa6a1150",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-20T10:56:38+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Abonan 3,1 millones en indemnizaciones de los incendios en cultivos y cabañas ganaderas entre 2017 y 2025",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFJVeWZJcjZjaW1QRE5KRjZPUnBhTWdmT1dPYkhsdHdTcWtwd2ZfOE1YWFBhdXo5ZWQ5bTI0TDQ1dHNhYWRUbVRoeEsyX2NnaTdQV3lwX2R3ZnFVcDUzcmthV0Vqam9MWTRpQ2U0R1c5U0tybndqd2dScEd1THNMUVl3MHpWWDM3dE9CNjhvYlE2NnlRVGZqZUIxTldQVzF3cFU5TXFhanE4eWdHNVdEdF90UmxhdkpuRUJlR1o1Sl9GUlNqOS02NXJQNW90MnJROWFRRGxxYVpGbFQzTWJSQVUwN2U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ0tQTk15OEotTXgyWVhnVjg3Q0wxTlBvdmROckttYnpVLTlJV1pEWEZRNlkwX2lweUZkRTJoZ0lORFE4S2VPM2Nsc2duVk5qSmlGTVpBRHFGZ2N6dG1wNXlRLUdTZWtYMkVQT2V0RWlEcERhdWlPYjN6dVVLSzNmaHFfUVphQkZPdmFvdWt1WGFxOFdXSW9MMDByWHFHZTZKdGMwd0xTOVE1NVhOZ1VRSHhpOThJRk9ka3pib1ZTazdfMFhkRGZ3dmF6elRSWWE4alN2SHBNeVN3Qk5m?oc=5"
     },
     {
       "id": "1e930bc8127391c49e",
@@ -62,28 +62,16 @@
       "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/El-incendio-en-Aldea-del-Fresno-podria-quedar-extinguido-este-jueves-tras-evolucionar-de-forma-favorable-2-2918128160--20260820085923.html"
     },
     {
-      "id": "709847dd26052d7fa6",
+      "id": "8a8c4d81c8050ecedc",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-20T07:52:06+02:00",
-      "source": "Europa Press",
-      "title": "El incendio en Aldea del Fresno presenta una \"evolución positiva\" durante la noche",
-      "summary": "Emergencias 112 Comunidad de Madrid ha informado de que el incendio declarado este miércoles en Aldea del...",
-      "url": "https://www.europapress.es/madrid/noticia-incendio-aldea-fresno-presenta-evolucion-positiva-noche-20260820075206.html"
-    },
-    {
-      "id": "37529721ff10661429",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-20T07:43:04+02:00",
+      "published": "2026-08-20T07:02:37+02:00",
       "source": "Telemadrid",
       "title": "La Comunidad de Madrid rebaja a nivel 1 el incendio forestal en Aldea del Fresno",
-      "summary": "La Comunidad de Madrid ha rebajado la situación operativa del incendio forestal originado en el término municipal de Aldea del Fresno en la sierra...",
-      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-rebaja-a-nivel-1-el-incendio-forestal-en-Aldea-del-Fresno-0-2918108162--20260820070237.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlZQUWZ4SnVTM2NoQXBhSzVyblI2NUZmeURNVFZ0YWdRMUxDUG5IYmZYWWM1U3VuZThjb0lWWEo5OFdsajkzaFZEc21QSTR4cUE0UkVqT21YZzFSQzlkYm5hZXdiT01mTzFERTBIeHpFMXVnNFBwSHA3aFNYVUFwdHBZOV84UFY5Z2lIeHNNcXNHcnNvZ1hUOXZtUk5YWF9DNmxqYVFkMDlsWjFvcUVtUTNDcF9VUW40Q01rRUlYVnhoMWVVZ2E3eVZHemJObG4tMG16aGhoWTYwaUV1X2FaY2pXZ0tteUtjajg3a0p1bklEQdIB8gFBVV95cUxOMlZQUWZ4SnVTM2NoQXBhSzVyblI2NUZmeURNVFZ0YWdRMUxDUG5IYmZYWWM1U3VuZThjb0lWWEo5OFdsajkzaFZEc21QSTR4cUE0UkVqT21YZzFSQzlkYm5hZXdiT01mTzFERTBIeHpFMXVnNFBwSHA3aFNYVUFwdHBZOV84UFY5Z2lIeHNNcXNHcnNvZ1hUOXZtUk5YWF9DNmxqYVFkMDlsWjFvcUVtUTNDcF9VUW40Q01rRUlYVnhoMWVVZ2E3eVZHemJObG4tMG16aGhoWTYwaUV1X2FaY2pXZ0tteUtjajg3a0p1bklEQQ?oc=5"
     },
     {
       "id": "8c72478115751a8140",
@@ -218,18 +206,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2FiNkNUY1F5N3BVQ3pybEdtT2QwQi1pdWIwVGpSMUh3Tm5IWXVQeFFhbGh4ckhIMHhUUGtTOTYzMDRiVFBmTmlUN1lGX3pCNTR0UUlYYWZuSU8zc3FweHhIUGpCckVzWXN6VEJYb0dLNDEzQTA0V0M0NzBia2NsbExjNjYxMzF2N3lPbkZpa1FXcURIcVYyaThvR3B2WEV3aEhEYkgwbUp2ZC0ya2M3bG9NT0E3cjdtZ1lyV1ZBYnRXQW9sY0lvZzRzbEgwLUEyb3d1TVhBWmnSAewBQVVfeXFMUENYWkVYOGt2Z0szZzJBQzlJbWJyZjNGWEphWXEwZ1RrWFVyaEJacVA1WFBqbmwzM3AyVlVWTVlmcjlGWDlKYlk1VTVIdWIxcVFqWlQ3bGRpekFUN1J4VGtpYnR0bnZ0cWk2MW5rYktabGJjUGNfSEh3MFdpZDdscm8xU2FoOVNwX3g5ek1TTU9Cems5bkljV0NJNHluTW5HRGtreWtnclN0Z1F3NHk1MmFTWXJiTHFrRk9lUlN1a3p5Z2NWWWlmRDhCTDF3TVFjdUxfZnhlSDVpNkpleWZTQXRiRUZFcEZRUFJsb0w?oc=5"
     },
     {
-      "id": "e20caf358db9fbe77c",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T15:58:41+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste: confinados Aldea del Fresno y Villamantilla",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVW9GWkZ1UGxWZ2MzVDdvSTJBOENCRFBQaVFEblRkc1VvZW0yT1d6SE1naG1uNEVCUGtqcXVtd0YtdkMyekxZYW5QdUo1MFRBTmRzLXhINUpmR1REN05pRXAwRUkwczhZT3UxY3RITWtoeHY1S0lHMktlazIzTi1ud3gyaHRwaGU0YkZSaGozM2k5RlFpUVpqZ0RoT25wUHpXRXJfWmFuT0RpMzFoMi14R0x4M2xQbjZvdm9oU20tU01FN3pkLUxrYl9pcHoxaHhMQ3VSVWlNZUJFM2I0ejhrZ1lxX3VCTnNi0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
-    },
-    {
       "id": "348254b982c6c4db6b",
       "type": "news",
       "severity": "critical",
@@ -240,6 +216,18 @@
       "title": "El fuego vuelve a la Sierra Oeste de Madrid: Aldea del Fresno queda confinada y Villamantilla, en alerta",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ZMYVg5dmFqRmloRFhpam0xb2Qzb3BBald1REtjSmNYMTc2Zk10TEk0MmluVDlJYktFNXNBTVpObEVnY1YxalBiZGU3dVd2U1RPUk1Yc29FYjQtQ3pvaVFkenZwRE5oX0tjNDJUX015NVd3Z01ZNFBYUlZZNzB4dU1ISEpscW1jdVdMNGU1Qk5PcnlWS3J6Q0V5bVVfYTAzMmVNeWlmZlM3UmJiNG1HTzFsOXFfXzNwYUNwdzE2NGZkY3ZoMTEtYTZydXQ1elI4NVBuazJFQk8yclZjRUpsZnNiU2pLQlliSWJMTmhCMV9VcmR3ajVrZEtoR0J1Zm8tU2ZWdHh1NWo3QdIBjwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN?oc=5"
+    },
+    {
+      "id": "e20caf358db9fbe77c",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:58:41+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste: confinados Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVW9GWkZ1UGxWZ2MzVDdvSTJBOENCRFBQaVFEblRkc1VvZW0yT1d6SE1naG1uNEVCUGtqcXVtd0YtdkMyekxZYW5QdUo1MFRBTmRzLXhINUpmR1REN05pRXAwRUkwczhZT3UxY3RITWtoeHY1S0lHMktlazIzTi1ud3gyaHRwaGU0YkZSaGozM2k5RlFpUVpqZ0RoT25wUHpXRXJfWmFuT0RpMzFoMi14R0x4M2xQbjZvdm9oU20tU01FN3pkLUxrYl9pcHoxaHhMQ3VSVWlNZUJFM2I0ejhrZ1lxX3VCTnNi0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
     },
     {
       "id": "4ef4fe58945889b787",
@@ -409,17 +397,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 29
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 6
+      "items": 5
     }
   },
   "refresh_seconds": 300
