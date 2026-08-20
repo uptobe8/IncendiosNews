@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T17:41:15+02:00",
+  "generated_at": "2026-08-20T18:05:15+02:00",
   "items": [
+    {
+      "id": "c6b82c3cc9e5555ab6",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-20T17:55:27+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "148.500 euros en ayudas para empresas abulenses afectadas por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWUta2ZodVZVZlN4WVVSMG9Gdlh3amFRdzZ6Wm5pOUxQSUI2aF91a0g1VXpzeVNSUTBNWEstVnpCMThvZ0xObE5VdTJsc2xWaXEzVkM5YVpaUkYwX25maENQaC1iSEZtbU94emh0ck54YzFBX3laa1dEQlVnMGtaTGVzMkpCcmRpLXU1eUdsSUgybzVBVDFocWZIalZ6a0JBeTlLWGl4c0RMMktuQ19fUlFiMUFMZkMwMlR1Ug?oc=5"
+    },
     {
       "id": "da62bfe1db1d69f952",
       "type": "news",
@@ -36,18 +48,6 @@
       "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
-    },
-    {
-      "id": "257213835e8c264ae6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-20T16:46:04+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "148.500 euros en ayudas para empresas abulenses afectadas por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWUta2ZodVZVZlN4WVVSMG9Gdlh3amFRdzZ6Wm5pOUxQSUI2aF91a0g1VXpzeVNSUTBNWEstVnpCMThvZ0xObE5VdTJsc2xWaXEzVkM5YVpaUkYwX25maENQaC1iSEZtbU94emh0ck54YzFBX3laa1dEQlVnMGtaTGVzMkpCcmRpLXU1eUdsSUgybzVBVDFocWZIalZ6a0JBeTlLWGl4c0RMMktuQ19fUlFiMUFMZkMwMlR1Ug?oc=5"
     },
     {
       "id": "aaf78550853e18858a",
