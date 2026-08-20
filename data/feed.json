@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-20T13:55:08+02:00",
+  "generated_at": "2026-08-20T14:42:53+02:00",
   "items": [
+    {
+      "id": "586a7c0098e80ff748",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-20T14:42:30+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego de Aldea del Fresno evoluciona de forma favorable mientras continúan los trabajos de refresco",
+      "summary": "El incendio forestal declarado en la tarde del miércoles en Aldea del Fresno evoluciona de manera favorable mientras diez dotaciones terrestres...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/El-fuego-de-Aldea-del-Fresno-evoluciona-de-forma-favorable-mientras-continuan-los-trabajos-de-refresco-2-2918128172--20260820024229.html"
+    },
+    {
+      "id": "3ab1da13fb1600faca",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-20T14:40:56+02:00",
+      "source": "Telemadrid",
+      "title": "Activada una línea telefónica directa para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
+      "summary": "La Comunidad de Madrid activa desde este jueves una línea telefónica directa de información para los empleados públicos de los 17 ayuntamientos...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Activada-una-linea-telefonica-directa-para-los-17-ayuntamientos-afectados-por-el-incendio-de-la-Sierra-Oeste-2-2918128170--20260820022946.html"
+    },
+    {
+      "id": "14f7ab73a239529dbc",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-20T14:33:40+02:00",
+      "source": "Telemadrid",
+      "title": "Investigan en Madrid con materiales para reducir el riesgo de incendio",
+      "summary": "TMDHTM20240527_0010 La Comunidad de Madrid investiga materiales con propiedades ignífugas o retardante para reducir el riesgo de incendios. La...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Investigan-en-Madrid-con-materiales-para-reducir-el-riesgo-de-incendio-2-2918128171--20260820023124.html"
+    },
+    {
+      "id": "6bc289d7488da1b67c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T14:31:59+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
+    },
+    {
+      "id": "0d94a18a2fe7edb9db",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T14:04:32+02:00",
+      "source": "Diario de Ávila",
+      "title": "Afianzamiento de inmuebles afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGRmZ0ttczRTMTFYQWllT2I5dkh1YnNzcHJQXzJobkcyWjJQakZhcmNIM0p0d0hxY3p0d0o0bGZIYXU4MlNkNTA1MkFOTEZNT0VxSTJMN1RIZTljSXZEbU1MWTdzeXhOQXhPM3Z2OEstRlB1d0xXY3ZkMjhBRjBDSzJnLWRFb2toSUhnZ0lCdktLbU9tei1NRHQxWHZ4RTZvd2tHdVdueXJZNlJkdWJXeVVjWm9DaTNCSk1fRFE2X0dlRlJ1LVlSS2V5Y04tSW11QnpyNFhYRHpWUQ?oc=5"
+    },
     {
       "id": "78f033bd0170ce2fc1",
       "type": "news",
@@ -12,18 +72,6 @@
       "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
-    },
-    {
-      "id": "53f3dc294bfdc86e06",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T13:32:25+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
     },
     {
       "id": "377d87cd41a89c9faa",
@@ -322,20 +370,8 @@
       "published": "2026-08-19T14:15:42+02:00",
       "source": "Europa Press",
       "title": "La Comunidad ayudará a autónomos y pymes afectados por incendios de la Sierra Oeste a recuperar equipos informáticos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUFMxS3JxM0dvQUNDVVFtN041NzdqQ0x1Vl9SNThHZzJWNDRkSmJqUWJzYWd3UFZuWHh4c3BLVkhwSXMwSGs2THNVS3czcWVVNWdNcU05OEhmVUVaeUdQeHkxdmgwdmVlQUFvXzVHa2g1MnVVeGtaMVFZZW5EZ2pOZlB5Y2w4QVRpRXY0c2RmSVJyNDhYSV9PQ083Z3lfTUNySHBUVFc2SjFleXplOVprcFNTUGdGX05CVkt5RGtnem1TLUpxU01WM1FzTnlfMGFWRmVtZmZHa0lwRmpxcGdpcG9tWGpDb1AxckIzdlJDcFM?oc=5"
-    },
-    {
-      "id": "bb94d0a905f9fd9754",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T13:55:58+02:00",
-      "source": "EL PAÍS",
-      "title": "La Comunidad de Madrid destina un millón de euros para ayudar a autónomos y pymes afectados por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0ljWGROTEdWeEZ2M2hHWTY0SmYycnVlU2k2UVdranVhM0RleXFCNGw4RWtFVmQzbVJ3MXJzdHJMX09KQ0NnT044UFFxQ2tmNDJfZ3pFVVZBNXFnNWdMUHg5S3N2M25nZEFRVVQxWjN5dE9oN3ZFWVdxODBrLWoyLXFydDBwb0RiU1JWZzBoSHRESG9fbUE0UkNMc1FmTHViOC1pUmd0bjM4SWg0d0ZxdkJDN3ZETkJEZGFkRE10MWg1ZW1sVF9WTXBKMExaejRibEloNy1nS0hVbXVEVW9IcGlVX19FZkJCTmVySWdKc9IBgwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN?oc=5"
+      "summary": "La Comunidad de Madrid ayudará a los autónomos, comercios, profesionales y pequeñas y medianas empresas...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-ayudara-autonomos-pymes-afectados-incendios-sierra-oeste-recuperar-equipos-informaticos-20260819141542.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -451,11 +487,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 32
+      "items": 31
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 7
     }
   },
   "refresh_seconds": 300
