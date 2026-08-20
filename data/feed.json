@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-20T10:45:24+02:00",
+  "generated_at": "2026-08-20T11:18:41+02:00",
   "items": [
+    {
+      "id": "a33dc34c49c5379abc",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-20T11:12:32+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
+      "summary": "La Comunidad de Madrid activa desde este jueves una línea telefónica directa de información para los...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-activa-linea-telefonica-17-ayuntamientos-afectados-incendio-sierra-oeste-20260820111232.html"
+    },
+    {
+      "id": "cf9a587164fa6a1150",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-20T10:56:38+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Abonan 3,1 millones en indemnizaciones de los incendios en cultivos y cabañas ganaderas entre 2017 y 2025",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFJVeWZJcjZjaW1QRE5KRjZPUnBhTWdmT1dPYkhsdHdTcWtwd2ZfOE1YWFBhdXo5ZWQ5bTI0TDQ1dHNhYWRUbVRoeEsyX2NnaTdQV3lwX2R3ZnFVcDUzcmthV0Vqam9MWTRpQ2U0R1c5U0tybndqd2dScEd1THNMUVl3MHpWWDM3dE9CNjhvYlE2NnlRVGZqZUIxTldQVzF3cFU5TXFhanE4eWdHNVdEdF90UmxhdkpuRUJlR1o1Sl9GUlNqOS02NXJQNW90MnJROWFRRGxxYVpGbFQzTWJSQVUwN2U?oc=5"
+    },
     {
       "id": "1e930bc8127391c49e",
       "type": "news",
@@ -23,7 +47,7 @@
       "source": "EL PAÍS",
       "title": "El incendio de Aldea del Fresno continúa estabilizado y su evolución es “positiva”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTBDWVJUX0d6ZmtobGs3Szkwd00zRlVvQnFJVUp1cEVUaGtDNVVwakV5cWxBaWlGc1dudEQwNXlKWWJfVk9zUmVhaFNKVUEtbGRmek05d2V2UkNIcFFhaXRuc2tCWDJkZ3hCTTcwUFpSczBCQktPTDBZUlZVSEVzSDIxNUhBUXE2ZmlINVFLM3B5elR2X0ZpLWhuZlVnRFk3TThtY3dOS000OGxRUVFtcVBqQTZOY3ZmcFpQODBlUmFRQnZWbG0yX1JzY0hHZkVvd0JvdVR3TjRoNy1w0gHcAUFVX3lxTE1xMENZUlRfR3pma2hsazdLOTB3TTNGVW9CcUlVSnVwRVRoa0M1VXBqRXlxbEFpaUZzV250RDA1eUpZYl9WT3NSZWFoU0pVQS1sZGZ6TTl3ZXZSQ0hwUWFpdG5za0JYMmRneEJNNzBQWlJzMEJCS09MMFlSVlVIRXNIMjE1SEFRcTZmaUg1UUszcHl6VHZfRmktaG5mVWdEWTdNOG1jd05LTTQ4bFFRUW1xUGpBNk5jdmZwWlA4MGVSYVFCdlZsbTJfUnNjSEdmRW93Qm91VHdONGg3LXA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWtab0lGU0RhS01JWUpUZ2xkalpVUHA3c2E0ZXRWeW5XM0JENFZ2QWROWDkzNEJaYmtQYlRucWRuRlVHdjBVcXpwQkNhTEl0ZWx0Nm0yR2haa2xsajQ3dnluQl80TmRCRS1fSEV0ZTh6TWZWOFZSR3k4d0stdE9ndXEzRl80MXdWWVlzNVd3RHRDQjNUY1QycHZRZFBDdElyNGppckhSVUVZdVNQOFhQV2MtMExOUUo1dXBBeGJxcWd4Njh6VDJNTNIB3AFBVV95cUxNcTBDWVJUX0d6ZmtobGs3Szkwd00zRlVvQnFJVUp1cEVUaGtDNVVwakV5cWxBaWlGc1dudEQwNXlKWWJfVk9zUmVhaFNKVUEtbGRmek05d2V2UkNIcFFhaXRuc2tCWDJkZ3hCTTcwUFpSczBCQktPTDBZUlZVSEVzSDIxNUhBUXE2ZmlINVFLM3B5elR2X0ZpLWhuZlVnRFk3TThtY3dOS000OGxRUVFtcVBqQTZOY3ZmcFpQODBlUmFRQnZWbG0yX1JzY0hHZkVvd0JvdVR3TjRoNy1w?oc=5"
     },
     {
       "id": "797192ebfdf6bd17e4",
@@ -391,11 +415,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 6
     }
   },
   "refresh_seconds": 300
