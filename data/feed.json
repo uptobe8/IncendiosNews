@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-20T22:39:37+02:00",
+  "generated_at": "2026-08-20T23:03:31+02:00",
   "items": [
-    {
-      "id": "e55ef72ca3211e1018",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-20T21:15:45+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "148.500 euros en ayudas para empresas abulenses afectadas por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWUta2ZodVZVZlN4WVVSMG9Gdlh3amFRdzZ6Wm5pOUxQSUI2aF91a0g1VXpzeVNSUTBNWEstVnpCMThvZ0xObE5VdTJsc2xWaXEzVkM5YVpaUkYwX25maENQaC1iSEZtbU94emh0ck54YzFBX3laa1dEQlVnMGtaTGVzMkpCcmRpLXU1eUdsSUgybzVBVDFocWZIalZ6a0JBeTlLWGl4c0RMMktuQ19fUlFiMUFMZkMwMlR1Ug?oc=5"
-    },
     {
       "id": "2744b6e8a01b9d8bf3",
       "type": "news",
@@ -38,12 +26,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWY2ZnAzc3pUdmt2N3V4M2Q2RUx6OTlFaFdud0FWZm5tNE4yQTNXd29OUzF1eDllc0tTOWFVdUdadnRzd2RaRFppVENDS2RFMXhOblBvVFQtb3kwanpRZVZfeTdFNW5LZmMycDNNdXBwcjVucktjMG1xbnFXWXRCdC03SzBaYk1jVFVQSHNJNTlTRHFmT0hYdTZ0Q1VXUjgycHplZTRuOUtRejF6S1QxZW9PNXRaWUJzZ0xuVkdxTy1UZXBfTlFweUp3bEtYWk1CdGc?oc=5"
     },
     {
-      "id": "468281c41cbfcaf0b2",
+      "id": "d1a155e058c97c5580",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-08-20T16:56:38+02:00",
+      "published": "2026-08-20T19:52:00+02:00",
       "source": "Tribuna de Ávila",
       "title": "Abonan 3,1 millones en indemnizaciones de los incendios en cultivos y cabañas ganaderas entre 2017 y 2025",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -307,7 +295,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 13
+      "items": 12
     },
     "direct_media": {
       "ok": true,
