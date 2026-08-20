@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T19:49:02+02:00",
+  "generated_at": "2026-08-20T20:16:47+02:00",
   "items": [
+    {
+      "id": "fb72f8667c154503fe",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T20:15:54+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El Gobierno no confirma que los incendios posteriores al de Burgohondo fueran intencionados",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWY2ZnAzc3pUdmt2N3V4M2Q2RUx6OTlFaFdud0FWZm5tNE4yQTNXd29OUzF1eDllc0tTOWFVdUdadnRzd2RaRFppVENDS2RFMXhOblBvVFQtb3kwanpRZVZfeTdFNW5LZmMycDNNdXBwcjVucktjMG1xbnFXWXRCdC03SzBaYk1jVFVQSHNJNTlTRHFmT0hYdTZ0Q1VXUjgycHplZTRuOUtRejF6S1QxZW9PNXRaWUJzZ0xuVkdxTy1UZXBfTlFweUp3bEtYWk1CdGc?oc=5"
+    },
     {
       "id": "25cc831fe64c0c5438",
       "type": "news",
@@ -26,18 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFJVeWZJcjZjaW1QRE5KRjZPUnBhTWdmT1dPYkhsdHdTcWtwd2ZfOE1YWFBhdXo5ZWQ5bTI0TDQ1dHNhYWRUbVRoeEsyX2NnaTdQV3lwX2R3ZnFVcDUzcmthV0Vqam9MWTRpQ2U0R1c5U0tybndqd2dScEd1THNMUVl3MHpWWDM3dE9CNjhvYlE2NnlRVGZqZUIxTldQVzF3cFU5TXFhanE4eWdHNVdEdF90UmxhdkpuRUJlR1o1Sl9GUlNqOS02NXJQNW90MnJROWFRRGxxYVpGbFQzTWJSQVUwN2U?oc=5"
     },
     {
-      "id": "9488dabd72a6ae8e7b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T16:46:04+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
-    },
-    {
       "id": "aaf78550853e18858a",
       "type": "news",
       "severity": "info",
@@ -60,6 +60,18 @@
       "title": "Afianzamiento de urgencia de inmuebles afectados por el fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGRmZ0ttczRTMTFYQWllT2I5dkh1YnNzcHJQXzJobkcyWjJQakZhcmNIM0p0d0hxY3p0d0o0bGZIYXU4MlNkNTA1MkFOTEZNT0VxSTJMN1RIZTljSXZEbU1MWTdzeXhOQXhPM3Z2OEstRlB1d0xXY3ZkMjhBRjBDSzJnLWRFb2toSUhnZ0lCdktLbU9tei1NRHQxWHZ4RTZvd2tHdVdueXJZNlJkdWJXeVVjWm9DaTNCSk1fRFE2X0dlRlJ1LVlSS2V5Y04tSW11QnpyNFhYRHpWUQ?oc=5"
+    },
+    {
+      "id": "61c308a830c80e8c22",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T13:51:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
     },
     {
       "id": "377d87cd41a89c9faa",
@@ -170,18 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ZMYVg5dmFqRmloRFhpam0xb2Qzb3BBald1REtjSmNYMTc2Zk10TEk0MmluVDlJYktFNXNBTVpObEVnY1YxalBiZGU3dVd2U1RPUk1Yc29FYjQtQ3pvaVFkenZwRE5oX0tjNDJUX015NVd3Z01ZNFBYUlZZNzB4dU1ISEpscW1jdVdMNGU1Qk5PcnlWS3J6Q0V5bVVfYTAzMmVNeWlmZlM3UmJiNG1HTzFsOXFfXzNwYUNwdzE2NGZkY3ZoMTEtYTZydXQ1elI4NVBuazJFQk8yclZjRUpsZnNiU2pLQlliSWJMTmhCMV9VcmR3ajVrZEtoR0J1Zm8tU2ZWdHh1NWo3QdIBjwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN?oc=5"
     },
     {
-      "id": "b1ecfe015dcf673b78",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T21:27:13+02:00",
-      "source": "Cadena SER",
-      "title": "Incendio en la Sierra Oeste de Madrid: confinadas las localidades de Aldea del Fresno y Villamantilla",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bF9WVjUtTmNkWllaZm5XZWVOZ3hSU0FEd0toUFlBSnQzZDFoRjhZaFdBN1YzcGdoVVJkV2l6ZUtBaUVQRVlSanhwRm5seWxUM2tHXw?oc=5"
-    },
-    {
       "id": "861aba625e6509ccef",
       "type": "news",
       "severity": "critical",
@@ -204,6 +204,18 @@
       "title": "El incendio forestal en Aldea del Fresno está ya en fase de estabilización",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEw4UWk1WDJabkNPaEFDYkt2clUwYTRCQUIxdWpvM3FVd2xtajB2Z1lrMXExTWlrVklXcTJNcG5XWlMzWnlYbWlQRmFyd0doM2xLT2o5RWlyRjBwdGFQX1kxQTB3VnA1dThsd0FJNHdoTS1POUw5RmVLb0Q5SGNfT1lGQUxmbUxiZVN2R2VjOFZlTjRvTEVvRE9Lakd6Sktkd0VDeVJzdkUxdU4zWEZyM0dkellJR3NwM0ZQMGd5SnVCb1RURkxwLTU3S3duNTlYTmxOMTktRG1zdG81Y2xxVFlFcWhnVzVubVlZUnZ1QkrSAfYBQVVfeXFMUDgtTjlOemtuMDRLSnVzTkY4WHFTV0hRNnI0b1dZc29fVDdpZjNFcnY2VS0tOUJrY1llSXYzbzBEa2lDeTE1V0ZQdGhEUVRRMi1fdWx3ZWlLbHVZQ2c2N3BqdHF2eGdnM0NEYkUya1Z5LTRVZzJHY3lUNWVzandLcGFjX3prQk15UTNyNnVHSzIzU3hPQjJ5X1FTR1lUOFQ3eEJacHVzUHAtNVItU2podzRQNW1jWi1lQnlzZjlUUFR2YS13RExYRzNoTHpqeDRwQV9waUE3UWFKVE5IQVAtTjdOWFgwSWRKRURVWDM1djJQaWlwSmFn?oc=5"
+    },
+    {
+      "id": "a9263dff06fc0355cf",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T20:24:24+02:00",
+      "source": "Cadena SER",
+      "title": "Incendio en la Sierra Oeste de Madrid: confinadas las localidades de Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ocFJlUGI2dG9KWEJGcTUzeS1kaVIxUy1hYjVDcXRrUVUyV1hxRTZqWHp4Qk54U01jOEZxb0prcjRjSzhhOHBKS1JYLWxEYTVpZVlV?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
