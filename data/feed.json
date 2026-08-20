@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-08-20T19:15:19+02:00",
+  "generated_at": "2026-08-20T19:49:02+02:00",
   "items": [
     {
-      "id": "c6b82c3cc9e5555ab6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-20T17:55:27+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "148.500 euros en ayudas para empresas abulenses afectadas por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWUta2ZodVZVZlN4WVVSMG9Gdlh3amFRdzZ6Wm5pOUxQSUI2aF91a0g1VXpzeVNSUTBNWEstVnpCMThvZ0xObE5VdTJsc2xWaXEzVkM5YVpaUkYwX25maENQaC1iSEZtbU94emh0ck54YzFBX3laa1dEQlVnMGtaTGVzMkpCcmRpLXU1eUdsSUgybzVBVDFocWZIalZ6a0JBeTlLWGl4c0RMMktuQ19fUlFiMUFMZkMwMlR1Ug?oc=5"
-    },
-    {
-      "id": "da62bfe1db1d69f952",
+      "id": "25cc831fe64c0c5438",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-20T17:25:16+02:00",
+      "published": "2026-08-20T19:32:25+02:00",
       "source": "Tribuna de Ávila",
       "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -182,6 +170,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ZMYVg5dmFqRmloRFhpam0xb2Qzb3BBald1REtjSmNYMTc2Zk10TEk0MmluVDlJYktFNXNBTVpObEVnY1YxalBiZGU3dVd2U1RPUk1Yc29FYjQtQ3pvaVFkenZwRE5oX0tjNDJUX015NVd3Z01ZNFBYUlZZNzB4dU1ISEpscW1jdVdMNGU1Qk5PcnlWS3J6Q0V5bVVfYTAzMmVNeWlmZlM3UmJiNG1HTzFsOXFfXzNwYUNwdzE2NGZkY3ZoMTEtYTZydXQ1elI4NVBuazJFQk8yclZjRUpsZnNiU2pLQlliSWJMTmhCMV9VcmR3ajVrZEtoR0J1Zm8tU2ZWdHh1NWo3QdIBjwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN?oc=5"
     },
     {
+      "id": "b1ecfe015dcf673b78",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T21:27:13+02:00",
+      "source": "Cadena SER",
+      "title": "Incendio en la Sierra Oeste de Madrid: confinadas las localidades de Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bF9WVjUtTmNkWllaZm5XZWVOZ3hSU0FEd0toUFlBSnQzZDFoRjhZaFdBN1YzcGdoVVJkV2l6ZUtBaUVQRVlSanhwRm5seWxUM2tHXw?oc=5"
+    },
+    {
       "id": "861aba625e6509ccef",
       "type": "news",
       "severity": "critical",
@@ -204,18 +204,6 @@
       "title": "El incendio forestal en Aldea del Fresno está ya en fase de estabilización",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEw4UWk1WDJabkNPaEFDYkt2clUwYTRCQUIxdWpvM3FVd2xtajB2Z1lrMXExTWlrVklXcTJNcG5XWlMzWnlYbWlQRmFyd0doM2xLT2o5RWlyRjBwdGFQX1kxQTB3VnA1dThsd0FJNHdoTS1POUw5RmVLb0Q5SGNfT1lGQUxmbUxiZVN2R2VjOFZlTjRvTEVvRE9Lakd6Sktkd0VDeVJzdkUxdU4zWEZyM0dkellJR3NwM0ZQMGd5SnVCb1RURkxwLTU3S3duNTlYTmxOMTktRG1zdG81Y2xxVFlFcWhnVzVubVlZUnZ1QkrSAfYBQVVfeXFMUDgtTjlOemtuMDRLSnVzTkY4WHFTV0hRNnI0b1dZc29fVDdpZjNFcnY2VS0tOUJrY1llSXYzbzBEa2lDeTE1V0ZQdGhEUVRRMi1fdWx3ZWlLbHVZQ2c2N3BqdHF2eGdnM0NEYkUya1Z5LTRVZzJHY3lUNWVzandLcGFjX3prQk15UTNyNnVHSzIzU3hPQjJ5X1FTR1lUOFQ3eEJacHVzUHAtNVItU2podzRQNW1jWi1lQnlzZjlUUFR2YS13RExYRzNoTHpqeDRwQV9waUE3UWFKVE5IQVAtTjdOWFgwSWRKRURVWDM1djJQaWlwSmFn?oc=5"
-    },
-    {
-      "id": "a9263dff06fc0355cf",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T20:24:24+02:00",
-      "source": "Cadena SER",
-      "title": "Incendio en la Sierra Oeste de Madrid: confinadas las localidades de Aldea del Fresno y Villamantilla",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ocFJlUGI2dG9KWEJGcTUzeS1kaVIxUy1hYjVDcXRrUVUyV1hxRTZqWHp4Qk54U01jOEZxb0prcjRjSzhhOHBKS1JYLWxEYTVpZVlV?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -331,7 +319,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 16
+      "items": 15
     },
     "direct_media": {
       "ok": true,
