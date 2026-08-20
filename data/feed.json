@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:42:53+02:00",
+  "generated_at": "2026-08-20T15:34:32+02:00",
   "items": [
     {
       "id": "586a7c0098e80ff748",
@@ -14,30 +14,6 @@
       "url": "https://www.telemadrid.es/programas/telenoticias-1/El-fuego-de-Aldea-del-Fresno-evoluciona-de-forma-favorable-mientras-continuan-los-trabajos-de-refresco-2-2918128172--20260820024229.html"
     },
     {
-      "id": "3ab1da13fb1600faca",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-20T14:40:56+02:00",
-      "source": "Telemadrid",
-      "title": "Activada una línea telefónica directa para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid activa desde este jueves una línea telefónica directa de información para los empleados públicos de los 17 ayuntamientos...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Activada-una-linea-telefonica-directa-para-los-17-ayuntamientos-afectados-por-el-incendio-de-la-Sierra-Oeste-2-2918128170--20260820022946.html"
-    },
-    {
-      "id": "14f7ab73a239529dbc",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-20T14:33:40+02:00",
-      "source": "Telemadrid",
-      "title": "Investigan en Madrid con materiales para reducir el riesgo de incendio",
-      "summary": "TMDHTM20240527_0010 La Comunidad de Madrid investiga materiales con propiedades ignífugas o retardante para reducir el riesgo de incendios. La...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Investigan-en-Madrid-con-materiales-para-reducir-el-riesgo-de-incendio-2-2918128171--20260820023124.html"
-    },
-    {
       "id": "6bc289d7488da1b67c",
       "type": "news",
       "severity": "info",
@@ -48,6 +24,18 @@
       "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
+    },
+    {
+      "id": "aaf78550853e18858a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-20T14:29:46+02:00",
+      "source": "Telemadrid",
+      "title": "Activada una línea telefónica directa para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcldUbnJqalM5azVLS1gzUURlUGhiRGppQjYwR2tmaEkxbThjWkJEUkN6Q01mUGlYdFhmYk5FbVBnejlWQzIzWjBaVGMxVHZhSDlvOWx6eUVHdHpoeEU4bFg1bF9tWTlvM3p3VXZ0djM0NkZoUGMxYTJDYnlRR0FTRVdUNWNWenZkbG96cGZmYjJ1a2ZuSVlZbHFWcmtJUzRleno0eFFyY2d3RkNFd0xDVlQxblhLTGNzSko3NTlKZExieE12bHlwVUhETXZRcHhIVUNjQjQ2UnQzbENxZ3hSa3NQcTExUmo5NTloaHlJb0NsM2xPS3J2WXZocDhseVBROHl2eFp3dENfR0FGb0ZrOXFtZWg2QXVwbF8wek1R0gGjAkFVX3lxTFBfeFNNZjIxMWJvQzNLRE5Ka0FmRFJSVVhDQldEeVpFTlo3SjJ3dGVJX2lRUWJpS0dhMXBLSEszamgtMWVoQzc3X29RLXM1X2ZzOFplMnlNWkZFMjVoS3NMMDhqVjZUVGoydVJ6U2RvdnBfbXAwdUZ0ZllJbHNWcmRSd2ZJRWtMS3FQQkEzYlZMYURncFUyT0tXQWxlcGJzRDM4RDg2U1dKZWtuM1g2UmZlS0F4V1dXN3habi1zeDVtcFU1MXhqN0cyZndMRXZaNHk1QjNNcTl5X2xaWHNSd3ZDSk5tMm1jQm90Vnd4QVpvMTFhdWRNaEVZQWUyVGtlQnFnamQydnRGb2NuQ2JHY05vaFh1bnd6anF4SHdOR2IwbTFTdw?oc=5"
     },
     {
       "id": "0d94a18a2fe7edb9db",
@@ -155,7 +143,7 @@
       "source": "EL PAÍS",
       "title": "El incendio de Aldea del Fresno continúa estabilizado y su evolución es “positiva”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWtab0lGU0RhS01JWUpUZ2xkalpVUHA3c2E0ZXRWeW5XM0JENFZ2QWROWDkzNEJaYmtQYlRucWRuRlVHdjBVcXpwQkNhTEl0ZWx0Nm0yR2haa2xsajQ3dnluQl80TmRCRS1fSEV0ZTh6TWZWOFZSR3k4d0stdE9ndXEzRl80MXdWWVlzNVd3RHRDQjNUY1QycHZRZFBDdElyNGppckhSVUVZdVNQOFhQV2MtMExOUUo1dXBBeGJxcWd4Njh6VDJNTNIB3AFBVV95cUxNcTBDWVJUX0d6ZmtobGs3Szkwd00zRlVvQnFJVUp1cEVUaGtDNVVwakV5cWxBaWlGc1dudEQwNXlKWWJfVk9zUmVhaFNKVUEtbGRmek05d2V2UkNIcFFhaXRuc2tCWDJkZ3hCTTcwUFpSczBCQktPTDBZUlZVSEVzSDIxNUhBUXE2ZmlINVFLM3B5elR2X0ZpLWhuZlVnRFk3TThtY3dOS000OGxRUVFtcVBqQTZOY3ZmcFpQODBlUmFRQnZWbG0yX1JzY0hHZkVvd0JvdVR3TjRoNy1w?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTBDWVJUX0d6ZmtobGs3Szkwd00zRlVvQnFJVUp1cEVUaGtDNVVwakV5cWxBaWlGc1dudEQwNXlKWWJfVk9zUmVhaFNKVUEtbGRmek05d2V2UkNIcFFhaXRuc2tCWDJkZ3hCTTcwUFpSczBCQktPTDBZUlZVSEVzSDIxNUhBUXE2ZmlINVFLM3B5elR2X0ZpLWhuZlVnRFk3TThtY3dOS000OGxRUVFtcVBqQTZOY3ZmcFpQODBlUmFRQnZWbG0yX1JzY0hHZkVvd0JvdVR3TjRoNy1w0gHcAUFVX3lxTE1xMENZUlRfR3pma2hsazdLOTB3TTNGVW9CcUlVSnVwRVRoa0M1VXBqRXlxbEFpaUZzV250RDA1eUpZYl9WT3NSZWFoU0pVQS1sZGZ6TTl3ZXZSQ0hwUWFpdG5za0JYMmRneEJNNzBQWlJzMEJCS09MMFlSVlVIRXNIMjE1SEFRcTZmaUg1UUszcHl6VHZfRmktaG5mVWdEWTdNOG1jd05LTTQ4bFFRUW1xUGpBNk5jdmZwWlA4MGVSYVFCdlZsbTJfUnNjSEdmRW93Qm91VHdONGg3LXA?oc=5"
     },
     {
       "id": "8a8c4d81c8050ecedc",
@@ -487,11 +475,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "direct_media": {
       "ok": true,
-      "items": 7
+      "items": 5
     }
   },
   "refresh_seconds": 300
