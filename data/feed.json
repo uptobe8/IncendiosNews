@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:59:55+02:00",
+  "generated_at": "2026-08-21T01:33:30+02:00",
   "items": [
     {
       "id": "0fab37dcd89739d2aa",
@@ -170,18 +170,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUJpVFZWRUxWN0pzLTdOUno4VVBSOG95S09Ddk5qUG9SUTNxU09KalJSNTk1Vk51Y1l4dzVyUlhXSnlReUpVZk1ONUF2YzJ5VDBRZVFtbTZpTm1ubDZObnZKb3pjMmFKY0JsYlVjVTFyVUdfMGpDN1NjUjcxeXNNcWkzeklYVEhwajlLYm4tUEFpTDAwTE9LNDYzWklKVnFvVEVxcFNaV3Z2cTVWbERFR19GeFpacG40WERYdmdyM0liZGt0bUtJMHpDQl93dnotaERBVG9YS1NJUzVmbGZHOWJKRWJyM1k2eDE0NlJVVi1oRjdzbm0tSEc1b1lybnBvRTBrVNIBmAJBVV95cUxNS3Uyd2ZKNVNCR05RX2tmQ3BZbVp3TFpuRXdYbWp5MEVRZ2twcG1CQ2pnZlpWdFdwTmI5a3VZbjdWQ1pQSmc1MTIxY29OMjBhNzlwZUdRRHJYTXZlSi1pSUhmRVB2eDNUOUtfcnhwX1A5WFJkRlBpNU00YktqYVpHU2hkQ1REV2RvQV90Vk15SGl4R1dGR0s0UHN5enFJZWtfYW9Ld2ZEVWdxbTdCWEZ2YnBLaHItZFZMUVpfOWxzTTZMeThMZUpreklXSVptVWVkUktqQ1E0amY3Y3Rja1NLTWJyRERoeVdsTmV5UFo3SWcweUY4UVpvM0pPUTE2dDhmTjhfQTFXcUVpSTVCcUd4WmEzdk9mRzFi?oc=5"
     },
     {
-      "id": "845b5e9f3a9e32fbd1",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-20T01:05:00+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste de Madrid: Aldea del Fresno queda confinada y Villamantilla, en alerta",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ZMYVg5dmFqRmloRFhpam0xb2Qzb3BBald1REtjSmNYMTc2Zk10TEk0MmluVDlJYktFNXNBTVpObEVnY1YxalBiZGU3dVd2U1RPUk1Yc29FYjQtQ3pvaVFkenZwRE5oX0tjNDJUX015NVd3Z01ZNFBYUlZZNzB4dU1ISEpscW1jdVdMNGU1Qk5PcnlWS3J6Q0V5bVVfYTAzMmVNeWlmZlM3UmJiNG1HTzFsOXFfXzNwYUNwdzE2NGZkY3ZoMTEtYTZydXQ1elI4NVBuazJFQk8yclZjRUpsZnNiU2pLQlliSWJMTmhCMV9VcmR3ajVrZEtoR0J1Zm8tU2ZWdHh1NWo3QdIBjwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN?oc=5"
-    },
-    {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
       "severity": "critical",
@@ -295,7 +283,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 12
+      "items": 11
     },
     "direct_media": {
       "ok": true,
