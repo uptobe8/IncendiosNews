@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-20T07:14:48+02:00",
+  "generated_at": "2026-08-20T07:49:02+02:00",
   "items": [
     {
-      "id": "9561aa05ab29dbc8f6",
+      "id": "37529721ff10661429",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-20T07:02:38+02:00",
+      "published": "2026-08-20T07:43:04+02:00",
       "source": "Telemadrid",
       "title": "La Comunidad de Madrid rebaja a nivel 1 el incendio forestal en Aldea del Fresno",
       "summary": "La Comunidad de Madrid ha rebajado la situación operativa del incendio forestal originado en el término municipal de Aldea del Fresno en la sierra...",
@@ -343,7 +343,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 17
+      "items": 18
     },
     "direct_media": {
       "ok": true,
