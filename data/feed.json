@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T05:08:20+02:00",
+  "generated_at": "2026-08-20T05:57:06+02:00",
   "items": [
+    {
+      "id": "8c72478115751a8140",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-20T04:15:00+02:00",
+      "source": "Cadena SER",
+      "title": "La reconstrucción del monte después de un incendio: \"Harán falta entre 20 y 50 años para recuperar la Sierra Oeste (Madrid)\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUJpVFZWRUxWN0pzLTdOUno4VVBSOG95S09Ddk5qUG9SUTNxU09KalJSNTk1Vk51Y1l4dzVyUlhXSnlReUpVZk1ONUF2YzJ5VDBRZVFtbTZpTm1ubDZObnZKb3pjMmFKY0JsYlVjVTFyVUdfMGpDN1NjUjcxeXNNcWkzeklYVEhwajlLYm4tUEFpTDAwTE9LNDYzWklKVnFvVEVxcFNaV3Z2cTVWbERFR19GeFpacG40WERYdmdyM0liZGt0bUtJMHpDQl93dnotaERBVG9YS1NJUzVmbGZHOWJKRWJyM1k2eDE0NlJVVi1oRjdzbm0tSEc1b1lybnBvRTBrVNIBmAJBVV95cUxNS3Uyd2ZKNVNCR05RX2tmQ3BZbVp3TFpuRXdYbWp5MEVRZ2twcG1CQ2pnZlpWdFdwTmI5a3VZbjdWQ1pQSmc1MTIxY29OMjBhNzlwZUdRRHJYTXZlSi1pSUhmRVB2eDNUOUtfcnhwX1A5WFJkRlBpNU00YktqYVpHU2hkQ1REV2RvQV90Vk15SGl4R1dGR0s0UHN5enFJZWtfYW9Ld2ZEVWdxbTdCWEZ2YnBLaHItZFZMUVpfOWxzTTZMeThMZUpreklXSVptVWVkUktqQ1E0amY3Y3Rja1NLTWJyRERoeVdsTmV5UFo3SWcweUY4UVpvM0pPUTE2dDhmTjhfQTFXcUVpSTVCcUd4WmEzdk9mRzFi?oc=5"
+    },
     {
       "id": "78140586f8299fe180",
       "type": "news",
@@ -50,6 +62,30 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEw4UWk1WDJabkNPaEFDYkt2clUwYTRCQUIxdWpvM3FVd2xtajB2Z1lrMXExTWlrVklXcTJNcG5XWlMzWnlYbWlQRmFyd0doM2xLT2o5RWlyRjBwdGFQX1kxQTB3VnA1dThsd0FJNHdoTS1POUw5RmVLb0Q5SGNfT1lGQUxmbUxiZVN2R2VjOFZlTjRvTEVvRE9Lakd6Sktkd0VDeVJzdkUxdU4zWEZyM0dkellJR3NwM0ZQMGd5SnVCb1RURkxwLTU3S3duNTlYTmxOMTktRG1zdG81Y2xxVFlFcWhnVzVubVlZUnZ1QkrSAfYBQVVfeXFMUDgtTjlOemtuMDRLSnVzTkY4WHFTV0hRNnI0b1dZc29fVDdpZjNFcnY2VS0tOUJrY1llSXYzbzBEa2lDeTE1V0ZQdGhEUVRRMi1fdWx3ZWlLbHVZQ2c2N3BqdHF2eGdnM0NEYkUya1Z5LTRVZzJHY3lUNWVzandLcGFjX3prQk15UTNyNnVHSzIzU3hPQjJ5X1FTR1lUOFQ3eEJacHVzUHAtNVItU2podzRQNW1jWi1lQnlzZjlUUFR2YS13RExYRzNoTHpqeDRwQV9waUE3UWFKVE5IQVAtTjdOWFgwSWRKRURVWDM1djJQaWlwSmFn?oc=5"
     },
     {
+      "id": "a9263dff06fc0355cf",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T20:24:24+02:00",
+      "source": "Cadena SER",
+      "title": "Incendio en la Sierra Oeste de Madrid: confinadas las localidades de Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ocFJlUGI2dG9KWEJGcTUzeS1kaVIxUy1hYjVDcXRrUVUyV1hxRTZqWHp4Qk54U01jOEZxb0prcjRjSzhhOHBKS1JYLWxEYTVpZVlV?oc=5"
+    },
+    {
+      "id": "27ce9977fe3d80296d",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T19:13:54+02:00",
+      "source": "Cadena SER",
+      "title": "Un nuevo incendio en Aldea del Fresno (Madrid) obliga a activar la situación operativa 2 y a confinar dos municipios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWdNUlpxZ29hcGZ6OUNRUWpwNmZPbGJEMWpPX1JNVm9FVDZfQWFXVTFoQ1hsZTIyQnA1MVhaWHpGOERET0JvMVpKdTRZZ2EwRUwzNHpZWVJ6ZHRCMGQ5cS0tSno3bXRoTUZSaWtYTk91OG9SSW1VdzJadDVDanc1djZ3bHFST3pGel9sQV9BOWpHZmJualdmWFBRcHZIc0pibkJiQi1VbWFqblFKRzRQeGZvTjRZeVpCUzRHdDNINVpIaVh6bVdmNUtfQ0cydk1oUURBZjdKN0g2WGxqS2QySTNsdVAwQTNkSHFDWEhoS2l6UzctdERKLWdNMHM1d9IBkgJBVV95cUxONTRIbzI2MUdtaUN1ZzVEOE45X3NjYzN0a2ZqbWF4Qi1GNTluLXo2N1BjWXVFWjhHaTFHS2xSRnJlQ2FNTGFyV3NpVGlmb29SQm1MaWEybm1zN3lPSFJ4Z0YwbXhuVVM5ZW04N0RNU0hkVUFNOC02ZXQwMzZBd2hrLW5ZZXZobVpnMHk4aXl5cUhzUW9zOVM3cnBoZWVOUXNLVjZscGY3SkxtRWRpVW9IVk1qTnoySG5MY2gxaFIwUEdOc2pWUlJXN3JoS3l5RlhwOXVjTUtOSWdnYVc0dXZqLWZGX3BQak9mVDhUV3J5MS1DMlppampYVkhUdFB0d2RPLW5zVGdMOWk5aWxjaTZ2WV93?oc=5"
+    },
+    {
       "id": "9aefd4218375ab72e9",
       "type": "news",
       "severity": "critical",
@@ -86,13 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRdIB-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRQ?oc=5"
     },
     {
-      "id": "a2db6e5427dea79af2",
+      "id": "1714cb63d5fed17096",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-19T16:42:59+02:00",
-      "source": "rtve.es",
+      "source": "RTVE.es",
       "title": "Estabilizado el nuevo incendio en la Sierra Oeste de Madrid que ha vuelto a hacer saltar las alarmas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWF9FaUtodXBESVJNYWtmWER3N0lXcEdLcnNmRG5GSUVyR0dBOENIR1EtTm5JNzZ6aERSS1V3RTkzaVZ4bERpUzVZRDd6UFUtdm1MTjcwdFZwYkJ5aEdULTZrZ2VaaHo3Y3cyczgySXNuMXVLS0JxNklKM21ycFVDczJQMDNPT2d6anJQY0Q5VVNWczN6OGV3VG8tSFF6VHd1dnh5UVAzWlN3MXFldm9xcm1YRUg1SlYza2xJWnFMT1YtX195a2xkck9LdWhRdEhDYUFLSjJsZHVtdw?oc=5"
@@ -331,7 +367,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 21
+      "items": 24
     },
     "direct_media": {
       "ok": true,
