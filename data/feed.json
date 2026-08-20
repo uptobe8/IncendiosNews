@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:24:57+02:00",
+  "generated_at": "2026-08-20T12:57:00+02:00",
   "items": [
     {
       "id": "3edc319e11d4b9c04c",
@@ -48,18 +48,6 @@
       "title": "El incendio de Aldea del Fresno continúa estabilizado y su evolución es “positiva”",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWtab0lGU0RhS01JWUpUZ2xkalpVUHA3c2E0ZXRWeW5XM0JENFZ2QWROWDkzNEJaYmtQYlRucWRuRlVHdjBVcXpwQkNhTEl0ZWx0Nm0yR2haa2xsajQ3dnluQl80TmRCRS1fSEV0ZTh6TWZWOFZSR3k4d0stdE9ndXEzRl80MXdWWVlzNVd3RHRDQjNUY1QycHZRZFBDdElyNGppckhSVUVZdVNQOFhQV2MtMExOUUo1dXBBeGJxcWd4Njh6VDJNTNIB3AFBVV95cUxNcTBDWVJUX0d6ZmtobGs3Szkwd00zRlVvQnFJVUp1cEVUaGtDNVVwakV5cWxBaWlGc1dudEQwNXlKWWJfVk9zUmVhaFNKVUEtbGRmek05d2V2UkNIcFFhaXRuc2tCWDJkZ3hCTTcwUFpSczBCQktPTDBZUlZVSEVzSDIxNUhBUXE2ZmlINVFLM3B5elR2X0ZpLWhuZlVnRFk3TThtY3dOS000OGxRUVFtcVBqQTZOY3ZmcFpQODBlUmFRQnZWbG0yX1JzY0hHZkVvd0JvdVR3TjRoNy1w?oc=5"
-    },
-    {
-      "id": "797192ebfdf6bd17e4",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-20T08:59:24+02:00",
-      "source": "Telemadrid",
-      "title": "El incendio en Aldea del Fresno podría quedar extinguido este jueves tras evolucionar de forma favorable",
-      "summary": "Emergencias 112 Comunidad de Madrid ha informado de que el incendio declarado este miércoles en Aldea del Fresno presenta una \"evolución positiva\"...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/El-incendio-en-Aldea-del-Fresno-podria-quedar-extinguido-este-jueves-tras-evolucionar-de-forma-favorable-2-2918128160--20260820085923.html"
     },
     {
       "id": "8a8c4d81c8050ecedc",
@@ -407,7 +395,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 4
     }
   },
   "refresh_seconds": 300
