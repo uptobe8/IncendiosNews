@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T01:33:30+02:00",
+  "generated_at": "2026-08-21T01:55:05+02:00",
   "items": [
+    {
+      "id": "d1c56c6cfa257e3c7e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T22:51:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
+    },
     {
       "id": "0fab37dcd89739d2aa",
       "type": "news",
@@ -60,18 +72,6 @@
       "title": "Afianzamiento de inmuebles afectados por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGRmZ0ttczRTMTFYQWllT2I5dkh1YnNzcHJQXzJobkcyWjJQakZhcmNIM0p0d0hxY3p0d0o0bGZIYXU4MlNkNTA1MkFOTEZNT0VxSTJMN1RIZTljSXZEbU1MWTdzeXhOQXhPM3Z2OEstRlB1d0xXY3ZkMjhBRjBDSzJnLWRFb2toSUhnZ0lCdktLbU9tei1NRHQxWHZ4RTZvd2tHdVdueXJZNlJkdWJXeVVjWm9DaTNCSk1fRFE2X0dlRlJ1LVlSS2V5Y04tSW11QnpyNFhYRHpWUQ?oc=5"
-    },
-    {
-      "id": "61c308a830c80e8c22",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T13:51:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
     },
     {
       "id": "377d87cd41a89c9faa",
