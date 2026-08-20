@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-20T13:29:17+02:00",
+  "generated_at": "2026-08-20T13:55:08+02:00",
   "items": [
+    {
+      "id": "78f033bd0170ce2fc1",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T13:52:13+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
+    },
+    {
+      "id": "53f3dc294bfdc86e06",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-20T13:32:25+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta interviene de urgencia para desescombrar y afianzar inmuebles afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
+    },
     {
       "id": "377d87cd41a89c9faa",
       "type": "news",
@@ -427,7 +451,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 30
+      "items": 32
     },
     "direct_media": {
       "ok": true,
