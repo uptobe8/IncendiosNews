@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-20T12:57:00+02:00",
+  "generated_at": "2026-08-20T13:29:17+02:00",
   "items": [
+    {
+      "id": "377d87cd41a89c9faa",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-20T13:19:56+02:00",
+      "source": "Europa Press",
+      "title": "Declarada la emergencia para desescombrar y afianzar los inmuebles afectados por incendios en Ávila",
+      "summary": "El Consejo de Gobierno ha dado luz verde hoy a la declaración de emergencia para la contratación de las...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-declarada-emergencia-desescombrar-afianzar-inmuebles-afectados-incendios-avila-20260820131956.html"
+    },
+    {
+      "id": "5f3b61500b554b0247",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-20T13:17:02+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "148.500 euros en ayudas para empresas abulenses afectadas por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWUta2ZodVZVZlN4WVVSMG9Gdlh3amFRdzZ6Wm5pOUxQSUI2aF91a0g1VXpzeVNSUTBNWEstVnpCMThvZ0xObE5VdTJsc2xWaXEzVkM5YVpaUkYwX25maENQaC1iSEZtbU94emh0ck54YzFBX3laa1dEQlVnMGtaTGVzMkpCcmRpLXU1eUdsSUgybzVBVDFocWZIalZ6a0JBeTlLWGl4c0RMMktuQ19fUlFiMUFMZkMwMlR1Ug?oc=5"
+    },
     {
       "id": "3edc319e11d4b9c04c",
       "type": "news",
@@ -22,20 +46,32 @@
       "published": "2026-08-20T11:12:32+02:00",
       "source": "Europa Press",
       "title": "La Comunidad activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ0tQTk15OEotTXgyWVhnVjg3Q0wxTlBvdmROckttYnpVLTlJV1pEWEZRNlkwX2lweUZkRTJoZ0lORFE4S2VPM2Nsc2duVk5qSmlGTVpBRHFGZ2N6dG1wNXlRLUdTZWtYMkVQT2V0RWlEcERhdWlPYjN6dVVLSzNmaHFfUVphQkZPdmFvdWt1WGFxOFdXSW9MMDByWHFHZTZKdGMwd0xTOVE1NVhOZ1VRSHhpOThJRk9ka3pib1ZTazdfMFhkRGZ3dmF6elRSWWE4alN2SHBNeVN3Qk5m?oc=5"
+      "summary": "La Comunidad de Madrid activa desde este jueves una línea telefónica directa de información para los...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-activa-linea-telefonica-17-ayuntamientos-afectados-incendio-sierra-oeste-20260820111232.html"
     },
     {
-      "id": "1e930bc8127391c49e",
+      "id": "cf9a587164fa6a1150",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-20T10:56:38+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Abonan 3,1 millones en indemnizaciones de los incendios en cultivos y cabañas ganaderas entre 2017 y 2025",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFJVeWZJcjZjaW1QRE5KRjZPUnBhTWdmT1dPYkhsdHdTcWtwd2ZfOE1YWFBhdXo5ZWQ5bTI0TDQ1dHNhYWRUbVRoeEsyX2NnaTdQV3lwX2R3ZnFVcDUzcmthV0Vqam9MWTRpQ2U0R1c5U0tybndqd2dScEd1THNMUVl3MHpWWDM3dE9CNjhvYlE2NnlRVGZqZUIxTldQVzF3cFU5TXFhanE4eWdHNVdEdF90UmxhdkpuRUJlR1o1Sl9GUlNqOS02NXJQNW90MnJROWFRRGxxYVpGbFQzTWJSQVUwN2U?oc=5"
+    },
+    {
+      "id": "7b4b228b7bef0f730f",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-20T09:52:23+02:00",
+      "published": "2026-08-20T09:51:10+02:00",
       "source": "Telemadrid",
       "title": "El alcalde de Aldea del Fresno tras el susto de un nuevo incendio en Sierra Oeste: \"la situación está controlada\"",
-      "summary": "Con preocupación y ansiedad han vivido la cercanía del nuevo fuego de Sierra Oeste los vecinos de Aldea del Fresno. El alcalde de esta localidad...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/El-alcalde-de-Aldea-del-Fresno-tras-el-susto-de-un-nuevo-incendio-en-Sierra-Oeste-la-situacion-esta-controlada-2-2918128164--20260820095110.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeGRxMXc0UWlJNlpuYjVPRUNxRmpIQ0dCa3hhc0tnb2Q1NE9Cb3J3NHF4MkhKRnJTdmJfQ0NTYXp0MEd5czRHZWszNUk3TFlWUExraHg3TlI4ZUV5bUVqWWFLYmkwcnBLamhUQkMzWTVRLUsyQUhvdjFId1dObnQ0aGpDRUtMeEpjV2xpWnc4UkxhVzdnaU5XWUNUSkxFTTduTUZ1TGQ4VE5PNGRWQ05uVk5KS3dRQVB0M3VFa0lma0hWMDQwc3FMdUhFUy1TSnM2cFhqRGMyN1d1akNDTWlOcUdZcXNYRHRyTVoxaWJsVlRxS0FxTDdzbTUzOFhSck5IdUotRTVhOXFXZkJqRjVTeGhwaEpfd3VGb1VKTG1Uem1nVnItZkHSAasCQVVfeXFMTkZtR1d3dW8xTC1KRHUwU2ZTS3Z5YkdpYnhfZk04aktCbVMtU0RrVlNSZW54S1g3eGRkVW9TYy02elRieFZFbnVvek5VODEzelBhTTZLNVBKWldpTGZHcXZzYWs0ZWxaSkxDcWhDS0w4ZS1FeHhXNFZjT0FseUItSGdHSXA4WlVib0pmQVdMUW9XcEt3MFotdldSWDdmRDhtYWdnZGprVUpWbWtGUW8tbHRlN0hGWVhuaGpjSUJYNTJpYlllcXpZeWd5UFdvVGdrcWQ4c1AtYkE5Y1hiNWhueWZQeWUwbDMwcjdGWC0zUGNpeElKN2xYRmZZUFhFWlVIQlNkbi1pMDJzQk9OeFdTUkd0MGdyRHlkX1laTEx4WnB3anZpbXA5b3dCTlk?oc=5"
     },
     {
       "id": "c0ff8f97e362de56bb",
@@ -391,7 +427,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "direct_media": {
       "ok": true,
