@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-20T08:20:00+02:00",
+  "generated_at": "2026-08-20T09:12:27+02:00",
   "items": [
+    {
+      "id": "c0ff8f97e362de56bb",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-20T09:06:42+02:00",
+      "source": "EL PAÍS",
+      "title": "El incendio de Aldea del Fresno continúa estabilizado y su evolución es “positiva”",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWtab0lGU0RhS01JWUpUZ2xkalpVUHA3c2E0ZXRWeW5XM0JENFZ2QWROWDkzNEJaYmtQYlRucWRuRlVHdjBVcXpwQkNhTEl0ZWx0Nm0yR2haa2xsajQ3dnluQl80TmRCRS1fSEV0ZTh6TWZWOFZSR3k4d0stdE9ndXEzRl80MXdWWVlzNVd3RHRDQjNUY1QycHZRZFBDdElyNGppckhSVUVZdVNQOFhQV2MtMExOUUo1dXBBeGJxcWd4Njh6VDJNTNIB3AFBVV95cUxNcTBDWVJUX0d6ZmtobGs3Szkwd00zRlVvQnFJVUp1cEVUaGtDNVVwakV5cWxBaWlGc1dudEQwNXlKWWJfVk9zUmVhaFNKVUEtbGRmek05d2V2UkNIcFFhaXRuc2tCWDJkZ3hCTTcwUFpSczBCQktPTDBZUlZVSEVzSDIxNUhBUXE2ZmlINVFLM3B5elR2X0ZpLWhuZlVnRFk3TThtY3dOS000OGxRUVFtcVBqQTZOY3ZmcFpQODBlUmFRQnZWbG0yX1JzY0hHZkVvd0JvdVR3TjRoNy1w?oc=5"
+    },
+    {
+      "id": "797192ebfdf6bd17e4",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-20T08:59:24+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio en Aldea del Fresno podría quedar extinguido este jueves tras evolucionar de forma favorable",
+      "summary": "Emergencias 112 Comunidad de Madrid ha informado de que el incendio declarado este miércoles en Aldea del Fresno presenta una \"evolución positiva\"...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/El-incendio-en-Aldea-del-Fresno-podria-quedar-extinguido-este-jueves-tras-evolucionar-de-forma-favorable-2-2918128160--20260820085923.html"
+    },
     {
       "id": "37529721ff10661429",
       "type": "news",
@@ -134,13 +158,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRdIB-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRQ?oc=5"
     },
     {
-      "id": "a2db6e5427dea79af2",
+      "id": "1714cb63d5fed17096",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-19T16:42:59+02:00",
-      "source": "rtve.es",
+      "source": "RTVE.es",
       "title": "Estabilizado el nuevo incendio en la Sierra Oeste de Madrid que ha vuelto a hacer saltar las alarmas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWF9FaUtodXBESVJNYWtmWER3N0lXcEdLcnNmRG5GSUVyR0dBOENIR1EtTm5JNzZ6aERSS1V3RTkzaVZ4bERpUzVZRDd6UFUtdm1MTjcwdFZwYkJ5aEdULTZrZ2VaaHo3Y3cyczgySXNuMXVLS0JxNklKM21ycFVDczJQMDNPT2d6anJQY0Q5VVNWczN6OGV3VG8tSFF6VHd1dnh5UVAzWlN3MXFldm9xcm1YRUg1SlYza2xJWnFMT1YtX195a2xkck9LdWhRdEhDYUFLSjJsZHVtdw?oc=5"
@@ -373,17 +397,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 27
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 26
-    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 5
     }
   },
   "refresh_seconds": 300
