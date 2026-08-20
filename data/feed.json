@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:37:43+02:00",
+  "generated_at": "2026-08-20T04:06:23+02:00",
   "items": [
     {
       "id": "78140586f8299fe180",
@@ -84,18 +84,6 @@
       "title": "Desalojadas tres urbanizaciones y varias viviendas por el fuego en Aldea del Fresno",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFJXNWI1dTR3ZDlEaHpYWm1YQldwM0t4SzNsVW1zSHc0VmtEYmJXTWFneFB0eWxWSElLaC1PLVZlNzFGTm90dWNld21QbXFkb3FvdGsyQkZHS1JraEcxb3cyWGFDMHdOSlN4cDZKdWpIQVhtblRKSHdvTktxTzdSbEtkLW1MUkZyams5dTJBU05iaHR0SkdndE5ZOVAtclFYdE1acHllVlBNNHlLeEZQdXFaNnZHRHlQa2hkazJ3Y0NEakRDS1ZKOUhGejE4YUlUX2tFMDFPd1p5V2FzaUV6Q1RrelbSAeQBQVVfeXFMUGxSVzViNXU0d2Q5RGh6WFptWEJXcDNLeEszbFVtc0h3NFZrRGJiV01hZ3hQdHlsVkhJS2gtTy1WZTcxRk5vdHVjZXdtUG1xZG9xb3RrMkJGR0tSa2hHMW93MlhhQzB3TkpTeHA2SnVqSEFYbW5USkh3b05LcU83UmxLZC1tTFJGcmprOXUyQVNOYmh0dEpHZ3ROWTlQLXJRWHRNWnB5ZVZQTTR5S3hGUHVxWjZ2R0R5UGtoZGsyd2NDRGpEQ0tWSjlIRnoxOGFJVF9rRTAxT3daeVdhc2lFekNUa3pW?oc=5"
-    },
-    {
-      "id": "df55ebdebcdcf99786",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-19T17:13:51+02:00",
-      "source": "Diario de Ávila",
-      "title": "Un nuevo incendio en Madrid obliga a confinar dos localidades",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNUdacW5JVDNOb3hIQ0pKYmlJd0VNWWptcWd5cUdlSHhqQ2xLQ2VYYm5UeE41NlVMVTV4ZmxEbnRHYW81MS1LSVpqcE9CTHRBXy1FWjRIWGlPRl9sY0xya2JTWU5OVnlNM2NOMDN5aFZUTWpaQ0YwVS1qakZQV2JMb1g5cVdRVzdZTXl2SUN0aEttdXlYaFhHWU9RV3NKOVpjTlVBWHhMRDdWaGtURzZWWVBRc09BR0FhU29hQ3NiUXN3ZnZFM3ZwQmtyMG9CT041LVRTU0xsckZXUQ?oc=5"
     },
     {
       "id": "0e291f6d26bce746f3",
@@ -226,8 +214,8 @@
       "published": "2026-08-19T14:15:42+02:00",
       "source": "Europa Press",
       "title": "La Comunidad ayudará a autónomos y pymes afectados por incendios de la Sierra Oeste a recuperar equipos informáticos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUFMxS3JxM0dvQUNDVVFtN041NzdqQ0x1Vl9SNThHZzJWNDRkSmJqUWJzYWd3UFZuWHh4c3BLVkhwSXMwSGs2THNVS3czcWVVNWdNcU05OEhmVUVaeUdQeHkxdmgwdmVlQUFvXzVHa2g1MnVVeGtaMVFZZW5EZ2pOZlB5Y2w4QVRpRXY0c2RmSVJyNDhYSV9PQ083Z3lfTUNySHBUVFc2SjFleXplOVprcFNTUGdGX05CVkt5RGtnem1TLUpxU01WM1FzTnlfMGFWRmVtZmZHa0lwRmpxcGdpcG9tWGpDb1AxckIzdlJDcFM?oc=5"
+      "summary": "La Comunidad de Madrid ayudará a los autónomos, comercios, profesionales y pequeñas y medianas empresas...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-ayudara-autonomos-pymes-afectados-incendios-sierra-oeste-recuperar-equipos-informaticos-20260819141542.html"
     },
     {
       "id": "bb94d0a905f9fd9754",
@@ -367,7 +355,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 25
+      "items": 23
     },
     "direct_media": {
       "ok": true,
