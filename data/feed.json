@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:57:46+02:00",
+  "generated_at": "2026-08-20T10:45:24+02:00",
   "items": [
     {
       "id": "1e930bc8127391c49e",
@@ -194,6 +194,18 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2FiNkNUY1F5N3BVQ3pybEdtT2QwQi1pdWIwVGpSMUh3Tm5IWXVQeFFhbGh4ckhIMHhUUGtTOTYzMDRiVFBmTmlUN1lGX3pCNTR0UUlYYWZuSU8zc3FweHhIUGpCckVzWXN6VEJYb0dLNDEzQTA0V0M0NzBia2NsbExjNjYxMzF2N3lPbkZpa1FXcURIcVYyaThvR3B2WEV3aEhEYkgwbUp2ZC0ya2M3bG9NT0E3cjdtZ1lyV1ZBYnRXQW9sY0lvZzRzbEgwLUEyb3d1TVhBWmnSAewBQVVfeXFMUENYWkVYOGt2Z0szZzJBQzlJbWJyZjNGWEphWXEwZ1RrWFVyaEJacVA1WFBqbmwzM3AyVlVWTVlmcjlGWDlKYlk1VTVIdWIxcVFqWlQ3bGRpekFUN1J4VGtpYnR0bnZ0cWk2MW5rYktabGJjUGNfSEh3MFdpZDdscm8xU2FoOVNwX3g5ek1TTU9Cems5bkljV0NJNHluTW5HRGtreWtnclN0Z1F3NHk1MmFTWXJiTHFrRk9lUlN1a3p5Z2NWWWlmRDhCTDF3TVFjdUxfZnhlSDVpNkpleWZTQXRiRUZFcEZRUFJsb0w?oc=5"
     },
     {
+      "id": "e20caf358db9fbe77c",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:58:41+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego vuelve a la Sierra Oeste: confinados Aldea del Fresno y Villamantilla",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVW9GWkZ1UGxWZ2MzVDdvSTJBOENCRFBQaVFEblRkc1VvZW0yT1d6SE1naG1uNEVCUGtqcXVtd0YtdkMyekxZYW5QdUo1MFRBTmRzLXhINUpmR1REN05pRXAwRUkwczhZT3UxY3RITWtoeHY1S0lHMktlazIzTi1ud3gyaHRwaGU0YkZSaGozM2k5RlFpUVpqZ0RoT25wUHpXRXJfWmFuT0RpMzFoMi14R0x4M2xQbjZvdm9oU20tU01FN3pkLUxrYl9pcHoxaHhMQ3VSVWlNZUJFM2I0ejhrZ1lxX3VCTnNi0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
+    },
+    {
       "id": "348254b982c6c4db6b",
       "type": "news",
       "severity": "critical",
@@ -204,18 +216,6 @@
       "title": "El fuego vuelve a la Sierra Oeste de Madrid: Aldea del Fresno queda confinada y Villamantilla, en alerta",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ2ZMYVg5dmFqRmloRFhpam0xb2Qzb3BBald1REtjSmNYMTc2Zk10TEk0MmluVDlJYktFNXNBTVpObEVnY1YxalBiZGU3dVd2U1RPUk1Yc29FYjQtQ3pvaVFkenZwRE5oX0tjNDJUX015NVd3Z01ZNFBYUlZZNzB4dU1ISEpscW1jdVdMNGU1Qk5PcnlWS3J6Q0V5bVVfYTAzMmVNeWlmZlM3UmJiNG1HTzFsOXFfXzNwYUNwdzE2NGZkY3ZoMTEtYTZydXQ1elI4NVBuazJFQk8yclZjRUpsZnNiU2pLQlliSWJMTmhCMV9VcmR3ajVrZEtoR0J1Zm8tU2ZWdHh1NWo3QdIBjwJBVV95cUxOMDJyYWE2UWRlT1hXU0JIYkFLMl9nWDNPZnZVY2ZwZnVfUVg1ZnNFU19KNWR6cnJCQkxRR1FJdHNZMnJ4eVllVl96YmZ5T21qWS1aNTh4QVdUbjNmSVN5MzFtbUV3S2ZvODdNOHBzV3ExWWYySXltczIxQTQ4M3NTUm1xV1ZnLTVZdk42cHg5VzluclNZOGtGTmsza2dLVmVYbDV1YUlPXzZSb3JKNnp2VE9MUllUWWUwNlhObVk3Q1RTVUx0dVpnNjZTaHZWTGUySVQ5WnJlbHZhclNVWE4wZDNIV2dRbEFsT09FczY5ckRjNGE5NnVHXzRiMnhFMW9kV0doeFVfcXFxZWZaX2pN?oc=5"
-    },
-    {
-      "id": "b9e254dde81c5ee65d",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-19T15:58:41+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego vuelve a la Sierra Oeste, confinados Aldea del Fresno y Villamantilla",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSXFvS2V4YzJsRG0xemRtX1lDZ0E3S1Z2WnQyQ1JEa0hZMjVfcFZDOVYwV3ZNU0dnQUpKTGpOVDZjb3Bpd0VQTWNlLUFkSHM4Nlc2M1ROVUxPZ21yOEdJMWNBNU1lSnBxQ1ZiOW52NW9xcFN4alVSVjE5M25sWWp4TnBVWTdPUFhKLVJXY0dtVmVyc3FDV3Bvay1maDgyT0VXdUhjTGhBV3BCcWVWVjBtSG9Fd2FDUnNva1dHMEU2T0huUUtqbEpqNnJrTnZBLW1MczlhUVFhOWQ1cVhXMFY2VFV4MUxpdTh1eXB0TWRn0gHuAUFVX3lxTE5JcW9LZXhjMmxEbTF6ZG1fWUNnQTdLVnZadDJDUkRrSFkyNV9wVkM5VjBXdk1TR2dBSkpMak5UNmNvcGl3RVBNY2UtQWRIczg2VzYzVE5VTE9nbXI4R0kxY0E1TWVKcHFDVmI5bnY1b3FwU3hqVVJWMTkzbmxZanhOcFVZN09QWEotUldjR21WZXJzcUNXcG9rLWZoODJPRVd1SGNMaEFXcEJxZVZWMG1Ib0V3YUNSc29rV0cwRTZPSG5RS2psSmo2cmtOdkEtbUxzOWFRUWE5ZDVxWFcwVjZUVXgxTGl1OHV5cHRNZGc?oc=5"
     },
     {
       "id": "4ef4fe58945889b787",
@@ -276,18 +276,6 @@
       "title": "La Comunidad de Madrid destina un millón de euros para ayudar a autónomos y pymes afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0ljWGROTEdWeEZ2M2hHWTY0SmYycnVlU2k2UVdranVhM0RleXFCNGw4RWtFVmQzbVJ3MXJzdHJMX09KQ0NnT044UFFxQ2tmNDJfZ3pFVVZBNXFnNWdMUHg5S3N2M25nZEFRVVQxWjN5dE9oN3ZFWVdxODBrLWoyLXFydDBwb0RiU1JWZzBoSHRESG9fbUE0UkNMc1FmTHViOC1pUmd0bjM4SWg0d0ZxdkJDN3ZETkJEZGFkRE10MWg1ZW1sVF9WTXBKMExaejRibEloNy1nS0hVbXVEVW9IcGlVX19FZkJCTmVySWdKc9IBgwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN?oc=5"
-    },
-    {
-      "id": "71923ac9d69be6497d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-19T10:35:02+02:00",
-      "source": "Madrid Actual",
-      "title": "La Sierra Oeste avanza en su recuperación tras los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlhuNzRYSE5HeHZwTWl6NEhDcVFlZkJoYkQyem1zbFZLVkY2Z1dMSFJRMXNiYW9adHpNVVQ4NjRUT0ZIZVZyQ3pMM0tlM3FDeXBNSzdDS1NXSlB6Z1pQQUNPZ2Y1QnpDNnJUOGM1SjlEZjlmVW94TnJwLWNsSVFlV1BrRFhKMTd4TDQtZ3RKR2RaY0hUMmdzX2Q1UFBhaUMwSVF5UlBJeVFUOHhxTl9EUnllZ0VBOHdtY2tWbC02b3BLc3M?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
