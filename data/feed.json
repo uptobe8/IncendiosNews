@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:49:02+02:00",
+  "generated_at": "2026-08-20T08:20:00+02:00",
   "items": [
     {
       "id": "37529721ff10661429",
@@ -134,13 +134,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRdIB-wFBVV95cUxQTnZIZnVRQVV0NkZLQ2xZMWZvakI4emlvM1BPQjJaU3NYZW5NSlBUaTFjQVRQUWxPbjlrZGJlNFRSS1B5VFFTbmhIWFJFN18xNTRlVHZVUjJvSUlIRmxMZE9fbU9kMy10VDh2R1V4U0E4aTlnMjQ1T0JTcnVtVzBrWWtXbXdQM0ZLTFBTaVVjS1p0anJMU1ZYcjF3WTFVUmRhLWw2ZjJEbm5udnFkR2ItUFhyUFB4eVg3VWtDQ05hZFhROXpqYllCdHBpaWxXQ3JGTEU1bTNXNHFOM2hZRm4yWnYzdkhZeUcyMXZHYXJNSzNLRXlQTFB5UkZXRQ?oc=5"
     },
     {
-      "id": "1714cb63d5fed17096",
+      "id": "a2db6e5427dea79af2",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-19T16:42:59+02:00",
-      "source": "RTVE.es",
+      "source": "rtve.es",
       "title": "Estabilizado el nuevo incendio en la Sierra Oeste de Madrid que ha vuelto a hacer saltar las alarmas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWF9FaUtodXBESVJNYWtmWER3N0lXcEdLcnNmRG5GSUVyR0dBOENIR1EtTm5JNzZ6aERSS1V3RTkzaVZ4bERpUzVZRDd6UFUtdm1MTjcwdFZwYkJ5aEdULTZrZ2VaaHo3Y3cyczgySXNuMXVLS0JxNklKM21ycFVDczJQMDNPT2d6anJQY0Q5VVNWczN6OGV3VG8tSFF6VHd1dnh5UVAzWlN3MXFldm9xcm1YRUg1SlYza2xJWnFMT1YtX195a2xkck9LdWhRdEhDYUFLSjJsZHVtdw?oc=5"
@@ -156,6 +156,18 @@
       "title": "Un nuevo incendio forestal en la Sierra Oeste obliga a activar la situación operativa 2 y a confinar dos municipios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY0w0VEtlVDcyLXR2NEJsTjNNOEd6S3NObl9CRlBSVkxNSm9JSDdvUGtoTElHd3hhcHpDOExyMHVIWllRUlVBeHlEUGZxbTZVZjdEZUtKS2tOYkdUU3QxT05xeHRGQ21vZkJKczlXLUk4el9iRmJkdjdicFptdHdZX09SVFZvWHVYaEREc3Z1SWlhdnJJU2pMcy01OFA3aFdIb05YbmN6VWFHcnA0WU5VVGZEbVVVRHZZdmI0SkVUU3BtLVZzbHhmMFMzZVktYUI2WXZVUUpCcXRXNE11WnZMakNBaEtfVkJkbmlma1lfSTTSAfABQVVfeXFMT25uQWlTODFma0VsSEFUa3k0SWFPZHJxVjVCVnltejJHZ25ySnMtcUJkOUN0TDZlb1dTVmxRbF9ncTFnUE83b2p6Y2tjM2E5bkpYWFlIU0pNUzFqSWFyRjk5MkU4U3VjVkQxRVU1Mnkwa251WEZCd0t4eHpyRUdtR0JvWlJ2ZC14a0xGQzBzeVJjdjRGQkhndE8wR2FnTWpoYlIwdXVxUUVXN3Fmb2dVbFZmRUExNjUwaUNsU2NSLWJzdExXc3ZTcnhpMFoyZEFxRGZaRlhqOGV2Q2owV2RJMjlmNVI0OWJqX18zQ1JRY3RK?oc=5"
+    },
+    {
+      "id": "26e57d1ff73264618c",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T16:05:32+02:00",
+      "source": "EL PAÍS",
+      "title": "Estabilizado el nuevo incendio de Aldea del Fresno tras afectar a 330 hectáreas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2FiNkNUY1F5N3BVQ3pybEdtT2QwQi1pdWIwVGpSMUh3Tm5IWXVQeFFhbGh4ckhIMHhUUGtTOTYzMDRiVFBmTmlUN1lGX3pCNTR0UUlYYWZuSU8zc3FweHhIUGpCckVzWXN6VEJYb0dLNDEzQTA0V0M0NzBia2NsbExjNjYxMzF2N3lPbkZpa1FXcURIcVYyaThvR3B2WEV3aEhEYkgwbUp2ZC0ya2M3bG9NT0E3cjdtZ1lyV1ZBYnRXQW9sY0lvZzRzbEgwLUEyb3d1TVhBWmnSAewBQVVfeXFMUENYWkVYOGt2Z0szZzJBQzlJbWJyZjNGWEphWXEwZ1RrWFVyaEJacVA1WFBqbmwzM3AyVlVWTVlmcjlGWDlKYlk1VTVIdWIxcVFqWlQ3bGRpekFUN1J4VGtpYnR0bnZ0cWk2MW5rYktabGJjUGNfSEh3MFdpZDdscm8xU2FoOVNwX3g5ek1TTU9Cems5bkljV0NJNHluTW5HRGtreWtnclN0Z1F3NHk1MmFTWXJiTHFrRk9lUlN1a3p5Z2NWWWlmRDhCTDF3TVFjdUxfZnhlSDVpNkpleWZTQXRiRUZFcEZRUFJsb0w?oc=5"
     },
     {
       "id": "e20caf358db9fbe77c",
@@ -206,6 +218,18 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalA4OWFSNjNEMEVyWEZiNGZJeTZNU1F2UXVud3Y0M2lDUTMtc1ExMkY4Nk1raU9oZGppU244bzlyNHBwbU1MU29pRmVUX0MyTFkybWtCTmFUeTBRTUZCUkhHX3k3VXhGT2FrQnMxVklUZl83aHp1SU1pTl9WYmMzRDVnakZqWktHVUMweE50Ym1fb2l0Wk82ZzZueWdYM1N5WWlEVENTWnllTUNjOExZTU1xUVVTNTZPZnA5SnNQbE5PT1BZdDRPT09QMjBPbGJxYkM3SHNFbXgzTU5DOHfSAeMBQVVfeXFMTU5zYkduT1NDZ3hMV0dRVHRQWG8xTmlyT1JWRHNSNTNodTN1T182T0JZa2s2QTBFcno2LUstODZJMTFmX3FBbnh0R0xKWmwwQmdUNXY0M3VIZ19mWTZEQmhPYk5UT0JzR2lEalhrajVZQ21NVnRWbXljRUY1NlJ4VlRGUWJSdmVkUi1TQ3EwTzd2aFlwRUVmUXFTbWFvVm04cnROOExwRmRVYnJYYmdfTUhUVm9mXzlvOE8xVUlSN0pSOXhLTUV0YmhBQUk5MVhYbDBTd29LN2VKS0VrMGZCUU9EUkE?oc=5"
     },
     {
+      "id": "e27624bff743a6ad4b",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-19T15:39:04+02:00",
+      "source": "El Español",
+      "title": "El incendio que ha obligado a confinar los pueblos de Aldea del Fresno y Villamantilla está estabilizado tras quemar 330 ha",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWW50NDdZQTVpYzkyMDJZM2RvQ0JzN1BUQmRYb3RWRU5kVzNITHZtMUxNQWxnYU12MUZLYzRzRklsSmRZdTF0bXRKQTlsaS1fOVRKMHdvN3BUTFJ5ZDJ5Z0c2OGVpNURLVGRGQUNVUEdyOC1IcHIxbnpjU09IQUhJdV9GeXBaWDRfdldFZXVZMmFkRF9iR0NqZDNsbUJtYzNfX0RqQWVTR1JkdXc3VUROT2JBek9oWXgzbFJBRTdiNm9MVUZBTlo4Tk80U1ZUTF8yaXh1bjlNc3h6U3dvSEdPelZQal9odjJEd2E4QzJn0gHzAUFVX3lxTE03aWJIQlYzZl9tenl6SXcyY1B2ajBSMmdpVkZOZERIZHg5SG9ieTh5OGxWeEJYOHkyczdzdkJUNWszeGcxaFFMRkkySFVyeXJ5eGo5VkVuLV9Ia1B3em1iaUJSTWdLdU5ocV9td296cHYxQTJSZGxtM3lLSUZYQzI2QmdZZk5rQnFBN0hQamtCeTFHY1RsYkwwREV4UlVfSU1ISmNoYXVMVUtVOWZjZ3VjX3JiamVNSy1HTTlTZGJxUWE3MWd6SmNZTGk5aXJhY2JFcEE5ZjA0OHhOUzNWQmJkT2RYWm9XYmhBVXBKVjhWanBUdw?oc=5"
+    },
+    {
       "id": "6765826c66203ff930",
       "type": "news",
       "severity": "info",
@@ -216,6 +240,18 @@
       "title": "La Comunidad ayudará a autónomos y pymes afectados por incendios de la Sierra Oeste a recuperar equipos informáticos",
       "summary": "La Comunidad de Madrid ayudará a los autónomos, comercios, profesionales y pequeñas y medianas empresas...",
       "url": "https://www.europapress.es/madrid/noticia-comunidad-ayudara-autonomos-pymes-afectados-incendios-sierra-oeste-recuperar-equipos-informaticos-20260819141542.html"
+    },
+    {
+      "id": "bb94d0a905f9fd9754",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-19T13:55:58+02:00",
+      "source": "EL PAÍS",
+      "title": "La Comunidad de Madrid destina un millón de euros para ayudar a autónomos y pymes afectados por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0ljWGROTEdWeEZ2M2hHWTY0SmYycnVlU2k2UVdranVhM0RleXFCNGw4RWtFVmQzbVJ3MXJzdHJMX09KQ0NnT044UFFxQ2tmNDJfZ3pFVVZBNXFnNWdMUHg5S3N2M25nZEFRVVQxWjN5dE9oN3ZFWVdxODBrLWoyLXFydDBwb0RiU1JWZzBoSHRESG9fbUE0UkNMc1FmTHViOC1pUmd0bjM4SWg0d0ZxdkJDN3ZETkJEZGFkRE10MWg1ZW1sVF9WTXBKMExaejRibEloNy1nS0hVbXVEVW9IcGlVX19FZkJCTmVySWdKc9IBgwJBVV95cUxNSGhLbUhMN19KTk1Dcmwydm5YWWNpSUpsRWdSUU9ISzZ2TFRRcFdSRlBmYWlOSDMwNzRibUMzejdIdUNNMDlMZ2RuR05tQ2NsQkxMMUZFdF9VZm53WTRrbW15Mkg2ODNFQ0hUTEI2M0xJaHNFYkVmVlBMUHRnLXdrVEJsWm1FaVhkOWVjRlhISTZKZW9WWDZKNjNya19NNFQ5RWFIbG1YcGY0NlAyRFhnYjI4RWlfSHY4clRXbVNsY3E4Z05JS0RfME0tSW5CZDBfZ2ZrZjk3U0tZRmNURHJHWU5tOEl5ZFowdi1Zb0c1S3doMHRpLUlZRGJXb0hRc2wwV2hN?oc=5"
     },
     {
       "id": "71923ac9d69be6497d",
@@ -343,7 +379,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 18
+      "items": 26
     },
     "direct_media": {
       "ok": true,
