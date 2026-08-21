@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T11:10:12+02:00",
+  "generated_at": "2026-08-21T11:51:51+02:00",
   "items": [
+    {
+      "id": "2d799b24e2e533bff2",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-21T11:30:16+02:00",
+      "source": "La Razón",
+      "title": "Los datos provisionales sobre el incendio de Burgohondo determinan una superficie afectada de 37.800 hectáreas en la provincia de Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRzh5cUdxY0xfX3E5V2RQUFdGX3RyTEZzbFB3bGk5MkdJUjBoUm96RVl3RndWRDA2b3drdjhyLTg2dFA1dmprUUptdnJya191RkNKY2IwdXhkYjE3ZjZVUXRkZG9RSVNHSE9RX3hVa1Vrc2JZREJzcDRFeFpOX25uQlRGUEJQOHdBSG9hWFFHQ19xbEsxOWxfVVZzN1dDLUxzNU5qZnF4WUlCeG1MYmhIUlVib1BhRnE5bXZKYV9Ga0lNSW00Q3c4MWhWVHpkMnhfSUVtcnktZHhkR2pGQXBzQVBQNUZ3cjBjcjRIaUVHX2h6QmR0bnFFdFZNSHRxM3Bqd0VvaWlHVHlCVDDSAZ8CQVVfeXFMTjVZWXJTanBPclhsbjkwWlZBQWFfR1ljMzZ0azNCUnZPT3lzR3pfT2I2eGpnVWgzOTVoMzZXUWtOajdNT0pveEdDSEUtMFhrVHZ1aVBtaHNyQ3lFVWRFdm1wX0ZKWV92TDVRQ0VzYUtqTGJieEpOR3Y2ZVpRN29XeERLeTJ3YkZSTWVuV0d0QlJfSlIzMW1Wb2NPSVc0SEE3dFBmRzBvcnRHaHFoVU1HMkdDdjBPMGZ6TENwU1I3NFoyTTRISWR1WTZLdWFhaHQ3R0Z5SW45YjZMWFZOem9BTjlZWGtiOXRZTWR4M1pIbENwNWdHRGhwbEFZRFU0ZEJwWTlxdk5kemVxWWZZZ3h3RnRZbXlhZ0xwUFJseDZaVDQ?oc=5"
+    },
     {
       "id": "96132447a3cad3385e",
       "type": "news",
@@ -11,7 +23,7 @@
       "source": "El Español",
       "title": "El incendio de Burgohondo deja 37.800 hectáreas afectadas provisionalmente: más de una vez y media la ciudad de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNM1RlWUxzRXo4NXpCUHBCZmNwSjN3WGFMTnFIdEV3NHk0Qkw4dVA3RzhzUDR2Z1lWMjFJVmhNb2lKNTFjOXdleWdNLUJwdDYwT3lpcS1UbUF6d2tWY1BUb2ZNZ0Rva0wyemFxQjNxbVhObVpRZkl3a1BOTmdJbFdoQ09CYWx5dUlfTml1TTQwWDFwZTM5bElIRGR6M3dLdVNEWjh0VGs3czRiRXYyaXZURWF0aDAzS25qWk5Hc1huZTNYU0pQTHFuRXFZZjJHZVBQeVFQTjcteUFlWjNDVUo0LTRjSXpJTzJlbmxOcjRMWGhZSUJCZTFXMHRVNXFCQdIBgwJBVV95cUxQejc2TklMS21jZkNIVzZua3hxZjE3Ry1qVENiUDFsTGYwdDZsWUdld3J6TU01WXpCV0xYOWJJSEt6SUZhS05ES1Y3Ukhpb0VXLVVma0V6eThDaTRlTThybXdzWXNHNU5rTzE4NmdhbWE2TjNNMmluYUhvSU8xVVlmajlWaDFnR09ULWdicnMxN0tNc0RNenZ1YWJUSzBmOU10UVU3cEYtdldIeURtemUwUko2SUYzVkZrOFVkQWhBZmI4VUE0eUZQellzWUs4VDBtRDA1cXRUQ1UyZ2phbThiTlJRaF9RUWxmT3pVVzFsZ1RsRHIxZ2dTaFNKRWIzYjZDOF9v?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNM1RlWUxzRXo4NXpCUHBCZmNwSjN3WGFMTnFIdEV3NHk0Qkw4dVA3RzhzUDR2Z1lWMjFJVmhNb2lKNTFjOXdleWdNLUJwdDYwT3lpcS1UbUF6d2tWY1BUb2ZNZ0Rva0wyemFxQjNxbVhObVpRZkl3a1BOTmdJbFdoQ09CYWx5dUlfTml1TTQwWDFwZTM5bElIRGR6M3dLdVNEWjh0VGs3czRiRXYyaXZURWF0aDAzS25qWk5Hc1huZTNYU0pQTHFuRXFZZjJHZVBQeVFQTjcteUFlWjNDVUo0LTRjSXpJTzJlbmxOcjRMWGhZSUJCZTFXMHRVNXFCQQ?oc=5"
     },
     {
       "id": "dfe4b1102ca3620ce7",
@@ -84,6 +96,30 @@
       "title": "El Gobierno no confirma que los incendios posteriores al de Burgohondo fueran intencionados",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWY2ZnAzc3pUdmt2N3V4M2Q2RUx6OTlFaFdud0FWZm5tNE4yQTNXd29OUzF1eDllc0tTOWFVdUdadnRzd2RaRFppVENDS2RFMXhOblBvVFQtb3kwanpRZVZfeTdFNW5LZmMycDNNdXBwcjVucktjMG1xbnFXWXRCdC03SzBaYk1jVFVQSHNJNTlTRHFmT0hYdTZ0Q1VXUjgycHplZTRuOUtRejF6S1QxZW9PNXRaWUJzZ0xuVkdxTy1UZXBfTlFweUp3bEtYWk1CdGc?oc=5"
+    },
+    {
+      "id": "5021d77cb5d957a5eb",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-20T18:47:31+02:00",
+      "source": "La Razón",
+      "title": "Madrid activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ00tM19yZlpJSDVURDVLVkRucTVNdUE5eEZMVlhOU3hmOXllakc2MUpLVGdMYkNuWW1Ra2lQVldmMGdKLWh2V01xRTZBeWtaR3dnc09YODVlbWpaQUFVeWs5eGVObXZodE5rMFNDRncwam9QVGFrT0lLLWQxY2Vfbjk4aDRiM1A0MGdoYjN3UW4yaWdraVN3alhYMUxxdlZwc3hiMXdidDRPY3NHYURhc1hWaG02V2hFdjdrbGUwZTVNWFdmaW1QaDdpdG5NVlZTeFlUOXFrZmFWU0ZuNzJZWtIB9AFBVV95cUxPWEYzLVlUVHdZREQ0MTRXMjQ4WXgyMXlWcjBtWENIcmpWVGcwWUd4RWdKd0w4aWFFVXBKY0E1TENadGJUenVrYjRUcjZuUDZuOUZ4UUQxeTVZZVItc28xZUFPWHBianB1WHl5ZlpXOTdwQm1BQVdBLWI3Qnh6Q1ZPWTdvOFJjb1FXbkxEYmNQRlpiZ0MyRG9TMW0zRTJCMDVMcGpyRV9mcWJDeUQ1UHVzay1iQUhBZEo4bW9IdGdRTjhsclQ5OFQyc1dTWHQwNXNIZmlwdGR6LUw4bXBPcVR4c0o2Ukx2YnU1enFEaTExRVFVSEp3?oc=5"
+    },
+    {
+      "id": "e4ffd6096278d62fe6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-20T14:42:29+02:00",
+      "source": "Telemadrid",
+      "title": "El fuego de Aldea del Fresno evoluciona de forma favorable mientras continúan los trabajos de refresco",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRUc3U2xRS1VXbUhZd2luNlBvNDVOOEZ0eHJreUZMZzdSMWV6bUdJemwwTVFOM0E3eFZ2NDAtUGlnWExKNzNIY3U3M0Q5SGFTOEdvYUNwcUx0WUE2X1lacVVoWnE5OTB1eENDVzAtbGh6MmtWTXlBcFJ6cjNOTGU3Z1ozcHZGTFlnVlo1aWlPUUV6blRWTmRhTEdPQ3cwVEJ2blF3RlJVYllHTXh4ekQxbFZLU0JSTjJ5cEs1YktyY2VZMXZvQkVDQUlqXzdhWlpvTzRlMldjc0xud21qY3NGYnhFMW9MOFEtWDVYbVU2VV83UHd4bmN3TF9aWEtpODV5NGNLUXpwdkEtaDRreXQtTkwyRkx6Z9IBmwJBVV95cUxOSHUwS0Z5aG5GZjNCQ3RUOFQydGdqRmowUG5vNGx1VlNtX1EzQ09pNmhxN210UklOQ2hGMzhzR1d4NmstQ2o2LU9adUtqdHhSNUozRDliYnlFaGVsSFdfSEtGekwza0VtMzdDTmlaUWhpdUVCX21Eck14cDYzM2QyMWhCSFVSXzJjNHVoU1RMWDBRdG1hcy1SWFp5d0tSNzlZV1FtQ05sSWt5UWZxeHhnaHc3SWZrN1JIRkdPZGVvSFFIcjZyb1ZtcXBZRXlOMmV4R0F5ZUlPV3dZdG9DdkNjSGg1SG1qemV3dUZUeXVkVjhJdHFnOTBjVjRETHNUcGRZekVaY1ZEenBpNE1KaTN6UWhNem9kSzZCMU5r?oc=5"
     },
     {
       "id": "aaf78550853e18858a",
@@ -247,7 +283,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 10
     },
     "direct_media": {
       "ok": true,
