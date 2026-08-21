@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:59:13+02:00",
+  "generated_at": "2026-08-21T20:49:08+02:00",
   "items": [
     {
       "id": "78eaa7c24eb4d855e6",
@@ -146,18 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ0RkcnE1SFFHa05fRkhLNzh4UG4zV0h6RXRzLURDTnZTUkV3aEdaQXpjMkZFcGd2ZG5NQzBNVXJPZ25ENnN6RWRxVElTdFpZbFJaV1p3cHJscjhCM1JCZ0FKZlR4VVRJX3JsRnV4a0pnREFUdXlROGNjWFRuOERodEd6Z0hBM3hjdENwVTRBZzVmb2MzNzc5NE9GcFotTVRMSVpZcGhXUDZJWk8yWVZVamZzekJ3M204VHpETi1mMXBNUnBIZHZZc0xKb1hqMGluTjRyQV9yNktPSGdNS1dHUEc0Y0xOUzNXSEgw?oc=5"
     },
     {
-      "id": "bb77e19d08b55b8300",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T20:17:01+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El Gobierno no confirma que los incendios posteriores al de Burgohondo fueran intencionados",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWY2ZnAzc3pUdmt2N3V4M2Q2RUx6OTlFaFdud0FWZm5tNE4yQTNXd29OUzF1eDllc0tTOWFVdUdadnRzd2RaRFppVENDS2RFMXhOblBvVFQtb3kwanpRZVZfeTdFNW5LZmMycDNNdXBwcjVucktjMG1xbnFXWXRCdC03SzBaYk1jVFVQSHNJNTlTRHFmT0hYdTZ0Q1VXUjgycHplZTRuOUtRejF6S1QxZW9PNXRaWUJzZ0xuVkdxTy1UZXBfTlFweUp3bEtYWk1CdGc?oc=5"
-    },
-    {
       "id": "a33dc34c49c5379abc",
       "type": "news",
       "severity": "info",
@@ -277,13 +265,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 10
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 11
     },
     "direct_media": {
       "ok": true,
