@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:20:33+02:00",
+  "generated_at": "2026-08-21T18:56:49+02:00",
   "items": [
     {
       "id": "984e1a16d5606d3c22",
@@ -146,30 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWY2ZnAzc3pUdmt2N3V4M2Q2RUx6OTlFaFdud0FWZm5tNE4yQTNXd29OUzF1eDllc0tTOWFVdUdadnRzd2RaRFppVENDS2RFMXhOblBvVFQtb3kwanpRZVZfeTdFNW5LZmMycDNNdXBwcjVucktjMG1xbnFXWXRCdC03SzBaYk1jVFVQSHNJNTlTRHFmT0hYdTZ0Q1VXUjgycHplZTRuOUtRejF6S1QxZW9PNXRaWUJzZ0xuVkdxTy1UZXBfTlFweUp3bEtYWk1CdGc?oc=5"
     },
     {
-      "id": "5021d77cb5d957a5eb",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-20T18:47:31+02:00",
-      "source": "La Razón",
-      "title": "Madrid activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ00tM19yZlpJSDVURDVLVkRucTVNdUE5eEZMVlhOU3hmOXllakc2MUpLVGdMYkNuWW1Ra2lQVldmMGdKLWh2V01xRTZBeWtaR3dnc09YODVlbWpaQUFVeWs5eGVObXZodE5rMFNDRncwam9QVGFrT0lLLWQxY2Vfbjk4aDRiM1A0MGdoYjN3UW4yaWdraVN3alhYMUxxdlZwc3hiMXdidDRPY3NHYURhc1hWaG02V2hFdjdrbGUwZTVNWFdmaW1QaDdpdG5NVlZTeFlUOXFrZmFWU0ZuNzJZWtIB9AFBVV95cUxPWEYzLVlUVHdZREQ0MTRXMjQ4WXgyMXlWcjBtWENIcmpWVGcwWUd4RWdKd0w4aWFFVXBKY0E1TENadGJUenVrYjRUcjZuUDZuOUZ4UUQxeTVZZVItc28xZUFPWHBianB1WHl5ZlpXOTdwQm1BQVdBLWI3Qnh6Q1ZPWTdvOFJjb1FXbkxEYmNQRlpiZ0MyRG9TMW0zRTJCMDVMcGpyRV9mcWJDeUQ1UHVzay1iQUhBZEo4bW9IdGdRTjhsclQ5OFQyc1dTWHQwNXNIZmlwdGR6LUw4bXBPcVR4c0o2Ukx2YnU1enFEaTExRVFVSEp3?oc=5"
-    },
-    {
-      "id": "377d87cd41a89c9faa",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-20T13:19:56+02:00",
-      "source": "Europa Press",
-      "title": "Declarada la emergencia para desescombrar y afianzar los inmuebles afectados por incendios en Ávila",
-      "summary": "El Consejo de Gobierno ha dado luz verde hoy a la declaración de emergencia para la contratación de las...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-declarada-emergencia-desescombrar-afianzar-inmuebles-afectados-incendios-avila-20260820131956.html"
-    },
-    {
       "id": "a33dc34c49c5379abc",
       "type": "news",
       "severity": "info",
@@ -295,11 +271,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 11
+      "items": 10
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
