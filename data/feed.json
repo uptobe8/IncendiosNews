@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-21T22:31:35+02:00",
+  "generated_at": "2026-08-21T22:53:58+02:00",
   "items": [
     {
-      "id": "78eaa7c24eb4d855e6",
+      "id": "a32874b0f08018433a",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-21T19:29:06+02:00",
+      "published": "2026-08-21T19:44:00+02:00",
       "source": "Tribuna de Ávila",
       "title": "El incendio de Burgohondo deja 37.800 hectáreas afectadas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -120,18 +120,6 @@
       "title": "El incendio de Aldea del Fresno pasa a la situación operativa 0 tras una \"evolución muy favorable\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT1R3Ni0xSFlIYWZWdzJZYjNRSUt3dXdWRDhhaU5nME8wWnVXUmxqYVBwS0JpVnVGTEM3MV8tLVcwZVRnRXhxTC01cjVSOHAtZlRZdmJQcmZ1V1J1aV9jR1lqNGVnX1k4Rm1scGtyYjVXV2RoWHRvYl9wLVp3b2RCWGVmTkxqSUVTUVlTTU5oOWtvWXp4bUhnQjRhN3lIZXFTRWxyaEYwanZubXBxR2JqNkYyazZUU0ViMDhucnlST29vMExBRXhaSzEwcTZYeDc3Zkg3ZTN5YTZtVEdvNkFyNnpXU1N5VkpqSWFmb0FSaUxrTG5SWGR1WEtXN25ndXVESkHSAYcCQVVfeXFMUHpTYTlSNFRGcndGTkNXLU9KTEhBLWYxTnVvUHVpbUFQVkVRUEZtY0xxd2VsTF8xNHU3NWFvYkxYSXJ3SmhDZDNQRExfSThEdHQ0eGlQRkZWaWMzY3o0enNzWW9WTXE3eTZRUEVFelprM2RwdGZBMHFZVFJPNm1OUk50ek9nam9WZXMtSmxscWhvX3lyUEJaY1ZvY3lodWR1YkVaZUtKVXEyalh0N1h5OTBQeWRYVDVVLUNYQmg5NXNGcnNhb3BIMUttR2lnWWlaNjUxa1Z5SDJsZ01Pc3F1NGJiZkdGaEYzenk0Y0NJalVMTndoVFNsYjJkNzl4QjhBcU1aeHR0Q00?oc=5"
-    },
-    {
-      "id": "d1c56c6cfa257e3c7e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T22:51:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Navaluenga recibe diez nuevos contenedores tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclo3bjVOaE5LcjZOSWxzcmNmV3Q3dWhnem1nRkVIbnRRZVVBT1Nya2QwMVN5T1g5c2pBMXhPTUdOQ0UzOGdMQ3pIeXhacHJZNFg4cWplNGR4ckl1Q3R3ckhKb3dtV2dWY3c4cjFFRGEtWk1QLUVELVFDY2tzRnpQLUJGeVJpbXFCNEhtbmxtUWpPRVlxa2IxOW1kVmdkd25vSE04c0NSLVZyVHNsXzZFbVNtLXlRLVhfdUE?oc=5"
     },
     {
       "id": "a33dc34c49c5379abc",
@@ -259,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 9
+      "items": 8
     },
     "direct_media": {
       "ok": true,
