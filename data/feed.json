@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T14:16:15+02:00",
+  "generated_at": "2026-08-21T15:14:54+02:00",
   "items": [
+    {
+      "id": "315498b721a6503c70",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-21T14:44:21+02:00",
+      "source": "Europa Press",
+      "title": "La Junta cifra provisionalmente en 37.800 hectáreas la superficie afectada por el fuego de Burgohondo (Ávila)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNblRrQTBTLXhhU1NwMXp5dXBlUUNFbThSU1BEYjFYTzlxSlc4enpleFR3UXo0MnRVYzBTLXRXSHVieXR0NXRwWFMwdHV1bWlvSVN0UkVDd2duSDNuR1FhczRHS0ZJeUxCOXd2ZnROZ2pscUhoYW9CZVo1ZDdGanVmdWMycmdSU0p4WVdJZ1V0YkViRlJ3UzJ6UjFaT3hwQ0hOUmN4V0RsMGpaM2kwaVlZZzlKSE5NXy11LWxHNFJTU0Fyb283QUlwZFlzMUVJaXItM19SOFpSa2RaWldtT1pxMHNrNUdJTnhvM3E3ZXhDSQ?oc=5"
+    },
+    {
+      "id": "05612ee31df436021f",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-21T14:30:08+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid recupera la movilidad tras los cortes al tráfico en el entorno de Atocha por obras de la Línea 11 de Metro",
+      "summary": "El avance de las obras de ampliación de la Línea 11 de Metro de Madrid permitirá finalizar durante los próximos días las principales restricciones...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-recupera-la-movilidad-tras-los-cortes-al-trafico-en-el-entorno-de-Atocha-por-obras-de-la-Linea-11-de-Metro-2-2918428141--20260821022704.html"
+    },
     {
       "id": "5a9a087b9cb3b24995",
       "type": "news",
@@ -38,16 +62,28 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmIwcXRMNmY0MzJoYnNkM0hVUkZrNjZ1ZU94UUd1eUVoaHJMbVF4WHF1d2hBcWEwVkRnN0VrUFU0OGZfYWFwcmJuV1JQdm5RUUpqTVBsSnpxRzN3YkJhVThLOUhsZno2dnR0WG9xT2ZUd2llajA0VjgwT0pJSDVWQmVXUlg2SWx5RFJ6b3F5NlpkUkowcHdySUpqdXY2Y0kxNnBiZW83d0pzNlI0RF96amFmUlhuT0tTekdTMGZaLWY?oc=5"
     },
     {
-      "id": "0df8630d66da5298cb",
+      "id": "f271b6384166321038",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-21T11:57:33+02:00",
+      "published": "2026-08-21T11:42:13+02:00",
       "source": "Telemadrid",
       "title": "Reabre el Monasterio de Santa María la Real de Valdeiglesias tras el incendio de la Sierra Oeste",
-      "summary": "Un mes después del gran incendio que arrasó parte de la Sierra Oeste de la Comunidad de Madrid, una de las joyas históricas más importantes de la...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/Reabre-el-Monasterio-de-Santa-Maria-la-Real-de-Valdeiglesias-tras-el-incendio-de-la-Sierra-Oeste-2-2918428135--20260821114213.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPN3NydGdrYngyZEtYNUdfX0hLd090Q3dsSEJMQVl5VWVfOHhHcHFValhWc0VSVVZtLVZ1R193Szl2c3VkeHhZWjBPWGQ3bTViakpTRlprQS1RYkRvam1lT0JaUHFxYXhQUWVzb0IyLTRMM3ZKUDBVVGJTUjRia1pnZTdsRzJfWXJ5Zk13WnBkcmYwcXB2Y045MUVNMWJ3V2VndmN1b2Iwc2FqdlBiR2IyU28wb3dZdHkyMGFaSHpMYktLbUs1TXlRNC1BY1RWZnVRU01YSmlQTi1OQjR1bXJhdm5zcUg4bEMwVjY1UEVQdUdQVVgwMnBqV1dZTWpYZmsza1RqWHBXaUVyTmlGZXNqOUlJLWZJOHYy0gGYAkFVX3lxTE83c3J0Z2tieDJkS1g1R19fSEt3T3RDd2xIQkxBWXlVZV84eEdwcVVqWFZzRVJVVm0tVnVHX3dLOXZzdWR4eFlaME9YZDdtNWJqSlNGWmtBLVFiRG9qbWVPQlpQcXFheFBRZXNvQjItNEwzdkpQMFVUYlNSNGJrWmdlN2xHMl9ZcnlmTXdacGRyZjBxcHZjTjkxRU0xYndXZWd2Y3VvYjBzYWp2UGJHYjJTbzBvd1l0eTIwYVpIekxiS0ttSzVNeVE0LUFjVFZmdVFTTVhKaVBOLU5CNHVtcmF2bnNxSDhsQzBWNjVQRVB1R1BVWDAycGpXV1lNalhmazNrVGpYcFdpRXJOaUZlc2o5SUktZkk4djI?oc=5"
+    },
+    {
+      "id": "00080a7cc5efdaede4",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-21T11:03:56+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El incendio de Burgohondo deja 37.800 hectáreas afectadas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHhNME9tdWFWWC1HaWRWb1g3OU5QMHQzV2ZfY0xVM214R09mYnZsdDFsRmVmeFRrOHdzWmJLZ0syTGFyQm9zcjljNkQycXFQNl94WDZlWk5zQlAyZlJnOXI4YjdoVVhQVEstUHo0eEVIaTFseUtXNmJtTTd0dkRjOEFrR2xSRDUwTjkzS0JVNU1rMW82X0htR0dpclhmWmZWVldHRQ?oc=5"
     },
     {
       "id": "96132447a3cad3385e",
@@ -60,18 +96,6 @@
       "title": "El incendio de Burgohondo deja 37.800 hectáreas afectadas provisionalmente: más de una vez y media la ciudad de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNM1RlWUxzRXo4NXpCUHBCZmNwSjN3WGFMTnFIdEV3NHk0Qkw4dVA3RzhzUDR2Z1lWMjFJVmhNb2lKNTFjOXdleWdNLUJwdDYwT3lpcS1UbUF6d2tWY1BUb2ZNZ0Rva0wyemFxQjNxbVhObVpRZkl3a1BOTmdJbFdoQ09CYWx5dUlfTml1TTQwWDFwZTM5bElIRGR6M3dLdVNEWjh0VGs3czRiRXYyaXZURWF0aDAzS25qWk5Hc1huZTNYU0pQTHFuRXFZZjJHZVBQeVFQTjcteUFlWjNDVUo0LTRjSXpJTzJlbmxOcjRMWGhZSUJCZTFXMHRVNXFCQdIBgwJBVV95cUxQejc2TklMS21jZkNIVzZua3hxZjE3Ry1qVENiUDFsTGYwdDZsWUdld3J6TU01WXpCV0xYOWJJSEt6SUZhS05ES1Y3Ukhpb0VXLVVma0V6eThDaTRlTThybXdzWXNHNU5rTzE4NmdhbWE2TjNNMmluYUhvSU8xVVlmajlWaDFnR09ULWdicnMxN0tNc0RNenZ1YWJUSzBmOU10UVU3cEYtdldIeURtemUwUko2SUYzVkZrOFVkQWhBZmI4VUE0eUZQellzWUs4VDBtRDA1cXRUQ1UyZ2phbThiTlJRaF9RUWxmT3pVVzFsZ1RsRHIxZ2dTaFNKRWIzYjZDOF9v?oc=5"
-    },
-    {
-      "id": "dfe4b1102ca3620ce7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-21T10:30:57+02:00",
-      "source": "Europa Press",
-      "title": "La Junta cifra provisionalmente en 37.800 hectáreas la superficie afectada por el fuego de Burgohondo (Ávila)",
-      "summary": "Los datos provisionales sobre la afectación como consecuencia del incendio iniciado en la...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-cifra-provisionalmente-37800-hectareas-superficie-afectada-fuego-burgohondo-avila-20260821103057.html"
     },
     {
       "id": "31d978ae868a07a9b3",
@@ -144,30 +168,6 @@
       "title": "Madrid activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ00tM19yZlpJSDVURDVLVkRucTVNdUE5eEZMVlhOU3hmOXllakc2MUpLVGdMYkNuWW1Ra2lQVldmMGdKLWh2V01xRTZBeWtaR3dnc09YODVlbWpaQUFVeWs5eGVObXZodE5rMFNDRncwam9QVGFrT0lLLWQxY2Vfbjk4aDRiM1A0MGdoYjN3UW4yaWdraVN3alhYMUxxdlZwc3hiMXdidDRPY3NHYURhc1hWaG02V2hFdjdrbGUwZTVNWFdmaW1QaDdpdG5NVlZTeFlUOXFrZmFWU0ZuNzJZWtIB9AFBVV95cUxPWEYzLVlUVHdZREQ0MTRXMjQ4WXgyMXlWcjBtWENIcmpWVGcwWUd4RWdKd0w4aWFFVXBKY0E1TENadGJUenVrYjRUcjZuUDZuOUZ4UUQxeTVZZVItc28xZUFPWHBianB1WHl5ZlpXOTdwQm1BQVdBLWI3Qnh6Q1ZPWTdvOFJjb1FXbkxEYmNQRlpiZ0MyRG9TMW0zRTJCMDVMcGpyRV9mcWJDeUQ1UHVzay1iQUhBZEo4bW9IdGdRTjhsclQ5OFQyc1dTWHQwNXNIZmlwdGR6LUw4bXBPcVR4c0o2Ukx2YnU1enFEaTExRVFVSEp3?oc=5"
-    },
-    {
-      "id": "e4ffd6096278d62fe6",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-20T14:42:29+02:00",
-      "source": "Telemadrid",
-      "title": "El fuego de Aldea del Fresno evoluciona de forma favorable mientras continúan los trabajos de refresco",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRUc3U2xRS1VXbUhZd2luNlBvNDVOOEZ0eHJreUZMZzdSMWV6bUdJemwwTVFOM0E3eFZ2NDAtUGlnWExKNzNIY3U3M0Q5SGFTOEdvYUNwcUx0WUE2X1lacVVoWnE5OTB1eENDVzAtbGh6MmtWTXlBcFJ6cjNOTGU3Z1ozcHZGTFlnVlo1aWlPUUV6blRWTmRhTEdPQ3cwVEJ2blF3RlJVYllHTXh4ekQxbFZLU0JSTjJ5cEs1YktyY2VZMXZvQkVDQUlqXzdhWlpvTzRlMldjc0xud21qY3NGYnhFMW9MOFEtWDVYbVU2VV83UHd4bmN3TF9aWEtpODV5NGNLUXpwdkEtaDRreXQtTkwyRkx6Z9IBmwJBVV95cUxOSHUwS0Z5aG5GZjNCQ3RUOFQydGdqRmowUG5vNGx1VlNtX1EzQ09pNmhxN210UklOQ2hGMzhzR1d4NmstQ2o2LU9adUtqdHhSNUozRDliYnlFaGVsSFdfSEtGekwza0VtMzdDTmlaUWhpdUVCX21Eck14cDYzM2QyMWhCSFVSXzJjNHVoU1RMWDBRdG1hcy1SWFp5d0tSNzlZV1FtQ05sSWt5UWZxeHhnaHc3SWZrN1JIRkdPZGVvSFFIcjZyb1ZtcXBZRXlOMmV4R0F5ZUlPV3dZdG9DdkNjSGg1SG1qemV3dUZUeXVkVjhJdHFnOTBjVjRETHNUcGRZekVaY1ZEenBpNE1KaTN6UWhNem9kSzZCMU5r?oc=5"
-    },
-    {
-      "id": "aaf78550853e18858a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-20T14:29:46+02:00",
-      "source": "Telemadrid",
-      "title": "Activada una línea telefónica directa para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcldUbnJqalM5azVLS1gzUURlUGhiRGppQjYwR2tmaEkxbThjWkJEUkN6Q01mUGlYdFhmYk5FbVBnejlWQzIzWjBaVGMxVHZhSDlvOWx6eUVHdHpoeEU4bFg1bF9tWTlvM3p3VXZ0djM0NkZoUGMxYTJDYnlRR0FTRVdUNWNWenZkbG96cGZmYjJ1a2ZuSVlZbHFWcmtJUzRleno0eFFyY2d3RkNFd0xDVlQxblhLTGNzSko3NTlKZExieE12bHlwVUhETXZRcHhIVUNjQjQ2UnQzbENxZ3hSa3NQcTExUmo5NTloaHlJb0NsM2xPS3J2WXZocDhseVBROHl2eFp3dENfR0FGb0ZrOXFtZWg2QXVwbF8wek1R0gGjAkFVX3lxTFBfeFNNZjIxMWJvQzNLRE5Ka0FmRFJSVVhDQldEeVpFTlo3SjJ3dGVJX2lRUWJpS0dhMXBLSEszamgtMWVoQzc3X29RLXM1X2ZzOFplMnlNWkZFMjVoS3NMMDhqVjZUVGoydVJ6U2RvdnBfbXAwdUZ0ZllJbHNWcmRSd2ZJRWtMS3FQQkEzYlZMYURncFUyT0tXQWxlcGJzRDM4RDg2U1dKZWtuM1g2UmZlS0F4V1dXN3habi1zeDVtcFU1MXhqN0cyZndMRXZaNHk1QjNNcTl5X2xaWHNSd3ZDSk5tMm1jQm90Vnd4QVpvMTFhdWRNaEVZQWUyVGtlQnFnamQydnRGb2NuQ2JHY05vaFh1bnd6anF4SHdOR2IwbTFTdw?oc=5"
     },
     {
       "id": "377d87cd41a89c9faa",
