@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-21T11:51:51+02:00",
+  "generated_at": "2026-08-21T12:18:52+02:00",
   "items": [
     {
-      "id": "2d799b24e2e533bff2",
+      "id": "0df8630d66da5298cb",
       "type": "news",
       "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-21T11:30:16+02:00",
-      "source": "La Razón",
-      "title": "Los datos provisionales sobre el incendio de Burgohondo determinan una superficie afectada de 37.800 hectáreas en la provincia de Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRzh5cUdxY0xfX3E5V2RQUFdGX3RyTEZzbFB3bGk5MkdJUjBoUm96RVl3RndWRDA2b3drdjhyLTg2dFA1dmprUUptdnJya191RkNKY2IwdXhkYjE3ZjZVUXRkZG9RSVNHSE9RX3hVa1Vrc2JZREJzcDRFeFpOX25uQlRGUEJQOHdBSG9hWFFHQ19xbEsxOWxfVVZzN1dDLUxzNU5qZnF4WUlCeG1MYmhIUlVib1BhRnE5bXZKYV9Ga0lNSW00Q3c4MWhWVHpkMnhfSUVtcnktZHhkR2pGQXBzQVBQNUZ3cjBjcjRIaUVHX2h6QmR0bnFFdFZNSHRxM3Bqd0VvaWlHVHlCVDDSAZ8CQVVfeXFMTjVZWXJTanBPclhsbjkwWlZBQWFfR1ljMzZ0azNCUnZPT3lzR3pfT2I2eGpnVWgzOTVoMzZXUWtOajdNT0pveEdDSEUtMFhrVHZ1aVBtaHNyQ3lFVWRFdm1wX0ZKWV92TDVRQ0VzYUtqTGJieEpOR3Y2ZVpRN29XeERLeTJ3YkZSTWVuV0d0QlJfSlIzMW1Wb2NPSVc0SEE3dFBmRzBvcnRHaHFoVU1HMkdDdjBPMGZ6TENwU1I3NFoyTTRISWR1WTZLdWFhaHQ3R0Z5SW45YjZMWFZOem9BTjlZWGtiOXRZTWR4M1pIbENwNWdHRGhwbEFZRFU0ZEJwWTlxdk5kemVxWWZZZ3h3RnRZbXlhZ0xwUFJseDZaVDQ?oc=5"
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-21T11:57:33+02:00",
+      "source": "Telemadrid",
+      "title": "Reabre el Monasterio de Santa María la Real de Valdeiglesias tras el incendio de la Sierra Oeste",
+      "summary": "Un mes después del gran incendio que arrasó parte de la Sierra Oeste de la Comunidad de Madrid, una de las joyas históricas más importantes de la...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/Reabre-el-Monasterio-de-Santa-Maria-la-Real-de-Valdeiglesias-tras-el-incendio-de-la-Sierra-Oeste-2-2918428135--20260821114213.html"
     },
     {
       "id": "96132447a3cad3385e",
@@ -287,7 +287,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 6
     }
   },
   "refresh_seconds": 300
