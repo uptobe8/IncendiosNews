@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:09:16+02:00",
+  "generated_at": "2026-08-21T04:36:15+02:00",
   "items": [
     {
       "id": "d1c56c6cfa257e3c7e",
@@ -158,18 +158,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlZQUWZ4SnVTM2NoQXBhSzVyblI2NUZmeURNVFZ0YWdRMUxDUG5IYmZYWWM1U3VuZThjb0lWWEo5OFdsajkzaFZEc21QSTR4cUE0UkVqT21YZzFSQzlkYm5hZXdiT01mTzFERTBIeHpFMXVnNFBwSHA3aFNYVUFwdHBZOV84UFY5Z2lIeHNNcXNHcnNvZ1hUOXZtUk5YWF9DNmxqYVFkMDlsWjFvcUVtUTNDcF9VUW40Q01rRUlYVnhoMWVVZ2E3eVZHemJObG4tMG16aGhoWTYwaUV1X2FaY2pXZ0tteUtjajg3a0p1bklEQdIB8gFBVV95cUxOMlZQUWZ4SnVTM2NoQXBhSzVyblI2NUZmeURNVFZ0YWdRMUxDUG5IYmZYWWM1U3VuZThjb0lWWEo5OFdsajkzaFZEc21QSTR4cUE0UkVqT21YZzFSQzlkYm5hZXdiT01mTzFERTBIeHpFMXVnNFBwSHA3aFNYVUFwdHBZOV84UFY5Z2lIeHNNcXNHcnNvZ1hUOXZtUk5YWF9DNmxqYVFkMDlsWjFvcUVtUTNDcF9VUW40Q01rRUlYVnhoMWVVZ2E3eVZHemJObG4tMG16aGhoWTYwaUV1X2FaY2pXZ0tteUtjajg3a0p1bklEQQ?oc=5"
     },
     {
-      "id": "8c72478115751a8140",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-20T04:15:00+02:00",
-      "source": "Cadena SER",
-      "title": "La reconstrucción del monte después de un incendio: \"Harán falta entre 20 y 50 años para recuperar la Sierra Oeste (Madrid)\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUJpVFZWRUxWN0pzLTdOUno4VVBSOG95S09Ddk5qUG9SUTNxU09KalJSNTk1Vk51Y1l4dzVyUlhXSnlReUpVZk1ONUF2YzJ5VDBRZVFtbTZpTm1ubDZObnZKb3pjMmFKY0JsYlVjVTFyVUdfMGpDN1NjUjcxeXNNcWkzeklYVEhwajlLYm4tUEFpTDAwTE9LNDYzWklKVnFvVEVxcFNaV3Z2cTVWbERFR19GeFpacG40WERYdmdyM0liZGt0bUtJMHpDQl93dnotaERBVG9YS1NJUzVmbGZHOWJKRWJyM1k2eDE0NlJVVi1oRjdzbm0tSEc1b1lybnBvRTBrVNIBmAJBVV95cUxNS3Uyd2ZKNVNCR05RX2tmQ3BZbVp3TFpuRXdYbWp5MEVRZ2twcG1CQ2pnZlpWdFdwTmI5a3VZbjdWQ1pQSmc1MTIxY29OMjBhNzlwZUdRRHJYTXZlSi1pSUhmRVB2eDNUOUtfcnhwX1A5WFJkRlBpNU00YktqYVpHU2hkQ1REV2RvQV90Vk15SGl4R1dGR0s0UHN5enFJZWtfYW9Ld2ZEVWdxbTdCWEZ2YnBLaHItZFZMUVpfOWxzTTZMeThMZUpreklXSVptVWVkUktqQ1E0amY3Y3Rja1NLTWJyRERoeVdsTmV5UFo3SWcweUY4UVpvM0pPUTE2dDhmTjhfQTFXcUVpSTVCcUd4WmEzdk9mRzFi?oc=5"
-    },
-    {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
       "severity": "critical",
@@ -283,7 +271,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 11
+      "items": 10
     },
     "direct_media": {
       "ok": true,
