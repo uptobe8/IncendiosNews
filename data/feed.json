@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T13:47:06+02:00",
+  "generated_at": "2026-08-21T14:16:15+02:00",
   "items": [
+    {
+      "id": "5a9a087b9cb3b24995",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "San Martín de Valdeiglesias",
+      "published": "2026-08-21T13:46:55+02:00",
+      "source": "Cadena SER",
+      "title": "‘La añada del milagro’: el viñedo de San Martín de Valdeiglesias resiste al fuego y afronta una vendimia adelantada",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOc3I2T3VoUjBIS3h4Zl9oX1BkN1RzQlR2SGVFSUxCd0RzeFc1YnNVb3hyaVNyRnRDdmF3U2U3WXNVMGZ4V01NUHk4Tjl6MkVlUThHQ2RabmxHeWhxV1JvWU53UGxqS1Rod1BqUlliWmxKUGhuOHNRZV9jYUUzTFJxckc2N2VWVWV3c2l4Mm9CSDJXTzR0WDFFNlNJQnZsWUxMZllwZzNmNXJOWU4zcDJpM3J1RFFua2kxNm03MUNUQUJ3dVM2VVN3TkFUZFdPaTlfUXBpM1ZiOVhDZ3RYWXVmLTY5WnJLdzNpcFA1cEFCazV3U2lscXFBUUZjQVJFSGpxZWfSAZYCQVVfeXFMTkxScWxQZEYxR0RXc2p0SXQxamxhTDhIUGNTQnVPZzBiRVRWMktMdGlHRTZLMGRVSlpUYXNMRm9GVlIwcEJIRWtQWXJlQkdPdTZ6MWNsb2ZlMnFzTGZCZ2JUSTM1WF82Y0JWa0xmM1hrYjRObi0zQThNTy1sMzJCZ3Y2enhpNTJ5dk5VSFktZl96RTQwWERWYVROSTFUcVVlb0p4TWo3WFFtUnBiVmpRTG5PNzAtX00tNVItVGpNN0M0azh1WTBBa0NrTVpKSUtPVndHanA3LXVVWmJQcVBvSUZSM2V5TU4xMkVwSjFJYWZNNzBFekRHOGpkX1paNXhUaXQxbUxxRF94Mi1DQlVhWW51UnhmcGc?oc=5"
+    },
     {
       "id": "f1ed8289bbe9644605",
       "type": "news",
@@ -156,18 +168,6 @@
       "title": "Activada una línea telefónica directa para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcldUbnJqalM5azVLS1gzUURlUGhiRGppQjYwR2tmaEkxbThjWkJEUkN6Q01mUGlYdFhmYk5FbVBnejlWQzIzWjBaVGMxVHZhSDlvOWx6eUVHdHpoeEU4bFg1bF9tWTlvM3p3VXZ0djM0NkZoUGMxYTJDYnlRR0FTRVdUNWNWenZkbG96cGZmYjJ1a2ZuSVlZbHFWcmtJUzRleno0eFFyY2d3RkNFd0xDVlQxblhLTGNzSko3NTlKZExieE12bHlwVUhETXZRcHhIVUNjQjQ2UnQzbENxZ3hSa3NQcTExUmo5NTloaHlJb0NsM2xPS3J2WXZocDhseVBROHl2eFp3dENfR0FGb0ZrOXFtZWg2QXVwbF8wek1R0gGjAkFVX3lxTFBfeFNNZjIxMWJvQzNLRE5Ka0FmRFJSVVhDQldEeVpFTlo3SjJ3dGVJX2lRUWJpS0dhMXBLSEszamgtMWVoQzc3X29RLXM1X2ZzOFplMnlNWkZFMjVoS3NMMDhqVjZUVGoydVJ6U2RvdnBfbXAwdUZ0ZllJbHNWcmRSd2ZJRWtMS3FQQkEzYlZMYURncFUyT0tXQWxlcGJzRDM4RDg2U1dKZWtuM1g2UmZlS0F4V1dXN3habi1zeDVtcFU1MXhqN0cyZndMRXZaNHk1QjNNcTl5X2xaWHNSd3ZDSk5tMm1jQm90Vnd4QVpvMTFhdWRNaEVZQWUyVGtlQnFnamQydnRGb2NuQ2JHY05vaFh1bnd6anF4SHdOR2IwbTFTdw?oc=5"
-    },
-    {
-      "id": "0d94a18a2fe7edb9db",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-20T14:04:32+02:00",
-      "source": "Diario de Ávila",
-      "title": "Afianzamiento de inmuebles afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGRmZ0ttczRTMTFYQWllT2I5dkh1YnNzcHJQXzJobkcyWjJQakZhcmNIM0p0d0hxY3p0d0o0bGZIYXU4MlNkNTA1MkFOTEZNT0VxSTJMN1RIZTljSXZEbU1MWTdzeXhOQXhPM3Z2OEstRlB1d0xXY3ZkMjhBRjBDSzJnLWRFb2toSUhnZ0lCdktLbU9tei1NRHQxWHZ4RTZvd2tHdVdueXJZNlJkdWJXeVVjWm9DaTNCSk1fRFE2X0dlRlJ1LVlSS2V5Y04tSW11QnpyNFhYRHpWUQ?oc=5"
     },
     {
       "id": "377d87cd41a89c9faa",
