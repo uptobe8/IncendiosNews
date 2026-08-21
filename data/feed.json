@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T12:18:52+02:00",
+  "generated_at": "2026-08-21T12:53:25+02:00",
   "items": [
+    {
+      "id": "f1ed8289bbe9644605",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-21T12:39:00+02:00",
+      "source": "ABC",
+      "title": "Las estimaciones a vista de satélite rebajan de 50.000 a 37.800 las hectáreas quemadas por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEkyUGhkWk9TT3p2TWZaNW84TTRkZFBoa09kd3lmUVA5WEZrLTlHNmltUmY2cHU0cmx4UGxuWXo4ZHZQZXltbDA3d1VwamgzeTQ0VUFUZUZ4TXRDcGxuWnBVb2NheFBFeFhteWRSTllvU2ZuR2Q5NExHa01DREotOC16R25UczFXaEw0SGZObmstMURXUE1FMEZCR210OW9mV3h6RUU0VFBuSnJSUjlRc0poYjB2TndMNnc0cQ?oc=5"
+    },
+    {
+      "id": "19426154b83c2df9bf",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-21T12:36:07+02:00",
+      "source": "EFE - Agencia de noticias",
+      "title": "La estimación de la Junta rebaja la extensión del incendio de Ávila a 37.800 hectáreas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmIwcXRMNmY0MzJoYnNkM0hVUkZrNjZ1ZU94UUd1eUVoaHJMbVF4WHF1d2hBcWEwVkRnN0VrUFU0OGZfYWFwcmJuV1JQdm5RUUpqTVBsSnpxRzN3YkJhVThLOUhsZno2dnR0WG9xT2ZUd2llajA0VjgwT0pJSDVWQmVXUlg2SWx5RFJ6b3F5NlpkUkowcHdySUpqdXY2Y0kxNnBiZW83d0pzNlI0RF96amFmUlhuT0tTekdTMGZaLWY?oc=5"
+    },
     {
       "id": "0df8630d66da5298cb",
       "type": "news",
@@ -50,16 +74,16 @@
       "url": "https://www.europapress.es/madrid/noticia-desactivado-nivel-incendio-aldea-fresno-pasa-situacion-operativa-20260821091107.html"
     },
     {
-      "id": "4e321fb6d0a982945b",
+      "id": "f35b475257438b0c9a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Aldea del Fresno",
-      "published": "2026-08-21T07:09:29+02:00",
+      "published": "2026-08-21T07:09:28+02:00",
       "source": "Telemadrid",
       "title": "El incendio de Aldea del Fresno pasa a la situación operativa 0 tras una \"evolución muy favorable\"",
-      "summary": "El incendio forestal originado en Aldea del Fresno ha descendido de situación operativa 1 del Plan de Protección Civil, pasando al nivel 0 a...",
-      "url": "https://www.telemadrid.es/noticias/madrid/El-incendio-de-Aldea-del-Fresno-pasa-a-la-situacion-operativa-0-tras-una-evolucion-muy-favorable-0-2918408131--20260821070928.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT1R3Ni0xSFlIYWZWdzJZYjNRSUt3dXdWRDhhaU5nME8wWnVXUmxqYVBwS0JpVnVGTEM3MV8tLVcwZVRnRXhxTC01cjVSOHAtZlRZdmJQcmZ1V1J1aV9jR1lqNGVnX1k4Rm1scGtyYjVXV2RoWHRvYl9wLVp3b2RCWGVmTkxqSUVTUVlTTU5oOWtvWXp4bUhnQjRhN3lIZXFTRWxyaEYwanZubXBxR2JqNkYyazZUU0ViMDhucnlST29vMExBRXhaSzEwcTZYeDc3Zkg3ZTN5YTZtVEdvNkFyNnpXU1N5VkpqSWFmb0FSaUxrTG5SWGR1WEtXN25ndXVESkHSAYcCQVVfeXFMUHpTYTlSNFRGcndGTkNXLU9KTEhBLWYxTnVvUHVpbUFQVkVRUEZtY0xxd2VsTF8xNHU3NWFvYkxYSXJ3SmhDZDNQRExfSThEdHQ0eGlQRkZWaWMzY3o0enNzWW9WTXE3eTZRUEVFelprM2RwdGZBMHFZVFJPNm1OUk50ek9nam9WZXMtSmxscWhvX3lyUEJaY1ZvY3lodWR1YkVaZUtKVXEyalh0N1h5OTBQeWRYVDVVLUNYQmg5NXNGcnNhb3BIMUttR2lnWWlaNjUxa1Z5SDJsZ01Pc3F1NGJiZkdGaEYzenk0Y0NJalVMTndoVFNsYjJkNzl4QjhBcU1aeHR0Q00?oc=5"
     },
     {
       "id": "d1c56c6cfa257e3c7e",
@@ -283,11 +307,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 10
+      "items": 12
     },
     "direct_media": {
       "ok": true,
-      "items": 6
+      "items": 5
     }
   },
   "refresh_seconds": 300
