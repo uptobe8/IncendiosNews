@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:12:20+02:00",
+  "generated_at": "2026-08-22T22:41:09+02:00",
   "items": [
     {
       "id": "e01e653d9227776b02",
@@ -36,6 +36,18 @@
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
+    },
+    {
+      "id": "477561545c63d22103",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-22T00:08:00+02:00",
+      "source": "Telemadrid",
+      "title": "El alcalde de Aldea del Fresno tras el susto de un nuevo incendio en Sierra Oeste: \"la situación está controlada\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeGRxMXc0UWlJNlpuYjVPRUNxRmpIQ0dCa3hhc0tnb2Q1NE9Cb3J3NHF4MkhKRnJTdmJfQ0NTYXp0MEd5czRHZWszNUk3TFlWUExraHg3TlI4ZUV5bUVqWWFLYmkwcnBLamhUQkMzWTVRLUsyQUhvdjFId1dObnQ0aGpDRUtMeEpjV2xpWnc4UkxhVzdnaU5XWUNUSkxFTTduTUZ1TGQ4VE5PNGRWQ05uVk5KS3dRQVB0M3VFa0lma0hWMDQwc3FMdUhFUy1TSnM2cFhqRGMyN1d1akNDTWlOcUdZcXNYRHRyTVoxaWJsVlRxS0FxTDdzbTUzOFhSck5IdUotRTVhOXFXZkJqRjVTeGhwaEpfd3VGb1VKTG1Uem1nVnItZkHSAasCQVVfeXFMTkZtR1d3dW8xTC1KRHUwU2ZTS3Z5YkdpYnhfZk04aktCbVMtU0RrVlNSZW54S1g3eGRkVW9TYy02elRieFZFbnVvek5VODEzelBhTTZLNVBKWldpTGZHcXZzYWs0ZWxaSkxDcWhDS0w4ZS1FeHhXNFZjT0FseUItSGdHSXA4WlVib0pmQVdMUW9XcEt3MFotdldSWDdmRDhtYWdnZGprVUpWbWtGUW8tbHRlN0hGWVhuaGpjSUJYNTJpYlllcXpZeWd5UFdvVGdrcWQ4c1AtYkE5Y1hiNWhueWZQeWUwbDMwcjdGWC0zUGNpeElKN2xYRmZZUFhFWlVIQlNkbi1pMDJzQk9OeFdTUkd0MGdyRHlkX1laTEx4WnB3anZpbXA5b3dCTlk?oc=5"
     },
     {
       "id": "cb22f56c95f79b37ce",
@@ -193,13 +205,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 7
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 8
     },
     "direct_media": {
       "ok": true,
