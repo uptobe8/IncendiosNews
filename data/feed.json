@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T20:47:46+02:00",
+  "generated_at": "2026-08-22T21:11:12+02:00",
   "items": [
+    {
+      "id": "e01e653d9227776b02",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Chapinería",
+      "published": "2026-08-22T20:54:22+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio sigue golpeando a los ganaderos de Chapinería: las cabras continúan muriendo un mes después",
+      "summary": "Las llamas se apagaron, pero sus consecuencias todavía permanecen en las explotaciones ganaderas afectadas por el incendio de Chapinería. Un mes...",
+      "url": "https://www.telemadrid.es/programas/madrid-directo/El-incendio-sigue-golpeando-a-los-ganaderos-de-Chapineria-las-cabras-continuan-muriendo-un-mes-despues-2-2918728121--20260822085421.html"
+    },
     {
       "id": "05f1ba2fdcc329b096",
       "type": "news",
@@ -179,7 +191,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
