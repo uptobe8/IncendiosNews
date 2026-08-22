@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:40:49+02:00",
+  "generated_at": "2026-08-22T15:58:42+02:00",
   "items": [
     {
       "id": "05f1ba2fdcc329b096",
@@ -14,13 +14,13 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTRHOEJSdVdJMXZYaW9pYS1qNjFfaGJIaVNoWWNoUTJZLWxBQjhCeU5tZVdfcl80QnZkU2V0QjJETURLWFRaaGV2S1BpdFJma1gxVDJUdGozeEYzVFViSzNiZGJ2MTJlenJ3VmM0NjNYSWlPUEYtelNWQmxKcDF3Tkt4TGZiUE1ReE1ydWZFZHJPOFA1OF9wbi11N0VLOTJRMXEzN2JPVHduXzJyaTZLcWRyQk04dG1Idm5TV1FYYWpqMDFSV0E?oc=5"
     },
     {
-      "id": "f1e394025d1b8f382b",
+      "id": "d793e6fbb2f350e3ef",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-22T12:53:13+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
@@ -205,13 +205,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 8
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
