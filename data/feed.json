@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:31:51+02:00",
+  "generated_at": "2026-08-22T13:52:14+02:00",
   "items": [
     {
       "id": "05f1ba2fdcc329b096",
@@ -14,16 +14,28 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTRHOEJSdVdJMXZYaW9pYS1qNjFfaGJIaVNoWWNoUTJZLWxBQjhCeU5tZVdfcl80QnZkU2V0QjJETURLWFRaaGV2S1BpdFJma1gxVDJUdGozeEYzVFViSzNiZGJ2MTJlenJ3VmM0NjNYSWlPUEYtelNWQmxKcDF3Tkt4TGZiUE1ReE1ydWZFZHJPOFA1OF9wbi11N0VLOTJRMXEzN2JPVHduXzJyaTZLcWRyQk04dG1Idm5TV1FYYWpqMDFSV0E?oc=5"
     },
     {
-      "id": "cc3dd768155ad7b57a",
+      "id": "d793e6fbb2f350e3ef",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-22T09:04:49+02:00",
-      "source": "Europa Press",
+      "published": "2026-08-22T12:53:13+02:00",
+      "source": "20Minutos",
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
-      "summary": "Un mes después del incendio de la Sierra Oeste, que arrasó miles de hectáreas y causó graves daños en el...",
-      "url": "https://www.europapress.es/madrid/noticia-abel-programador-perdio-hogar-incendio-sierra-oeste-pierde-paraiso-forma-vida-20260822090449.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
+    },
+    {
+      "id": "3de0a3db5d7d6fae72",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Valdemorillo",
+      "published": "2026-08-22T01:19:10+02:00",
+      "source": "ABC",
+      "title": "Un rebaño municipal de ovejas y cabras para salvar Valdemorillo de los incendios: «Es lo mejor para desbrozar»",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2otcTZ6WFpsSFpfc3h2X1RhOG5QZlIyeXQzQkRLc2lsQ3JNdDd5TjJSVG5fTHltNmpqMGtDeG91cDdmdkVqT1ByMXBETjlvaUhNd0NBZkFMVldFYzlEelRScEhWU3pJYkxTakF6dUZyTVBqc2tqQm11R3h0LWxEOTE0NldtRjVnWVROb2NmZmF5dUUxMWNhREFScjZsZ2JEWEJhcQ?oc=5"
     },
     {
       "id": "cb22f56c95f79b37ce",
@@ -48,18 +60,6 @@
       "title": "Activada una línea telefónica directa para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcldUbnJqalM5azVLS1gzUURlUGhiRGppQjYwR2tmaEkxbThjWkJEUkN6Q01mUGlYdFhmYk5FbVBnejlWQzIzWjBaVGMxVHZhSDlvOWx6eUVHdHpoeEU4bFg1bF9tWTlvM3p3VXZ0djM0NkZoUGMxYTJDYnlRR0FTRVdUNWNWenZkbG96cGZmYjJ1a2ZuSVlZbHFWcmtJUzRleno0eFFyY2d3RkNFd0xDVlQxblhLTGNzSko3NTlKZExieE12bHlwVUhETXZRcHhIVUNjQjQ2UnQzbENxZ3hSa3NQcTExUmo5NTloaHlJb0NsM2xPS3J2WXZocDhseVBROHl2eFp3dENfR0FGb0ZrOXFtZWg2QXVwbF8wek1R0gGjAkFVX3lxTFBfeFNNZjIxMWJvQzNLRE5Ka0FmRFJSVVhDQldEeVpFTlo3SjJ3dGVJX2lRUWJpS0dhMXBLSEszamgtMWVoQzc3X29RLXM1X2ZzOFplMnlNWkZFMjVoS3NMMDhqVjZUVGoydVJ6U2RvdnBfbXAwdUZ0ZllJbHNWcmRSd2ZJRWtMS3FQQkEzYlZMYURncFUyT0tXQWxlcGJzRDM4RDg2U1dKZWtuM1g2UmZlS0F4V1dXN3habi1zeDVtcFU1MXhqN0cyZndMRXZaNHk1QjNNcTl5X2xaWHNSd3ZDSk5tMm1jQm90Vnd4QVpvMTFhdWRNaEVZQWUyVGtlQnFnamQydnRGb2NuQ2JHY05vaFh1bnd6anF4SHdOR2IwbTFTdw?oc=5"
-    },
-    {
-      "id": "0e4ffba9664bf6cd53",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-22T00:05:00+02:00",
-      "source": "Telemadrid",
-      "title": "Susto de nuevo en la Sierra Oeste por un incendio que llegó a desalojar varias urbanizaciones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV1JlQ1pibFhjVm1WSXRmYzNPSUMwWVVfMU5JY1drbnlqWFozcmhiT0YwbnB4QXoxZmJpeE05a3ZNSldEZE8wYmNrYm5Ec1JsdzhPMnBNY0s0TUhSaHctczBURTNXOVBMNHNXSUpmQ2lGQlJXZnN2NDkwUWI0RmQwVk15bV9hcTlaUUc2eGRGeDVfbG0zMlhiWm9VRWh0SHFONVNpNWlabVp2eE1NeDIydTVVa3UwV1d4S0R5cnhGZ0dTclMxLTJkZWw5NDlLWjV0Q3dES2J6anZyaFh4WGVTbUpWb3RuUVR2SGNnMGw5VTQ4SEVIYnRHcTlHNTNkQmw2TTVLc1ZZMjdwUdIBjwJBVV95cUxNdl9FVzhLMlBuSUZpOFNhSlJ3SXZLS0gyMnJqX1F1NmZpOUFsRmxfSktvYkYtNjZnYjlrdVB1dEJpWWZEWU4yNXNJSHpPNXVfeE0yNWpPUUt0SzNaQ0xxWmR5cGE4bWVFd0U3S3lrNE9DN3dlOURMaVdzb3MtZU45UVpXVktFbDZDbkJrTDAtdWRuM1ZpVXBhTGpfRkpfY0JUeHUwWWM4R3ZXbWFnTXI4ZFJuaVFtaTZVZTZuVXNZMWVGQ1R2T0s1Ml9ac1BRczhtNWU0NnV4X3pUcDlwM2RMMDBRb1J3T1VCVVBCS2s1TU9STGNlNnVnREc0N1hPV1FCSXFVbDU2MVBIUm9hdDQ0?oc=5"
     },
     {
       "id": "a32874b0f08018433a",
@@ -96,18 +96,6 @@
       "title": "La Junta cifra provisionalmente en 37.800 hectáreas la superficie afectada por el fuego de Burgohondo (Ávila)",
       "summary": "Los datos provisionales sobre la afectación como consecuencia del incendio iniciado en la localidad...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-cifra-provisionalmente-37800-hectareas-superficie-afectada-fuego-burgohondo-avila-20260821103057.html"
-    },
-    {
-      "id": "e367df8ff277e8e2f6",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "San Martín de Valdeiglesias",
-      "published": "2026-08-21T13:49:52+02:00",
-      "source": "Cadena SER",
-      "title": "‘La añada del milagro’: el viñedo de San Martín de Valdeiglesias resiste al fuego y afronta una vendimia adelantada",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTFJxbFBkRjFHRFdzanRJdDFqbGFMOEhQY1NCdU9nMGJFVFYyS0x0aUdFNkswZFVKWlRhc0xGb0ZWUjBwQkhFa1BZcmVCR091NnoxY2xvZmUycXNMZkJnYlRJMzVYXzZjQlZrTGYzWGtiNE5uLTNBOE1PLWwzMkJndjZ6eGk1Mnl2TlVIWS1mX3pFNDBYRFZhVE5JMVRxVWVvSnhNajdYUW1ScGJWalFMbk83MC1fTS01Ui1Uak03QzRrOHVZMEFrQ2tNWkpJS09Wd0dqcDctdVVaYlBxUG9JRlIzZXlNTjEyRXBKMUlhZk03MEV6REc4amRfWlo1eFRpdDFtTHFEX3gyLUNCVWFZbnVSeGZwZ9IBlgJBVV95cUxOTFJxbFBkRjFHRFdzanRJdDFqbGFMOEhQY1NCdU9nMGJFVFYyS0x0aUdFNkswZFVKWlRhc0xGb0ZWUjBwQkhFa1BZcmVCR091NnoxY2xvZmUycXNMZkJnYlRJMzVYXzZjQlZrTGYzWGtiNE5uLTNBOE1PLWwzMkJndjZ6eGk1Mnl2TlVIWS1mX3pFNDBYRFZhVE5JMVRxVWVvSnhNajdYUW1ScGJWalFMbk83MC1fTS01Ui1Uak03QzRrOHVZMEFrQ2tNWkpJS09Wd0dqcDctdVVaYlBxUG9JRlIzZXlNTjEyRXBKMUlhZk03MEV6REc4amRfWlo1eFRpdDFtTHFEX3gyLUNCVWFZbnVSeGZwZw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
