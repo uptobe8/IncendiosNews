@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T07:21:13+02:00",
+  "generated_at": "2026-08-22T07:49:00+02:00",
   "items": [
+    {
+      "id": "3de0a3db5d7d6fae72",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Valdemorillo",
+      "published": "2026-08-22T01:19:10+02:00",
+      "source": "ABC",
+      "title": "Un rebaño municipal de ovejas y cabras para salvar Valdemorillo de los incendios: «Es lo mejor para desbrozar»",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2otcTZ6WFpsSFpfc3h2X1RhOG5QZlIyeXQzQkRLc2lsQ3JNdDd5TjJSVG5fTHltNmpqMGtDeG91cDdmdkVqT1ByMXBETjlvaUhNd0NBZkFMVldFYzlEelRScEhWU3pJYkxTakF6dUZyTVBqc2tqQm11R3h0LWxEOTE0NldtRjVnWVROb2NmZmF5dUUxMWNhREFScjZsZ2JEWEJhcQ?oc=5"
+    },
     {
       "id": "a32874b0f08018433a",
       "type": "news",
@@ -235,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 8
     },
     "direct_media": {
       "ok": true,
