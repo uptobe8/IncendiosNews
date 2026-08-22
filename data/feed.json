@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:14:01+02:00",
+  "generated_at": "2026-08-22T18:43:04+02:00",
   "items": [
     {
       "id": "05f1ba2fdcc329b096",
@@ -24,18 +24,6 @@
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
-    },
-    {
-      "id": "3de0a3db5d7d6fae72",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Valdemorillo",
-      "published": "2026-08-22T01:19:10+02:00",
-      "source": "ABC",
-      "title": "Un rebaño municipal de ovejas y cabras para salvar Valdemorillo de los incendios: «Es lo mejor para desbrozar»",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2otcTZ6WFpsSFpfc3h2X1RhOG5QZlIyeXQzQkRLc2lsQ3JNdDd5TjJSVG5fTHltNmpqMGtDeG91cDdmdkVqT1ByMXBETjlvaUhNd0NBZkFMVldFYzlEelRScEhWU3pJYkxTakF6dUZyTVBqc2tqQm11R3h0LWxEOTE0NldtRjVnWVROb2NmZmF5dUUxMWNhREFScjZsZ2JEWEJhcQ?oc=5"
     },
     {
       "id": "cb22f56c95f79b37ce",
@@ -211,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "direct_media": {
       "ok": true,
