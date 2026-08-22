@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:36:30+02:00",
+  "generated_at": "2026-08-22T11:56:25+02:00",
   "items": [
     {
       "id": "cc3dd768155ad7b57a",
@@ -10,8 +10,20 @@
       "published": "2026-08-22T09:04:49+02:00",
       "source": "Europa Press",
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
+      "summary": "Un mes después del incendio de la Sierra Oeste, que arrasó miles de hectáreas y causó graves daños en el...",
+      "url": "https://www.europapress.es/madrid/noticia-abel-programador-perdio-hogar-incendio-sierra-oeste-pierde-paraiso-forma-vida-20260822090449.html"
+    },
+    {
+      "id": "3de0a3db5d7d6fae72",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Valdemorillo",
+      "published": "2026-08-22T01:19:10+02:00",
+      "source": "ABC",
+      "title": "Un rebaño municipal de ovejas y cabras para salvar Valdemorillo de los incendios: «Es lo mejor para desbrozar»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE1wQ0l6d1V5aGl6ZVRaUV9EankwSUoyWThCLVVFSDdJNV81T3AyT1R6OTNqZmRVcnJLam5fSUo1OWlaTUlDY2dTOUREdk9tVlMwTnVGU0NPUzQyTTUzdWQtUXczdFhKMGppZUpQbTNYYlRNWTRIVlowcmJZSVVDdzhDN2UtMi1FWTlKd2JjSDBoVWU2ZFFoMTNiekk4eU5TMi1RTWRrOHBUWmhYU0ljai1raXFjTXhhb1JKOS11MUdWQVdQN1ZRaGlwdXprc3dQckFfTGpn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2otcTZ6WFpsSFpfc3h2X1RhOG5QZlIyeXQzQkRLc2lsQ3JNdDd5TjJSVG5fTHltNmpqMGtDeG91cDdmdkVqT1ByMXBETjlvaUhNd0NBZkFMVldFYzlEelRScEhWU3pJYkxTakF6dUZyTVBqc2tqQm11R3h0LWxEOTE0NldtRjVnWVROb2NmZmF5dUUxMWNhREFScjZsZ2JEWEJhcQ?oc=5"
     },
     {
       "id": "cb22f56c95f79b37ce",
@@ -108,18 +120,6 @@
       "title": "La estimación de la Junta rebaja la extensión del incendio de Ávila a 37.800 hectáreas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmIwcXRMNmY0MzJoYnNkM0hVUkZrNjZ1ZU94UUd1eUVoaHJMbVF4WHF1d2hBcWEwVkRnN0VrUFU0OGZfYWFwcmJuV1JQdm5RUUpqTVBsSnpxRzN3YkJhVThLOUhsZno2dnR0WG9xT2ZUd2llajA0VjgwT0pJSDVWQmVXUlg2SWx5RFJ6b3F5NlpkUkowcHdySUpqdXY2Y0kxNnBiZW83d0pzNlI0RF96amFmUlhuT0tTekdTMGZaLWY?oc=5"
-    },
-    {
-      "id": "f271b6384166321038",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-21T11:42:13+02:00",
-      "source": "Telemadrid",
-      "title": "Reabre el Monasterio de Santa María la Real de Valdeiglesias tras el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPN3NydGdrYngyZEtYNUdfX0hLd090Q3dsSEJMQVl5VWVfOHhHcHFValhWc0VSVVZtLVZ1R193Szl2c3VkeHhZWjBPWGQ3bTViakpTRlprQS1RYkRvam1lT0JaUHFxYXhQUWVzb0IyLTRMM3ZKUDBVVGJTUjRia1pnZTdsRzJfWXJ5Zk13WnBkcmYwcXB2Y045MUVNMWJ3V2VndmN1b2Iwc2FqdlBiR2IyU28wb3dZdHkyMGFaSHpMYktLbUs1TXlRNC1BY1RWZnVRU01YSmlQTi1OQjR1bXJhdm5zcUg4bEMwVjY1UEVQdUdQVVgwMnBqV1dZTWpYZmsza1RqWHBXaUVyTmlGZXNqOUlJLWZJOHYy0gGYAkFVX3lxTE83c3J0Z2tieDJkS1g1R19fSEt3T3RDd2xIQkxBWXlVZV84eEdwcVVqWFZzRVJVVm0tVnVHX3dLOXZzdWR4eFlaME9YZDdtNWJqSlNGWmtBLVFiRG9qbWVPQlpQcXFheFBRZXNvQjItNEwzdkpQMFVUYlNSNGJrWmdlN2xHMl9ZcnlmTXdacGRyZjBxcHZjTjkxRU0xYndXZWd2Y3VvYjBzYWp2UGJHYjJTbzBvd1l0eTIwYVpIekxiS0ttSzVNeVE0LUFjVFZmdVFTTVhKaVBOLU5CNHVtcmF2bnNxSDhsQzBWNjVQRVB1R1BVWDAycGpXV1lNalhmazNrVGpYcFdpRXJOaUZlc2o5SUktZkk4djI?oc=5"
     },
     {
       "id": "31d978ae868a07a9b3",
@@ -241,13 +241,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 11
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 9
     },
     "direct_media": {
       "ok": true,
