@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:24:34+02:00",
+  "generated_at": "2026-08-22T12:48:29+02:00",
   "items": [
     {
       "id": "cc3dd768155ad7b57a",
@@ -96,30 +96,6 @@
       "title": "‘La añada del milagro’: el viñedo de San Martín de Valdeiglesias resiste al fuego y afronta una vendimia adelantada",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTFJxbFBkRjFHRFdzanRJdDFqbGFMOEhQY1NCdU9nMGJFVFYyS0x0aUdFNkswZFVKWlRhc0xGb0ZWUjBwQkhFa1BZcmVCR091NnoxY2xvZmUycXNMZkJnYlRJMzVYXzZjQlZrTGYzWGtiNE5uLTNBOE1PLWwzMkJndjZ6eGk1Mnl2TlVIWS1mX3pFNDBYRFZhVE5JMVRxVWVvSnhNajdYUW1ScGJWalFMbk83MC1fTS01Ui1Uak03QzRrOHVZMEFrQ2tNWkpJS09Wd0dqcDctdVVaYlBxUG9JRlIzZXlNTjEyRXBKMUlhZk03MEV6REc4amRfWlo1eFRpdDFtTHFEX3gyLUNCVWFZbnVSeGZwZ9IBlgJBVV95cUxOTFJxbFBkRjFHRFdzanRJdDFqbGFMOEhQY1NCdU9nMGJFVFYyS0x0aUdFNkswZFVKWlRhc0xGb0ZWUjBwQkhFa1BZcmVCR091NnoxY2xvZmUycXNMZkJnYlRJMzVYXzZjQlZrTGYzWGtiNE5uLTNBOE1PLWwzMkJndjZ6eGk1Mnl2TlVIWS1mX3pFNDBYRFZhVE5JMVRxVWVvSnhNajdYUW1ScGJWalFMbk83MC1fTS01Ui1Uak03QzRrOHVZMEFrQ2tNWkpJS09Wd0dqcDctdVVaYlBxUG9JRlIzZXlNTjEyRXBKMUlhZk03MEV6REc4amRfWlo1eFRpdDFtTHFEX3gyLUNCVWFZbnVSeGZwZw?oc=5"
-    },
-    {
-      "id": "f1ed8289bbe9644605",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-21T12:39:00+02:00",
-      "source": "ABC",
-      "title": "Las estimaciones a vista de satélite rebajan de 50.000 a 37.800 las hectáreas quemadas por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEkyUGhkWk9TT3p2TWZaNW84TTRkZFBoa09kd3lmUVA5WEZrLTlHNmltUmY2cHU0cmx4UGxuWXo4ZHZQZXltbDA3d1VwamgzeTQ0VUFUZUZ4TXRDcGxuWnBVb2NheFBFeFhteWRSTllvU2ZuR2Q5NExHa01DREotOC16R25UczFXaEw0SGZObmstMURXUE1FMEZCR210OW9mV3h6RUU0VFBuSnJSUjlRc0poYjB2TndMNnc0cQ?oc=5"
-    },
-    {
-      "id": "19426154b83c2df9bf",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-21T12:36:07+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "La estimación de la Junta rebaja la extensión del incendio de Ávila a 37.800 hectáreas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmIwcXRMNmY0MzJoYnNkM0hVUkZrNjZ1ZU94UUd1eUVoaHJMbVF4WHF1d2hBcWEwVkRnN0VrUFU0OGZfYWFwcmJuV1JQdm5RUUpqTVBsSnpxRzN3YkJhVThLOUhsZno2dnR0WG9xT2ZUd2llajA0VjgwT0pJSDVWQmVXUlg2SWx5RFJ6b3F5NlpkUkowcHdySUpqdXY2Y0kxNnBiZW83d0pzNlI0RF96amFmUlhuT0tTekdTMGZaLWY?oc=5"
     },
     {
       "id": "31d978ae868a07a9b3",
@@ -247,7 +223,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 10
+      "items": 7
     },
     "direct_media": {
       "ok": true,
