@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T10:00:14+02:00",
+  "generated_at": "2026-08-22T10:40:21+02:00",
   "items": [
+    {
+      "id": "cc3dd768155ad7b57a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-22T09:04:49+02:00",
+      "source": "Europa Press",
+      "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
+      "summary": "Un mes después del incendio de la Sierra Oeste, que arrasó miles de hectáreas y causó graves daños en el...",
+      "url": "https://www.europapress.es/madrid/noticia-abel-programador-perdio-hogar-incendio-sierra-oeste-pierde-paraiso-forma-vida-20260822090449.html"
+    },
     {
       "id": "3de0a3db5d7d6fae72",
       "type": "news",
@@ -132,18 +144,6 @@
       "title": "Desactivado el nivel 1 en el incendio de Aldea del Fresno, que pasa a situación operativa 0",
       "summary": "El incendio forestal originado en Aldea del Fresno ha descendido de situación operativa 1 del Plan de...",
       "url": "https://www.europapress.es/madrid/noticia-desactivado-nivel-incendio-aldea-fresno-pasa-situacion-operativa-20260821091107.html"
-    },
-    {
-      "id": "a33dc34c49c5379abc",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-20T11:12:32+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad activa una línea telefónica para los 17 ayuntamientos afectados por el incendio de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid activa desde este jueves una línea telefónica directa de información para los...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-activa-linea-telefonica-17-ayuntamientos-afectados-incendio-sierra-oeste-20260820111232.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
