@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:41:09+02:00",
+  "generated_at": "2026-08-22T22:59:51+02:00",
   "items": [
     {
       "id": "e01e653d9227776b02",
@@ -26,16 +26,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTRHOEJSdVdJMXZYaW9pYS1qNjFfaGJIaVNoWWNoUTJZLWxBQjhCeU5tZVdfcl80QnZkU2V0QjJETURLWFRaaGV2S1BpdFJma1gxVDJUdGozeEYzVFViSzNiZGJ2MTJlenJ3VmM0NjNYSWlPUEYtelNWQmxKcDF3Tkt4TGZiUE1ReE1ydWZFZHJPOFA1OF9wbi11N0VLOTJRMXEzN2JPVHduXzJyaTZLcWRyQk04dG1Idm5TV1FYYWpqMDFSV0E?oc=5"
     },
     {
-      "id": "d793e6fbb2f350e3ef",
+      "id": "cc3dd768155ad7b57a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-22T12:53:13+02:00",
-      "source": "20Minutos",
+      "published": "2026-08-22T09:04:49+02:00",
+      "source": "Europa Press",
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE1wQ0l6d1V5aGl6ZVRaUV9EankwSUoyWThCLVVFSDdJNV81T3AyT1R6OTNqZmRVcnJLam5fSUo1OWlaTUlDY2dTOUREdk9tVlMwTnVGU0NPUzQyTTUzdWQtUXczdFhKMGppZUpQbTNYYlRNWTRIVlowcmJZSVVDdzhDN2UtMi1FWTlKd2JjSDBoVWU2ZFFoMTNiekk4eU5TMi1RTWRrOHBUWmhYU0ljai1raXFjTXhhb1JKOS11MUdWQVdQN1ZRaGlwdXprc3dQckFfTGpn?oc=5"
     },
     {
       "id": "477561545c63d22103",
@@ -211,7 +211,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "direct_media": {
       "ok": true,
