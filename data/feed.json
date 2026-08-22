@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:53:41+02:00",
+  "generated_at": "2026-08-22T07:21:13+02:00",
   "items": [
     {
       "id": "a32874b0f08018433a",
@@ -108,18 +108,6 @@
       "title": "Desactivado el nivel 1 en el incendio de Aldea del Fresno, que pasa a situación operativa 0",
       "summary": "El incendio forestal originado en Aldea del Fresno ha descendido de situación operativa 1 del Plan de...",
       "url": "https://www.europapress.es/madrid/noticia-desactivado-nivel-incendio-aldea-fresno-pasa-situacion-operativa-20260821091107.html"
-    },
-    {
-      "id": "f35b475257438b0c9a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Aldea del Fresno",
-      "published": "2026-08-21T07:09:28+02:00",
-      "source": "Telemadrid",
-      "title": "El incendio de Aldea del Fresno pasa a la situación operativa 0 tras una \"evolución muy favorable\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT1R3Ni0xSFlIYWZWdzJZYjNRSUt3dXdWRDhhaU5nME8wWnVXUmxqYVBwS0JpVnVGTEM3MV8tLVcwZVRnRXhxTC01cjVSOHAtZlRZdmJQcmZ1V1J1aV9jR1lqNGVnX1k4Rm1scGtyYjVXV2RoWHRvYl9wLVp3b2RCWGVmTkxqSUVTUVlTTU5oOWtvWXp4bUhnQjRhN3lIZXFTRWxyaEYwanZubXBxR2JqNkYyazZUU0ViMDhucnlST29vMExBRXhaSzEwcTZYeDc3Zkg3ZTN5YTZtVEdvNkFyNnpXU1N5VkpqSWFmb0FSaUxrTG5SWGR1WEtXN25ndXVESkHSAYcCQVVfeXFMUHpTYTlSNFRGcndGTkNXLU9KTEhBLWYxTnVvUHVpbUFQVkVRUEZtY0xxd2VsTF8xNHU3NWFvYkxYSXJ3SmhDZDNQRExfSThEdHQ0eGlQRkZWaWMzY3o0enNzWW9WTXE3eTZRUEVFelprM2RwdGZBMHFZVFJPNm1OUk50ek9nam9WZXMtSmxscWhvX3lyUEJaY1ZvY3lodWR1YkVaZUtKVXEyalh0N1h5OTBQeWRYVDVVLUNYQmg5NXNGcnNhb3BIMUttR2lnWWlaNjUxa1Z5SDJsZ01Pc3F1NGJiZkdGaEYzenk0Y0NJalVMTndoVFNsYjJkNzl4QjhBcU1aeHR0Q00?oc=5"
     },
     {
       "id": "a33dc34c49c5379abc",
@@ -247,7 +235,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "direct_media": {
       "ok": true,
