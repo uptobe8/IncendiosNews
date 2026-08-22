@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:43:04+02:00",
+  "generated_at": "2026-08-22T19:01:13+02:00",
   "items": [
     {
       "id": "05f1ba2fdcc329b096",
@@ -72,18 +72,6 @@
       "title": "El incendio de Burgohondo deja 37.800 hectáreas afectadas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHhNME9tdWFWWC1HaWRWb1g3OU5QMHQzV2ZfY0xVM214R09mYnZsdDFsRmVmeFRrOHdzWmJLZ0syTGFyQm9zcjljNkQycXFQNl94WDZlWk5zQlAyZlJnOXI4YjdoVVhQVEstUHo0eEVIaTFseUtXNmJtTTd0dkRjOEFrR2xSRDUwTjkzS0JVNU1rMW82X0htR0dpclhmWmZWVldHRQ?oc=5"
-    },
-    {
-      "id": "695b9c374e2b2a64f1",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-21T18:55:42+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Regresan los evacuados por los incendios de Huesca y Cáceres",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbTliaVJ2dElqdzFyc09JZ3hTeVNyYThoRDdkUTVLVVdZeTY1aVN5RlZtbHN4YWFpdUQzdFJxbWJYajZlVWtvWkk2b3Z6T2VldzA3TG5RbmNzUWRCN3VlQ1EzczJpSVA2MjNNdFFXN3F3TVFmUlJCOS1xNlZDclBZNVo4SS03RF9XbmJNUmF2N1VrRmk5NDhXakxZTG4wV0JNeXFmMTNxejYzWGwxU2JtbHZ3UUFEdWJYcm4wcXh3UFphUWtwUzI2dU9TX3hXNzVxRFdnNlNyekxyZ3FxX1E?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -199,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 6
     },
     "direct_media": {
       "ok": true,
