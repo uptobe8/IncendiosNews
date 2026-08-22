@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:29:53+02:00",
+  "generated_at": "2026-08-22T19:50:19+02:00",
   "items": [
     {
       "id": "05f1ba2fdcc329b096",
@@ -60,18 +60,6 @@
       "title": "Susto de nuevo en la Sierra Oeste por un incendio que llegó a desalojar varias urbanizaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV1JlQ1pibFhjVm1WSXRmYzNPSUMwWVVfMU5JY1drbnlqWFozcmhiT0YwbnB4QXoxZmJpeE05a3ZNSldEZE8wYmNrYm5Ec1JsdzhPMnBNY0s0TUhSaHctczBURTNXOVBMNHNXSUpmQ2lGQlJXZnN2NDkwUWI0RmQwVk15bV9hcTlaUUc2eGRGeDVfbG0zMlhiWm9VRWh0SHFONVNpNWlabVp2eE1NeDIydTVVa3UwV1d4S0R5cnhGZ0dTclMxLTJkZWw5NDlLWjV0Q3dES2J6anZyaFh4WGVTbUpWb3RuUVR2SGNnMGw5VTQ4SEVIYnRHcTlHNTNkQmw2TTVLc1ZZMjdwUdIBjwJBVV95cUxNdl9FVzhLMlBuSUZpOFNhSlJ3SXZLS0gyMnJqX1F1NmZpOUFsRmxfSktvYkYtNjZnYjlrdVB1dEJpWWZEWU4yNXNJSHpPNXVfeE0yNWpPUUt0SzNaQ0xxWmR5cGE4bWVFd0U3S3lrNE9DN3dlOURMaVdzb3MtZU45UVpXVktFbDZDbkJrTDAtdWRuM1ZpVXBhTGpfRkpfY0JUeHUwWWM4R3ZXbWFnTXI4ZFJuaVFtaTZVZTZuVXNZMWVGQ1R2T0s1Ml9ac1BRczhtNWU0NnV4X3pUcDlwM2RMMDBRb1J3T1VCVVBCS2s1TU9STGNlNnVnREc0N1hPV1FCSXFVbDU2MVBIUm9hdDQ0?oc=5"
-    },
-    {
-      "id": "a32874b0f08018433a",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-21T19:44:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El incendio de Burgohondo deja 37.800 hectáreas afectadas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHhNME9tdWFWWC1HaWRWb1g3OU5QMHQzV2ZfY0xVM214R09mYnZsdDFsRmVmeFRrOHdzWmJLZ0syTGFyQm9zcjljNkQycXFQNl94WDZlWk5zQlAyZlJnOXI4YjdoVVhQVEstUHo0eEVIaTFseUtXNmJtTTd0dkRjOEFrR2xSRDUwTjkzS0JVNU1rMW82X0htR0dpclhmWmZWVldHRQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -187,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 5
     },
     "direct_media": {
       "ok": true,
