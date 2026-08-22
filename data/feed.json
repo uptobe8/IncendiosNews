@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:56:25+02:00",
+  "generated_at": "2026-08-22T12:24:34+02:00",
   "items": [
     {
       "id": "cc3dd768155ad7b57a",
@@ -247,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 9
+      "items": 10
     },
     "direct_media": {
       "ok": true,
