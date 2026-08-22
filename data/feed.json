@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:35:00+02:00",
+  "generated_at": "2026-08-22T21:52:29+02:00",
   "items": [
     {
       "id": "e01e653d9227776b02",
@@ -72,6 +72,18 @@
       "title": "Susto de nuevo en la Sierra Oeste por un incendio que llegó a desalojar varias urbanizaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV1JlQ1pibFhjVm1WSXRmYzNPSUMwWVVfMU5JY1drbnlqWFozcmhiT0YwbnB4QXoxZmJpeE05a3ZNSldEZE8wYmNrYm5Ec1JsdzhPMnBNY0s0TUhSaHctczBURTNXOVBMNHNXSUpmQ2lGQlJXZnN2NDkwUWI0RmQwVk15bV9hcTlaUUc2eGRGeDVfbG0zMlhiWm9VRWh0SHFONVNpNWlabVp2eE1NeDIydTVVa3UwV1d4S0R5cnhGZ0dTclMxLTJkZWw5NDlLWjV0Q3dES2J6anZyaFh4WGVTbUpWb3RuUVR2SGNnMGw5VTQ4SEVIYnRHcTlHNTNkQmw2TTVLc1ZZMjdwUdIBjwJBVV95cUxNdl9FVzhLMlBuSUZpOFNhSlJ3SXZLS0gyMnJqX1F1NmZpOUFsRmxfSktvYkYtNjZnYjlrdVB1dEJpWWZEWU4yNXNJSHpPNXVfeE0yNWpPUUt0SzNaQ0xxWmR5cGE4bWVFd0U3S3lrNE9DN3dlOURMaVdzb3MtZU45UVpXVktFbDZDbkJrTDAtdWRuM1ZpVXBhTGpfRkpfY0JUeHUwWWM4R3ZXbWFnTXI4ZFJuaVFtaTZVZTZuVXNZMWVGQ1R2T0s1Ml9ac1BRczhtNWU0NnV4X3pUcDlwM2RMMDBRb1J3T1VCVVBCS2s1TU9STGNlNnVnREc0N1hPV1FCSXFVbDU2MVBIUm9hdDQ0?oc=5"
+    },
+    {
+      "id": "b1a5880c81575e946b",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Aldea del Fresno",
+      "published": "2026-08-22T00:04:00+02:00",
+      "source": "Telemadrid",
+      "title": "El incendio de Aldea del Fresno pasa a la situación operativa 0 tras una \"evolución muy favorable\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT1R3Ni0xSFlIYWZWdzJZYjNRSUt3dXdWRDhhaU5nME8wWnVXUmxqYVBwS0JpVnVGTEM3MV8tLVcwZVRnRXhxTC01cjVSOHAtZlRZdmJQcmZ1V1J1aV9jR1lqNGVnX1k4Rm1scGtyYjVXV2RoWHRvYl9wLVp3b2RCWGVmTkxqSUVTUVlTTU5oOWtvWXp4bUhnQjRhN3lIZXFTRWxyaEYwanZubXBxR2JqNkYyazZUU0ViMDhucnlST29vMExBRXhaSzEwcTZYeDc3Zkg3ZTN5YTZtVEdvNkFyNnpXU1N5VkpqSWFmb0FSaUxrTG5SWGR1WEtXN25ndXVESkHSAYcCQVVfeXFMUHpTYTlSNFRGcndGTkNXLU9KTEhBLWYxTnVvUHVpbUFQVkVRUEZtY0xxd2VsTF8xNHU3NWFvYkxYSXJ3SmhDZDNQRExfSThEdHQ0eGlQRkZWaWMzY3o0enNzWW9WTXE3eTZRUEVFelprM2RwdGZBMHFZVFJPNm1OUk50ek9nam9WZXMtSmxscWhvX3lyUEJaY1ZvY3lodWR1YkVaZUtKVXEyalh0N1h5OTBQeWRYVDVVLUNYQmg5NXNGcnNhb3BIMUttR2lnWWlaNjUxa1Z5SDJsZ01Pc3F1NGJiZkdGaEYzenk0Y0NJalVMTndoVFNsYjJkNzl4QjhBcU1aeHR0Q00?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -181,13 +193,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 7
     },
     "direct_media": {
       "ok": true,
