@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:58:01+02:00",
+  "generated_at": "2026-08-23T07:33:25+02:00",
   "items": [
     {
       "id": "e01e653d9227776b02",
@@ -14,16 +14,16 @@
       "url": "https://www.telemadrid.es/programas/madrid-directo/El-incendio-sigue-golpeando-a-los-ganaderos-de-Chapineria-las-cabras-continuan-muriendo-un-mes-despues-2-2918728121--20260822085421.html"
     },
     {
-      "id": "cc3dd768155ad7b57a",
+      "id": "d793e6fbb2f350e3ef",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-22T09:04:49+02:00",
-      "source": "Europa Press",
+      "published": "2026-08-22T12:53:13+02:00",
+      "source": "20Minutos",
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
-      "summary": "Un mes después del incendio de la Sierra Oeste, que arrasó miles de hectáreas y causó graves daños en el...",
-      "url": "https://www.europapress.es/madrid/noticia-abel-programador-perdio-hogar-incendio-sierra-oeste-pierde-paraiso-forma-vida-20260822090449.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -137,13 +137,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
-    "direct_media": {
+    "google_news": {
       "ok": true,
       "items": 2
     },
-    "google_news": {
-      "ok": false,
-      "error": "RuntimeError"
+    "direct_media": {
+      "ok": true,
+      "items": 2
     }
   },
   "refresh_seconds": 300
