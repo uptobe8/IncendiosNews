@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-23T13:54:53+02:00",
+  "generated_at": "2026-08-23T14:33:54+02:00",
   "items": [
+    {
+      "id": "88cebbec21b8269efd",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-23T13:42:55+02:00",
+      "source": "Madrid Actual",
+      "title": "Incendio en nave industrial de Collado Villalba",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZk5MZ0lFc3RaaVJOWTg0OUxfODZRdGlsZTJiRUFvNWtzUFVWalRxTmFfMlFJbjlYLXo5cndaYWFQNFREamZCVkpJR3hTNFBUam1nRU5ES3pzLVhnNEJUWWlaQ3d1eDZyZ0FMU3E2NjFObGdSS1ZwR0NfajBEakdxT1Q0YzhWLWxaZm9wXzl4M3QwbFpyYlFoZDNFX0thZmRicE5iZ2lneDR2UUM2MlZTdlVBSHhFZ1AxaWdlMzdCUU5KbkV0STV1eTF6aHpZX0JkZGZHUllLZw?oc=5"
+    },
     {
       "id": "b42805ba4f580072fe",
       "type": "news",
@@ -47,7 +59,7 @@
       "source": "Telemadrid",
       "title": "El incendio sigue golpeando a los ganaderos de Chapinería: las cabras continúan muriendo un mes después",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObzZoekl4clJqNEZBRUp5ZUlJcUp6eUNiX0xrYzAxMld6bGhIb0g2aXlaSkVUb0hwc2Mwejh4SG9rZGFqRkZtRnkyR0p5Ym5halNjSklzMWFtbjYxdUEtWkZmVnNoNzVPSURBb0dQdFFvLUxlZ3RsUlVoTjRqMUE2ekk1UVpsaHRVb285cThWM2pqaGFSTHZFMVVUalIzdEMwTzVVeUwxODdhNm1ZanJNSURHMGthU1lvdzRIWmp3am5neEVXZW9UWEo4S1FObFQzSW9PU3owOFotMklIM2ZFcTVjM1QxUHRzTXZqS29kWW42WU9tR2N2S01OUm1vamFQeVJPdjFZZzhwUXZnSlhfbWdpUVhkd9IBmwJBVV95cUxOTGR6NXV1cG1HYmFaZzlES0NYTElnSGJXVDRXRktxcWtHR3hjc1FiaFJGdkRYcmNRQkQ4RmUwakYxRVZSUEx6NGEzelR1UEpCYjlVRDFGSi1mZWpjYXM5X0hlMUF2SjI0T2FSQVN1Ry0yM2h4VWNrVGV1OTk5WkQ0SmNuakUtWVY3dlNrNlplSi1qc196M1NqaTFGNldUclVyVDdfeU8tSGlJSWEzMEV5ZWR4dkQyTkZzSUpxdWF4bnJYLURjeHlMLXFET2RUYmlZYlJXZHdXRTF6WTEtV1R5dmNqZk96VlJhVWtzbng2VGxDM2hoT0FHcDhYWS0yMzVhdEFpOHdhUnBqYTZWZXVhRWMxa3EwQ2Z0a1N3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTGR6NXV1cG1HYmFaZzlES0NYTElnSGJXVDRXRktxcWtHR3hjc1FiaFJGdkRYcmNRQkQ4RmUwakYxRVZSUEx6NGEzelR1UEpCYjlVRDFGSi1mZWpjYXM5X0hlMUF2SjI0T2FSQVN1Ry0yM2h4VWNrVGV1OTk5WkQ0SmNuakUtWVY3dlNrNlplSi1qc196M1NqaTFGNldUclVyVDdfeU8tSGlJSWEzMEV5ZWR4dkQyTkZzSUpxdWF4bnJYLURjeHlMLXFET2RUYmlZYlJXZHdXRTF6WTEtV1R5dmNqZk96VlJhVWtzbng2VGxDM2hoT0FHcDhYWS0yMzVhdEFpOHdhUnBqYTZWZXVhRWMxa3EwQ2Z0a1N30gGbAkFVX3lxTE5MZHo1dXVwbUdiYVpnOURLQ1hMSWdIYldUNFdGS3Fxa0dHeGNzUWJoUkZ2RFhyY1FCRDhGZTBqRjFFVlJQTHo0YTN6VHVQSkJiOVVEMUZKLWZlamNhczlfSGUxQXZKMjRPYVJBU3VHLTIzaHhVY2tUZXU5OTlaRDRKY25qRS1ZVjd2U2s2WmVKLWpzX3ozU2ppMUY2V1RyVXJUN195Ty1IaUlJYTMwRXllZHh2RDJORnNJSnF1YXhuclgtRGN4eUwtcURPZFRiaVliUldkd1dFMXpZMS1XVHl2Y2pmT3pWUmFVa3NueDZUbEMzaGhPQUdwOFhZLTIzNWF0QWk4d2FScGphNlZldWFFYzFrcTBDZnRrU3c?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
