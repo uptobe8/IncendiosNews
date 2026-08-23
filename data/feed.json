@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:57:20+02:00",
+  "generated_at": "2026-08-24T00:26:33+02:00",
   "items": [
     {
       "id": "ac7f30685127fb28f9",
@@ -36,18 +36,6 @@
       "title": "Una peña de Belorado organiza un zurracapote solidario para ayudar a un amigo que perdió su casa en incendios de Madrid",
       "summary": "Una peña de Belorado (Burgos) ha organizado un 'zurracapote' solidario para las fiestas de...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-pena-belorado-organiza-zurracapote-solidario-ayudar-amigo-perdio-casa-incendios-madrid-20260823123027.html"
-    },
-    {
-      "id": "d306db1c41bb1e0453",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-23T00:01:27+02:00",
-      "source": "RTVE.es",
-      "title": "Se cumple un mes del incendio de Burgohondo, en Ávila, que arrasó 37.600 hectáreas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTU4MnNwQ0tHd2hSTFNUa3pxNWVvWlJOaXgtS3h2eXRvRFVabUwtMkFmb0d4cHpRVWIzcUVGSU4wVjQxZkJKOVhiYUpiNTIxVFZ6UnJhZU9zVk1oUUdhdm8xV2t6eVcxbmk1LUdPV21mdWpLTXBaLWJNUFN6TTVXbTlrWWJ1eXVwTlZ6WE1Tb3JNLVJsbWZ1UHAzQWdaNVp4RE9Jdm1MNkxPQQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -157,13 +145,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
