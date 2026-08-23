@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-23T12:28:09+02:00",
+  "generated_at": "2026-08-23T12:52:27+02:00",
   "items": [
+    {
+      "id": "520b1ea71b3f249e32",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-23T12:30:27+02:00",
+      "source": "Europa Press",
+      "title": "Una peña de Belorado organiza un zurracapote solidario para ayudar a un amigo que perdió su casa en incendios de Madrid",
+      "summary": "BURGOS, (EUROPA PRESS) Una peña de Belorado (Burgos) ha organizado un 'zurracapote' solidario para las...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-pena-belorado-organiza-zurracapote-solidario-ayudar-amigo-perdio-casa-incendios-madrid-20260823123027.html"
+    },
     {
       "id": "4acbc1a3cb2ce9418e",
       "type": "news",
@@ -14,13 +26,13 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObzZoekl4clJqNEZBRUp5ZUlJcUp6eUNiX0xrYzAxMld6bGhIb0g2aXlaSkVUb0hwc2Mwejh4SG9rZGFqRkZtRnkyR0p5Ym5halNjSklzMWFtbjYxdUEtWkZmVnNoNzVPSURBb0dQdFFvLUxlZ3RsUlVoTjRqMUE2ekk1UVpsaHRVb285cThWM2pqaGFSTHZFMVVUalIzdEMwTzVVeUwxODdhNm1ZanJNSURHMGthU1lvdzRIWmp3am5neEVXZW9UWEo4S1FObFQzSW9PU3owOFotMklIM2ZFcTVjM1QxUHRzTXZqS29kWW42WU9tR2N2S01OUm1vamFQeVJPdjFZZzhwUXZnSlhfbWdpUVhkd9IBmwJBVV95cUxOTGR6NXV1cG1HYmFaZzlES0NYTElnSGJXVDRXRktxcWtHR3hjc1FiaFJGdkRYcmNRQkQ4RmUwakYxRVZSUEx6NGEzelR1UEpCYjlVRDFGSi1mZWpjYXM5X0hlMUF2SjI0T2FSQVN1Ry0yM2h4VWNrVGV1OTk5WkQ0SmNuakUtWVY3dlNrNlplSi1qc196M1NqaTFGNldUclVyVDdfeU8tSGlJSWEzMEV5ZWR4dkQyTkZzSUpxdWF4bnJYLURjeHlMLXFET2RUYmlZYlJXZHdXRTF6WTEtV1R5dmNqZk96VlJhVWtzbng2VGxDM2hoT0FHcDhYWS0yMzVhdEFpOHdhUnBqYTZWZXVhRWMxa3EwQ2Z0a1N3?oc=5"
     },
     {
-      "id": "d793e6fbb2f350e3ef",
+      "id": "f1e394025d1b8f382b",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-08-22T12:53:13+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0hqbXNoX3BDYkJkV1lKVk5rUUZUeTBwcTZRNDAzLW9iWDNCWnBBSWllZVJfeWxVcWZOMm9XYnNEOG03eS1ZMWQ3WXozZUJfWGQ5MEduOWd4OUpNaTdmUlJXZk8yWjRhUFhxd1hrWEJrV2VOSzZKaGQ0MGVxckpqcExnM0s1b3NYdmFDR0VaamlwdWlvdVRqdjFKRzNrR2pMNzlfTUZEQnpYOHp2T2V5WDN5azk0czZGTmRrbVdXbHdfeFVDS3FkQ3d1Ty1Jby0tV1VJRmF3TC0?oc=5"
@@ -133,17 +145,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
