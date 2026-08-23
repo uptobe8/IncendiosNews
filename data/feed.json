@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:12:31+02:00",
+  "generated_at": "2026-08-23T13:36:26+02:00",
   "items": [
     {
       "id": "b42805ba4f580072fe",
@@ -48,18 +48,6 @@
       "title": "El incendio sigue golpeando a los ganaderos de Chapinería: las cabras continúan muriendo un mes después",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObzZoekl4clJqNEZBRUp5ZUlJcUp6eUNiX0xrYzAxMld6bGhIb0g2aXlaSkVUb0hwc2Mwejh4SG9rZGFqRkZtRnkyR0p5Ym5halNjSklzMWFtbjYxdUEtWkZmVnNoNzVPSURBb0dQdFFvLUxlZ3RsUlVoTjRqMUE2ekk1UVpsaHRVb285cThWM2pqaGFSTHZFMVVUalIzdEMwTzVVeUwxODdhNm1ZanJNSURHMGthU1lvdzRIWmp3am5neEVXZW9UWEo4S1FObFQzSW9PU3owOFotMklIM2ZFcTVjM1QxUHRzTXZqS29kWW42WU9tR2N2S01OUm1vamFQeVJPdjFZZzhwUXZnSlhfbWdpUVhkd9IBmwJBVV95cUxOTGR6NXV1cG1HYmFaZzlES0NYTElnSGJXVDRXRktxcWtHR3hjc1FiaFJGdkRYcmNRQkQ4RmUwakYxRVZSUEx6NGEzelR1UEpCYjlVRDFGSi1mZWpjYXM5X0hlMUF2SjI0T2FSQVN1Ry0yM2h4VWNrVGV1OTk5WkQ0SmNuakUtWVY3dlNrNlplSi1qc196M1NqaTFGNldUclVyVDdfeU8tSGlJSWEzMEV5ZWR4dkQyTkZzSUpxdWF4bnJYLURjeHlMLXFET2RUYmlZYlJXZHdXRTF6WTEtV1R5dmNqZk96VlJhVWtzbng2VGxDM2hoT0FHcDhYWS0yMzVhdEFpOHdhUnBqYTZWZXVhRWMxa3EwQ2Z0a1N3?oc=5"
-    },
-    {
-      "id": "cc3dd768155ad7b57a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-22T09:04:49+02:00",
-      "source": "Europa Press",
-      "title": "Abel, el programador que perdió su hogar en el incendio de la Sierra Oeste: \"Se pierde un paraíso y una forma de vida\"",
-      "summary": "Un mes después del incendio de la Sierra Oeste, que arrasó miles de hectáreas y causó graves daños en el...",
-      "url": "https://www.europapress.es/madrid/noticia-abel-programador-perdio-hogar-incendio-sierra-oeste-pierde-paraiso-forma-vida-20260822090449.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -169,17 +157,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 1
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
