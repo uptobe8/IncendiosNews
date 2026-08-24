@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T23:58:24+02:00",
+  "generated_at": "2026-08-25T00:33:35+02:00",
   "items": [
     {
-      "id": "46afc887d3278d00ef",
+      "id": "fa44ba67eb176f0ab5",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-24T22:59:53+02:00",
+      "published": "2026-08-25T00:00:56+02:00",
       "source": "Tribuna de Ávila",
       "title": "Las ayudas por el incendio de Burgohondo elevan las indemnizaciones al ganado",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -84,18 +84,6 @@
       "title": "Un libro, un documental y una placa homenaje recuerdan la riada de Polán (Toledo) de 1926, que cumple cien años",
       "summary": "Cuando se cumplen cien años de la riada de 1926 en el municipio toledano de Polán, el Ayuntamiento de la...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-libro-documental-placa-homenaje-recuerdan-riada-polan-toledo-1926-cumple-cien-anos-20260824121020.html"
-    },
-    {
-      "id": "121f890f9fd95bc9fd",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-24T11:00:21+02:00",
-      "source": "La Razón",
-      "title": "Asaja Ávila destaca la inmediata respuesta de Agricultura tras los incendios de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRmFEeWw0VFdDRlZBSEo0NF9qSEk1bmIzcF9HVndPdWJHMEpXekpKQllzODE1MFpCYXFFY0NMRHJGSVlmb3RCUGZxRjZMMWdhSGNLTmMyek1oRl96cWRKSWlZWG5MVE5hVzVNTUV1T25tckJ6UW1PSEpPRlRMMFRwNGplSEdUT3hnZ2UtNDFaNktXY3NaWmo1RUUyX3AtUi1MUEdRY2RYMmlzRUl6NWd2LURudUtBcG44c2x3WVZzdk50eTdDdEdZemhtSlhsbVNDRU9NY005UUdncmlrcUJCX0o1RdIB9wFBVV95cUxQTlJ4ZUhaWDNKdFZmTlRFUDhFZXRGU1ZtdzdBY1g1NmxONEpsV1NRN0Vzb3JOZmRlLU9FdXlfUG1mcVkzUVJOSmFqYXo4Z0NGUU50NTBuUkczWTJwVWtIZUxtWVBUVkRhc2diTVczc1h4cEctTktyV2dBeElfQk83ak9pZzZtemQwZHNDVTlySmZEQXpPdFNVd3hLQWt0VFVpUDJnc1NlaEx6bS1HdTlLbnlOcUpJNzhoTHRpUTEwRzVwbmhJQTBhQmZLWFhPc1h5RmdkYTI0Y1U3cjE1UjJ3ZDBKX0pWdUVtMTRXVmJ0VE55OGh1U0ln?oc=5"
     },
     {
       "id": "8d478f86fe5ed32843",
@@ -247,7 +235,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 6
     },
     "direct_media": {
       "ok": true,
