@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-24T12:50:05+02:00",
+  "generated_at": "2026-08-24T13:15:19+02:00",
   "items": [
+    {
+      "id": "ac67c139c0f976d8dc",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T13:05:40+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad anuncia ayudas de 3 millones para medio centenar de empresas afectadas por los incendios de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkV3MllqWFJjbTFMLWZRZzVMN0FLazIyc0Y4SG5MbUdfRENFWEdCNjFZRnNpdWpPcURTb2h1M2tUaVhaZDhZXzQ1WkFVMkZFMnRBcjJNY1BJdkp3MHQ1WmotMnM2bHAydWNKSHNUZU9ibGcyUlVxZXkzS1RVRWc4ME1BNXZaQlpJMFFIYTQta2tvMXRicVdrX2oyMXVLcFdGOFlBMloxQzdqVHVhOVU4YlJla0kyblFOeEhGSS0ya3hSUkNFaGhWZ0RBalNycWZpSmhSbzg5ZTNUODhhVnN1aEtieEFfWm8?oc=5"
+    },
+    {
+      "id": "c5a4137b269af865d2",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T13:04:16+02:00",
+      "source": "Telemadrid",
+      "title": "Ayuso anuncia una línea de financiación para los empresarios afectados por los incendios de la Sierra Oeste",
+      "summary": "La Comunidad de Madrid ha anunciado este lunes una nueva línea de ayudas de hasta 70.000 euros para empresas afectadas total o parcialmente por...",
+      "url": "https://www.telemadrid.es/programas/120-minutos/Ayuso-anuncia-una-linea-de-financiacion-para-los-empresarios-afectados-por-los-incendios-de-la-Sierra-Oeste-2-2919328045--20260824010415.html"
+    },
     {
       "id": "8214c6d79f2c5b3e1a",
       "type": "news",
@@ -181,17 +205,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "direct_media": {
+    "google_news": {
       "ok": true,
       "items": 4
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 6
     }
   },
   "refresh_seconds": 300
