@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:17:09+02:00",
+  "generated_at": "2026-08-24T15:24:45+02:00",
   "items": [
     {
       "id": "c502a8a078e6332bbe",
@@ -36,18 +36,6 @@
       "title": "La Comunidad anuncia ayudas de 3 millones para medio centenar de empresas afectadas por los incendios de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkV3MllqWFJjbTFMLWZRZzVMN0FLazIyc0Y4SG5MbUdfRENFWEdCNjFZRnNpdWpPcURTb2h1M2tUaVhaZDhZXzQ1WkFVMkZFMnRBcjJNY1BJdkp3MHQ1WmotMnM2bHAydWNKSHNUZU9ibGcyUlVxZXkzS1RVRWc4ME1BNXZaQlpJMFFIYTQta2tvMXRicVdrX2oyMXVLcFdGOFlBMloxQzdqVHVhOVU4YlJla0kyblFOeEhGSS0ya3hSUkNFaGhWZ0RBalNycWZpSmhSbzg5ZTNUODhhVnN1aEtieEFfWm8?oc=5"
-    },
-    {
-      "id": "c5a4137b269af865d2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:04:16+02:00",
-      "source": "Telemadrid",
-      "title": "Ayuso anuncia una línea de financiación para los empresarios afectados por los incendios de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid ha anunciado este lunes una nueva línea de ayudas de hasta 70.000 euros para empresas afectadas total o parcialmente por...",
-      "url": "https://www.telemadrid.es/programas/120-minutos/Ayuso-anuncia-una-linea-de-financiacion-para-los-empresarios-afectados-por-los-incendios-de-la-Sierra-Oeste-2-2919328045--20260824010415.html"
     },
     {
       "id": "8214c6d79f2c5b3e1a",
@@ -96,18 +84,6 @@
       "title": "Herido grave un hombre de 67 años tras un incendio en la cocina de su vivienda en Carabanchel, Madrid",
       "summary": "Un hombre de 67 años ha resultado herido grave a causa de un incendio en la cocina de su domicilio, en el...",
       "url": "https://www.europapress.es/madrid/noticia-herido-grave-hombre-67-anos-incendio-cocina-vivienda-carabanchel-madrid-20260824015850.html"
-    },
-    {
-      "id": "ac7f30685127fb28f9",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-23T12:59:47+02:00",
-      "source": "Europa Press",
-      "title": "Madrid busca 'Alertantes de Distrito': ciudadanos preparados para actuar ante una emergencia antes de que llegue Samur",
-      "summary": "Madrid busca 'Alertantes de Distrito' entre sus vecinos, ciudadanos que sin ser sanitarios ni...",
-      "url": "https://www.europapress.es/madrid/noticia-madrid-busca-alertantes-distrito-ciudadanos-preparados-actuar-emergencia-antes-llegue-samur-20260823125947.html"
     },
     {
       "id": "520b1ea71b3f249e32",
@@ -229,17 +205,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 5
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "direct_media": {
       "ok": true,
-      "items": 6
+      "items": 4
     }
   },
   "refresh_seconds": 300
