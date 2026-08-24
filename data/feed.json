@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T16:59:01+02:00",
+  "generated_at": "2026-08-24T17:48:02+02:00",
   "items": [
+    {
+      "id": "3723c3990dc494a473",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-24T17:33:03+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Las ayudas por el incendio de Burgohondo elevan las indemnizaciones al ganado",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmxYV185VkZiUHJ6ZEpjTXUwU2NYSHZkcnBkNk9KNnRodEhRaE5UeEM5dXVQMjR5N1hzTld6aVNoYXlwbjdLTmtfdEd3YUVhWmhrX1ZYcm5QTHRNMENaSHFER0dzcmVtRUtGbWdOOWRVdGRiNGNTN1FSbG9aMEFKVV9MVXExTzVBSVo3ZWZtMG1lLTBoT0xwYUhRN1NZT19TR2ptYkE0eDVyYzdrUi1hZm9FZGw5alA2dmpBWnVCWQ?oc=5"
+    },
     {
       "id": "c502a8a078e6332bbe",
       "type": "news",
@@ -211,7 +223,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 6
     },
     "direct_media": {
       "ok": true,
