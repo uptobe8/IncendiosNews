@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T13:47:00+02:00",
+  "generated_at": "2026-08-24T14:17:09+02:00",
   "items": [
+    {
+      "id": "c502a8a078e6332bbe",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T13:54:47+02:00",
+      "source": "ABC",
+      "title": "Ayuso anuncia 3 millones de euros para 50 empresas afectadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXU5cXBYR1JmRFlaeUJUSUpUVUNXT01CZW53ZEx5WXc0NjFQR0hHVWo4cXFrV0t2dk41dl91UlpCRk1mT1BvUzZKOUJTbmtXWFJYaTZjc01CRmFJMTh1NGd6XzZPSFROT1YyTUJjMThud3FXekEyakppVU9YWkdMdTVrQ010R1ppQkg1a0lnUUhyZWloZ1V4RURCZTNDUDQ4ZG9hSGNHTHlBMHA2NE1YZ3p3?oc=5"
+    },
     {
       "id": "c1270423b4a58c232a",
       "type": "news",
@@ -22,8 +34,8 @@
       "published": "2026-08-24T13:05:40+02:00",
       "source": "Europa Press",
       "title": "La Comunidad anuncia ayudas de 3 millones para medio centenar de empresas afectadas por los incendios de la Sierra Oeste",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes una nueva línea de...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-anuncia-ayudas-millones-medio-centenar-empresas-afectadas-incendios-sierra-oeste-20260824130540.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkV3MllqWFJjbTFMLWZRZzVMN0FLazIyc0Y4SG5MbUdfRENFWEdCNjFZRnNpdWpPcURTb2h1M2tUaVhaZDhZXzQ1WkFVMkZFMnRBcjJNY1BJdkp3MHQ1WmotMnM2bHAydWNKSHNUZU9ibGcyUlVxZXkzS1RVRWc4ME1BNXZaQlpJMFFIYTQta2tvMXRicVdrX2oyMXVLcFdGOFlBMloxQzdqVHVhOVU4YlJla0kyblFOeEhGSS0ya3hSUkNFaGhWZ0RBalNycWZpSmhSbzg5ZTNUODhhVnN1aEtieEFfWm8?oc=5"
     },
     {
       "id": "c5a4137b269af865d2",
@@ -223,7 +235,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 6
     },
     "direct_media": {
       "ok": true,
