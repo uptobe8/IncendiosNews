@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:42:29+02:00",
+  "generated_at": "2026-08-24T04:12:26+02:00",
   "items": [
     {
       "id": "ac7f30685127fb28f9",
@@ -12,6 +12,18 @@
       "title": "Madrid busca 'Alertantes de Distrito': ciudadanos preparados para actuar ante una emergencia antes de que llegue Samur",
       "summary": "Madrid busca 'Alertantes de Distrito' entre sus vecinos, ciudadanos que sin ser sanitarios ni...",
       "url": "https://www.europapress.es/madrid/noticia-madrid-busca-alertantes-distrito-ciudadanos-preparados-actuar-emergencia-antes-llegue-samur-20260823125947.html"
+    },
+    {
+      "id": "e9066390bf5a3e39ad",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-23T12:35:16+02:00",
+      "source": "Madrid Actual",
+      "title": "Siete dotaciones de bomberos extinguen un incendio en Collado Villalba",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZk5MZ0lFc3RaaVJOWTg0OUxfODZRdGlsZTJiRUFvNWtzUFVWalRxTmFfMlFJbjlYLXo5cndaYWFQNFREamZCVkpJR3hTNFBUam1nRU5ES3pzLVhnNEJUWWlaQ3d1eDZyZ0FMU3E2NjFObGdSS1ZwR0NfajBEakdxT1Q0YzhWLWxaZm9wXzl4M3QwbFpyYlFoZDNFX0thZmRicE5iZ2lneDR2UUM2MlZTdlVBSHhFZ1AxaWdlMzdCUU5KbkV0STV1eTF6aHpZX0JkZGZHUllLZw?oc=5"
     },
     {
       "id": "520b1ea71b3f249e32",
@@ -137,13 +149,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "direct_media": {
       "ok": true,
       "items": 2
-    },
-    "google_news": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
