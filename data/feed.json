@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T10:25:08+02:00",
+  "generated_at": "2026-08-24T11:12:59+02:00",
   "items": [
+    {
+      "id": "121f890f9fd95bc9fd",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-24T11:00:21+02:00",
+      "source": "La Razón",
+      "title": "Asaja Ávila destaca la inmediata respuesta de Agricultura tras los incendios de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRmFEeWw0VFdDRlZBSEo0NF9qSEk1bmIzcF9HVndPdWJHMEpXekpKQllzODE1MFpCYXFFY0NMRHJGSVlmb3RCUGZxRjZMMWdhSGNLTmMyek1oRl96cWRKSWlZWG5MVE5hVzVNTUV1T25tckJ6UW1PSEpPRlRMMFRwNGplSEdUT3hnZ2UtNDFaNktXY3NaWmo1RUUyX3AtUi1MUEdRY2RYMmlzRUl6NWd2LURudUtBcG44c2x3WVZzdk50eTdDdEdZemhtSlhsbVNDRU9NY005UUdncmlrcUJCX0o1RdIB9wFBVV95cUxQTlJ4ZUhaWDNKdFZmTlRFUDhFZXRGU1ZtdzdBY1g1NmxONEpsV1NRN0Vzb3JOZmRlLU9FdXlfUG1mcVkzUVJOSmFqYXo4Z0NGUU50NTBuUkczWTJwVWtIZUxtWVBUVkRhc2diTVczc1h4cEctTktyV2dBeElfQk83ak9pZzZtemQwZHNDVTlySmZEQXpPdFNVd3hLQWt0VFVpUDJnc1NlaEx6bS1HdTlLbnlOcUpJNzhoTHRpUTEwRzVwbmhJQTBhQmZLWFhPc1h5RmdkYTI0Y1U3cjE1UjJ3ZDBKX0pWdUVtMTRXVmJ0VE55OGh1U0ln?oc=5"
+    },
     {
       "id": "8d478f86fe5ed32843",
       "type": "news",
@@ -169,13 +181,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 3
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 2
     },
     "direct_media": {
       "ok": true,
