@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T18:18:33+02:00",
+  "generated_at": "2026-08-24T19:00:09+02:00",
   "items": [
+    {
+      "id": "d886fcaacf6045771a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T18:25:09+02:00",
+      "source": "20Minutos",
+      "title": "Madrid moviliza tres millones más en ayudas para impulsar a empresas afectadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGprS1JiU25ORm1FeVlOdjNQTnVCQWozX245eVdxZm5iOWpaRjhTRms2SFJCUDBEMVJkZ0dvbzN1R2IwMkdzNnZKVUtEYm9NTWhSNkJvb19TdVR4OGs0MVdoTFRVQXRtNUU4T05KelVnQUNiazVRYjJJTGc0WDRGd3NmMzB2OThnZXJNb2xtWEJydFU0ZXYtUnhyc0k0aUVuNDZkbmRYc1RrZG1rVW52U1dFMG5wa1Y5ZThHclp0UnplTW9CNE8xa0ZxUldvRzBhV3R1Skh1M2V6ZVpxRklz?oc=5"
+    },
     {
       "id": "3723c3990dc494a473",
       "type": "news",
@@ -235,7 +247,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 8
     },
     "direct_media": {
       "ok": true,
