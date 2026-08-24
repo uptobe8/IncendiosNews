@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T12:05:20+02:00",
+  "generated_at": "2026-08-24T12:50:05+02:00",
   "items": [
+    {
+      "id": "8214c6d79f2c5b3e1a",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-08-24T12:10:20+02:00",
+      "source": "Europa Press",
+      "title": "Un libro, un documental y una placa homenaje recuerdan la riada de Polán (Toledo) de 1926, que cumple cien años",
+      "summary": "Cuando se cumplen cien años de la riada de 1926 en el municipio toledano de Polán, el Ayuntamiento de la...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-libro-documental-placa-homenaje-recuerdan-riada-polan-toledo-1926-cumple-cien-anos-20260824121020.html"
+    },
     {
       "id": "121f890f9fd95bc9fd",
       "type": "news",
@@ -48,18 +60,6 @@
       "title": "Madrid busca 'Alertantes de Distrito': ciudadanos preparados para actuar ante una emergencia antes de que llegue Samur",
       "summary": "Madrid busca 'Alertantes de Distrito' entre sus vecinos, ciudadanos que sin ser sanitarios ni...",
       "url": "https://www.europapress.es/madrid/noticia-madrid-busca-alertantes-distrito-ciudadanos-preparados-actuar-emergencia-antes-llegue-samur-20260823125947.html"
-    },
-    {
-      "id": "e9066390bf5a3e39ad",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-23T12:35:16+02:00",
-      "source": "Madrid Actual",
-      "title": "Siete dotaciones de bomberos extinguen un incendio en Collado Villalba",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZk5MZ0lFc3RaaVJOWTg0OUxfODZRdGlsZTJiRUFvNWtzUFVWalRxTmFfMlFJbjlYLXo5cndaYWFQNFREamZCVkpJR3hTNFBUam1nRU5ES3pzLVhnNEJUWWlaQ3d1eDZyZ0FMU3E2NjFObGdSS1ZwR0NfajBEakdxT1Q0YzhWLWxaZm9wXzl4M3QwbFpyYlFoZDNFX0thZmRicE5iZ2lneDR2UUM2MlZTdlVBSHhFZ1AxaWdlMzdCUU5KbkV0STV1eTF6aHpZX0JkZGZHUllLZw?oc=5"
     },
     {
       "id": "520b1ea71b3f249e32",
@@ -181,13 +181,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 3
     },
     "direct_media": {
       "ok": true,
