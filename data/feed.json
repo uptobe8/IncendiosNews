@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:48:02+02:00",
+  "generated_at": "2026-08-24T18:18:33+02:00",
   "items": [
     {
       "id": "3723c3990dc494a473",
@@ -48,6 +48,18 @@
       "title": "La Comunidad anuncia ayudas de 3 millones para medio centenar de empresas afectadas por los incendios de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkV3MllqWFJjbTFMLWZRZzVMN0FLazIyc0Y4SG5MbUdfRENFWEdCNjFZRnNpdWpPcURTb2h1M2tUaVhaZDhZXzQ1WkFVMkZFMnRBcjJNY1BJdkp3MHQ1WmotMnM2bHAydWNKSHNUZU9ibGcyUlVxZXkzS1RVRWc4ME1BNXZaQlpJMFFIYTQta2tvMXRicVdrX2oyMXVLcFdGOFlBMloxQzdqVHVhOVU4YlJla0kyblFOeEhGSS0ya3hSUkNFaGhWZ0RBalNycWZpSmhSbzg5ZTNUODhhVnN1aEtieEFfWm8?oc=5"
+    },
+    {
+      "id": "bdab320a4c40610309",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T13:04:15+02:00",
+      "source": "Telemadrid",
+      "title": "Ayuso anuncia una línea de financiación para los empresarios afectados por los incendios de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSVdreFBKMmhCemRKMnd1LXM1NVNIOVdPTkluVjNRZXdRN2hyMTNUUkZFQ0daWUtNa19lb051SkZud2dWOGJ0NEFZbm05bnpBRUJ2NWRScnRDODdFdDVYRTlqOVM0NmVuZGZBTkF3ZFdzTFUzRmNmcHJBN2ZzdnBxcnZIckl3QkNhbVVMVjZKcVlIQzBJUGtvOUZ2N0FMbVlEX0xSZzgwd29ZM1Y5a3FyZnJYRDk5d09PWktJTW9ndVpkc0RUbFQ4UGJTckhRZXNqUTJ0SS1tcEUyYmhhRGhJb3hkRTF6dE12QnhQWTFqTFd4N0xtZDZKLVQ0cXpGMW5HcjRDWlFhbmpySnY4ZFRwRkFpRi1jb1Rx0gGeAkFVX3lxTFB1V2haRXJHUDV3dktIcGpyV210U2hrTVd5QzRRZGVRODR1bUJhMnVyXy1QTzBNVm5MLXZ2RnhfT0N1RlAtNU43cnZKMkwzV3FNU3QzQUhrSks1TUdPUENxYWtZU25UblRvRGZWejZ1dFB5QTV6N0ZHWnpCb0NpcmVtTGtpdEo1Z2dyX1FsWkxLMlkyb21QWDN4REhnZHl4dHl4dU5mUzNRRjBid0UtRmFJa3YxaXAwV2sycDFnQzVGQkcxbVRva3g0Rk9KVXVFOVA0NUpiTV94VGFaekpTSHNUb0dTeDR0ZXRiczVjYndPRUZNUXdOTDIyVmhidE14WE44Y1ZFQ2kzdXZpWkw5VVgtaUkyZ0x2dG9CTmpxZmc?oc=5"
     },
     {
       "id": "8214c6d79f2c5b3e1a",
@@ -223,7 +235,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 7
     },
     "direct_media": {
       "ok": true,
