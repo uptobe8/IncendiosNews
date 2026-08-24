@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-24T08:26:57+02:00",
+  "generated_at": "2026-08-24T09:37:52+02:00",
   "items": [
+    {
+      "id": "8d478f86fe5ed32843",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T09:31:19+02:00",
+      "source": "Telemadrid",
+      "title": "Preocupación entre los apicultores tras el incendio de la Sierra Oeste: \"Se han quemado 100 millones de abejas en Madrid\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLU5TcEY3Zl9fN0x2M1dRbG1LVHBpS1JUMEt0aDREOXhhOF9fUVpKWEhCcDZCQnZhYjhBM0VUZGJ2bERWTlY4TU1URm1lNkVxMjRINWpzNHVYdWJxaENSajM4RjBfX3RReXA0MmVQanU4REkzdENwcHI1S0tQWGdWdU5YbEg4VV92T2dnX21fSkNtcUViT25BUmlYN1dZb0pVNEphUjJkUHhERjVZdnlBWkhrU3YwQTlPdFIxMlBEM0duVUZBNmpkemtvU2Y0Y0YwTnhhWHh3NXpTMjIwT0RvUnpuUy1QQWVCakpKa1UzNFV4RmsxYU5FY0xNbDZrcy1MOG9CaGZ0WV9vZkZkT0hodjlzRTJTN3ROTlYyUFZoX3F4YTNzQThyV19XWEpleFXSAbQCQVVfeXFMTVFrc1pzOFl1ZmFxTF9oVFdCd0NRTENDcTNwcmpHdHZOUVJTTzhsMlRHa1JPcXNDMHN5U2N5OG1aaVdoOG13cERJTEdNNF93b29hbm9KalJEOUVnVGNTX29tNFhIbkdfTDZzS2FqWnpXd1BJb3UwemMwWTNSR3lZZUZGNTN4eVRVakhWOGxidUVBMGhUdG9TNURlWEdQU0FsalFNamdhcVE1elMyandralpPT2p3WDVRVElTbWxKejhiUWsyRC1VQkNqV2s1TUZObzhyc1pfLVh2aThvaWhFRC1mSlNLX0YtaU81cmNwZ3dFaEdGVXVNLXZmaDlreFE3VW5uaFd0WTBrakhBaXJkWDF0ZEF5aUpUYmM5bjdLR1JZaVNFQ3BhUG14VE83RmdScVJScFA?oc=5"
+    },
+    {
+      "id": "2f1e147a7256c4706c",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-24T01:58:50+02:00",
+      "source": "Europa Press",
+      "title": "Herido grave un hombre de 67 años tras un incendio en la cocina de su vivienda en Carabanchel, Madrid",
+      "summary": "Un hombre de 67 años ha resultado herido grave a causa de un incendio en la cocina de su domicilio, en el...",
+      "url": "https://www.europapress.es/madrid/noticia-herido-grave-hombre-67-anos-incendio-cocina-vivienda-carabanchel-madrid-20260824015850.html"
+    },
     {
       "id": "ac7f30685127fb28f9",
       "type": "news",
@@ -145,17 +169,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 4
     }
   },
   "refresh_seconds": 300
