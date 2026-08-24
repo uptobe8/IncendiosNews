@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T20:54:05+02:00",
+  "generated_at": "2026-08-24T21:24:38+02:00",
   "items": [
+    {
+      "id": "f2a02f774d92c027b2",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-24T20:59:31+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Las ayudas por el incendio de Burgohondo elevan las indemnizaciones al ganado",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmxYV185VkZiUHJ6ZEpjTXUwU2NYSHZkcnBkNk9KNnRodEhRaE5UeEM5dXVQMjR5N1hzTld6aVNoYXlwbjdLTmtfdEd3YUVhWmhrX1ZYcm5QTHRNMENaSHFER0dzcmVtRUtGbWdOOWRVdGRiNGNTN1FSbG9aMEFKVV9MVXExTzVBSVo3ZWZtMG1lLTBoT0xwYUhRN1NZT19TR2ptYkE0eDVyYzdrUi1hZm9FZGw5alA2dmpBWnVCWQ?oc=5"
+    },
     {
       "id": "d886fcaacf6045771a",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "Madrid moviliza tres millones más en ayudas para impulsar a empresas afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGprS1JiU25ORm1FeVlOdjNQTnVCQWozX245eVdxZm5iOWpaRjhTRms2SFJCUDBEMVJkZ0dvbzN1R2IwMkdzNnZKVUtEYm9NTWhSNkJvb19TdVR4OGs0MVdoTFRVQXRtNUU4T05KelVnQUNiazVRYjJJTGc0WDRGd3NmMzB2OThnZXJNb2xtWEJydFU0ZXYtUnhyc0k0aUVuNDZkbmRYc1RrZG1rVW52U1dFMG5wa1Y5ZThHclp0UnplTW9CNE8xa0ZxUldvRzBhV3R1Skh1M2V6ZVpxRklz?oc=5"
-    },
-    {
-      "id": "3723c3990dc494a473",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-24T17:33:03+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Las ayudas por el incendio de Burgohondo elevan las indemnizaciones al ganado",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmxYV185VkZiUHJ6ZEpjTXUwU2NYSHZkcnBkNk9KNnRodEhRaE5UeEM5dXVQMjR5N1hzTld6aVNoYXlwbjdLTmtfdEd3YUVhWmhrX1ZYcm5QTHRNMENaSHFER0dzcmVtRUtGbWdOOWRVdGRiNGNTN1FSbG9aMEFKVV9MVXExTzVBSVo3ZWZtMG1lLTBoT0xwYUhRN1NZT19TR2ptYkE0eDVyYzdrUi1hZm9FZGw5alA2dmpBWnVCWQ?oc=5"
     },
     {
       "id": "e4358a27fa5ad96a2e",
