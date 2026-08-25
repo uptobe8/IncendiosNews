@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:00:18+02:00",
+  "generated_at": "2026-08-25T15:04:10+02:00",
   "items": [
     {
       "id": "306e94c5085f811a0d",
@@ -24,18 +24,6 @@
       "title": "Madrid moviliza tres millones más en ayudas para impulsar a empresas afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGprS1JiU25ORm1FeVlOdjNQTnVCQWozX245eVdxZm5iOWpaRjhTRms2SFJCUDBEMVJkZ0dvbzN1R2IwMkdzNnZKVUtEYm9NTWhSNkJvb19TdVR4OGs0MVdoTFRVQXRtNUU4T05KelVnQUNiazVRYjJJTGc0WDRGd3NmMzB2OThnZXJNb2xtWEJydFU0ZXYtUnhyc0k0aUVuNDZkbmRYc1RrZG1rVW52U1dFMG5wa1Y5ZThHclp0UnplTW9CNE8xa0ZxUldvRzBhV3R1Skh1M2V6ZVpxRklz?oc=5"
-    },
-    {
-      "id": "2f1e147a7256c4706c",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T01:58:50+02:00",
-      "source": "Europa Press",
-      "title": "Herido grave un hombre de 67 años tras un incendio en la cocina de su vivienda en Carabanchel, Madrid",
-      "summary": "Un hombre de 67 años ha resultado herido grave a causa de un incendio en la cocina de su domicilio, en el...",
-      "url": "https://www.europapress.es/madrid/noticia-herido-grave-hombre-67-anos-incendio-cocina-vivienda-carabanchel-madrid-20260824015850.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -155,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
