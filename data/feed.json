@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:02:12+02:00",
+  "generated_at": "2026-08-25T13:37:06+02:00",
   "items": [
     {
       "id": "306e94c5085f811a0d",
@@ -36,30 +36,6 @@
       "title": "Ayuso anuncia tres millones de euros para 50 empresas afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXU5cXBYR1JmRFlaeUJUSUpUVUNXT01CZW53ZEx5WXc0NjFQR0hHVWo4cXFrV0t2dk41dl91UlpCRk1mT1BvUzZKOUJTbmtXWFJYaTZjc01CRmFJMTh1NGd6XzZPSFROT1YyTUJjMThud3FXekEyakppVU9YWkdMdTVrQ010R1ppQkg1a0lnUUhyZWloZ1V4RURCZTNDUDQ4ZG9hSGNHTHlBMHA2NE1YZ3p3?oc=5"
-    },
-    {
-      "id": "c1270423b4a58c232a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:13:13+02:00",
-      "source": "ABC",
-      "title": "Madrid anuncia ayudas de hasta 70.000 euros por negocio afectado por el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXp4VDAzTEJLZm9Mb1JITFRLZXg3MmZ4ZldvOTFDWndUTVdnTHdrMHNaR3k5WE9VM0lVQ2JmWXRJMnhFQWxMdnowV20ybzl5YlRGZmtSVktqMEJyQXljNkJROC1ZNFVheGFiRjZabW5iOGUxU2pjdUp5Z3NNbzA1TXZ0eTNOZHVNOU1vUlJqSXJLY014TU1YQkFsMldlVWNG?oc=5"
-    },
-    {
-      "id": "ac67c139c0f976d8dc",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:05:40+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad anuncia ayudas de 3 millones para medio centenar de empresas afectadas por los incendios de la Sierra Oeste",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este lunes una nueva línea de...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-anuncia-ayudas-millones-medio-centenar-empresas-afectadas-incendios-sierra-oeste-20260824130540.html"
     },
     {
       "id": "2f1e147a7256c4706c",
@@ -187,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
