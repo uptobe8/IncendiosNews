@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-08-25T03:47:03+02:00",
+  "generated_at": "2026-08-25T04:46:43+02:00",
   "items": [
-    {
-      "id": "d886fcaacf6045771a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T18:25:09+02:00",
-      "source": "20Minutos",
-      "title": "Madrid moviliza tres millones más en ayudas para impulsar a empresas afectadas por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGprS1JiU25ORm1FeVlOdjNQTnVCQWozX245eVdxZm5iOWpaRjhTRms2SFJCUDBEMVJkZ0dvbzN1R2IwMkdzNnZKVUtEYm9NTWhSNkJvb19TdVR4OGs0MVdoTFRVQXRtNUU4T05KelVnQUNiazVRYjJJTGc0WDRGd3NmMzB2OThnZXJNb2xtWEJydFU0ZXYtUnhyc0k0aUVuNDZkbmRYc1RrZG1rVW52U1dFMG5wa1Y5ZThHclp0UnplTW9CNE8xa0ZxUldvRzBhV3R1Skh1M2V6ZVpxRklz?oc=5"
-    },
-    {
-      "id": "e716cf4d45d2a0f006",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-24T16:54:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Las ayudas por el incendio de Burgohondo elevan las indemnizaciones al ganado",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmxYV185VkZiUHJ6ZEpjTXUwU2NYSHZkcnBkNk9KNnRodEhRaE5UeEM5dXVQMjR5N1hzTld6aVNoYXlwbjdLTmtfdEd3YUVhWmhrX1ZYcm5QTHRNMENaSHFER0dzcmVtRUtGbWdOOWRVdGRiNGNTN1FSbG9aMEFKVV9MVXExTzVBSVo3ZWZtMG1lLTBoT0xwYUhRN1NZT19TR2ptYkE0eDVyYzdrUi1hZm9FZGw5alA2dmpBWnVCWQ?oc=5"
-    },
-    {
-      "id": "e4358a27fa5ad96a2e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:54:47+02:00",
-      "source": "ABC",
-      "title": "Ayuso anuncia tres millones de euros para 50 empresas afectadas por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXU5cXBYR1JmRFlaeUJUSUpUVUNXT01CZW53ZEx5WXc0NjFQR0hHVWo4cXFrV0t2dk41dl91UlpCRk1mT1BvUzZKOUJTbmtXWFJYaTZjc01CRmFJMTh1NGd6XzZPSFROT1YyTUJjMThud3FXekEyakppVU9YWkdMdTVrQ010R1ppQkg1a0lnUUhyZWloZ1V4RURCZTNDUDQ4ZG9hSGNHTHlBMHA2NE1YZ3p3?oc=5"
-    },
-    {
-      "id": "c1270423b4a58c232a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:13:13+02:00",
-      "source": "ABC",
-      "title": "Madrid anuncia ayudas de hasta 70.000 euros por negocio afectado por el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXp4VDAzTEJLZm9Mb1JITFRLZXg3MmZ4ZldvOTFDWndUTVdnTHdrMHNaR3k5WE9VM0lVQ2JmWXRJMnhFQWxMdnowV20ybzl5YlRGZmtSVktqMEJyQXljNkJROC1ZNFVheGFiRjZabW5iOGUxU2pjdUp5Z3NNbzA1TXZ0eTNOZHVNOU1vUlJqSXJLY014TU1YQkFsMldlVWNG?oc=5"
-    },
     {
       "id": "ac67c139c0f976d8dc",
       "type": "news",
@@ -62,18 +14,6 @@
       "url": "https://www.europapress.es/madrid/noticia-comunidad-anuncia-ayudas-millones-medio-centenar-empresas-afectadas-incendios-sierra-oeste-20260824130540.html"
     },
     {
-      "id": "bdab320a4c40610309",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:04:15+02:00",
-      "source": "Telemadrid",
-      "title": "Ayuso anuncia una línea de financiación para los empresarios afectados por los incendios de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSVdreFBKMmhCemRKMnd1LXM1NVNIOVdPTkluVjNRZXdRN2hyMTNUUkZFQ0daWUtNa19lb051SkZud2dWOGJ0NEFZbm05bnpBRUJ2NWRScnRDODdFdDVYRTlqOVM0NmVuZGZBTkF3ZFdzTFUzRmNmcHJBN2ZzdnBxcnZIckl3QkNhbVVMVjZKcVlIQzBJUGtvOUZ2N0FMbVlEX0xSZzgwd29ZM1Y5a3FyZnJYRDk5d09PWktJTW9ndVpkc0RUbFQ4UGJTckhRZXNqUTJ0SS1tcEUyYmhhRGhJb3hkRTF6dE12QnhQWTFqTFd4N0xtZDZKLVQ0cXpGMW5HcjRDWlFhbmpySnY4ZFRwRkFpRi1jb1Rx0gGeAkFVX3lxTFB1V2haRXJHUDV3dktIcGpyV210U2hrTVd5QzRRZGVRODR1bUJhMnVyXy1QTzBNVm5MLXZ2RnhfT0N1RlAtNU43cnZKMkwzV3FNU3QzQUhrSks1TUdPUENxYWtZU25UblRvRGZWejZ1dFB5QTV6N0ZHWnpCb0NpcmVtTGtpdEo1Z2dyX1FsWkxLMlkyb21QWDN4REhnZHl4dHl4dU5mUzNRRjBid0UtRmFJa3YxaXAwV2sycDFnQzVGQkcxbVRva3g0Rk9KVXVFOVA0NUpiTV94VGFaekpTSHNUb0dTeDR0ZXRiczVjYndPRUZNUXdOTDIyVmhidE14WE44Y1ZFQ2kzdXZpWkw5VVgtaUkyZ0x2dG9CTmpxZmc?oc=5"
-    },
-    {
       "id": "8214c6d79f2c5b3e1a",
       "type": "news",
       "severity": "info",
@@ -84,18 +24,6 @@
       "title": "Un libro, un documental y una placa homenaje recuerdan la riada de Polán (Toledo) de 1926, que cumple cien años",
       "summary": "Cuando se cumplen cien años de la riada de 1926 en el municipio toledano de Polán, el Ayuntamiento de la...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-libro-documental-placa-homenaje-recuerdan-riada-polan-toledo-1926-cumple-cien-anos-20260824121020.html"
-    },
-    {
-      "id": "8d478f86fe5ed32843",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T09:31:19+02:00",
-      "source": "Telemadrid",
-      "title": "Preocupación entre los apicultores tras el incendio de la Sierra Oeste: \"Se han quemado 100 millones de abejas en Madrid\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLU5TcEY3Zl9fN0x2M1dRbG1LVHBpS1JUMEt0aDREOXhhOF9fUVpKWEhCcDZCQnZhYjhBM0VUZGJ2bERWTlY4TU1URm1lNkVxMjRINWpzNHVYdWJxaENSajM4RjBfX3RReXA0MmVQanU4REkzdENwcHI1S0tQWGdWdU5YbEg4VV92T2dnX21fSkNtcUViT25BUmlYN1dZb0pVNEphUjJkUHhERjVZdnlBWkhrU3YwQTlPdFIxMlBEM0duVUZBNmpkemtvU2Y0Y0YwTnhhWHh3NXpTMjIwT0RvUnpuUy1QQWVCakpKa1UzNFV4RmsxYU5FY0xNbDZrcy1MOG9CaGZ0WV9vZkZkT0hodjlzRTJTN3ROTlYyUFZoX3F4YTNzQThyV19XWEpleFXSAbQCQVVfeXFMTVFrc1pzOFl1ZmFxTF9oVFdCd0NRTENDcTNwcmpHdHZOUVJTTzhsMlRHa1JPcXNDMHN5U2N5OG1aaVdoOG13cERJTEdNNF93b29hbm9KalJEOUVnVGNTX29tNFhIbkdfTDZzS2FqWnpXd1BJb3UwemMwWTNSR3lZZUZGNTN4eVRVakhWOGxidUVBMGhUdG9TNURlWEdQU0FsalFNamdhcVE1elMyandralpPT2p3WDVRVElTbWxKejhiUWsyRC1VQkNqV2s1TUZObzhyc1pfLVh2aThvaWhFRC1mSlNLX0YtaU81cmNwZ3dFaEdGVXVNLXZmaDlreFE3VW5uaFd0WTBrakhBaXJkWDF0ZEF5aUpUYmM5bjdLR1JZaVNFQ3BhUG14VE83RmdScVJScFA?oc=5"
     },
     {
       "id": "2f1e147a7256c4706c",
@@ -233,13 +161,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "direct_media": {
       "ok": true,
       "items": 4
+    },
+    "google_news": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
