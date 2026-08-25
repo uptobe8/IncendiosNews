@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:17:56+02:00",
+  "generated_at": "2026-08-25T11:55:26+02:00",
   "items": [
     {
       "id": "306e94c5085f811a0d",
@@ -62,30 +62,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkV3MllqWFJjbTFMLWZRZzVMN0FLazIyc0Y4SG5MbUdfRENFWEdCNjFZRnNpdWpPcURTb2h1M2tUaVhaZDhZXzQ1WkFVMkZFMnRBcjJNY1BJdkp3MHQ1WmotMnM2bHAydWNKSHNUZU9ibGcyUlVxZXkzS1RVRWc4ME1BNXZaQlpJMFFIYTQta2tvMXRicVdrX2oyMXVLcFdGOFlBMloxQzdqVHVhOVU4YlJla0kyblFOeEhGSS0ya3hSUkNFaGhWZ0RBalNycWZpSmhSbzg5ZTNUODhhVnN1aEtieEFfWm8?oc=5"
     },
     {
-      "id": "bdab320a4c40610309",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:04:15+02:00",
-      "source": "Telemadrid",
-      "title": "Ayuso anuncia una línea de financiación para los empresarios afectados por los incendios de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSVdreFBKMmhCemRKMnd1LXM1NVNIOVdPTkluVjNRZXdRN2hyMTNUUkZFQ0daWUtNa19lb051SkZud2dWOGJ0NEFZbm05bnpBRUJ2NWRScnRDODdFdDVYRTlqOVM0NmVuZGZBTkF3ZFdzTFUzRmNmcHJBN2ZzdnBxcnZIckl3QkNhbVVMVjZKcVlIQzBJUGtvOUZ2N0FMbVlEX0xSZzgwd29ZM1Y5a3FyZnJYRDk5d09PWktJTW9ndVpkc0RUbFQ4UGJTckhRZXNqUTJ0SS1tcEUyYmhhRGhJb3hkRTF6dE12QnhQWTFqTFd4N0xtZDZKLVQ0cXpGMW5HcjRDWlFhbmpySnY4ZFRwRkFpRi1jb1Rx0gGeAkFVX3lxTFB1V2haRXJHUDV3dktIcGpyV210U2hrTVd5QzRRZGVRODR1bUJhMnVyXy1QTzBNVm5MLXZ2RnhfT0N1RlAtNU43cnZKMkwzV3FNU3QzQUhrSks1TUdPUENxYWtZU25UblRvRGZWejZ1dFB5QTV6N0ZHWnpCb0NpcmVtTGtpdEo1Z2dyX1FsWkxLMlkyb21QWDN4REhnZHl4dHl4dU5mUzNRRjBid0UtRmFJa3YxaXAwV2sycDFnQzVGQkcxbVRva3g0Rk9KVXVFOVA0NUpiTV94VGFaekpTSHNUb0dTeDR0ZXRiczVjYndPRUZNUXdOTDIyVmhidE14WE44Y1ZFQ2kzdXZpWkw5VVgtaUkyZ0x2dG9CTmpxZmc?oc=5"
-    },
-    {
-      "id": "8214c6d79f2c5b3e1a",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-24T12:10:20+02:00",
-      "source": "Europa Press",
-      "title": "Un libro, un documental y una placa homenaje recuerdan la riada de Polán (Toledo) de 1926, que cumple cien años",
-      "summary": "Cuando se cumplen cien años de la riada de 1926 en el municipio toledano de Polán, el Ayuntamiento de la...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-libro-documental-placa-homenaje-recuerdan-riada-polan-toledo-1926-cumple-cien-anos-20260824121020.html"
-    },
-    {
       "id": "2f1e147a7256c4706c",
       "type": "news",
       "severity": "info",
@@ -96,18 +72,6 @@
       "title": "Herido grave un hombre de 67 años tras un incendio en la cocina de su vivienda en Carabanchel, Madrid",
       "summary": "Un hombre de 67 años ha resultado herido grave a causa de un incendio en la cocina de su domicilio, en el...",
       "url": "https://www.europapress.es/madrid/noticia-herido-grave-hombre-67-anos-incendio-cocina-vivienda-carabanchel-madrid-20260824015850.html"
-    },
-    {
-      "id": "520b1ea71b3f249e32",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-23T12:30:27+02:00",
-      "source": "Europa Press",
-      "title": "Una peña de Belorado organiza un zurracapote solidario para ayudar a un amigo que perdió su casa en incendios de Madrid",
-      "summary": "Una peña de Belorado (Burgos) ha organizado un 'zurracapote' solidario para las fiestas de...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-pena-belorado-organiza-zurracapote-solidario-ayudar-amigo-perdio-casa-incendios-madrid-20260823123027.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -223,11 +187,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 5
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 2
     }
   },
   "refresh_seconds": 300
