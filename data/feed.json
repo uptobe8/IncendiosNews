@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-25T20:02:52+02:00",
+  "generated_at": "2026-08-25T20:52:55+02:00",
   "items": [
+    {
+      "id": "5034c25338d63ce777",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-25T14:35:33+02:00",
+      "source": "Madrid Actual",
+      "title": "Extinguido sin heridos un incendio en un garaje de una vivienda unifamiliar de Pozuelo de Alarcón",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGdRLUVwMjY2dlNvRjVVWHc3OGdRNHJIaXhhSkZuZnUyQXFueV9BTmk1ZXp3bWVuNXZ0Rnd6Vl9JV0ZjWVBSZWx5UWFNbUNnVmk0MUppdUo0QVYtbGRPeTN6c09kbTQ0QkxlTjNsNWtyUHRDeUdRQnIxWTAzWklTR01remtLa3pIUE1lTE5SX3U4SzFOOUZkLTNNOXFPXzVTeFVDbzlkT0ZjaGZvY0p6a1FfNWpZYkJvcXhHLWVpaUU2el9FUUMzdFlSWDh4NXJ4MmZMQUhfWi0?oc=5"
+    },
     {
       "id": "306e94c5085f811a0d",
       "type": "news",
@@ -127,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
