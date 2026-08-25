@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:37:06+02:00",
+  "generated_at": "2026-08-25T14:00:18+02:00",
   "items": [
     {
       "id": "306e94c5085f811a0d",
@@ -24,18 +24,6 @@
       "title": "Madrid moviliza tres millones más en ayudas para impulsar a empresas afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGprS1JiU25ORm1FeVlOdjNQTnVCQWozX245eVdxZm5iOWpaRjhTRms2SFJCUDBEMVJkZ0dvbzN1R2IwMkdzNnZKVUtEYm9NTWhSNkJvb19TdVR4OGs0MVdoTFRVQXRtNUU4T05KelVnQUNiazVRYjJJTGc0WDRGd3NmMzB2OThnZXJNb2xtWEJydFU0ZXYtUnhyc0k0aUVuNDZkbmRYc1RrZG1rVW52U1dFMG5wa1Y5ZThHclp0UnplTW9CNE8xa0ZxUldvRzBhV3R1Skh1M2V6ZVpxRklz?oc=5"
-    },
-    {
-      "id": "e4358a27fa5ad96a2e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-24T13:54:47+02:00",
-      "source": "ABC",
-      "title": "Ayuso anuncia tres millones de euros para 50 empresas afectadas por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXU5cXBYR1JmRFlaeUJUSUpUVUNXT01CZW53ZEx5WXc0NjFQR0hHVWo4cXFrV0t2dk41dl91UlpCRk1mT1BvUzZKOUJTbmtXWFJYaTZjc01CRmFJMTh1NGd6XzZPSFROT1YyTUJjMThud3FXekEyakppVU9YWkdMdTVrQ010R1ppQkg1a0lnUUhyZWloZ1V4RURCZTNDUDQ4ZG9hSGNHTHlBMHA2NE1YZ3p3?oc=5"
     },
     {
       "id": "2f1e147a7256c4706c",
@@ -163,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "direct_media": {
       "ok": true,
