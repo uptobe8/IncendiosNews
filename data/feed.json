@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:40:48+02:00",
+  "generated_at": "2026-08-26T01:59:37+02:00",
   "items": [
     {
       "id": "5034c25338d63ce777",
@@ -12,18 +12,6 @@
       "title": "Extinguido sin heridos un incendio en un garaje de una vivienda unifamiliar de Pozuelo de Alarcón",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGdRLUVwMjY2dlNvRjVVWHc3OGdRNHJIaXhhSkZuZnUyQXFueV9BTmk1ZXp3bWVuNXZ0Rnd6Vl9JV0ZjWVBSZWx5UWFNbUNnVmk0MUppdUo0QVYtbGRPeTN6c09kbTQ0QkxlTjNsNWtyUHRDeUdRQnIxWTAzWklTR01remtLa3pIUE1lTE5SX3U4SzFOOUZkLTNNOXFPXzVTeFVDbzlkT0ZjaGZvY0p6a1FfNWpZYkJvcXhHLWVpaUU2el9FUUMzdFlSWDh4NXJ4MmZMQUhfWi0?oc=5"
-    },
-    {
-      "id": "306e94c5085f811a0d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-25T01:54:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Las ayudas por el incendio de Burgohondo elevan las indemnizaciones al ganado",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmxYV185VkZiUHJ6ZEpjTXUwU2NYSHZkcnBkNk9KNnRodEhRaE5UeEM5dXVQMjR5N1hzTld6aVNoYXlwbjdLTmtfdEd3YUVhWmhrX1ZYcm5QTHRNMENaSHFER0dzcmVtRUtGbWdOOWRVdGRiNGNTN1FSbG9aMEFKVV9MVXExTzVBSVo3ZWZtMG1lLTBoT0xwYUhRN1NZT19TR2ptYkE0eDVyYzdrUi1hZm9FZGw5alA2dmpBWnVCWQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
