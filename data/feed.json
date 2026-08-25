@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-25T10:35:10+02:00",
+  "generated_at": "2026-08-25T11:17:56+02:00",
   "items": [
-    {
-      "id": "51e0871cb29715be60",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-25T07:52:10+02:00",
-      "source": "Telemadrid",
-      "title": "Olor a quemado y aterrizaje de emergencia: casi 300 pasajeros de un vuelo Buenos Aires-Madrid, varados en Brasil",
-      "summary": "Cerca de 300 pasajeros de un vuelo de Plus Ultra que cubría la ruta entre Buenos Aires y Madrid permanecen varados en Natal (Brasil) después de...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Olor-a-quemado-y-aterrizaje-de-emergencia-casi-300-pasajeros-de-un-vuelo-Buenos-Aires-Madrid-varados-en-Brasil-0-2919608012--20260825075209.html"
-    },
     {
       "id": "306e94c5085f811a0d",
       "type": "news",
@@ -239,7 +227,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 4
     }
   },
   "refresh_seconds": 300
