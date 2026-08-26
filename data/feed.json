@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T12:20:00+02:00",
+  "generated_at": "2026-08-26T12:56:10+02:00",
   "items": [
     {
-      "id": "173f9ba129394c588d",
+      "id": "37405a5a9f22fc1d79",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-26T10:10:38+02:00",
-      "source": "Telemadrid",
+      "published": "2026-08-26T09:30:11+02:00",
+      "source": "Europa Press",
       "title": "La firma de hipotecas en la Comunidad de Madrid aumenta un 5,2% en junio con 6.976 operaciones",
-      "summary": "El número de hipotecas constituidas sobre viviendas en la Comunidad de Madrid subió en junio hasta un 5,2% respecto al mismo mes del año anterior,...",
-      "url": "https://www.telemadrid.es/noticias/sociedad/La-firma-de-hipotecas-en-la-Comunidad-de-Madrid-aumenta-un-52-en-junio-con-6976-operaciones-0-2919907985--20260826101037.html"
+      "summary": "El número de hipotecas constituidas sobre viviendas en la Comunidad de Madrid subió un 5,2% en junio...",
+      "url": "https://www.europapress.es/madrid/noticia-firma-hipotecas-comunidad-madrid-aumenta-52-junio-6976-operaciones-20260826093011.html"
     },
     {
       "id": "5ac64ce5ca93423e9a",
@@ -24,6 +24,18 @@
       "title": "Extinguido sin heridos un incendio en un garaje de una vivienda unifamiliar de Pozuelo de Alarcón",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnVsYXdFcFgwODlYaEFtdXZaX3Y2UmpNN3h0TjNSc0hqSkdRM05NRUtwRi1HeTdhcERDMy1SelE0N3M3eXBJdThWMi14TkNCak1JejV4Y21sbHZjcU5CQ1dobHhFbTc4a01wN0tGM0FsbV95OHNfb29LN3lDS1hkWHdabGI2bWZWREY5eW91TlBfS2stNDNORExkS2llNWMyTGo1aTJCd190YXVLc2FkZHVIT3dLVzVuaFR3cnhoM2F0X0hNMGxPMkZ0QXJwdHZ0Mk1yeTRETi13QQ?oc=5"
+    },
+    {
+      "id": "21a51d94de3aa53d83",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-25T21:50:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Carrera solidaria en Copenhague para ayudar a los afectados por el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVRzT195cERYNXVkT19vRXYzZGFZVGVadWZScU9QdVViZGRkM3FLeXhSaDU4VGw1YzhBSldrUFVSWkF3aVpCN09Qak1QclpieE5QQXFvMWFKb1pFbVN2c01jZklaWG1OZ0tXRHhlTWVBQXRTbUV4STUwSmtpd1pjaUpqMmZkc2o2YWZ0VHM1UUU5Vk5xR3kwaGxvV2pRNUM4dWhBaHR3RXBYcGhFckhqb2I3TzdDeENkMkFrSA?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,11 +151,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
