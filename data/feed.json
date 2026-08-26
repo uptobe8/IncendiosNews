@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-26T09:15:25+02:00",
+  "generated_at": "2026-08-26T10:02:54+02:00",
   "items": [
+    {
+      "id": "37405a5a9f22fc1d79",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-26T09:30:11+02:00",
+      "source": "Europa Press",
+      "title": "La firma de hipotecas en la Comunidad de Madrid aumenta un 5,2% en junio con 6.976 operaciones",
+      "summary": "El número de hipotecas constituidas sobre viviendas en la Comunidad de Madrid subió un 5,2% en junio...",
+      "url": "https://www.europapress.es/madrid/noticia-firma-hipotecas-comunidad-madrid-aumenta-52-junio-6976-operaciones-20260826093011.html"
+    },
     {
       "id": "5034c25338d63ce777",
       "type": "news",
@@ -131,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
