@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-26T22:01:21+02:00",
+  "generated_at": "2026-08-27T01:21:10+02:00",
   "items": [
+    {
+      "id": "605474b8152db33fef",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-27T00:06:00+02:00",
+      "source": "El Mundo",
+      "title": "La fiebre en Madrid por retirar las arizónicas tras los incendios, la planta de moda en los chalets hace 30 años: \"Son pura pólvora\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SN0hxMmJtSEk0eG5EUXhqOGJlMnJfeE9Ia2Iwa0NCazZhMnl5ZjVQS0FLRmRqVWhrYlVKc0R3TjZqRnlHWF9MNFBUWmRJcER5YVdOZzNCTEY2QmREdTZkckFyRG5QNEZYZUlFUVVuNkIzd1lSQVY1cnVn0gF6QVVfeXFMT3J1VExrV1IzSUV5WWJXc2xPSHBVRGZhVDVMcy1QOTQxZWcxaHNLcm54MG11bTk4MW5FOGJFUkpOQmM3MEJUN0pudmNpZ0pyUVV6Ykd6UzFlNjVwX05CYXhLMGFiYXRKYmcxYUoyVDhibl9uOHdQNmxYS0E?oc=5"
+    },
     {
       "id": "3faa1f3e122aa7c5d7",
       "type": "news",
@@ -139,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
