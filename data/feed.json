@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-26T16:01:42+02:00",
+  "generated_at": "2026-08-26T16:55:32+02:00",
   "items": [
+    {
+      "id": "4567504adc410e4920",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-26T13:30:04+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "3.000 evacuados reciben atención psicológica tras los incendios de este verano en Castilla y León",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaW00WGRaeWJIVzBmVm1TeXdFYmxubVRmQmM0dkNoaWJlNVFSaHhmV2tfVWl6VkNUNU1Uam1PaUlFV24yWk1mbzVMZTJOY0JpYzVvaUVXdkRpV0s1NVhPQ2thcXJ5b3VmeFp4S3pFY2k3UXYxOHo4UDZSREdicXNVazNJODFPN3ptOTZrdDRuNDdKSTRFckNfV0dTblIwbXFUWUJUdmJPSWJseFBlQ2Z0MzZuN245N1dlc3BSNkstT3JDQ3Exd1BQQjlnandVVnJIQkY5dDllTmJrZw?oc=5"
+    },
     {
       "id": "37405a5a9f22fc1d79",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "La firma de hipotecas en la Comunidad de Madrid aumenta un 5,2% en junio con 6.976 operaciones",
       "summary": "El número de hipotecas constituidas sobre viviendas en la Comunidad de Madrid subió un 5,2% en junio...",
       "url": "https://www.europapress.es/madrid/noticia-firma-hipotecas-comunidad-madrid-aumenta-52-junio-6976-operaciones-20260826093011.html"
-    },
-    {
-      "id": "5ac64ce5ca93423e9a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-26T09:26:55+02:00",
-      "source": "Madrid Actual",
-      "title": "Extinguido sin heridos un incendio en un garaje de una vivienda unifamiliar de Pozuelo de Alarcón",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnVsYXdFcFgwODlYaEFtdXZaX3Y2UmpNN3h0TjNSc0hqSkdRM05NRUtwRi1HeTdhcERDMy1SelE0N3M3eXBJdThWMi14TkNCak1JejV4Y21sbHZjcU5CQ1dobHhFbTc4a01wN0tGM0FsbV95OHNfb29LN3lDS1hkWHdabGI2bWZWREY5eW91TlBfS2stNDNORExkS2llNWMyTGo1aTJCd190YXVLc2FkZHVIT3dLVzVuaFR3cnhoM2F0X0hNMGxPMkZ0QXJwdHZ0Mk1yeTRETi13QQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
