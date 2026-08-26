@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-26T04:54:20+02:00",
+  "generated_at": "2026-08-26T05:50:06+02:00",
   "items": [
+    {
+      "id": "21a51d94de3aa53d83",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-25T21:50:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Carrera solidaria en Copenhague para ayudar a los afectados por el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVRzT195cERYNXVkT19vRXYzZGFZVGVadWZScU9QdVViZGRkM3FLeXhSaDU4VGw1YzhBSldrUFVSWkF3aVpCN09Qak1QclpieE5QQXFvMWFKb1pFbVN2c01jZklaWG1OZ0tXRHhlTWVBQXRTbUV4STUwSmtpd1pjaUpqMmZkc2o2YWZ0VHM1UUU5Vk5xR3kwaGxvV2pRNUM4dWhBaHR3RXBYcGhFckhqb2I3TzdDeENkMkFrSA?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -111,7 +123,7 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "official": {
       "ok": false,
