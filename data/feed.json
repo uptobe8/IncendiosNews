@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-26T20:07:52+02:00",
+  "generated_at": "2026-08-26T22:01:21+02:00",
   "items": [
+    {
+      "id": "3faa1f3e122aa7c5d7",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-26T20:15:13+02:00",
+      "source": "La Razón",
+      "title": "La Diputación de Ávila colaborará en un marcha solidaria en Copenhague para ayudar a los afectados del fuego de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPblRiMmh5cTMyYjM4SG1rV1diWmIyc3dPbjFfRGJuSDhvUW1kSFFiekVNSEpGczlLeWFvRTFsVHVhdktJRTBNMjRraUhVTWY0bjIwLWV5WFYwM0xKa0ZTRS1nS2U4Q1lsZHZkdlJEX29UUlhGMm5jZzNwNzV6cG5MTEt1NElMaTBOck5OVVF0Y0JjS2o4TF9mOFpYSFB6NmgwUTZOdWFMTXpONmV1RTRkWDYwUGlmTWF4WkM1eHdKV2hrbHg2MERKWmI5TU4xdzdmUkJMR3IyeXBleVh1dDNpWjkydHZmSnVIZHdFUXFPREpaVGdISE54WFBB0gGOAkFVX3lxTE94VXducDlxdDZzajkzZ2MwVVo1X0dJZEp1NUtCZjFNLUhOUmQ4S29NZm5kb0F1Q1FzN1pVMDF1bC1zdUtuWkF0eENlQWdJWjFTTHVFdG1KN3ZiZnEzNUF4c3RWalI2SG1pUjIxYXNEN1ZFVW5hTi1PVUVNQ0haZmpaZFUzaTlUa3BCamY2SVBfREVWNXpHVm5tcHVfbGRZNkVabk9ROUFxYjJCZ1F4aXF0UXpUUWU0UXBGb0ZseGl4N2UwSzNqTTQ5c2czV3NEMWVfWFEyd2MzWTJsUk5JOFdTSHk0c280NUI5akI3WVl4Q0lSTWRjcmRhVTdQOEJJQUx0NHJoRS1lTUVucXhoQQ?oc=5"
+    },
     {
       "id": "37405a5a9f22fc1d79",
       "type": "news",
@@ -121,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
