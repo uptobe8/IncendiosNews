@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T05:50:06+02:00",
+  "generated_at": "2026-08-26T06:26:30+02:00",
   "items": [
     {
-      "id": "21a51d94de3aa53d83",
+      "id": "5034c25338d63ce777",
       "type": "news",
       "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-25T21:50:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Carrera solidaria en Copenhague para ayudar a los afectados por el incendio",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-25T14:35:33+02:00",
+      "source": "Madrid Actual",
+      "title": "Extinguido sin heridos un incendio en un garaje de una vivienda unifamiliar de Pozuelo de Alarcón",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVRzT195cERYNXVkT19vRXYzZGFZVGVadWZScU9QdVViZGRkM3FLeXhSaDU4VGw1YzhBSldrUFVSWkF3aVpCN09Qak1QclpieE5QQXFvMWFKb1pFbVN2c01jZklaWG1OZ0tXRHhlTWVBQXRTbUV4STUwSmtpd1pjaUpqMmZkc2o2YWZ0VHM1UUU5Vk5xR3kwaGxvV2pRNUM4dWhBaHR3RXBYcGhFckhqb2I3TzdDeENkMkFrSA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGdRLUVwMjY2dlNvRjVVWHc3OGdRNHJIaXhhSkZuZnUyQXFueV9BTmk1ZXp3bWVuNXZ0Rnd6Vl9JV0ZjWVBSZWx5UWFNbUNnVmk0MUppdUo0QVYtbGRPeTN6c09kbTQ0QkxlTjNsNWtyUHRDeUdRQnIxWTAzWklTR01remtLa3pIUE1lTE5SX3U4SzFOOUZkLTNNOXFPXzVTeFVDbzlkT0ZjaGZvY0p6a1FfNWpZYkJvcXhHLWVpaUU2el9FUUMzdFlSWDh4NXJ4MmZMQUhfWi0?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -121,13 +121,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
