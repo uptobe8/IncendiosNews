@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-26T15:07:28+02:00",
+  "generated_at": "2026-08-26T16:01:42+02:00",
   "items": [
-    {
-      "id": "044543fba1e87f268b",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-26T14:31:58+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid aumenta un 14% las ayudas a empresas de inserción para abrir oportunidades laborales a jóvenes vulnerables",
-      "summary": "La Comunidad de Madrid ha incrementado este año un 14% las ayudas destinadas a empresas de inserción, con iniciativas orientadas a facilitar el...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-aumenta-un-14-las-ayudas-a-empresas-de-insercion-para-abrir-oportunidades-laborales-a-jovenes-vulnerables-2-2919927991--20260826023157.html"
-    },
     {
       "id": "37405a5a9f22fc1d79",
       "type": "news",
@@ -155,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
