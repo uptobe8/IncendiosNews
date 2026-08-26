@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-26T18:16:37+02:00",
+  "generated_at": "2026-08-26T20:07:52+02:00",
   "items": [
-    {
-      "id": "4567504adc410e4920",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-26T13:30:04+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "3.000 evacuados reciben atención psicológica tras los incendios de este verano en Castilla y León",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaW00WGRaeWJIVzBmVm1TeXdFYmxubVRmQmM0dkNoaWJlNVFSaHhmV2tfVWl6VkNUNU1Uam1PaUlFV24yWk1mbzVMZTJOY0JpYzVvaUVXdkRpV0s1NVhPQ2thcXJ5b3VmeFp4S3pFY2k3UXYxOHo4UDZSREdicXNVazNJODFPN3ptOTZrdDRuNDdKSTRFckNfV0dTblIwbXFUWUJUdmJPSWJseFBlQ2Z0MzZuN245N1dlc3BSNkstT3JDQ3Exd1BQQjlnandVVnJIQkY5dDllTmJrZw?oc=5"
-    },
     {
       "id": "37405a5a9f22fc1d79",
       "type": "news",
@@ -133,13 +121,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 0
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 1
     },
     "direct_media": {
       "ok": true,
