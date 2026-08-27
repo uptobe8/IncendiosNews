@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-27T06:34:19+02:00",
+  "generated_at": "2026-08-27T17:28:00+02:00",
   "items": [
+    {
+      "id": "69f5b46ad00c209f6a",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-27T15:30:27+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Burgohondo recibirá 2 millones para recuperar las zonas afectadas por el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1lQQ2ZRNEV2WU1pMTZMdVZnTFV6MnV6bm9yeGJ4U0FxVTZRM2hSSF80X1g3U04yZ1BzbzF1cGItUkFiOG8zSFhXSjlNMHNVakdMd3Z2T2k4aThmSWJXMi1sNTB2dWJvQ2ZyRktRa3lhSjJxWEFnUlJBaTh2d1l2VzBTVFdWbFB6bUZhSHdNXzlVdkt4NmJkWTk3UmVOVlRaRXJtNFNGVmFjQ1E1TWRzVEVlNHBsQVczd21MdVBHRWZmVGJo?oc=5"
+    },
+    {
+      "id": "6268adde86cdcb22d9",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-27T14:43:07+02:00",
+      "source": "20Minutos",
+      "title": "Las ayudas al alquiler de hasta 1.500 euros para los afectados por el incendio de la Sierra Oeste se aprobarán la próxima semana",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY1RCVlVjM1kzeF9PUlotNkhUelEtcnFLanFDUlZQSzFkTTVGNWNKWGlkUkdJZUhUUVVqcW9EZUVDVUpYZUd0cDRkNlRYczhiMlhvZWNvcGp0ZXpGTkwxbGE4T3hqSkw3X2d0VEVmWkdiVlZXVEpKTFBKUzdEcHlBMW9sNDVZNTZLNWlGNzZUalpPTE04aExVb1RvQnpQa1Uwa0IzRHMtYUduaEJWdjJlTjFhMW1CVHpwNGhlY0FHM1UyWkRkaFJFQm9QMmpMQ2EyaW9mVk9KTUZ0THA3ZnJLZ2gtbFpLQUgtS0RSUzFB?oc=5"
+    },
+    {
+      "id": "12860c494a986a9151",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-27T13:34:34+02:00",
+      "source": "La Razón",
+      "title": "Un contrato de emergencia de dos millones permitirá la recuperación ambiental en la zona afectada por el incendio de Burgohondo (Ávila)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTVVBcW1rV1V1ODE3SkpHTEZncDhxSlU4THVkMXB4RE5QNWpyVGQ1eFNZOFBkb1E5MUctaDJKM1ctdUxveFJPcExKZVlXSE9KT1BXQlhwd3RlVjMxOTJhX0NBaDI4T0hvczRhV3JrVmlxdXAyeFVzNkNBNmxLRkRrNkVRdldJTjBEVklOZ3E0cDN4UV9RQ2Yzb3dKRHNaNkhyZFNFMUdDanJGQ1MyUDBpd1Z3WVA5bFJwR0lwUHJhNU5NbFFuRkJ0LUI3SVNIVUQ0SU5FeUNoU2hrS1JxY2NKUEMxcHlyZnJScTRXMTViWlpsUE5zdDhuajJiMGx4M0xOV3VqYlJLZTZyb2M4TG9R?oc=5"
+    },
+    {
+      "id": "21b487b9ba66a73dcb",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-27T13:24:29+02:00",
+      "source": "ABC",
+      "title": "Sara Aagesen visita la zona afectada por los incendios en la Sierra Oeste de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDZMSW9iNjNyZ3RERDd1eHFBd2djRnUzUGtud2ZLWkVrR3dTQkpROUthVEQ0bEl1alNNWTNHVmdFeHQxb3g2cVZVbUIwOWlGZGNqaFNXNFB4c3ZLSjFIOU56cEdxbnVRRUhJTzdjUExLeHZVZmtlM0FTX0h2WjFtcW9GdnZ1X0kxYTdabVJTS2htZjdsaGZtZm9WY3dHY1Y5?oc=5"
+    },
+    {
+      "id": "faf804940098ca2f0f",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-27T13:16:47+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad aprobará la próxima semana las ayudas en vivienda para afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQXpVS21xOEt4NGhPN2dBSzVON1pHZUI1RXk5eEJjRFRjQzh3WlpBWHUxY0FjMTNCV1U5aG56VEFqUjlmYkhHM0RxVV9xbEgyaFRmbVZlVGZocFRwR3g2Ym1nMDl6UTVQdlBWWGFNRl9hUFhmZ3ZEM3dpYklSTm1RU0hnSGphcjNrVWNRVGs2T0NpajREX1RwOHdsS1dyNTlhcUZTZldlb1NfWGd3b1N2WEYydGx6QWJoUkRtemlFMWptYkQzeHozaGRmMXlqQWdEVXpEdFItTUVSZDA?oc=5"
+    },
+    {
+      "id": "5ff18ccca8ae2131fc",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-27T12:55:10+02:00",
+      "source": "Europa Press",
+      "title": "Contrato de emergencia de 2 millones para recuperación ambiental tras el incendio de Burgohondo (Ávila)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWMzR3IwMkdlaVlXVnkxMVozYVJQMHNDbEh1M2didndfcUFwNDNkc2tkemJfZ3BTcm5saG1aLWRKTE5iRFl6YS1GMDUwckJ1VWVmSEtYczJYeFZvU3h0Q181ajJPTnZIanBXS2k5OUM0UENaZ3BtYTN4Y0NtWGhSX1hGdjRVdGxjOC1BTmY2enBadVNnMHR3UWdHemJJUmU4TzJVd1RkMTNDQnY2dFpOS3RQd2V3Y25lWWJxU3dMeWdHR1QzWkgzMTFlc1hRQXBsQ3hHSGRjTFpJamRkZ2N3VlhR?oc=5"
+    },
     {
       "id": "605474b8152db33fef",
       "type": "news",
@@ -24,18 +96,6 @@
       "title": "La Diputación de Ávila colaborará en un marcha solidaria en Copenhague para ayudar a los afectados del fuego de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPblRiMmh5cTMyYjM4SG1rV1diWmIyc3dPbjFfRGJuSDhvUW1kSFFiekVNSEpGczlLeWFvRTFsVHVhdktJRTBNMjRraUhVTWY0bjIwLWV5WFYwM0xKa0ZTRS1nS2U4Q1lsZHZkdlJEX29UUlhGMm5jZzNwNzV6cG5MTEt1NElMaTBOck5OVVF0Y0JjS2o4TF9mOFpYSFB6NmgwUTZOdWFMTXpONmV1RTRkWDYwUGlmTWF4WkM1eHdKV2hrbHg2MERKWmI5TU4xdzdmUkJMR3IyeXBleVh1dDNpWjkydHZmSnVIZHdFUXFPREpaVGdISE54WFBB0gGOAkFVX3lxTE94VXducDlxdDZzajkzZ2MwVVo1X0dJZEp1NUtCZjFNLUhOUmQ4S29NZm5kb0F1Q1FzN1pVMDF1bC1zdUtuWkF0eENlQWdJWjFTTHVFdG1KN3ZiZnEzNUF4c3RWalI2SG1pUjIxYXNEN1ZFVW5hTi1PVUVNQ0haZmpaZFUzaTlUa3BCamY2SVBfREVWNXpHVm5tcHVfbGRZNkVabk9ROUFxYjJCZ1F4aXF0UXpUUWU0UXBGb0ZseGl4N2UwSzNqTTQ5c2czV3NEMWVfWFEyd2MzWTJsUk5JOFdTSHk0c280NUI5akI3WVl4Q0lSTWRjcmRhVTdQOEJJQUx0NHJoRS1lTUVucXhoQQ?oc=5"
-    },
-    {
-      "id": "37405a5a9f22fc1d79",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-26T09:30:11+02:00",
-      "source": "Europa Press",
-      "title": "La firma de hipotecas en la Comunidad de Madrid aumenta un 5,2% en junio con 6.976 operaciones",
-      "summary": "El número de hipotecas constituidas sobre viviendas en la Comunidad de Madrid subió un 5,2% en junio...",
-      "url": "https://www.europapress.es/madrid/noticia-firma-hipotecas-comunidad-madrid-aumenta-52-junio-6976-operaciones-20260826093011.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +211,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 8
     },
     "direct_media": {
       "ok": true,
