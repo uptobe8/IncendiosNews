@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-27T17:28:00+02:00",
+  "generated_at": "2026-08-28T02:32:55+02:00",
   "items": [
     {
-      "id": "69f5b46ad00c209f6a",
+      "id": "f28cf9a0bb6114a753",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-08-27T15:30:27+02:00",
+      "published": "2026-08-27T21:30:27+02:00",
       "source": "Tribuna de Ávila",
       "title": "Burgohondo recibirá 2 millones para recuperar las zonas afectadas por el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1lQQ2ZRNEV2WU1pMTZMdVZnTFV6MnV6bm9yeGJ4U0FxVTZRM2hSSF80X1g3U04yZ1BzbzF1cGItUkFiOG8zSFhXSjlNMHNVakdMd3Z2T2k4aThmSWJXMi1sNTB2dWJvQ2ZyRktRa3lhSjJxWEFnUlJBaTh2d1l2VzBTVFdWbFB6bUZhSHdNXzlVdkt4NmJkWTk3UmVOVlRaRXJtNFNGVmFjQ1E1TWRzVEVlNHBsQVczd21MdVBHRWZmVGJo?oc=5"
+    },
+    {
+      "id": "04fd5c3d83ba0f35cd",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-27T18:38:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "La Junta autoriza actuaciones por 5,2 millones tras el fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3ZrcVRLX1R1ajlnVnFuV01MVGRmVWdyeVVVNFNWNVFrcXNtc19BMDBjWG5KcHphc1JScFBTdy10THB1Qk5BR1VYelRpeFc5VmRINkNHMjRzZ0dqUUhVN3Q3Sy1yT3RjU3JURWpoTnlfREl6M3hUd3pqZUFXUDMtZUh6WXBwMHRuNWNfenJ1TXlKM3JvTkVrSEVyV0VwRlh4cVU1T0Z1UVNtU29kdUlFRmxuWTZNa1pKUFBYeWx1V1JTWFhBVzZjc2g0dm9IckFLYnhnNzBHZDA?oc=5"
     },
     {
       "id": "6268adde86cdcb22d9",
@@ -72,30 +84,6 @@
       "title": "Contrato de emergencia de 2 millones para recuperación ambiental tras el incendio de Burgohondo (Ávila)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWMzR3IwMkdlaVlXVnkxMVozYVJQMHNDbEh1M2didndfcUFwNDNkc2tkemJfZ3BTcm5saG1aLWRKTE5iRFl6YS1GMDUwckJ1VWVmSEtYczJYeFZvU3h0Q181ajJPTnZIanBXS2k5OUM0UENaZ3BtYTN4Y0NtWGhSX1hGdjRVdGxjOC1BTmY2enBadVNnMHR3UWdHemJJUmU4TzJVd1RkMTNDQnY2dFpOS3RQd2V3Y25lWWJxU3dMeWdHR1QzWkgzMTFlc1hRQXBsQ3hHSGRjTFpJamRkZ2N3VlhR?oc=5"
-    },
-    {
-      "id": "605474b8152db33fef",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-27T00:06:00+02:00",
-      "source": "El Mundo",
-      "title": "La fiebre en Madrid por retirar las arizónicas tras los incendios, la planta de moda en los chalets hace 30 años: \"Son pura pólvora\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SN0hxMmJtSEk0eG5EUXhqOGJlMnJfeE9Ia2Iwa0NCazZhMnl5ZjVQS0FLRmRqVWhrYlVKc0R3TjZqRnlHWF9MNFBUWmRJcER5YVdOZzNCTEY2QmREdTZkckFyRG5QNEZYZUlFUVVuNkIzd1lSQVY1cnVn0gF6QVVfeXFMT3J1VExrV1IzSUV5WWJXc2xPSHBVRGZhVDVMcy1QOTQxZWcxaHNLcm54MG11bTk4MW5FOGJFUkpOQmM3MEJUN0pudmNpZ0pyUVV6Ykd6UzFlNjVwX05CYXhLMGFiYXRKYmcxYUoyVDhibl9uOHdQNmxYS0E?oc=5"
-    },
-    {
-      "id": "3faa1f3e122aa7c5d7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-26T20:15:13+02:00",
-      "source": "La Razón",
-      "title": "La Diputación de Ávila colaborará en un marcha solidaria en Copenhague para ayudar a los afectados del fuego de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPblRiMmh5cTMyYjM4SG1rV1diWmIyc3dPbjFfRGJuSDhvUW1kSFFiekVNSEpGczlLeWFvRTFsVHVhdktJRTBNMjRraUhVTWY0bjIwLWV5WFYwM0xKa0ZTRS1nS2U4Q1lsZHZkdlJEX29UUlhGMm5jZzNwNzV6cG5MTEt1NElMaTBOck5OVVF0Y0JjS2o4TF9mOFpYSFB6NmgwUTZOdWFMTXpONmV1RTRkWDYwUGlmTWF4WkM1eHdKV2hrbHg2MERKWmI5TU4xdzdmUkJMR3IyeXBleVh1dDNpWjkydHZmSnVIZHdFUXFPREpaVGdISE54WFBB0gGOAkFVX3lxTE94VXducDlxdDZzajkzZ2MwVVo1X0dJZEp1NUtCZjFNLUhOUmQ4S29NZm5kb0F1Q1FzN1pVMDF1bC1zdUtuWkF0eENlQWdJWjFTTHVFdG1KN3ZiZnEzNUF4c3RWalI2SG1pUjIxYXNEN1ZFVW5hTi1PVUVNQ0haZmpaZFUzaTlUa3BCamY2SVBfREVWNXpHVm5tcHVfbGRZNkVabk9ROUFxYjJCZ1F4aXF0UXpUUWU0UXBGb0ZseGl4N2UwSzNqTTQ5c2czV3NEMWVfWFEyd2MzWTJsUk5JOFdTSHk0c280NUI5akI3WVl4Q0lSTWRjcmRhVTdQOEJJQUx0NHJoRS1lTUVucXhoQQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -211,7 +199,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 7
     },
     "direct_media": {
       "ok": true,
