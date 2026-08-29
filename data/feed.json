@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:17:00+02:00",
+  "generated_at": "2026-08-29T05:44:19+02:00",
   "items": [
     {
       "id": "ac04db32a0b38762c1",
@@ -24,18 +24,6 @@
       "title": "Aprobado por unanimidad un nuevo contrato de carreteras para la provincia de Toledo de más de 225 millones para 20 años",
       "summary": "El pleno de la Diputación de Toledo ha aprobado por unanimidad un nuevo contrato de carreteras de más de...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-aprobado-unanimidad-nuevo-contrato-carreteras-provincia-toledo-mas-225-millones-20-anos-20260828123701.html"
-    },
-    {
-      "id": "a92f7fbcb7e9e4f4cf",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-08-28T00:19:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Burgohondo recibirá 2 millones para recuperar las zonas afectadas por el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1lQQ2ZRNEV2WU1pMTZMdVZnTFV6MnV6bm9yeGJ4U0FxVTZRM2hSSF80X1g3U04yZ1BzbzF1cGItUkFiOG8zSFhXSjlNMHNVakdMd3Z2T2k4aThmSWJXMi1sNTB2dWJvQ2ZyRktRa3lhSjJxWEFnUlJBaTh2d1l2VzBTVFdWbFB6bUZhSHdNXzlVdkt4NmJkWTk3UmVOVlRaRXJtNFNGVmFjQ1E1TWRzVEVlNHBsQVczd21MdVBHRWZmVGJo?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
