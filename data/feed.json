@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-29T12:26:51+02:00",
+  "generated_at": "2026-08-29T17:11:44+02:00",
   "items": [
+    {
+      "id": "7ddec46ebade3b26da",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-29T15:25:21+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid ayudará con hasta 5.000 euros a pymes afectadas por los incendios de la Sierra Oeste",
+      "summary": "La Comunidad de Madrid ayudará a los autónomos, comercios, profesionales y pequeñas y medianas empresas afectados por los incendios forestales de...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-ayudara-con-hasta-5000-euros-a-pymes-afectadas-por-los-incendios-de-la-Sierra-Oeste-2-2920827897--20260829032440.html"
+    },
+    {
+      "id": "416d24cc26fca0a9d1",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-29T14:58:38+02:00",
+      "source": "Telemadrid",
+      "title": "Los jabalíes se adueñan de las calles de Tres Cantos: el peligro de sus apariciones nocturnas en las carreteras de Madrid",
+      "summary": "Los jabalíes campan cada vez con más frecuencia por zonas urbanas y carreteras de la Comunidad de Madrid. En Tres Cantos, estos animales han sido...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Los-jabalies-se-aduenan-de-las-calles-de-Tres-Cantos-el-peligro-de-sus-apariciones-nocturnas-en-las-carreteras-de-Madrid-2-2920827902--20260829025838.html"
+    },
     {
       "id": "e14fd42491761ec910",
       "type": "news",
@@ -24,18 +48,6 @@
       "title": "El origen de las líneas 200 de EMT Madrid: así cambiaron las 'lentejuelas' la numeración de los autobuses de la capital",
       "summary": "El salto de las tablillas a los paneles electrónicos obligó a buscar una nueva forma de distinguir los...",
       "url": "https://www.europapress.es/madrid/noticia-origen-lineas-200-emt-madrid-asi-cambiaron-lentejuelas-numeracion-autobuses-capital-20260829081648.html"
-    },
-    {
-      "id": "ac04db32a0b38762c1",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-28T12:40:00+02:00",
-      "source": "Europa Press",
-      "title": "Las grandes obras de Madrid avanzan y permiten recuperar carriles y reducir cortes de tráfico",
-      "summary": "El Ayuntamiento mantiene itinerarios alternativos y refuerza la vigilancia del tráfico ante las actuaciones...",
-      "url": "https://www.europapress.es/madrid/noticia-grandes-obras-madrid-avanzan-permiten-recuperar-carriles-reducir-cortes-trafico-20260828124000.html"
     },
     {
       "id": "18a6bfb41f96520055",
@@ -163,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
