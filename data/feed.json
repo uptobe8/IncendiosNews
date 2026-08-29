@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-29T05:44:19+02:00",
+  "generated_at": "2026-08-29T12:26:51+02:00",
   "items": [
+    {
+      "id": "e14fd42491761ec910",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-29T11:31:40+02:00",
+      "source": "Europa Press",
+      "title": "CCOO pide a Madrid \"garantías\" para el inicio de curso en los centros afectados por incendios de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRVMyQndmM3VYaXk2YmJMT1B4ZGtxcExoUTZNU0xvRDhIZEZKZVRoYWhGRHRvQkhBWkV0cHZXcUJVa243Vm9PeDVKamRJQjNtUnpxb0xJWG5XeXdVaEw4dU9UYUZjTmR5X2RBbkZXaDFKV08wdjJSakJqVEZCQ3VMWXRYaTgzNkNRNlpXNUUxYW9pem1zLTdKd0F6SExwSkJZM1AwaVBuWUlNdjZIb2pNLUZ6TVA2WVpuRVg3ZFdHaFJXSl9UVjh5VFNBb2d4S3lieG1MUXpidkNhdmRHT2poZWE0LVpQYWJXbmlvOURSeFpmQQ?oc=5"
+    },
+    {
+      "id": "06b0292cfd378f3ea7",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-08-29T08:16:48+02:00",
+      "source": "Europa Press",
+      "title": "El origen de las líneas 200 de EMT Madrid: así cambiaron las 'lentejuelas' la numeración de los autobuses de la capital",
+      "summary": "El salto de las tablillas a los paneles electrónicos obligó a buscar una nueva forma de distinguir los...",
+      "url": "https://www.europapress.es/madrid/noticia-origen-lineas-200-emt-madrid-asi-cambiaron-lentejuelas-numeracion-autobuses-capital-20260829081648.html"
+    },
     {
       "id": "ac04db32a0b38762c1",
       "type": "news",
@@ -139,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 3
     }
   },
   "refresh_seconds": 300
