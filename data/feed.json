@@ -1,29 +1,17 @@
 {
-  "generated_at": "2026-08-29T17:11:44+02:00",
+  "generated_at": "2026-08-29T20:31:34+02:00",
   "items": [
     {
-      "id": "7ddec46ebade3b26da",
+      "id": "2ade70014702efd5fb",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-08-29T15:25:21+02:00",
+      "published": "2026-08-29T18:10:32+02:00",
       "source": "Telemadrid",
       "title": "Madrid ayudará con hasta 5.000 euros a pymes afectadas por los incendios de la Sierra Oeste",
       "summary": "La Comunidad de Madrid ayudará a los autónomos, comercios, profesionales y pequeñas y medianas empresas afectados por los incendios forestales de...",
       "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-ayudara-con-hasta-5000-euros-a-pymes-afectadas-por-los-incendios-de-la-Sierra-Oeste-2-2920827897--20260829032440.html"
-    },
-    {
-      "id": "416d24cc26fca0a9d1",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-29T14:58:38+02:00",
-      "source": "Telemadrid",
-      "title": "Los jabalíes se adueñan de las calles de Tres Cantos: el peligro de sus apariciones nocturnas en las carreteras de Madrid",
-      "summary": "Los jabalíes campan cada vez con más frecuencia por zonas urbanas y carreteras de la Comunidad de Madrid. En Tres Cantos, estos animales han sido...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Los-jabalies-se-aduenan-de-las-calles-de-Tres-Cantos-el-peligro-de-sus-apariciones-nocturnas-en-las-carreteras-de-Madrid-2-2920827902--20260829025838.html"
     },
     {
       "id": "e14fd42491761ec910",
@@ -48,18 +36,6 @@
       "title": "El origen de las líneas 200 de EMT Madrid: así cambiaron las 'lentejuelas' la numeración de los autobuses de la capital",
       "summary": "El salto de las tablillas a los paneles electrónicos obligó a buscar una nueva forma de distinguir los...",
       "url": "https://www.europapress.es/madrid/noticia-origen-lineas-200-emt-madrid-asi-cambiaron-lentejuelas-numeracion-autobuses-capital-20260829081648.html"
-    },
-    {
-      "id": "18a6bfb41f96520055",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-08-28T12:37:01+02:00",
-      "source": "Europa Press",
-      "title": "Aprobado por unanimidad un nuevo contrato de carreteras para la provincia de Toledo de más de 225 millones para 20 años",
-      "summary": "El pleno de la Diputación de Toledo ha aprobado por unanimidad un nuevo contrato de carreteras de más de...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-aprobado-unanimidad-nuevo-contrato-carreteras-provincia-toledo-mas-225-millones-20-anos-20260828123701.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -179,7 +155,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 2
     }
   },
   "refresh_seconds": 300
