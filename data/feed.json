@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-30T14:18:40+02:00",
+  "generated_at": "2026-08-30T18:48:19+02:00",
   "items": [
-    {
-      "id": "be775c11751608d200",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-29T15:24:40+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid ayudará con hasta 5.000 euros a pymes afectadas por los incendios de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOHgtNWVEclRfQnZlSU5mOUlXYkZDLUNlRnp0Z3c4ZXZxc2Jmd2wtMlZoMlphWHNxaGJlTXQ5UnZDVGF4d0VySE1TMENRUFdIdGdQU2F3Z21nU2xFeWRjUzBjV3lHM2RxQTBXaldwRmd3bkJKdE5KMzVpZ0RMcm9YdnNLeUtDR3dGX3VjTGxIOU1hUGt3MkFGVVppUDhtZk9zZEtubDJzb1lpTTlyc2lqQVBTMXNBS2VtNVBUS1NNMXdZX09lNGFJSHdOOUoxc2ZhX0VXaEh2aXJmRzZLQUltN2JmMWlOUENVcjRGUnFGSXVqVHh2bGs5MEhkQVF3U1Z3bzVmMUJ30gGLAkFVX3lxTE9sYm95cmdicDRGMnBMZDFzNzBZTGwtX0lYWUNRaW5OMHJHazNqdEVCVm5SM08tUWlqelF6RmhCQ0UwUEFseVAzMHdWSG13QVJnUm1nR2JUX1ZpbTlUcVNlQmw0aFljRTI1ZDRydFIzeHM5YTA1Q0N0RjNoeE5vb2lrMkMyMkczVmVSREZqZ1NramM1SXZiZDhXTm9kYTVud09OeVJyUGlPTUpNWWZXZFEzOTY5ekFsRnVrWi1BYjlQRlpNM0JKcXZVdzBMUlhzMEtvVENvdWFCOUFacG9aZExUMjVlUHFqVlRCZXluaW5wQjdTeXdSQTA2ZV9fMWZoT3c5MVZNSzREQXVoOA?oc=5"
-    },
     {
       "id": "06b0292cfd378f3ea7",
       "type": "news",
@@ -139,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
