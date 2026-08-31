@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-31T14:37:59+02:00",
+  "generated_at": "2026-08-31T21:14:36+02:00",
   "items": [
+    {
+      "id": "defb880c94e5a6da81",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-31T18:29:21+02:00",
+      "source": "Europa Press",
+      "title": "Evacuado en UVI móvil tras quedar inconsciente al caer de un patinete en Ávila",
+      "summary": "Una UVI móvil ha evacuado a un centro sanitario a un varón de unos 40 años que ha quedado inconsciente al...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-uvi-movil-quedar-inconsciente-caer-patinete-avila-20260831182921.html"
+    },
+    {
+      "id": "94ed58467c69086651",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-31T15:56:17+02:00",
+      "source": "ABC",
+      "title": "La «recuperación» tras los incendios avanza en Ávila con una dotación inicial de 5,1 millones",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmUzNDBleWs2UlFkMDdMaG5PMFdnU0ljQnR2NkxoaDZjcDRGMXZDajNPMUFQRHg0Q3JraUxRU0hBVFBvN1hBWTJtaWtsUGprZkwycTJCR1NBMEJ1OGd2cWMycG1UaHVKemJhb254X0NvbDhzRTFxTW5BZlhwVEVHWFFMTm1pQWZtZ3Vnal9rd21MYWNSVTBIZ1ZjWEJtZjM4QkNXcU45VlFWVHltaTc0UjNvMTdWaVdXQTdNa1JobGY?oc=5"
+    },
+    {
+      "id": "e18f35f2dcf302bc3e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-08-31T15:18:45+02:00",
+      "source": "Cadena SER",
+      "title": "El delegado de la Junta pide un \"tiempo de reflexión\" para redefinir el futuro económico tras el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX292QkptZjdzbjVwSC0zRFRjY0tFd1gwZi1OcEpXQUxCTWlkT3otbXZqWVJYNWFtUC1XWldLVTdhVFEwWTNVVndfckl3RWZnOFdCdlFacXZFaHk5eE1PMHNmTWFXblpWZXhnZHZka3VrSDZObVZzekpLWGpQaUNHdG0zeUdOQWwyeDI1d2tWTEZGRmlWU0JleWVBZlZRWGFRXy1MRmQ2WVFVSThqRmhXeEpHb1JMYm5tQXU4RTMta09TWm9CakszZDd1ZENMRVlCa0d2S014Y1ZHcUN3Tkl6cm1QTkZobEU4cURYcllkcUJyLXlZOTJldNIBjAJBVV95cUxQUkhCcGRlSUgtSlIxcjc5WkpfZzNSSmlCX0JuYk5aaldCbDFWUjJleHRWdW9jUE9LUjdWRGdKLUZZSWRDQi1WQ3p5MERrT1owV2VlMldMZDlNNzVGcXZnY1lGUHhCaWtLT0NHTV9wYXRCRUFudzl4TmptblM1aEVSVC1iNjZjZEl2U1BUaHFRUGRXMi1EUG9CTGQ4UGVzdmZIbmJmM2FnV3BDcGhHVTRfMVIxUnFOOFY0U2dRSlduTnRoLXRublo5TU14NTBpYUdpcWlaUkE2VkJHZ0Z4enF2VTMtUk5OOExnRjVZZlhiRFgtbFRsdmpMaVhNVTZ5Ym5qWUZYTmE1dXZibmlo?oc=5"
+    },
     {
       "id": "02bf6b9ffc4da8f42f",
       "type": "news",
@@ -127,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
