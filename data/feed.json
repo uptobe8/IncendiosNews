@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-31T07:54:44+02:00",
+  "generated_at": "2026-08-31T14:37:59+02:00",
   "items": [
     {
-      "id": "06b0292cfd378f3ea7",
+      "id": "02bf6b9ffc4da8f42f",
       "type": "news",
       "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-08-29T08:16:48+02:00",
-      "source": "Europa Press",
-      "title": "El origen de las líneas 200 de EMT Madrid: así cambiaron las 'lentejuelas' la numeración de los autobuses de la capital",
-      "summary": "El salto de las tablillas a los paneles electrónicos obligó a buscar una nueva forma de distinguir los...",
-      "url": "https://www.europapress.es/madrid/noticia-origen-lineas-200-emt-madrid-asi-cambiaron-lentejuelas-numeracion-autobuses-capital-20260829081648.html"
+      "province": "Ávila",
+      "town": "Casillas",
+      "published": "2026-08-31T13:15:14+02:00",
+      "source": "La Razón",
+      "title": "Homenaje de Casillas (Ávila) a los 134 voluntarios que \"protegieron\" el pueblo del fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMDBzUmVCb2x4cy1MOWxUeW5PVUZIeVpTWjY5bnFWUm9RNWZDSldRV3lmSVR2ZnJ1WkF0dmFzM2x6VFJTRzBBUkMxbEVyNnlmeUt1VFZUX2hpUHNnWUphU09NWTk1eGpvUXg1Q3hDczJMa013VnRxdEhXR2RWUkJzbmdDWDVKODZrLWc1SjNVVXdVV2RiV0VibzQ2bDRURHpLMXlCZ3JndklmZGlKQlZaRmlPOHg2Z0RsOUFqWFJqcXZMbmVlWGlLejJ0ZHcyc3pPUXRCV2tJQVVSX2tBNkHSAfIBQVVfeXFMUEtxR29VMFFqQ0pZS1R1dGN2NTVoUlcycnRfS05YRUxYTmVWek54X3VWaTR6WldORVYwcUx1T0pMRW9sSWg5WUJGRDlkbEtxTk9ZUVhNUlZrR2pzT1JpNGNsUGQxbHlvb01Rc2lMQ2hkaktQOUpfeWxuX3VfQ0d6U0ppNHViaTdLYzAtRjhuMTVLQkFMZnBNZHhDbHBtMG9kSGNsY0VNSlNHd3g0ZFdFMlRXRmQ5bFljZXpLZkRPQkM4UHBTbzlYNktiSnU1UU1uanJ5WmdJTk0ybFp0LXJBdFE1VXdlTUFLblFSTDBJejBTbEE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -127,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
