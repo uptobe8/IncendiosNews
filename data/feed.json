@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-01T03:51:03+02:00",
+  "generated_at": "2026-09-01T08:49:58+02:00",
   "items": [
+    {
+      "id": "7d532f2c31affeb616",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "San Martín de Valdeiglesias",
+      "published": "2026-09-01T05:30:01+02:00",
+      "source": "EL PAÍS",
+      "title": "Fuegos artificiales y 230.000 euros para toros: la polémica apuesta de San Martín de Valdeiglesias para celebrar las fiestas tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPeFR2QkJVMVJtTzNEdWpfN1BWVW9sUE93NzNvdnRMVW1JQmEyNVRxVk5KbXc4ZWJFQzFRNkRXcDVNbjdNS29QWDI0NEh0dE5ld2xQT3hSUU1VVkNlbU9Bd3dxNmE2cy1JQy1tUTd1eTVuQWl2a2I2bERxdFNXZ2VrM2k3cmJHMDg5cHd4UnpQNTRaaVkxUjhtZUJJdFo3czRBNUFzUDFsZ2dFVWNmbVBlYmx3eHIwdlVLMktjTk9iUWU1Q180bk1ELXhTTGdiQll6NnF3djRHQi15Q0toMC1zRktHcThHanpTa2dmNkgxQ1V1c2ZPVVR5bWlfekRURTVZZW5IckVVMDJSYjk3YVpUakY4dHNGV0HSAasCQVVfeXFMTi1OZVN0dG5XeU9sS3dkZzB0bUdHdmZQalpiMjRoTlpfTDlPaWo0S2p2U0czX01YU2ZpYmotUjljdW54VDY0cmlWel90UmIyOUJsVUlzaURmR3hMdU9nT0pOUTdVdVpIMnJCMzZBa0ZpS1BERDJKVm4tR095UWNlMzlGMkh5R1VhSjdlRC03TlNLUVhjNmozNkJkSnZHeUgydHR0SnV6Ny04cU5McUM0N2tJWTVtRktUMjZkb1dVbHpkSVpVTkw4N0JPSE5ReHptLTRZdlllMXU2aENSS3VKZ3ZBR0k5VUgyMzA0OVF4VW5WRE00VzRLaENsYXBUQW0yU3YtR0hDZFlQdVREZkFXMWw3WWpCZDRYTUdMTWZkUDdsRTlWUnJrMGxtejQ?oc=5"
+    },
+    {
+      "id": "defb880c94e5a6da81",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-08-31T18:29:21+02:00",
+      "source": "Europa Press",
+      "title": "Evacuado en UVI móvil tras quedar inconsciente al caer de un patinete en Ávila",
+      "summary": "Una UVI móvil ha evacuado a un centro sanitario a un varón de unos 40 años que ha quedado inconsciente al...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-uvi-movil-quedar-inconsciente-caer-patinete-avila-20260831182921.html"
+    },
     {
       "id": "94ed58467c69086651",
       "type": "news",
@@ -145,17 +169,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
