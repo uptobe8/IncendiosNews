@@ -1,17 +1,77 @@
 {
-  "generated_at": "2026-09-02T10:07:58+02:00",
+  "generated_at": "2026-09-02T14:45:07+02:00",
   "items": [
     {
-      "id": "0606ece0ec36350cfa",
+      "id": "252b848f10497c4581",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T12:13:03+02:00",
+      "source": "ABC",
+      "title": "Un juzgado de Ávila inicia las diligencias para investigar el origen del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdUTE1ycEkza3hNZ2NybFA5SlE2SDlGZEtJTUtJaENtWGZsLVpVWTJ6QXBOcFNtSmlYb25UNFhnWmpQajc3c3djcEM3aUFlbks5QVRaU1c5XzNWVk9zOUxxMWljb3QxdkZSMU1ybWpsUFdaVEJCUHZWanQ2MkNpZUJFdS1mUms3b3c3NkxTbW1WOGpyQW4xcGZUcHlrUTQyZWFLeEJoOHF1MFAtdTNBNlZpWjdzNE5Ob3gyejhIMNIBxAFBVV95cUxONFNyNW8yNHRwdXJOZ1VkSjBxY3dzcjZuazRDNzhKc3h4LUZFVFlLRHkteE55N0VPX1FDdU9mVXlCV2pSQW1WcGV0WDJJdXgzUFB5cHI3eWoyMlBCVGxqZHlsemdtT05nbkhqc09hMTJKVVktdE9JRm9reU5SVENzN2RZZjhOYUYzYnRxWHozT0RGUzZXOW1kQXpSeEJ1dEtqeER4VVZMNThWQmxKc2M0OTNxZEowQUpSRTB3TXV5b1lvbXp4?oc=5"
+    },
+    {
+      "id": "b9169db3d96db3d0ae",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T11:46:18+02:00",
+      "source": "El Español",
+      "title": "El incendio de Burgohondo, bajo investigación judicial para esclarecer el origen y depurar responsabilidades",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZWp3SUh4c3JIOTBUNmpUUjlQbXprQXhmUXk4bnptWk5SYkg1aUk0QVhzelFQNU5fS21JT1RFY1hpLXJfVDg0d2s2Q0Q3YnAzNjFubE8wTkpIcHJkUUZaOHVadERpYlRXTDAxdUtvQ1l1VDdKYTR2UHpCMTNleTRsemtOWFc1RW9ZNlQ4LXBTYW5CT3VjMVMxN1BpOWxNLVNnaS1scXd5d1lpTzZjX1JEcVVvQkpsU2dZUU9rZmExSDc1TU9GTHluSURPemluVzd6MThRUG85Q2JlWHRWb1dOaE5hc1BNZUFjZms2X0RjQXpNdExsSV9oUjdBQ0V6clZuTV93UzlMaUdpdGZzTEpzTEQ0VTnSAZQCQVVfeXFMUGVqd0lIeHNySDkwVDZqVFI5UG16a0F4ZlF5OG56bVpOUmJINWlJNEFYc3pRUDVOX0ttSU9URWNYaS1yX1Q4NHdrNkNEN2JwMzYxbmxPME5KSHByZFFGWjh1WnREaWJUV0wwMXVLb0NZdVQ3SmE0dlB6QjEzZXk0bHprTlhXNUVvWTZUOC1wU2FuQk91YzFTMTdQaTlsTS1TZ2ktbHF3eXdZaU82Y19SRHFVb0JKbFNnWVFPa2ZhMUg3NU1PRkx5bklET3ppblc3ejE4UVBvOUNiZVh0Vm9XTmhOYXNQTWVBY2ZrNl9EY0F6TXRMbElfaFI3QUNFenJWbk1fd1M5TGlHaXRmc0xKc0xENFU5?oc=5"
+    },
+    {
+      "id": "9d0e9f9fb55a39dd45",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-02T08:55:13+02:00",
-      "source": "Madrid Actual",
-      "title": "30 millones en ayudas en vivienda para los afectados por el incendio de la Sierra Oeste",
+      "published": "2026-09-02T11:39:11+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad aprueba nuevas ayudas para pymes y autónomos afectados por el incendio de la Sierra Oeste",
+      "summary": "La Comunidad de Madrid invierte ocho millones de euros en ayudas a los autónomos de la Sierra Oeste...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-aprueba-nuevas-ayudas-pymes-autonomos-afectados-incendio-sierra-oeste-20260902113557.html"
+    },
+    {
+      "id": "4ed7a94852a3d0fded",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "San Martín de Valdeiglesias",
+      "published": "2026-09-02T11:38:48+02:00",
+      "source": "Europa Press",
+      "title": "Arrancan las obras para recuperar el Parque de Bomberos de San Martín de Valdeiglesias afectado por el incendio",
+      "summary": "El Consejo de Gobierno de la Comunidad de Madrid ha conocido este miércoles el informe de contratación de...",
+      "url": "https://www.europapress.es/madrid/noticia-arrancan-obras-recuperar-parque-bomberos-san-martin-valdeiglesias-afectado-incendio-20260902113848.html"
+    },
+    {
+      "id": "b4fbb503e0d64cc0c1",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-02T11:35:31+02:00",
+      "source": "Europa Press",
+      "title": "Los montes de la Sierra Oeste se recuperan tras el incendio con la aprobación de más puntos de agua y alimentación",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2dzbXVNNC1SQ1doNGpuSHlobTMyWW8xaTNuREVFRUlsdnNzRURuNldNTktTQTFLZXdEd1UwWTlvVGRiZlVjcFNjZ1N1UGpNWDZGVlFfLW5zYVlrbWdCaGlRS0szWGhjNmE3UklzSEppNW1RZlZaVzcwV2dPYjNPX0lXYkJqMldqRzZodDRSRGxuU3FKMk5IdUQ1ZGpTaW1Za2hPeS1NQVZHbU9YTkIwWWV4REwxcUFFT0tuRGRORVpRSHAyNXl0dWsxVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0k1ZGhIMEIxdmZHM05iWTgxYzd5MmZvZEdaN3J1bjhaSDk3QURmUGRiMURtVEl6QVp4RWJMZldPcjYwU2pyODNHcmd0NE1udVJQbUZEWWlaRmxMRTVYd3NIRVMzZ1lxR1Rja2hiMGlreVkwQUZMdF93N2o4bkxnMEV2Z1p3TGNBRUZWTzdITlhOaDBOTHRpbnB2NExoN1R4NVRfN29GVnFFSVpaOG1YSEd4YXVLa1pIcW9aSFZlOUxONGRqMVhxWlQzNllQNnpqZ1ByOElQUQ?oc=5"
+    },
+    {
+      "id": "9005382c4a069bf955",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T11:20:39+02:00",
+      "source": "Europa Press",
+      "title": "Un juzgado de Ávila abre diligencias para determinar la autoría del incendio de Burgohondo",
+      "summary": "La Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Ávila ha incoado diligencias previas...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-amp-juzgado-avila-abre-diligencias-determinar-autoria-incendio-burgohondo-20260902112023.html"
     },
     {
       "id": "265b1c88fd4087070d",
@@ -22,32 +82,8 @@
       "published": "2026-09-02T06:02:49+02:00",
       "source": "Europa Press",
       "title": "La Comunidad tiene previsto aprobar hoy las ayudas en vivienda para afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmF1dDAxUW44TE9kSEhRYmJhZng4RFBNcS1TcEVQYjVYM3F6R0JMRVVkcGVUMldiSFNnM3k3RzlsYnBTbWFTZU5JSnBCTGkxZ2FmTGdfMldyb3hIRFdxSjJFLUEzUFhzSTNfSVhtaWRhb01mSHdzZjIydWZaNHhKZHdvcDhvbG1DSkZZUjlTeHZsTGUyeV83VE5EUWlhMThJellRR2kwdUs1WEhmcmVrM0hDendDcnNpZVh4T0FxTUo4Mnp6d0R3SFB2TVRZcVBLVmpPbThJcnZoZmJkaW5V?oc=5"
-    },
-    {
-      "id": "b1ba797e9e438d27f8",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-01T12:56:58+02:00",
-      "source": "Europa Press",
-      "title": "El tráfico aumenta un 40% en Madrid con el regreso de las vacaciones, aunque sigue por debajo de un laborable medio",
-      "summary": "Almeida recuerda que los autobuses de la EMT serán gratuitos los días 7 y 8 de septiembre para facilitar la...",
-      "url": "https://www.europapress.es/madrid/noticia-trafico-aumenta-40-madrid-regreso-vacaciones-sigue-debajo-laborable-medio-20260901125658.html"
-    },
-    {
-      "id": "defb880c94e5a6da81",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-08-31T18:29:21+02:00",
-      "source": "Europa Press",
-      "title": "Evacuado en UVI móvil tras quedar inconsciente al caer de un patinete en Ávila",
-      "summary": "Una UVI móvil ha evacuado a un centro sanitario a un varón de unos 40 años que ha quedado inconsciente al...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-evacuado-uvi-movil-quedar-inconsciente-caer-patinete-avila-20260831182921.html"
+      "summary": "El Gobierno de la Comunidad de Madrid tiene previsto aprobar en el Consejo de Gobierno de este miércoles...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-tiene-previsto-aprobar-hoy-ayudas-vivienda-afectados-incendio-sierra-oeste-20260902060249.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -157,17 +193,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 7
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 6
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
