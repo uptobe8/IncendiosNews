@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-02T18:52:36+02:00",
+  "generated_at": "2026-09-02T21:33:49+02:00",
   "items": [
-    {
-      "id": "e2df950ee4c3f05509",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T17:19:33+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Incoadas diligencias previas para investigar el incendio forestal de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW5BMS1WNFlKU2p5MF9GYXdoODhWM0pwbTV6d01oT1hRQlNqTTNndjBkamlZSVNpS3czenhZYjhiZndZRkpvenk4Sm44NEVCUUJEcVRKSUY1SkZESDc5VnhIdGxZcHNJLW9iN01VcHIyM0NjZFZkWU1kUjBlZ3RWb29wTlBtaTVKSW9Oc2N3YXJHM3FQV1ZkQ3U0M3F0aVhGdGhuWXRyQ21BX3dKX2N3eFVEcm5YZG96LUF3WkM4MHJJUQ?oc=5"
-    },
     {
       "id": "3c067d14e875a87726",
       "type": "news",
@@ -24,6 +12,18 @@
       "title": "Un tribunal de Ávila investigará el incendio de Burgohondo por posibles delitos ambientales",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEFOWDVCejA5TFVfLTRxNi02VTJZeW9zLXlYNVZHZTNuZHJsR2toQkhVTHcwZlpGT0NmbmJnd1MwM011SHp1bjRBOS1lUko2R2pYTGhBbVk2NFRmclk5M2ZTd1Rhb3lDQU53dy0tVGlaMjc4dHJhbC1ST3FIZnZodzR5SFdhQlI2ZWE0X1J4VHlqaDZyaExXbEZ0UjFraHRLVWd2MS1hZDYza0tPVzFEd1FGc0xnX2VLYWZXMmNKVG5SZTlJNXZOUFlpS0U?oc=5"
+    },
+    {
+      "id": "7e880ae7e6a5efedaa",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T13:20:18+02:00",
+      "source": "La Razón",
+      "title": "Un juzgado de Ávila inicia la investigación del origen del incendio forestal de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUmUyd1JjSFZGdjJuOTN5bTY2cFJPcEVhdWdGczYxVDlVRklaUG5nNU5YMXlQdEVOZm85MEU4aVhjTnRkczJnSnh5elRQRXZhMHlJQVg5UkpCdWZaSWl4RzBpWU9zM01yamlHd2t2cjBBc0lNaEE5OXp5eGgwTzNIN3p0UDNLa3lWMkRtSmwtYWg2RnZyOWZQV3B5ZV9xTkpKV214MXhGT2VFek9weGtFTmRPSlQ0V0t5TWk4bTdFMWczMU44c0FPbXdwYnJyd2Z0b2FVaF92MDlyRHdDb25OUkRqRmkyejQtOVhVOTdGX3Q3dGJC0gH0AUFVX3lxTE1SZTJ3UmNIVkZ2Mm45M3ltNjZwUk9wRWF1Z0ZzNjFUOVVGSVpQbmc1TlgxeVB0RU5mbzkwRThpWGNOdGRzMmdKeHl6VFBFdmEweUlBWDlSSkJ1ZlpJaXhHMGlZT3MzTXJqaUd3a3ZyMEFzSU1oQTk5enl4aDBPM0g3enRQM0treVYyRG1KbC1haDZGdnI5ZlBXcHllX3FOSkpXbXgxeEZPZUV6T3B4a0VOZE9KVDRXS3lNaThtN0UxZzMxTjhzQU9td3BicnJ3ZnRvYVVoX3YwOXJEd0Nvbk5SRGpGaTJ6NC05WFU5N0ZfdDd0YkI?oc=5"
     },
     {
       "id": "252b848f10497c4581",
@@ -38,16 +38,16 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdUTE1ycEkza3hNZ2NybFA5SlE2SDlGZEtJTUtJaENtWGZsLVpVWTJ6QXBOcFNtSmlYb25UNFhnWmpQajc3c3djcEM3aUFlbks5QVRaU1c5XzNWVk9zOUxxMWljb3QxdkZSMU1ybWpsUFdaVEJCUHZWanQ2MkNpZUJFdS1mUms3b3c3NkxTbW1WOGpyQW4xcGZUcHlrUTQyZWFLeEJoOHF1MFAtdTNBNlZpWjdzNE5Ob3gyejhIMNIBxAFBVV95cUxONFNyNW8yNHRwdXJOZ1VkSjBxY3dzcjZuazRDNzhKc3h4LUZFVFlLRHkteE55N0VPX1FDdU9mVXlCV2pSQW1WcGV0WDJJdXgzUFB5cHI3eWoyMlBCVGxqZHlsemdtT05nbkhqc09hMTJKVVktdE9JRm9reU5SVENzN2RZZjhOYUYzYnRxWHozT0RGUzZXOW1kQXpSeEJ1dEtqeER4VVZMNThWQmxKc2M0OTNxZEowQUpSRTB3TXV5b1lvbXp4?oc=5"
     },
     {
-      "id": "610437d2786c9a1467",
+      "id": "14751aeabaafa35cb1",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-02T12:00:37+02:00",
+      "published": "2026-09-02T12:00:39+02:00",
       "source": "Cadena SER",
       "title": "Abren diligencias judiciales para investigar el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3pnUFFCcm9VYzdycHZ5Ym4xQ3AzaF91Uk01U3Z2dV84dlk1eG16XzRFaVVpS3B1WVFqYXBCVVlRYURmTzZkc1BOVEltUlh2SVJYdFptaDFYVlUxM0ZELXFGN2FRNU94WlVtM3AtTnRLZDRhVDhHd09NU2Jod3ZoZGRPdFV6SUVEUWFIUmJPQVdKcVBIR1Y3andYOUNTSEY2QWJOZG5vTUFtSGxMUkxYc2hUcmtONlV4ZEVTUFlVYmRZVW1xVVU00gHbAUFVX3lxTE9jUjJ6NjkxUHNJNjVUT1JVOGJYQlgzWkxZZi1ZcGxLaTk1ZjBJNm0xRThEeURmZEphQzQ4ZTFvTi1HdDlDVUVTRTNBLUw3RG1PaG50dDY5WXA3eWVjTkhzREM0VWF1eTB2ZUpGanlwN1FaUEE3WmVsTi14Q2M0VVdLZXJCZFRIVEFETGVJbS1NMTRsREtwdm5idzdMc2thcGxjV0lGZ2hJc2RoMFcybWVHVVdKb2toWEZSM3BVVFZDUC1SclhWQzE5VGdPaTFQUi1JYTFKdFl5R25IRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY1IyejY5MVBzSTY1VE9SVThiWEJYM1pMWWYtWXBsS2k5NWYwSTZtMUU4RHlEZmRKYUM0OGUxb04tR3Q5Q1VFU0UzQS1MN0RtT2hudHQ2OVlwN3llY05Ic0RDNFVhdXkwdmVKRmp5cDdRWlBBN1plbE4teENjNFVXS2VyQmRUSFRBRExlSW0tTTE0bERLcHZuYnc3THNrYXBsY1dJRmdoSXNkaDBXMm1lR1VXSm9raFhGUjNwVVRWQ1AtUnJYVkMxOVRnT2kxUFItSWExSnRZeUduSEXSAdsBQVVfeXFMT2NSMno2OTFQc0k2NVRPUlU4YlhCWDNaTFlmLVlwbEtpOTVmMEk2bTFFOER5RGZkSmFDNDhlMW9OLUd0OUNVRVNFM0EtTDdEbU9obnR0NjlZcDd5ZWNOSHNEQzRVYXV5MHZlSkZqeXA3UVpQQTdaZWxOLXhDYzRVV0tlckJkVEhUQURMZUltLU0xNGxES3B2bmJ3N0xza2FwbGNXSUZnaElzZGgwVzJtZUdVV0pva2hYRlIzcFVUVkNQLVJyWFZDMTlUZ09pMVBSLUlhMUp0WXlHbkhF?oc=5"
     },
     {
       "id": "b9169db3d96db3d0ae",
@@ -62,28 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZWp3SUh4c3JIOTBUNmpUUjlQbXprQXhmUXk4bnptWk5SYkg1aUk0QVhzelFQNU5fS21JT1RFY1hpLXJfVDg0d2s2Q0Q3YnAzNjFubE8wTkpIcHJkUUZaOHVadERpYlRXTDAxdUtvQ1l1VDdKYTR2UHpCMTNleTRsemtOWFc1RW9ZNlQ4LXBTYW5CT3VjMVMxN1BpOWxNLVNnaS1scXd5d1lpTzZjX1JEcVVvQkpsU2dZUU9rZmExSDc1TU9GTHluSURPemluVzd6MThRUG85Q2JlWHRWb1dOaE5hc1BNZUFjZms2X0RjQXpNdExsSV9oUjdBQ0V6clZuTV93UzlMaUdpdGZzTEpzTEQ0VTnSAZQCQVVfeXFMUGVqd0lIeHNySDkwVDZqVFI5UG16a0F4ZlF5OG56bVpOUmJINWlJNEFYc3pRUDVOX0ttSU9URWNYaS1yX1Q4NHdrNkNEN2JwMzYxbmxPME5KSHByZFFGWjh1WnREaWJUV0wwMXVLb0NZdVQ3SmE0dlB6QjEzZXk0bHprTlhXNUVvWTZUOC1wU2FuQk91YzFTMTdQaTlsTS1TZ2ktbHF3eXdZaU82Y19SRHFVb0JKbFNnWVFPa2ZhMUg3NU1PRkx5bklET3ppblc3ejE4UVBvOUNiZVh0Vm9XTmhOYXNQTWVBY2ZrNl9EY0F6TXRMbElfaFI3QUNFenJWbk1fd1M5TGlHaXRmc0xKc0xENFU5?oc=5"
     },
     {
-      "id": "9d0e9f9fb55a39dd45",
+      "id": "6c4180c79f07cdb278",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-02T11:39:11+02:00",
+      "published": "2026-09-02T11:35:57+02:00",
       "source": "Europa Press",
       "title": "La Comunidad aprueba nuevas ayudas para pymes y autónomos afectados por el incendio de la Sierra Oeste",
-      "summary": "La Comunidad de Madrid invierte ocho millones de euros en ayudas a los autónomos de la Sierra Oeste...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-aprueba-nuevas-ayudas-pymes-autonomos-afectados-incendio-sierra-oeste-20260902113557.html"
-    },
-    {
-      "id": "4ed7a94852a3d0fded",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "San Martín de Valdeiglesias",
-      "published": "2026-09-02T11:38:48+02:00",
-      "source": "Europa Press",
-      "title": "Arrancan las obras para recuperar el Parque de Bomberos de San Martín de Valdeiglesias afectado por el incendio",
-      "summary": "El Consejo de Gobierno de la Comunidad de Madrid ha conocido este miércoles el informe de contratación de...",
-      "url": "https://www.europapress.es/madrid/noticia-arrancan-obras-recuperar-parque-bomberos-san-martin-valdeiglesias-afectado-incendio-20260902113848.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjZ4SzNBelBNMmF5dFB5eUxTaUZOa2hYdHlNODRDdmZKaWJTLUhvRXJoeWNfVGV2LUtJWjdNNG9NeGRmYVluZVl1bWRPVjRkcHNFdHczZld6ZEhGN0RQdHptaFp6ckpUWlRBUDExRWl5eFNUUnlZV2M0bVZPR0J2RE5vZWNNZ1BJcUl1MThOYl9KTlF0TTU4SGFKdm51bVk1THdmVGQ4UTVxN3hORlRNLVBYc0R2YWE0NEJEZlZyVGhYVldiVGREMWpkbnB3OE1LSVBlTXpiQW4?oc=5"
     },
     {
       "id": "b4fbb503e0d64cc0c1",
@@ -98,6 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0k1ZGhIMEIxdmZHM05iWTgxYzd5MmZvZEdaN3J1bjhaSDk3QURmUGRiMURtVEl6QVp4RWJMZldPcjYwU2pyODNHcmd0NE1udVJQbUZEWWlaRmxMRTVYd3NIRVMzZ1lxR1Rja2hiMGlreVkwQUZMdF93N2o4bkxnMEV2Z1p3TGNBRUZWTzdITlhOaDBOTHRpbnB2NExoN1R4NVRfN29GVnFFSVpaOG1YSEd4YXVLa1pIcW9aSFZlOUxONGRqMVhxWlQzNllQNnpqZ1ByOElQUQ?oc=5"
     },
     {
+      "id": "38efda028d1e88367e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T11:27:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "Abierta investigación judicial por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMl9aalduSnNfTWd6VUhwVVplcTZKLUxLLXotc3FxNk9QWUhsSjR1ZHBZRUJzQ05mOFNRTVJ6SXRHckJhSEdZVEhwN3NuRGpQRy1xVDQ4b3RFNGF5aW03QTg0aDJlRHVQMTdHRlB6OWFvWFZZZFRFaTdGQmEwYi0xODVURUdSOHBMSHBaWXd5NF9YNi01aUxqUGRnS0ItQTBVZlRxYnpuVEliRG9XbjNrMmZqOU95aUV3WFNHLXhUT1hCRGFKcEpZcWVzLWVpUWxnWENUN0hjeTQ?oc=5"
+    },
+    {
       "id": "9005382c4a069bf955",
       "type": "news",
       "severity": "info",
@@ -108,6 +108,18 @@
       "title": "Un juzgado de Ávila abre diligencias para determinar la autoría del incendio de Burgohondo",
       "summary": "La Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Ávila ha incoado diligencias previas...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-amp-juzgado-avila-abre-diligencias-determinar-autoria-incendio-burgohondo-20260902112023.html"
+    },
+    {
+      "id": "d5f73492281548c55e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-02T06:07:01+02:00",
+      "source": "Madrid Actual",
+      "title": "30 millones en ayudas en vivienda para los afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2dzbXVNNC1SQ1doNGpuSHlobTMyWW8xaTNuREVFRUlsdnNzRURuNldNTktTQTFLZXdEd1UwWTlvVGRiZlVjcFNjZ1N1UGpNWDZGVlFfLW5zYVlrbWdCaGlRS0szWGhjNmE3UklzSEppNW1RZlZaVzcwV2dPYjNPX0lXYkJqMldqRzZodDRSRGxuU3FKMk5IdUQ1ZGpTaW1Za2hPeS1NQVZHbU9YTkIwWWV4REwxcUFFT0tuRGRORVpRSHAyNXl0dWsxVQ?oc=5"
     },
     {
       "id": "265b1c88fd4087070d",
@@ -235,11 +247,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 10
+      "items": 12
     },
     "direct_media": {
       "ok": true,
-      "items": 6
+      "items": 3
     }
   },
   "refresh_seconds": 300
