@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-02T05:38:36+02:00",
+  "generated_at": "2026-09-02T10:07:58+02:00",
   "items": [
+    {
+      "id": "0606ece0ec36350cfa",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-02T08:55:13+02:00",
+      "source": "Madrid Actual",
+      "title": "30 millones en ayudas en vivienda para los afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2dzbXVNNC1SQ1doNGpuSHlobTMyWW8xaTNuREVFRUlsdnNzRURuNldNTktTQTFLZXdEd1UwWTlvVGRiZlVjcFNjZ1N1UGpNWDZGVlFfLW5zYVlrbWdCaGlRS0szWGhjNmE3UklzSEppNW1RZlZaVzcwV2dPYjNPX0lXYkJqMldqRzZodDRSRGxuU3FKMk5IdUQ1ZGpTaW1Za2hPeS1NQVZHbU9YTkIwWWV4REwxcUFFT0tuRGRORVpRSHAyNXl0dWsxVQ?oc=5"
+    },
+    {
+      "id": "265b1c88fd4087070d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-02T06:02:49+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad tiene previsto aprobar hoy las ayudas en vivienda para afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmF1dDAxUW44TE9kSEhRYmJhZng4RFBNcS1TcEVQYjVYM3F6R0JMRVVkcGVUMldiSFNnM3k3RzlsYnBTbWFTZU5JSnBCTGkxZ2FmTGdfMldyb3hIRFdxSjJFLUEzUFhzSTNfSVhtaWRhb01mSHdzZjIydWZaNHhKZHdvcDhvbG1DSkZZUjlTeHZsTGUyeV83VE5EUWlhMThJellRR2kwdUs1WEhmcmVrM0hDendDcnNpZVh4T0FxTUo4Mnp6d0R3SFB2TVRZcVBLVmpPbThJcnZoZmJkaW5V?oc=5"
+    },
     {
       "id": "b1ba797e9e438d27f8",
       "type": "news",
@@ -133,17 +157,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "direct_media": {
+    "google_news": {
       "ok": true,
       "items": 2
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 3
     }
   },
   "refresh_seconds": 300
