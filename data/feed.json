@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-02T14:45:07+02:00",
+  "generated_at": "2026-09-02T18:52:36+02:00",
   "items": [
+    {
+      "id": "e2df950ee4c3f05509",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T17:19:33+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Incoadas diligencias previas para investigar el incendio forestal de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW5BMS1WNFlKU2p5MF9GYXdoODhWM0pwbTV6d01oT1hRQlNqTTNndjBkamlZSVNpS3czenhZYjhiZndZRkpvenk4Sm44NEVCUUJEcVRKSUY1SkZESDc5VnhIdGxZcHNJLW9iN01VcHIyM0NjZFZkWU1kUjBlZ3RWb29wTlBtaTVKSW9Oc2N3YXJHM3FQV1ZkQ3U0M3F0aVhGdGhuWXRyQ21BX3dKX2N3eFVEcm5YZG96LUF3WkM4MHJJUQ?oc=5"
+    },
+    {
+      "id": "3c067d14e875a87726",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T14:40:49+02:00",
+      "source": "RTVE.es",
+      "title": "Un tribunal de Ávila investigará el incendio de Burgohondo por posibles delitos ambientales",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEFOWDVCejA5TFVfLTRxNi02VTJZeW9zLXlYNVZHZTNuZHJsR2toQkhVTHcwZlpGT0NmbmJnd1MwM011SHp1bjRBOS1lUko2R2pYTGhBbVk2NFRmclk5M2ZTd1Rhb3lDQU53dy0tVGlaMjc4dHJhbC1ST3FIZnZodzR5SFdhQlI2ZWE0X1J4VHlqaDZyaExXbEZ0UjFraHRLVWd2MS1hZDYza0tPVzFEd1FGc0xnX2VLYWZXMmNKVG5SZTlJNXZOUFlpS0U?oc=5"
+    },
     {
       "id": "252b848f10497c4581",
       "type": "news",
@@ -12,6 +36,18 @@
       "title": "Un juzgado de Ávila inicia las diligencias para investigar el origen del incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdUTE1ycEkza3hNZ2NybFA5SlE2SDlGZEtJTUtJaENtWGZsLVpVWTJ6QXBOcFNtSmlYb25UNFhnWmpQajc3c3djcEM3aUFlbks5QVRaU1c5XzNWVk9zOUxxMWljb3QxdkZSMU1ybWpsUFdaVEJCUHZWanQ2MkNpZUJFdS1mUms3b3c3NkxTbW1WOGpyQW4xcGZUcHlrUTQyZWFLeEJoOHF1MFAtdTNBNlZpWjdzNE5Ob3gyejhIMNIBxAFBVV95cUxONFNyNW8yNHRwdXJOZ1VkSjBxY3dzcjZuazRDNzhKc3h4LUZFVFlLRHkteE55N0VPX1FDdU9mVXlCV2pSQW1WcGV0WDJJdXgzUFB5cHI3eWoyMlBCVGxqZHlsemdtT05nbkhqc09hMTJKVVktdE9JRm9reU5SVENzN2RZZjhOYUYzYnRxWHozT0RGUzZXOW1kQXpSeEJ1dEtqeER4VVZMNThWQmxKc2M0OTNxZEowQUpSRTB3TXV5b1lvbXp4?oc=5"
+    },
+    {
+      "id": "610437d2786c9a1467",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T12:00:37+02:00",
+      "source": "Cadena SER",
+      "title": "Abren diligencias judiciales para investigar el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3pnUFFCcm9VYzdycHZ5Ym4xQ3AzaF91Uk01U3Z2dV84dlk1eG16XzRFaVVpS3B1WVFqYXBCVVlRYURmTzZkc1BOVEltUlh2SVJYdFptaDFYVlUxM0ZELXFGN2FRNU94WlVtM3AtTnRLZDRhVDhHd09NU2Jod3ZoZGRPdFV6SUVEUWFIUmJPQVdKcVBIR1Y3andYOUNTSEY2QWJOZG5vTUFtSGxMUkxYc2hUcmtONlV4ZEVTUFlVYmRZVW1xVVU00gHbAUFVX3lxTE9jUjJ6NjkxUHNJNjVUT1JVOGJYQlgzWkxZZi1ZcGxLaTk1ZjBJNm0xRThEeURmZEphQzQ4ZTFvTi1HdDlDVUVTRTNBLUw3RG1PaG50dDY5WXA3eWVjTkhzREM0VWF1eTB2ZUpGanlwN1FaUEE3WmVsTi14Q2M0VVdLZXJCZFRIVEFETGVJbS1NMTRsREtwdm5idzdMc2thcGxjV0lGZ2hJc2RoMFcybWVHVVdKb2toWEZSM3BVVFZDUC1SclhWQzE5VGdPaTFQUi1JYTFKdFl5R25IRQ?oc=5"
     },
     {
       "id": "b9169db3d96db3d0ae",
@@ -193,17 +229,17 @@
     }
   ],
   "checks": {
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 10
     },
     "direct_media": {
       "ok": true,
       "items": 6
-    },
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
