@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-09-03T18:43:58+02:00",
+  "generated_at": "2026-09-03T21:28:13+02:00",
   "items": [
     {
-      "id": "3570abee1677e18511",
+      "id": "b80bf49ce1f51f0bce",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-03T16:59:27+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Dos millones para recuperar las zonas afectadas por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGxfWExEdlVBX1dpbHFVeVlBUXFqelplN2VpQXJUbUE0ZVpQRkpUN0FBMzdwSnYySTdZY0E1cEtLaHZEWVJTeE9ZdG1adFlQMm9XM082MUlNYWMxVnVUNFpCV2U1bU5LT1lrYjdycXJ4UC1ENmNMb2JxVllHQklRTjhacWxWR0MzWFlGYXVPcHFUUk90eE4xdlpGQXlpUTdRSW9kdmVyZGJJQmI4RGh4LWstemRLcWlHSmZJYkZ3UQ?oc=5"
+    },
+    {
+      "id": "be4f54087721c16401",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-03T14:50:36+02:00",
-      "source": "20minutos.es",
-      "title": "El acceso a 12 montes de la Sierra Oeste se restringe 'sine die' por el riesgo de caída de un \"número crítico\" de árboles quemados",
+      "published": "2026-09-03T11:54:25+02:00",
+      "source": "La Razón",
+      "title": "Madrid restringe el acceso a doce montes de la Sierra Oeste afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT2NqQndjNmYxU1FjNG9yZnJBN2xmNnlybmdLY2NsdG9oSVpOU292TldSdEhrMXl1NHJiQnlrZS10V1UxbWhSVDNsZ1Zza0VkRDVtWDNOdnhaWkZBY241WU55RGdVakNYUWotcGhoRzRZNDRYak5CbmF4dGctOTBIWU1kN0pnbE1yYzQwN0FRX3luUGZtU2xxeWF6bUhCWk5pTkZjQTdXYU5rb0MwTXhIMTZiM3RlNmhqZFJ5YU56Wms4blN3eG9vbUZnS1FRU2t3U25wMmhpS2x4ZTBjcFZhWUNURTZ3dGppVm5oYXJn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONmxTX3h6cGk5MHRkM1o1N1E1MlEwX2RFSDRQRE1nX0JkUDEzNFJZZ3lFSjlZMjRncWtYV1NVS1lCSG82OER1YmVSN1pJRDFGTDFCUVc4SGYwYTl0cTJlUmpFcks0RE8wb0hjcE00UVRLNkJRbm1YamdoVTk5dkk1em9SaWFlN1ljcklWdjdMRnNVdm5FcjZQMUgzVUdzYk9pYmtvV3FyT0VlZzFUQVp1a1MwMURFbW8wVkR4T1RWajZIdUlFUzczUWlQY085aDNTcXNjS3A4TFAtU3NCX3NRWVFDR0F0UdIB5gFBVV95cUxONmxTX3h6cGk5MHRkM1o1N1E1MlEwX2RFSDRQRE1nX0JkUDEzNFJZZ3lFSjlZMjRncWtYV1NVS1lCSG82OER1YmVSN1pJRDFGTDFCUVc4SGYwYTl0cTJlUmpFcks0RE8wb0hjcE00UVRLNkJRbm1YamdoVTk5dkk1em9SaWFlN1ljcklWdjdMRnNVdm5FcjZQMUgzVUdzYk9pYmtvV3FyT0VlZzFUQVp1a1MwMURFbW8wVkR4T1RWajZIdUlFUzczUWlQY085aDNTcXNjS3A4TFAtU3NCX3NRWVFDR0F0UQ?oc=5"
     },
     {
       "id": "401300b32ec0fe335d",
@@ -34,20 +46,8 @@
       "published": "2026-09-03T09:21:57+02:00",
       "source": "Europa Press",
       "title": "Desalojadas más de 600 personas de un hotel de Toledo por un incendio en un cuadro eléctrico",
-      "summary": "Un total de 608 personas han debido ser desalojadas de un hotel de Toledo este jueves tras un incendio en...",
+      "summary": "Un total de 608 personas han debido ser desalojadas de un hotel de Toledo este jueves tras un incendio en un...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-desalojadas-mas-600-personas-hotel-toledo-incendio-cuadro-electrico-20260903084437.html"
-    },
-    {
-      "id": "1232c20fe84a49c29c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-02T22:16:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Las Cortes de Castilla y León proyectan la bandera de Ceuta en su fachada en señal de apoyo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeWk5Tjl0UDhIUW9RMW9OelBOUklDeWJhSHhUb1lvUTVrdk9Nb0piUHFUZUNIVHVyTXlkVkVtNWNWbVFhVlRnaWt4QnBFVk1wc0RKR0VRVmhGUEk3VTNrV3BXcnV2TkFKUGEtNlF6TW5iUjdzOGJJdFpmWTFsMU1zWElhN1dxZUNVQ0JHR3d3ODVGWndaUnJqR3Q2b1dZczZPay1zRFUzUTVlZk1LYjk3VmpDamZwS2IzLVdvTVBUdlNIU0pMWldpenZrNFhoX3JXU0E?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
