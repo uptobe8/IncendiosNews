@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T21:28:13+02:00",
+  "generated_at": "2026-09-03T23:51:16+02:00",
   "items": [
     {
-      "id": "b80bf49ce1f51f0bce",
+      "id": "f600bf867894142945",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-03T16:59:27+02:00",
+      "published": "2026-09-03T22:40:23+02:00",
       "source": "Tribuna de Ávila",
       "title": "Dos millones para recuperar las zonas afectadas por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -23,7 +23,7 @@
       "source": "La Razón",
       "title": "Madrid restringe el acceso a doce montes de la Sierra Oeste afectados por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONmxTX3h6cGk5MHRkM1o1N1E1MlEwX2RFSDRQRE1nX0JkUDEzNFJZZ3lFSjlZMjRncWtYV1NVS1lCSG82OER1YmVSN1pJRDFGTDFCUVc4SGYwYTl0cTJlUmpFcks0RE8wb0hjcE00UVRLNkJRbm1YamdoVTk5dkk1em9SaWFlN1ljcklWdjdMRnNVdm5FcjZQMUgzVUdzYk9pYmtvV3FyT0VlZzFUQVp1a1MwMURFbW8wVkR4T1RWajZIdUlFUzczUWlQY085aDNTcXNjS3A4TFAtU3NCX3NRWVFDR0F0UdIB5gFBVV95cUxONmxTX3h6cGk5MHRkM1o1N1E1MlEwX2RFSDRQRE1nX0JkUDEzNFJZZ3lFSjlZMjRncWtYV1NVS1lCSG82OER1YmVSN1pJRDFGTDFCUVc4SGYwYTl0cTJlUmpFcks0RE8wb0hjcE00UVRLNkJRbm1YamdoVTk5dkk1em9SaWFlN1ljcklWdjdMRnNVdm5FcjZQMUgzVUdzYk9pYmtvV3FyT0VlZzFUQVp1a1MwMURFbW8wVkR4T1RWajZIdUlFUzczUWlQY085aDNTcXNjS3A4TFAtU3NCX3NRWVFDR0F0UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZjZ0Z1dGUXcyRVdRT0gxaVVPengwSkFrOVNJdlZ2V3FZUXNNeU5MREg4dUFSb0FHRUJpcS0zUTA2ZUJfSGRDNHdnY1o5ZnFVLXpmQmdDbWk0dmRsWFdLR1pqMVlNaHc3WVBwQVNXRjM1MFFWRW43ZDBMZDROXzk2WkR3S1hlTEM3LWVWVGlRZllUX09BanVFckg0TUhEMTFGZk04dlVuOHl0SVdmY3AzSjIwaE94dmZNYUk4bHdxLWV5SUZVX21XcXRIUVkyUGVpN1HSAeYBQVVfeXFMTjZsU194enBpOTB0ZDNaNTdRNTJRMF9kRUg0UERNZ19CZFAxMzRSWWd5RUo5WTI0Z3FrWFdTVUtZQkhvNjhEdWJlUjdaSUQxRkwxQlFXOEhmMGE5dHEyZVJqRXJLNERPMG9IY3BNNFFUSzZCUW5tWGpnaFU5OXZJNXpvUmlhZTdZY3JJVnY3TEZzVXZuRXI2UDFIM1VHc2JPaWJrb1dxck9FZWcxVEFadWtTMDFERW1vMFZEeE9UVmo2SHVJRVM3M1FpUGNPOWgzU3FzY0twOExQLVNzQl9zUVlRQ0dBdFE?oc=5"
     },
     {
       "id": "401300b32ec0fe335d",
@@ -46,7 +46,7 @@
       "published": "2026-09-03T09:21:57+02:00",
       "source": "Europa Press",
       "title": "Desalojadas más de 600 personas de un hotel de Toledo por un incendio en un cuadro eléctrico",
-      "summary": "Un total de 608 personas han debido ser desalojadas de un hotel de Toledo este jueves tras un incendio en un...",
+      "summary": "Un total de 608 personas han debido ser desalojadas de un hotel de Toledo este jueves tras un incendio en...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-desalojadas-mas-600-personas-hotel-toledo-incendio-cuadro-electrico-20260903084437.html"
     },
     {
@@ -157,13 +157,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 2
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
