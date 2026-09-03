@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-03T05:26:45+02:00",
+  "generated_at": "2026-09-03T10:14:17+02:00",
   "items": [
+    {
+      "id": "8c7cfebe1dd865d8e6",
+      "type": "news",
+      "severity": "critical",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-09-03T09:21:57+02:00",
+      "source": "Europa Press",
+      "title": "Desalojadas más de 600 personas de un hotel de Toledo por un incendio en un cuadro eléctrico",
+      "summary": "Un total de 608 personas han debido ser desalojadas de un hotel de Toledo este jueves tras un incendio en...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-desalojadas-mas-600-personas-hotel-toledo-incendio-cuadro-electrico-20260903084437.html"
+    },
+    {
+      "id": "13bf9339e0718379bc",
+      "type": "news",
+      "severity": "critical",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-09-03T08:51:51+02:00",
+      "source": "Telemadrid",
+      "title": "Desalojan a 600 personas de forma preventiva tras registrarse un incendio en un hotel de Toledo",
+      "summary": "Un total de 608 personas alojadas en un hotel de Toledo han sido desalojadas de forma preventiva esta madrugada, durante alrededor de tres horas,...",
+      "url": "https://www.telemadrid.es/noticias/sociedad/Desalojan-a-600-personas-de-forma-preventiva-tras-registrarse-un-incendio-en-un-hotel-de-Toledo-0-2922307744--20260903084926.html"
+    },
+    {
+      "id": "5a086d6bfca315aec7",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-02T20:16:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Incoadas diligencias previas para investigar el incendio forestal de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW5BMS1WNFlKU2p5MF9GYXdoODhWM0pwbTV6d01oT1hRQlNqTTNndjBkamlZSVNpS3czenhZYjhiZndZRkpvenk4Sm44NEVCUUJEcVRKSUY1SkZESDc5VnhIdGxZcHNJLW9iN01VcHIyM0NjZFZkWU1kUjBlZ3RWb29wTlBtaTVKSW9Oc2N3YXJHM3FQV1ZkQ3U0M3F0aVhGdGhuWXRyQ21BX3dKX2N3eFVEcm5YZG96LUF3WkM4MHJJUQ?oc=5"
+    },
     {
       "id": "207371adfb6c33b13b",
       "type": "news",
@@ -38,18 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdUTE1ycEkza3hNZ2NybFA5SlE2SDlGZEtJTUtJaENtWGZsLVpVWTJ6QXBOcFNtSmlYb25UNFhnWmpQajc3c3djcEM3aUFlbks5QVRaU1c5XzNWVk9zOUxxMWljb3QxdkZSMU1ybWpsUFdaVEJCUHZWanQ2MkNpZUJFdS1mUms3b3c3NkxTbW1WOGpyQW4xcGZUcHlrUTQyZWFLeEJoOHF1MFAtdTNBNlZpWjdzNE5Ob3gyejhIMNIBxAFBVV95cUxONFNyNW8yNHRwdXJOZ1VkSjBxY3dzcjZuazRDNzhKc3h4LUZFVFlLRHkteE55N0VPX1FDdU9mVXlCV2pSQW1WcGV0WDJJdXgzUFB5cHI3eWoyMlBCVGxqZHlsemdtT05nbkhqc09hMTJKVVktdE9JRm9reU5SVENzN2RZZjhOYUYzYnRxWHozT0RGUzZXOW1kQXpSeEJ1dEtqeER4VVZMNThWQmxKc2M0OTNxZEowQUpSRTB3TXV5b1lvbXp4?oc=5"
     },
     {
-      "id": "14751aeabaafa35cb1",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T12:00:39+02:00",
-      "source": "Cadena SER",
-      "title": "Abren diligencias judiciales para investigar el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY1IyejY5MVBzSTY1VE9SVThiWEJYM1pMWWYtWXBsS2k5NWYwSTZtMUU4RHlEZmRKYUM0OGUxb04tR3Q5Q1VFU0UzQS1MN0RtT2hudHQ2OVlwN3llY05Ic0RDNFVhdXkwdmVKRmp5cDdRWlBBN1plbE4teENjNFVXS2VyQmRUSFRBRExlSW0tTTE0bERLcHZuYnc3THNrYXBsY1dJRmdoSXNkaDBXMm1lR1VXSm9raFhGUjNwVVRWQ1AtUnJYVkMxOVRnT2kxUFItSWExSnRZeUduSEXSAdsBQVVfeXFMT2NSMno2OTFQc0k2NVRPUlU4YlhCWDNaTFlmLVlwbEtpOTVmMEk2bTFFOER5RGZkSmFDNDhlMW9OLUd0OUNVRVNFM0EtTDdEbU9obnR0NjlZcDd5ZWNOSHNEQzRVYXV5MHZlSkZqeXA3UVpQQTdaZWxOLXhDYzRVV0tlckJkVEhUQURMZUltLU0xNGxES3B2bmJ3N0xza2FwbGNXSUZnaElzZGgwVzJtZUdVV0pva2hYRlIzcFVUVkNQLVJyWFZDMTlUZ09pMVBSLUlhMUp0WXlHbkhF?oc=5"
-    },
-    {
       "id": "b9169db3d96db3d0ae",
       "type": "news",
       "severity": "info",
@@ -84,18 +108,6 @@
       "title": "Un juzgado de Ávila abre diligencias para determinar la autoría del incendio de Burgohondo",
       "summary": "La Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Ávila ha incoado diligencias previas...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-amp-juzgado-avila-abre-diligencias-determinar-autoria-incendio-burgohondo-20260902112023.html"
-    },
-    {
-      "id": "d5f73492281548c55e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-02T06:07:01+02:00",
-      "source": "Madrid Actual",
-      "title": "30 millones en ayudas en vivienda para los afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2dzbXVNNC1SQ1doNGpuSHlobTMyWW8xaTNuREVFRUlsdnNzRURuNldNTktTQTFLZXdEd1UwWTlvVGRiZlVjcFNjZ1N1UGpNWDZGVlFfLW5zYVlrbWdCaGlRS0szWGhjNmE3UklzSEppNW1RZlZaVzcwV2dPYjNPX0lXYkJqMldqRzZodDRSRGxuU3FKMk5IdUQ1ZGpTaW1Za2hPeS1NQVZHbU9YTkIwWWV4REwxcUFFT0tuRGRORVpRSHAyNXl0dWsxVQ?oc=5"
     },
     {
       "id": "265b1c88fd4087070d",
@@ -223,11 +235,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 9
+      "items": 8
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 5
     }
   },
   "refresh_seconds": 300
