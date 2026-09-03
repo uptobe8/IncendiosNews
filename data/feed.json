@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-03T10:14:17+02:00",
+  "generated_at": "2026-09-03T14:51:31+02:00",
   "items": [
+    {
+      "id": "db79d36c67fef868ae",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-03T13:21:04+02:00",
+      "source": "Europa Press",
+      "title": "Bomberos de Madrid trabajan en la extinción de un incendio en una nave de trasteros en el Polígono de Marconi",
+      "summary": "Los Bomberos de Madrid trabajan en la extinción de un incendio declarado este mediodía en una nave de...",
+      "url": "https://www.europapress.es/madrid/noticia-bomberos-madrid-trabajan-extincion-incendio-nave-trasteros-poligono-marconi-20260903132104.html"
+    },
+    {
+      "id": "401300b32ec0fe335d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-03T11:34:00+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad restringe el acceso a doce montes de la Sierra Oeste mientras retira arbolado afectado por el incendio",
+      "summary": "La Comunidad de Madrid ha anunciado la restricción temporal de acceso y tránsito de visitantes, así como...",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-restringe-acceso-doce-montes-sierra-oeste-mientras-retira-arbolado-afectado-incendio-20260903113400.html"
+    },
     {
       "id": "8c7cfebe1dd865d8e6",
       "type": "news",
@@ -12,114 +36,6 @@
       "title": "Desalojadas más de 600 personas de un hotel de Toledo por un incendio en un cuadro eléctrico",
       "summary": "Un total de 608 personas han debido ser desalojadas de un hotel de Toledo este jueves tras un incendio en...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-desalojadas-mas-600-personas-hotel-toledo-incendio-cuadro-electrico-20260903084437.html"
-    },
-    {
-      "id": "13bf9339e0718379bc",
-      "type": "news",
-      "severity": "critical",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-09-03T08:51:51+02:00",
-      "source": "Telemadrid",
-      "title": "Desalojan a 600 personas de forma preventiva tras registrarse un incendio en un hotel de Toledo",
-      "summary": "Un total de 608 personas alojadas en un hotel de Toledo han sido desalojadas de forma preventiva esta madrugada, durante alrededor de tres horas,...",
-      "url": "https://www.telemadrid.es/noticias/sociedad/Desalojan-a-600-personas-de-forma-preventiva-tras-registrarse-un-incendio-en-un-hotel-de-Toledo-0-2922307744--20260903084926.html"
-    },
-    {
-      "id": "5a086d6bfca315aec7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T20:16:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Incoadas diligencias previas para investigar el incendio forestal de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW5BMS1WNFlKU2p5MF9GYXdoODhWM0pwbTV6d01oT1hRQlNqTTNndjBkamlZSVNpS3czenhZYjhiZndZRkpvenk4Sm44NEVCUUJEcVRKSUY1SkZESDc5VnhIdGxZcHNJLW9iN01VcHIyM0NjZFZkWU1kUjBlZ3RWb29wTlBtaTVKSW9Oc2N3YXJHM3FQV1ZkQ3U0M3F0aVhGdGhuWXRyQ21BX3dKX2N3eFVEcm5YZG96LUF3WkM4MHJJUQ?oc=5"
-    },
-    {
-      "id": "207371adfb6c33b13b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T14:40:49+02:00",
-      "source": "rtve.es",
-      "title": "Un tribunal de Ávila investigará el incendio de Burgohondo por posibles delitos ambientales",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUhrSzJCM0ZSNk9uZGVQQW5zbEJLV2RfT2ZJdjB0c2hPZVlFNXNnRUpKVHhJQ3ppMGg4Y2tjUTFxdktmdjFhbDVPZm8tb3BHSUVXZ3lBMFNKSUp1cV9JdEFXbmpyZGtST0V2c194UEdZa2Z4dktGX0NaaFlQYXRqbW5XTW9iMl91MTRET0h1dnhvcHQwZGpyYTFkV1dHbC1UT05vM1c1RkhCOXNDaVpXYS1UV0xSOF9HRFp4Y0pBZ1FtMnFnRjFwSnpJNF8?oc=5"
-    },
-    {
-      "id": "7e880ae7e6a5efedaa",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T13:20:18+02:00",
-      "source": "La Razón",
-      "title": "Un juzgado de Ávila inicia la investigación del origen del incendio forestal de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUmUyd1JjSFZGdjJuOTN5bTY2cFJPcEVhdWdGczYxVDlVRklaUG5nNU5YMXlQdEVOZm85MEU4aVhjTnRkczJnSnh5elRQRXZhMHlJQVg5UkpCdWZaSWl4RzBpWU9zM01yamlHd2t2cjBBc0lNaEE5OXp5eGgwTzNIN3p0UDNLa3lWMkRtSmwtYWg2RnZyOWZQV3B5ZV9xTkpKV214MXhGT2VFek9weGtFTmRPSlQ0V0t5TWk4bTdFMWczMU44c0FPbXdwYnJyd2Z0b2FVaF92MDlyRHdDb25OUkRqRmkyejQtOVhVOTdGX3Q3dGJC0gH0AUFVX3lxTE1SZTJ3UmNIVkZ2Mm45M3ltNjZwUk9wRWF1Z0ZzNjFUOVVGSVpQbmc1TlgxeVB0RU5mbzkwRThpWGNOdGRzMmdKeHl6VFBFdmEweUlBWDlSSkJ1ZlpJaXhHMGlZT3MzTXJqaUd3a3ZyMEFzSU1oQTk5enl4aDBPM0g3enRQM0treVYyRG1KbC1haDZGdnI5ZlBXcHllX3FOSkpXbXgxeEZPZUV6T3B4a0VOZE9KVDRXS3lNaThtN0UxZzMxTjhzQU9td3BicnJ3ZnRvYVVoX3YwOXJEd0Nvbk5SRGpGaTJ6NC05WFU5N0ZfdDd0YkI?oc=5"
-    },
-    {
-      "id": "252b848f10497c4581",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T12:13:03+02:00",
-      "source": "ABC",
-      "title": "Un juzgado de Ávila inicia las diligencias para investigar el origen del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTdUTE1ycEkza3hNZ2NybFA5SlE2SDlGZEtJTUtJaENtWGZsLVpVWTJ6QXBOcFNtSmlYb25UNFhnWmpQajc3c3djcEM3aUFlbks5QVRaU1c5XzNWVk9zOUxxMWljb3QxdkZSMU1ybWpsUFdaVEJCUHZWanQ2MkNpZUJFdS1mUms3b3c3NkxTbW1WOGpyQW4xcGZUcHlrUTQyZWFLeEJoOHF1MFAtdTNBNlZpWjdzNE5Ob3gyejhIMNIBxAFBVV95cUxONFNyNW8yNHRwdXJOZ1VkSjBxY3dzcjZuazRDNzhKc3h4LUZFVFlLRHkteE55N0VPX1FDdU9mVXlCV2pSQW1WcGV0WDJJdXgzUFB5cHI3eWoyMlBCVGxqZHlsemdtT05nbkhqc09hMTJKVVktdE9JRm9reU5SVENzN2RZZjhOYUYzYnRxWHozT0RGUzZXOW1kQXpSeEJ1dEtqeER4VVZMNThWQmxKc2M0OTNxZEowQUpSRTB3TXV5b1lvbXp4?oc=5"
-    },
-    {
-      "id": "b9169db3d96db3d0ae",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T11:46:18+02:00",
-      "source": "El Español",
-      "title": "El incendio de Burgohondo, bajo investigación judicial para esclarecer el origen y depurar responsabilidades",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZWp3SUh4c3JIOTBUNmpUUjlQbXprQXhmUXk4bnptWk5SYkg1aUk0QVhzelFQNU5fS21JT1RFY1hpLXJfVDg0d2s2Q0Q3YnAzNjFubE8wTkpIcHJkUUZaOHVadERpYlRXTDAxdUtvQ1l1VDdKYTR2UHpCMTNleTRsemtOWFc1RW9ZNlQ4LXBTYW5CT3VjMVMxN1BpOWxNLVNnaS1scXd5d1lpTzZjX1JEcVVvQkpsU2dZUU9rZmExSDc1TU9GTHluSURPemluVzd6MThRUG85Q2JlWHRWb1dOaE5hc1BNZUFjZms2X0RjQXpNdExsSV9oUjdBQ0V6clZuTV93UzlMaUdpdGZzTEpzTEQ0VTnSAZQCQVVfeXFMUGVqd0lIeHNySDkwVDZqVFI5UG16a0F4ZlF5OG56bVpOUmJINWlJNEFYc3pRUDVOX0ttSU9URWNYaS1yX1Q4NHdrNkNEN2JwMzYxbmxPME5KSHByZFFGWjh1WnREaWJUV0wwMXVLb0NZdVQ3SmE0dlB6QjEzZXk0bHprTlhXNUVvWTZUOC1wU2FuQk91YzFTMTdQaTlsTS1TZ2ktbHF3eXdZaU82Y19SRHFVb0JKbFNnWVFPa2ZhMUg3NU1PRkx5bklET3ppblc3ejE4UVBvOUNiZVh0Vm9XTmhOYXNQTWVBY2ZrNl9EY0F6TXRMbElfaFI3QUNFenJWbk1fd1M5TGlHaXRmc0xKc0xENFU5?oc=5"
-    },
-    {
-      "id": "6c4180c79f07cdb278",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-02T11:35:57+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad aprueba nuevas ayudas para pymes y autónomos afectados por el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjZ4SzNBelBNMmF5dFB5eUxTaUZOa2hYdHlNODRDdmZKaWJTLUhvRXJoeWNfVGV2LUtJWjdNNG9NeGRmYVluZVl1bWRPVjRkcHNFdHczZld6ZEhGN0RQdHptaFp6ckpUWlRBUDExRWl5eFNUUnlZV2M0bVZPR0J2RE5vZWNNZ1BJcUl1MThOYl9KTlF0TTU4SGFKdm51bVk1THdmVGQ4UTVxN3hORlRNLVBYc0R2YWE0NEJEZlZyVGhYVldiVGREMWpkbnB3OE1LSVBlTXpiQW4?oc=5"
-    },
-    {
-      "id": "9005382c4a069bf955",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-02T11:20:39+02:00",
-      "source": "Europa Press",
-      "title": "Un juzgado de Ávila abre diligencias para determinar la autoría del incendio de Burgohondo",
-      "summary": "La Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Ávila ha incoado diligencias previas...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-amp-juzgado-avila-abre-diligencias-determinar-autoria-incendio-burgohondo-20260902112023.html"
-    },
-    {
-      "id": "265b1c88fd4087070d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-02T06:02:49+02:00",
-      "source": "Europa Press",
-      "title": "La Comunidad tiene previsto aprobar hoy las ayudas en vivienda para afectados por el incendio de la Sierra Oeste",
-      "summary": "El Gobierno de la Comunidad de Madrid tiene previsto aprobar en el Consejo de Gobierno de este miércoles...",
-      "url": "https://www.europapress.es/madrid/noticia-comunidad-tiene-previsto-aprobar-hoy-ayudas-vivienda-afectados-incendio-sierra-oeste-20260902060249.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -235,11 +151,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 8
+      "items": 0
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 3
     }
   },
   "refresh_seconds": 300
