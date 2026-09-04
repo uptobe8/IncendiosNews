@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:57:18+02:00",
+  "generated_at": "2026-09-04T20:12:19+02:00",
   "items": [
     {
       "id": "614f297d2e0f9a7b20",
@@ -24,18 +24,6 @@
       "title": "Dos millones para recuperar las zonas afectadas por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGxfWExEdlVBX1dpbHFVeVlBUXFqelplN2VpQXJUbUE0ZVpQRkpUN0FBMzdwSnYySTdZY0E1cEtLaHZEWVJTeE9ZdG1adFlQMm9XM082MUlNYWMxVnVUNFpCV2U1bU5LT1lrYjdycXJ4UC1ENmNMb2JxVllHQklRTjhacWxWR0MzWFlGYXVPcHFUUk90eE4xdlpGQXlpUTdRSW9kdmVyZGJJQmI4RGh4LWstemRLcWlHSmZJYkZ3UQ?oc=5"
-    },
-    {
-      "id": "7f2d87c9d32f05e264",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-03T18:56:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Hundimiento de acequia provoca cortes en la M-305",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNV80Y0FVY3VyU3VZaWZKcWQyRUpFOVRKbVhMc3pJbGlRQUluU04wNUFvVWI3NUNwQURLUWkwUGh4YnUydVh6RVBMcnhVSGZ5MTgzSXFqNXJBbWhta3dVeTNOV3Zrbm5XLTk5Wl9RZXlXN3cyLWZ5eWI2ZkRtS21IaHc0N1JVU1VHbGxPNWhhaXd0SVAxeng1ajJka0V2eUgtMHVUSE16dFBGZi1nbDhxYkwzb0Zyem1ROFlrWm1WT25hanFxUmF0UnkydnJSN2poYW4xdzBn?oc=5"
     },
     {
       "id": "8c7cfebe1dd865d8e6",
@@ -157,13 +145,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
