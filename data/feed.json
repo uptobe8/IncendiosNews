@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:36:41+02:00",
+  "generated_at": "2026-09-04T03:21:09+02:00",
   "items": [
     {
       "id": "f600bf867894142945",
@@ -12,6 +12,18 @@
       "title": "Dos millones para recuperar las zonas afectadas por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGxfWExEdlVBX1dpbHFVeVlBUXFqelplN2VpQXJUbUE0ZVpQRkpUN0FBMzdwSnYySTdZY0E1cEtLaHZEWVJTeE9ZdG1adFlQMm9XM082MUlNYWMxVnVUNFpCV2U1bU5LT1lrYjdycXJ4UC1ENmNMb2JxVllHQklRTjhacWxWR0MzWFlGYXVPcHFUUk90eE4xdlpGQXlpUTdRSW9kdmVyZGJJQmI4RGh4LWstemRLcWlHSmZJYkZ3UQ?oc=5"
+    },
+    {
+      "id": "8ac1114d9b6fd14474",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-03T14:50:36+02:00",
+      "source": "20Minutos",
+      "title": "El acceso a 12 montes de la Sierra Oeste se restringe 'sine die' por el riesgo de caída de un \"número crítico\" de árboles quemados",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT2NqQndjNmYxU1FjNG9yZnJBN2xmNnlybmdLY2NsdG9oSVpOU292TldSdEhrMXl1NHJiQnlrZS10V1UxbWhSVDNsZ1Zza0VkRDVtWDNOdnhaWkZBY241WU55RGdVakNYUWotcGhoRzRZNDRYak5CbmF4dGctOTBIWU1kN0pnbE1yYzQwN0FRX3luUGZtU2xxeWF6bUhCWk5pTkZjQTdXYU5rb0MwTXhIMTZiM3RlNmhqZFJ5YU56Wms4blN3eG9vbUZnS1FRU2t3U25wMmhpS2x4ZTBjcFZhWUNURTZ3dGppVm5oYXJn?oc=5"
     },
     {
       "id": "be4f54087721c16401",
@@ -163,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
