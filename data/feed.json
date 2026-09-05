@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:34:12+02:00",
+  "generated_at": "2026-09-05T02:21:52+02:00",
   "items": [
     {
       "id": "614f297d2e0f9a7b20",
@@ -12,18 +12,6 @@
       "title": "Madrid recuerda a sus diez bomberos fallecidos hace 39 años en el incendio de Almacenes Arias",
       "summary": "La ciudad de Madrid ha rendido homenaje este viernes a los diez bomberos que perdieron la vida hace 39...",
       "url": "https://www.europapress.es/madrid/noticia-madrid-recuerda-diez-bomberos-fallecidos-hace-39-anos-incendio-almacenes-arias-20260904130035.html"
-    },
-    {
-      "id": "68684af8f955a56298",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-04T01:39:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Dos millones para recuperar las zonas afectadas por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGxfWExEdlVBX1dpbHFVeVlBUXFqelplN2VpQXJUbUE0ZVpQRkpUN0FBMzdwSnYySTdZY0E1cEtLaHZEWVJTeE9ZdG1adFlQMm9XM082MUlNYWMxVnVUNFpCV2U1bU5LT1lrYjdycXJ4UC1ENmNMb2JxVllHQklRTjhacWxWR0MzWFlGYXVPcHFUUk90eE4xdlpGQXlpUTdRSW9kdmVyZGJJQmI4RGh4LWstemRLcWlHSmZJYkZ3UQ?oc=5"
     },
     {
       "id": "8c7cfebe1dd865d8e6",
@@ -145,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 0
     },
     "direct_media": {
       "ok": true,
