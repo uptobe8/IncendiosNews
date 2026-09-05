@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-05T10:38:02+02:00",
+  "generated_at": "2026-09-05T14:03:50+02:00",
   "items": [
-    {
-      "id": "614f297d2e0f9a7b20",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-04T13:00:35+02:00",
-      "source": "Europa Press",
-      "title": "Madrid recuerda a sus diez bomberos fallecidos hace 39 años en el incendio de Almacenes Arias",
-      "summary": "La ciudad de Madrid ha rendido homenaje este viernes a los diez bomberos que perdieron la vida hace 39...",
-      "url": "https://www.europapress.es/madrid/noticia-madrid-recuerda-diez-bomberos-fallecidos-hace-39-anos-incendio-almacenes-arias-20260904130035.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -121,17 +109,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 0
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
