@@ -1,41 +1,29 @@
 {
-  "generated_at": "2026-09-06T18:01:18+02:00",
+  "generated_at": "2026-09-06T20:13:41+02:00",
   "items": [
     {
-      "id": "d191439dde982a956d",
+      "id": "5ad98d4d3ea1b440f3",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-06T17:17:11+02:00",
+      "published": "2026-09-06T19:51:16+02:00",
       "source": "Tribuna de Ávila",
       "title": "La Junta pide al Gobierno que apoye la restauración por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUQzTjh1TGFjemlabjVtVWN1N3RkYjN5WUVFQUd1N0txaUZTd3kwZjZpeUlERkdjNHpQdWNNTXZvRURWeGdXZG1mSnJiLVRITHc2TnZQVTRRY2ViVUYtcXNHOXVrMVE3R2xkQkZkVm90R1JPQ1lJMmR3cDg4YUd0TE8tdE9xVUg1Rm9LcVgzSDVfdjl3QUMzbGUxZGFGR3pKcTBDNjZGUTd3d2JGOEE3SXBYMnhqREFwY1oyakJSR0FFX3hw?oc=5"
     },
     {
-      "id": "7c492de8de834a7ca9",
+      "id": "f42e405e5c3f2e5034",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-06T17:10:57+02:00",
-      "source": "telemadrid.es",
+      "source": "Telemadrid",
       "title": "Madrid investiga cómo recuperar los terrenos agrícolas afectados por incendios, erosión e inundaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWnlkTHVIMGhWWlRNUlFWWE1wemJhd0hlUEZpbFAzcGZYOE0xWGxnR29zTjM2OTZQOXlrckM0SG14T3FiM1BNTm93ajFCQXVkNXl2cTlkZWVHamM4VEc4bm5ybDdLSEJFbWRwMkdXSW9WVHNOX1Y4R0s0NFl5RE1iOW5LUWh1cXoyT2lhX1Z3QXVnbkd1SHRsQXRwWFVUbHRMczM4bHYxSzhxMGJrb2p2eGtfSU9tV0lmT011T1BPYWJVNkFjQk8zdkVvSmRWbks5dXNJcGZBN3lMWmExRFZTOThzRXc4YV9Odk9pWEVSd0dSSEVqY2NfQVVyS2lfdElnVjJxZ0ZqdjjSAY4CQVVfeXFMTWYtY1RqVFJLeHhaNGZSdzM5T19rT3k1a01xcFBRMTY3LUdyYWl4bDJyNWRZcS1CckNRa2RqN2c3bnpKQzJ1bHRzdUlqNlBGR19FSkF6RElXTC12a2NSQUZNZ3hpcHN3NGQwamNQM3llUUF6V1Q2Ykpqak1UMkJPRWZfX0JIaHliV3lFN1J3U0h1cmxMZFVoNHZtTmd6VVZUUUtSS1gzcHZULXl0MWQ5bTFaLVZqT1RDUjgyT25zSFBHMXdfVEZjNWNyS1k0OG9QVHJOMHl2S2tyYk9OeGlBY25OWWI4WTlVMnhsNE1Tc2E2aVlrMWtpTVJDandRRVhjVlVSX19OcGZVVlBubjlB?oc=5"
-    },
-    {
-      "id": "175f131229e8564c81",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-06T14:48:13+02:00",
-      "source": "Europa Press",
-      "title": "Diez dotaciones de Bomberos de Madrid extinguen el incendio en un garaje en Chamartín sin víctimas",
-      "summary": "Diez dotaciones de Bomberos del Ayuntamiento de Madrid han extinguido un incendio originado este domingo...",
-      "url": "https://www.europapress.es/madrid/noticia-diez-dotaciones-bomberos-madrid-extinguen-incendio-garaje-chamartin-victimas-20260906144813.html"
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZi1jVGpUUkt4eFo0ZlJ3MzlPX2tPeTVrTXFwUFExNjctR3JhaXhsMnI1ZFlxLUJyQ1FrZGo3ZzduekpDMnVsdHN1SWo2UEZHX0VKQXpESVdMLXZrY1JBRk1neGlwc3c0ZDBqY1AzeWVRQXpXVDZiSmpqTVQyQk9FZl9fQkhoeWJXeUU3UndTSHVybExkVWg0dm1OZ3pVVlRRS1JLWDNwdlQteXQxZDltMVotVmpPVENSODJPbnNIUEcxd19URmM1Y3JLWTQ4b1BUck4weXZLa3JiT054aUFjbk5ZYjhZOVUyeGw0TVNzYTZpWWsxa2lNUkNqd1FFWGNWVVJfX05wZlVWUG5uOUHSAY4CQVVfeXFMTWYtY1RqVFJLeHhaNGZSdzM5T19rT3k1a01xcFBRMTY3LUdyYWl4bDJyNWRZcS1CckNRa2RqN2c3bnpKQzJ1bHRzdUlqNlBGR19FSkF6RElXTC12a2NSQUZNZ3hpcHN3NGQwamNQM3llUUF6V1Q2Ykpqak1UMkJPRWZfX0JIaHliV3lFN1J3U0h1cmxMZFVoNHZtTmd6VVZUUUtSS1gzcHZULXl0MWQ5bTFaLVZqT1RDUjgyT25zSFBHMXdfVEZjNWNyS1k0OG9QVHJOMHl2S2tyYk9OeGlBY25OWWI4WTlVMnhsNE1Tc2E2aVlrMWtpTVJDandRRVhjVlVSX19OcGZVVlBubjlB?oc=5"
     },
     {
       "id": "7152f0549bae4f07dd",
@@ -203,7 +191,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
