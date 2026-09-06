@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-06T11:20:20+02:00",
+  "generated_at": "2026-09-06T14:56:42+02:00",
   "items": [
+    {
+      "id": "7152f0549bae4f07dd",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-06T14:00:16+02:00",
+      "source": "La Razón",
+      "title": "La Junta exige al Gobierno que concrete su apoyo a la restauración por el incendio de Burgohondo, Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSHotbi1RQlJMZlVzTjJuSWctY3ZMMzMtQmlHSkdXYzh4Ukt0M2JfQXRhQlY4VDRUVHZITmJSUFJJaGtFTHBfeUZ4OHA2QTdnWWFmVWFUMFE4V2hMZWpwc2pJLTNNczRpMkphUXN0dWZpWDU0VEFLWi1oVTdmNG9xNHJRRGo2eHVEWlk3NlZlNGx0M1k0RUZPdmxieE8yVW8zbHJVbXRieE5EVFAtZTZaWFJkR3RlN0xtaVJqRDlsUF9OVzg0TFd4aV8wZzJZOUN1Y2ZMMlA2czNDWUREbHViaVN6aFZkMnlyOEFIcnNSQy0wZ2lwQ1Z6OVBFLThYOFXSAf8BQVVfeXFMT0h6LW4tUUJSTGZVc04ybklnLWN2TDMzLUJpR0pHV2M4eFJLdDNiX0F0YUJWOFQ0VFR2SE5iUlBSSWhrRUxwX3lGeDhwNkE3Z1lhZlVhVDBROFdoTGVqcHNqSS0zTXM0aTJKYVFzdHVmaVg1NFRBS1otaFU3ZjRvcTRyUURqNnh1RFpZNzZWZTRsdDNZNEVGT3ZsYnhPMlVvM2xyVW10YnhORFRQLWU2WlhSZEd0ZTdMbWlSakQ5bFBfTlc4NExXeGlfMGcyWTlDdWNmTDJQNnMzQ1lERGx1YmlTemhWZDJ5cjhBSHJzUkMtMGdpcENWejlQRS04WDhV?oc=5"
+    },
+    {
+      "id": "3ec4524761d51d2ca6",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-06T13:01:21+02:00",
+      "source": "Europa Press",
+      "title": "La Junta pide al Miteco que \"concrete\" su apoyo a la restauración tras el incendio de Burgohondo (Ávila)",
+      "summary": "La Junta de Castilla y León ha solicitado al Ministerio para la Transición Ecológica y el Reto...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-pide-miteco-concrete-apoyo-restauracion-incendio-burgohondo-avila-20260906113122.html"
+    },
+    {
+      "id": "28aa65245dbc3ed191",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-06T12:21:13+02:00",
+      "source": "ABC",
+      "title": "Corral pide al Ministerio que «concrete» su apoyo tras el incendio de Burgohondo (Ávila)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGpVc2lDOUVUT2JyRTJDa2ZfRExfRnNoaXFIQWF4bWV0bll5cDh1bHhQaE4tcXFWLUJ2UUw1cW9pTkZkdkFIMWVMSmZzUnJUa0VuNEdrS2RjT0U2eXZfVmIzUG1kMHRzZ0xCMEZJRXJ5Zzg4X0VPcVFGQi1EM1JYdmNSRXc4eTg0UmV5LV9DRHV5SDBhUXhtSDVkaHkxSmZWQ1RWMkxMY204eDM4NWk1Nm91YnnSAboBQVVfeXFMUFp2SFRwLTU5cmhFaFJlMURwR0VtUWU5bXJmZDlXNkJnUjAwNmU3aU91LTJkaHdIbnRHcDNpV3hFaW41UV8zOHdkX1l2RWc2bUpOTXJnMmI3dlBObWVmYVUxS0ZyTEhZc2FkNUlqYXFHT3dnR0ZranNvckhvUTMyTWNodUtWdHBTc2hDSjk2U0ltbFI1TDE5Ul9hZWNrZW9ZU1htZkJHRXBNb1hQTVJWWDRsbkFweHBXODhn?oc=5"
+    },
+    {
+      "id": "a5ee7efb191f8c6c7e",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-09-06T12:02:06+02:00",
+      "source": "Europa Press",
+      "title": "Investigan la agresión con arma de fuego a un hombre de 22 años en Velada (Toledo), que se encuentra estable",
+      "summary": "La Guardia Civil ha abierto una investigación para identificar al presunto autor de una agresión con arma...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-investigan-agresion-arma-fuego-hombre-22-anos-velada-toledo-encuentra-estable-20260906120206.html"
+    },
+    {
+      "id": "dc79ca9820fc3aaecb",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-06T11:17:11+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta pide al Gobierno que apoye la restauración por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUQzTjh1TGFjemlabjVtVWN1N3RkYjN5WUVFQUd1N0txaUZTd3kwZjZpeUlERkdjNHpQdWNNTXZvRURWeGdXZG1mSnJiLVRITHc2TnZQVTRRY2ViVUYtcXNHOXVrMVE3R2xkQkZkVm90R1JPQ1lJMmR3cDg4YUd0TE8tdE9xVUg1Rm9LcVgzSDVfdjl3QUMzbGUxZGFGR3pKcTBDNjZGUTd3d2JGOEE3SXBYMnhqREFwY1oyakJSR0FFX3hw?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 2
     }
   },
   "refresh_seconds": 300
