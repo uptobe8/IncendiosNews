@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-06T22:27:24+02:00",
+  "generated_at": "2026-09-07T00:14:13+02:00",
   "items": [
-    {
-      "id": "5ad98d4d3ea1b440f3",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-06T19:51:16+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "La Junta pide al Gobierno que apoye la restauración por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUQzTjh1TGFjemlabjVtVWN1N3RkYjN5WUVFQUd1N0txaUZTd3kwZjZpeUlERkdjNHpQdWNNTXZvRURWeGdXZG1mSnJiLVRITHc2TnZQVTRRY2ViVUYtcXNHOXVrMVE3R2xkQkZkVm90R1JPQ1lJMmR3cDg4YUd0TE8tdE9xVUg1Rm9LcVgzSDVfdjl3QUMzbGUxZGFGR3pKcTBDNjZGUTd3d2JGOEE3SXBYMnhqREFwY1oyakJSR0FFX3hw?oc=5"
-    },
     {
       "id": "e445b797e774a51446",
       "type": "news",
@@ -26,13 +14,13 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGpVc2lDOUVUT2JyRTJDa2ZfRExfRnNoaXFIQWF4bWV0bll5cDh1bHhQaE4tcXFWLUJ2UUw1cW9pTkZkdkFIMWVMSmZzUnJUa0VuNEdrS2RjT0U2eXZfVmIzUG1kMHRzZ0xCMEZJRXJ5Zzg4X0VPcVFGQi1EM1JYdmNSRXc4eTg0UmV5LV9DRHV5SDBhUXhtSDVkaHkxSmZWQ1RWMkxMY204eDM4NWk1Nm91YnnSAboBQVVfeXFMUFp2SFRwLTU5cmhFaFJlMURwR0VtUWU5bXJmZDlXNkJnUjAwNmU3aU91LTJkaHdIbnRHcDNpV3hFaW41UV8zOHdkX1l2RWc2bUpOTXJnMmI3dlBObWVmYVUxS0ZyTEhZc2FkNUlqYXFHT3dnR0ZranNvckhvUTMyTWNodUtWdHBTc2hDSjk2U0ltbFI1TDE5Ul9hZWNrZW9ZU1htZkJHRXBNb1hQTVJWWDRsbkFweHBXODhn?oc=5"
     },
     {
-      "id": "f42e405e5c3f2e5034",
+      "id": "7c492de8de834a7ca9",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-06T17:10:57+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Madrid investiga cómo recuperar los terrenos agrícolas afectados por incendios, erosión e inundaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWnlkTHVIMGhWWlRNUlFWWE1wemJhd0hlUEZpbFAzcGZYOE0xWGxnR29zTjM2OTZQOXlrckM0SG14T3FiM1BNTm93ajFCQXVkNXl2cTlkZWVHamM4VEc4bm5ybDdLSEJFbWRwMkdXSW9WVHNOX1Y4R0s0NFl5RE1iOW5LUWh1cXoyT2lhX1Z3QXVnbkd1SHRsQXRwWFVUbHRMczM4bHYxSzhxMGJrb2p2eGtfSU9tV0lmT011T1BPYWJVNkFjQk8zdkVvSmRWbks5dXNJcGZBN3lMWmExRFZTOThzRXc4YV9Odk9pWEVSd0dSSEVqY2NfQVVyS2lfdElnVjJxZ0ZqdjjSAY4CQVVfeXFMTWYtY1RqVFJLeHhaNGZSdzM5T19rT3k1a01xcFBRMTY3LUdyYWl4bDJyNWRZcS1CckNRa2RqN2c3bnpKQzJ1bHRzdUlqNlBGR19FSkF6RElXTC12a2NSQUZNZ3hpcHN3NGQwamNQM3llUUF6V1Q2Ykpqak1UMkJPRWZfX0JIaHliV3lFN1J3U0h1cmxMZFVoNHZtTmd6VVZUUUtSS1gzcHZULXl0MWQ5bTFaLVZqT1RDUjgyT25zSFBHMXdfVEZjNWNyS1k0OG9QVHJOMHl2S2tyYk9OeGlBY25OWWI4WTlVMnhsNE1Tc2E2aVlrMWtpTVJDandRRVhjVlVSX19OcGZVVlBubjlB?oc=5"
@@ -187,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
