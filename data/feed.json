@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-07T11:23:03+02:00",
+  "generated_at": "2026-09-07T17:08:02+02:00",
   "items": [
+    {
+      "id": "84ca2657dba4b9ef95",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Navas del Rey",
+      "published": "2026-09-07T16:51:35+02:00",
+      "source": "Telemadrid",
+      "title": "Navas del Rey celebra sus fiestas con encierros tras el azote de los incendios forestales",
+      "summary": "Navas del Rey celebra estos días sus fiestas patronales en honor al Cristo del Amor. Tras un verano marcado por los incendios forestales, están...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Navas-del-Rey-celebra-sus-fiestas-con-encierros-tras-el-azote-de-los-incendios-forestales-2-2923527651--20260907045134.html"
+    },
+    {
+      "id": "eb186165aed5628801",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-07T15:30:08+02:00",
+      "source": "Cadena SER",
+      "title": "La Diputación de Ávila destinará 3 millones de euros a la dinamización económica de las comarcas afectadas por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVXRHcDdGajhCa2FUazBYWTNURWZMemhKcndNNzRCbVQ4aGd3YXlwUVRkOUJ6OHhCUmZCazZ4amJtcHpYY3o5dkkyR1JtSjhsVVI4QUw1TzM5SFUwRnVVd1gzLUtxcHJGQ3pRYVRqRnBPaW1LaUN1QXZadjNnemlWb2xmTkpIRU1iVmxaMWktNEstWDJtYnk3VEFnaVB0dFh4ZVFiTG5SWlVkRzZoT3hwV2hlR2tPMWJKcjdoSWRnNnVOZDFzYUVxVXlTNmJmcEh2N0tQeDFhZ1BJWlhKTjZXbzFaQkdBUDNpbkVoZEx1Z3ZENS1Wc3BINjB2S2dqQllPRUd2TjZqZm5VU1RQYWdSbFp0OVc4V09wdVpwMFVPa9IBswJBVV95cUxOMmhkU1Eycm04VEVvWWhCb0QtSkRvckJuV29mMFFYR2paTlVSNXkzd3BXM202RGJpSGlUVmp1SHRHaFgzR0hPakxBVGNCSUhvVVEwb293RmpGMVZNVFRYbThVZWtZRTc1SlVHNWlPdXBXWDZwSXRLNlNMWDZvV1JXcHY3YWkweXU4djRCOVNjU1BITGpnYzFNdU9oNTYyUEpvSmdwdVk1Ylk5TVVOa2RUV3I1emZJVHVYNmRyZS1DUHZJbm5vQll0T2xEdklxazJka1NqTGpaSzFJbkRZc2R6X21NUzFsc0M0UlBvZmR3bmx4bTRIdlVpRy1fM0dlMTYwRG84MUVQd083VWlSbUp0QUlFLWgtN2xQODgwODZkdWgxSEhfbmlTVDUyS3FBVVo0RVVv?oc=5"
+    },
+    {
+      "id": "e6d0bca8f170eee04d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-07T11:38:38+02:00",
+      "source": "Europa Press",
+      "title": "El Corte Inglés se convierte en patrocinador oficial de Mercedes-Benz Fashion Week Madrid",
+      "summary": "Mercedes-Benz Fashion Week Madrid, la pasarela que se celebra del 14 al 19 de septiembre organizada por...",
+      "url": "https://www.europapress.es/madrid/ifema-00444/noticia-corte-ingles-convierte-patrocinador-oficial-mercedes-benz-fashion-week-madrid-20260907113838.html"
+    },
     {
       "id": "09d78573128a0ae06d",
       "type": "news",
@@ -12,6 +48,18 @@
       "title": "Tres aves rapaces recuperadas y 128 animales muertos: la herida abierta del incendio de la Sierra Oeste de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lV0p5S2JOTE8tYlEycWZEQy15TUN5aDY1QVdHbkJhWkR4LXFTamtzRWxndElXQjAzbU5ySEdWMVdSUDhZRnc5Y21DSzRKMUFPdXJYd0s1NWxkdzdITUxXTlRVaFlnRktwaGpmZE1teEVQS2Q1eW1lZ0Zn0gF6QVVfeXFMTUtSRkhzeWV0bmYxaGFYclhwenBGQVpPVC1qbU55cF9aSHVpMFFKMmdCUlkycnhhX20td2RhWmMzSnJ0dHozTE5mUm9LRGZ1QVR2UlMwY0tYMHdLMDlTdHdlcEl6a3RNTzJjMWEzY20xUTUxNTZZY3lnU3c?oc=5"
+    },
+    {
+      "id": "5c83c120f68a4703bc",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-06T20:14:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta pide al Gobierno que apoye la restauración por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUQzTjh1TGFjemlabjVtVWN1N3RkYjN5WUVFQUd1N0txaUZTd3kwZjZpeUlERkdjNHpQdWNNTXZvRURWeGdXZG1mSnJiLVRITHc2TnZQVTRRY2ViVUYtcXNHOXVrMVE3R2xkQkZkVm90R1JPQ1lJMmR3cDg4YUd0TE8tdE9xVUg1Rm9LcVgzSDVfdjl3QUMzbGUxZGFGR3pKcTBDNjZGUTd3d2JGOEE3SXBYMnhqREFwY1oyakJSR0FFX3hw?oc=5"
     },
     {
       "id": "e445b797e774a51446",
@@ -36,30 +84,6 @@
       "title": "Madrid investiga cómo recuperar los terrenos agrícolas afectados por incendios, erosión e inundaciones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWnlkTHVIMGhWWlRNUlFWWE1wemJhd0hlUEZpbFAzcGZYOE0xWGxnR29zTjM2OTZQOXlrckM0SG14T3FiM1BNTm93ajFCQXVkNXl2cTlkZWVHamM4VEc4bm5ybDdLSEJFbWRwMkdXSW9WVHNOX1Y4R0s0NFl5RE1iOW5LUWh1cXoyT2lhX1Z3QXVnbkd1SHRsQXRwWFVUbHRMczM4bHYxSzhxMGJrb2p2eGtfSU9tV0lmT011T1BPYWJVNkFjQk8zdkVvSmRWbks5dXNJcGZBN3lMWmExRFZTOThzRXc4YV9Odk9pWEVSd0dSSEVqY2NfQVVyS2lfdElnVjJxZ0ZqdjjSAY4CQVVfeXFMTWYtY1RqVFJLeHhaNGZSdzM5T19rT3k1a01xcFBRMTY3LUdyYWl4bDJyNWRZcS1CckNRa2RqN2c3bnpKQzJ1bHRzdUlqNlBGR19FSkF6RElXTC12a2NSQUZNZ3hpcHN3NGQwamNQM3llUUF6V1Q2Ykpqak1UMkJPRWZfX0JIaHliV3lFN1J3U0h1cmxMZFVoNHZtTmd6VVZUUUtSS1gzcHZULXl0MWQ5bTFaLVZqT1RDUjgyT25zSFBHMXdfVEZjNWNyS1k0OG9QVHJOMHl2S2tyYk9OeGlBY25OWWI4WTlVMnhsNE1Tc2E2aVlrMWtpTVJDandRRVhjVlVSX19OcGZVVlBubjlB?oc=5"
-    },
-    {
-      "id": "7152f0549bae4f07dd",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-06T14:00:16+02:00",
-      "source": "La Razón",
-      "title": "La Junta exige al Gobierno que concrete su apoyo a la restauración por el incendio de Burgohondo, Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbmVucnV6TTJ1blVwVzhvQUZaUFlhS1VxNURUb01VdW5NeFR2cjVLR0N2M0hDTW5vYU9VWmNrZE5xVFh2UFBBYkFocWdHRlpxcHFMSXc4eGtmaHRrcERadVpQdlVtTlVBd1ZxbUtCSVF2MVY5WVJsRVdRQlJPVzBtSGw0a3k1cG10UXFpVnFicU9ycnEzeVFqN1dnQjMwbFNIend2RERIY2I1WHZwY3pnaTFiZUF2QjJvUndYVU0xYURTSGxsY3NvbTc2RGdlQ3R1cUdQMjFqQXFpU2QzN19wV012OVN0Mi1OOU9v0gH_AUFVX3lxTE9Iei1uLVFCUkxmVXNOMm5JZy1jdkwzMy1CaUdKR1djOHhSS3QzYl9BdGFCVjhUNFRUdkhOYlJQUkloa0VMcF95Rng4cDZBN2dZYWZVYVQwUThXaExlanBzakktM01zNGkySmFRc3R1ZmlYNTRUQUtaLWhVN2Y0b3E0clFEajZ4dURaWTc2VmU0bHQzWTRFRk92bGJ4TzJVbzNsclVtdGJ4TkRUUC1lNlpYUmRHdGU3TG1pUmpEOWxQX05XODRMV3hpXzBnMlk5Q3VjZkwyUDZzM0NZRERsdWJpU3poVmQyeXI4QUhyc1JDLTBnaXBDVno5UEUtOFg4VQ?oc=5"
-    },
-    {
-      "id": "3ec4524761d51d2ca6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-06T13:01:21+02:00",
-      "source": "Europa Press",
-      "title": "La Junta pide al Miteco que \"concrete\" su apoyo a la restauración tras el incendio de Burgohondo (Ávila)",
-      "summary": "La Junta de Castilla y León ha solicitado al Ministerio para la Transición Ecológica y el Reto...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-pide-miteco-concrete-apoyo-restauracion-incendio-burgohondo-avila-20260906113122.html"
     },
     {
       "id": "a5ee7efb191f8c6c7e",
@@ -181,17 +205,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 5
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 4
-    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 3
     }
   },
   "refresh_seconds": 300
