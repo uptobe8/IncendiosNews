@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:00:01+02:00",
+  "generated_at": "2026-09-08T02:10:43+02:00",
   "items": [
     {
       "id": "b97bf04eb2f7376c9c",
@@ -36,18 +36,6 @@
       "title": "El Corte Inglés se convierte en patrocinador oficial de Mercedes-Benz Fashion Week Madrid",
       "summary": "Mercedes-Benz Fashion Week Madrid, la pasarela que se celebra del 14 al 19 de septiembre organizada por...",
       "url": "https://www.europapress.es/madrid/ifema-00444/noticia-corte-ingles-convierte-patrocinador-oficial-mercedes-benz-fashion-week-madrid-20260907113838.html"
-    },
-    {
-      "id": "09d78573128a0ae06d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-07T00:11:00+02:00",
-      "source": "El Mundo",
-      "title": "Tres aves rapaces recuperadas y 128 animales muertos: la herida abierta del incendio de la Sierra Oeste de este verano",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lV0p5S2JOTE8tYlEycWZEQy15TUN5aDY1QVdHbkJhWkR4LXFTamtzRWxndElXQjAzbU5ySEdWMVdSUDhZRnc5Y21DSzRKMUFPdXJYd0s1NWxkdzdITUxXTlRVaFlnRktwaGpmZE1teEVQS2Q1eW1lZ0Zn0gF6QVVfeXFMTUtSRkhzeWV0bmYxaGFYclhwenBGQVpPVC1qbU55cF9aSHVpMFFKMmdCUlkycnhhX20td2RhWmMzSnJ0dHozTE5mUm9LRGZ1QVR2UlMwY0tYMHdLMDlTdHdlcEl6a3RNTzJjMWEzY20xUTUxNTZZY3lnU3c?oc=5"
     },
     {
       "id": "a5ee7efb191f8c6c7e",
@@ -175,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "direct_media": {
       "ok": true,
