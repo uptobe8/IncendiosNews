@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-08T06:36:09+02:00",
+  "generated_at": "2026-09-08T11:04:35+02:00",
   "items": [
+    {
+      "id": "36af35e5e625940ce1",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-08T10:35:28+02:00",
+      "source": "Telemadrid",
+      "title": "La Sierra Oeste vuelve a las aulas con total normalidad tras el incendio de este verano",
+      "summary": "Los estudiantes de la Sierra Oeste regresan a las aulas con total normalidad tras el incendio que sufrió esta comarca de la Comunidad de Madrid...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/La-Sierra-Oeste-vuelve-a-las-aulas-con-total-normalidad-tras-el-incendio-de-este-verano-2-2923827592--20260908100002.html"
+    },
     {
       "id": "b97bf04eb2f7376c9c",
       "type": "news",
@@ -36,18 +48,6 @@
       "title": "El Corte Inglés se convierte en patrocinador oficial de Mercedes-Benz Fashion Week Madrid",
       "summary": "Mercedes-Benz Fashion Week Madrid, la pasarela que se celebra del 14 al 19 de septiembre organizada por...",
       "url": "https://www.europapress.es/madrid/ifema-00444/noticia-corte-ingles-convierte-patrocinador-oficial-mercedes-benz-fashion-week-madrid-20260907113838.html"
-    },
-    {
-      "id": "a5ee7efb191f8c6c7e",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-09-06T12:02:06+02:00",
-      "source": "Europa Press",
-      "title": "Investigan la agresión con arma de fuego a un hombre de 22 años en Velada (Toledo), que se encuentra estable",
-      "summary": "La Guardia Civil ha abierto una investigación para identificar al presunto autor de una agresión con arma...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-investigan-agresion-arma-fuego-hombre-22-anos-velada-toledo-encuentra-estable-20260906120206.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
