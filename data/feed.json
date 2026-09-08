@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-08T22:05:54+02:00",
+  "generated_at": "2026-09-09T00:36:37+02:00",
   "items": [
     {
-      "id": "bd6414f157dc9543d5",
+      "id": "dda19b9c4923b4d157",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-08T21:42:45+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Evacuadas seis personas en un incendio urbano en Las Navas del Marqués",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHZ3a1BhY3h2a0NWMHJCRzVnZWJ1NUlzMjN6MjlCT3NtT2R1VGw3RXF3N1lTOFA4WDFEOExhbXlHOHh2UENwQmtMclVaQ2NWdGxQRmg2SERmbGE2Y1ZIUmdxcThOQ1p3aEh5RU85VEFSQzFSVFJzWmU2WS1IaHJUYWF4VXlvWGIwdmE0QTJQRWFqczE3QVdWVGltcTNuRVdTamZBNGt1aTVqT040Y291X2FNc3gtZw?oc=5"
+    },
+    {
+      "id": "e6c5850f05f0984fde",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Robledo de Chavela",
-      "published": "2026-09-08T21:25:09+02:00",
-      "source": "Telemadrid",
+      "published": "2026-09-08T19:41:49+02:00",
+      "source": "telemadrid.es",
       "title": "El incendio de Santa María de la Alameda avanza hacia Robledo de Chavela",
-      "summary": "El incendio forestal declarado este martes en Santa María de la Alameda continúa activo y deja una novedad en su evolución: las llamas se están...",
-      "url": "https://www.telemadrid.es/programas/madrid-directo/El-incendio-de-Santa-Maria-de-la-Alameda-avanza-hacia-Robledo-de-Chavela-2-2923827644--20260908074149.html"
-    },
-    {
-      "id": "31797f1884e5db1797",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-08T21:05:21+02:00",
-      "source": "20Minutos",
-      "title": "Un incendio declarado junto al río Cofio en Santa María de la Alameda azota de nuevo a la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2NyZ19tWHVoRkZWZVQ2VVNoZmQ0ekxDd3NqbTRVRmxDQTk4NzZUVFdJbjhxbm1VQklBNHJJZHVIRHNYOF9jV1prU19OSTViVWZmY3VDOE9lQmNFbzZlSm9mRWRhQmRHWVM1MHBFODF0bEx4dzY0WmJ1NlJRVGtrT3JONU9CRmRPNDJ2WDVmV3RybHlidm90U1g0engxOVd1NHpaTHdFZDcxXy0xbGdEakVKWHI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcWM0dml2Vmh0RnNfY0I2bGFHVXFWRWhFTEFfNnJ5eXJUeWdOSldPdUNYR3JBQW05TE5uZFkyNWZ3M2ZCR0M4dWk0dVJITS1JWnNRSnlTeUdabEx0X1FIVmJRY0tHaDQtNUZyckRRNFB4Vjk2TFBYNXZad0l2VEMtWVJEQ3o4c1RNTm96NnVrSHNxb3UtNHE1OGRqaGIzdExBNEIydURDR0xTQXBZUnpFcEdJcWlVRkVLb2xieW1JajktLWhXWFIybkhPa2F5UFRTbmdZYkM1T3BsMFFHR0Z6dVhMTnVVcEtHSzRrbEJn0gHzAUFVX3lxTE1vMlVtSjNvRUkxMU4xVjFBNVZBaml2UmY0bENmWFpxWDMtNFZDMUtFX2hkNkJSWFFwVVVoTDA3WWVVQkVrby1qX3I3bnRNZEFjVzlTQ2UtQlcwV3N1Um9FOEc3TVh3Qy1fTllYMElfeExHeFBGVlhNcW8yMnVtdGY2NFRLeUV6Rl9hdUNzV2wtdDhPdzBnczBYQ0NuUUhSS2RRcEVzd3JDSlcxN2IwWHh2Ymk1Y2R4eEU5czI4LUFQS2ZFT1hNYXdERFowbWpvWFpUSnlkdHdWX3RXWU1RX3RZMXFhUXEycW1xb3YybUlzTnNiNA?oc=5"
     },
     {
       "id": "d2a89b7de948de23a0",
@@ -74,40 +74,40 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDZiUVc0QmZMMFo3dVJaaFY5aGVWS0NRLWVxTkRZUENVdHNJT0FjYWtRd181bFNwTTJEUUpxcTQ5c0xCN2IzM0JtSGIyTU9MNjFrYThxUG15Zm53RzRXRlpRS21yZjVRLUZNQS1WOTM1R2N3OEc3NHRCNHBzWGpCQ0FITEFwODg4cm1odzZibThvRlphLWNCMTNQaDdtMi1ncjItQjVwWXhNZTJjaVFrMlk0S01MaUlvaXdBM0JyVVZJSnZXc1JGTUVpQ3JyenllS3fSAdIBQVVfeXFMTmQ2YlFXNEJmTDBaN3VSWmhWOWhlVktDUS1lcU5EWVBDVXRzSU9BY2FrUXdfNWxTcE0yRFFKcXE0OXNMQjdiMzNCbUhiMk1PTDYxa2E4cVBteWZud0c0V0ZaUUttcmY1US1GTUEtVjkzNUdjdzhHNzR0QjRwc1hqQkNBSExBcDg4OHJtaHc2Ym04b0ZaYS1jQjEzUGg3bTItZ3IyLUI1cFl4TWUyY2lRazJZNEtNTGlJb2l3QTNCclVWSUp2V3NSRk1FaUNycnp5ZUt3?oc=5"
     },
     {
-      "id": "120d5d57ddc582a864",
+      "id": "9fc1459d3e6fc8c8be",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-08T18:51:21+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Nuevo incendio en la Sierra Oeste de Madrid: el fuego avanza sin control en Santa María de la Alameda y obliga a cortar la M-505",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQc19aTGhybEhKU2xPRWQ4S3ZybmtheGhVRzJ5SE9sRjlsYU5sOGJFNG9Lbzk3MjNSOGZCZ2xGTDhFWFppTy1vLVdpRGxvdkJEa0hOQlJZOHBObmJ0aGRkYngxQ0hJOFpHQzNpQ194TUJ4cG41M0NaeERpUC00SjNBV1liR1ZGU1JzTUEwei1ROWM0d3VEWkU3QXBwUDUtWkwzdUlRSG9LLXZjVEpCWG5CdUo5UzFOZmxtY09wa2FqZzZQeGFEVG1RQVVJdXhIQjl3SVNfNlMwRXk3YXdPeF9kYUNYQ0o1bENqbkZVc1lfSWF2dDJDUXdLN0NIR0JqNTZWQmdZMXZ1bHZFNS1CVTBCeGFpRmFuYzEzaUZOSllOMWxIMkhLOVF0U2t5UdIBsAJBVV95cUxOSkhuWkxSSUFESmFIMjRZYnJybUp4eHp2NXN6b0FGYmo1STR1RnpvN0JxMGxabTNza2pTYldaeUJaTld2b1VVZV9SUHYwN1pXTnowM1Z1WE1YSGNxUUxVQzJJb2c0eG5nbE1WVHF2c0NYZENpdDdtOUhxM1I1WmpvSEUtaWVJaW83cDNwLU43NFVIc0lHbmlnOUxQd0NEOUNTbjhkQ3kwb05MVGRwNVdKWHpZaGNSSWdlUk14QkcyaDhXLUY0dGpwOEI5X1hkX0NpeXVOMVczRDZsd2xwRi0ybmJPRWUtUFBvMzAwS0dISjAzWXktQUlMalc5ZHVLQnJJRVNnUlp5amtnYjhBQlpFa0VqbHJ3aWRUeDFFT3lZaHE4QXh4ZmlSZkRwTW5uWHZK?oc=5"
     },
     {
-      "id": "1e7fd4950536c1508d",
+      "id": "2b717fc46d41c69b1e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-08T18:51:21+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Nuevo incendio en la Sierra Oeste de Madrid: el fuego avanza sin control y obliga a cortar la M-505",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOemtVU0RtLWNtRTBXQ0FIZGllVnVmVkg1MHZyZnh2X2gxbmNSUzhMOWx4WVBYYzVUX1hNQmpqVlVaS2k0eFNMaV9EUTZYN0pLcl8tU3NHZ3RoaFJUbHhCWnNZTnVoZXdaMDluVDFHQ2N1YWZFczhia0ZZcXlSak11dlZIX0JkeU1WQ0s2cU5QcnU4Qk1QMTFFUWUtdnVCZGdxNzZ1LTYtWEJZdEtDRF9YYVBnNnRWemxtV19mWUd1VEVHYXFncWtxVWVRdURSOVFuMFFsWldaVUFaUy1PUmwtZlBWdmZUNzBhbVd2SmV6eTBvenc1LThueFMzWWVtLWZBWTJwOW1wQ0N4d9IBigJBVV95cUxOemtVU0RtLWNtRTBXQ0FIZGllVnVmVkg1MHZyZnh2X2gxbmNSUzhMOWx4WVBYYzVUX1hNQmpqVlVaS2k0eFNMaV9EUTZYN0pLcl8tU3NHZ3RoaFJUbHhCWnNZTnVoZXdaMDluVDFHQ2N1YWZFczhia0ZZcXlSak11dlZIX0JkeU1WQ0s2cU5QcnU4Qk1QMTFFUWUtdnVCZGdxNzZ1LTYtWEJZdEtDRF9YYVBnNnRWemxtV19mWUd1VEVHYXFncWtxVWVRdURSOVFuMFFsWldaVUFaUy1PUmwtZlBWdmZUNzBhbVd2SmV6eTBvenc1LThueFMzWWVtLWZBWTJwOW1wQ0N4dw?oc=5"
     },
     {
-      "id": "dd6965b8caaf135e3e",
+      "id": "a4e40b872a821c2675",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-08T18:41:03+02:00",
-      "source": "La Razón",
-      "title": "Un nuevo incendio vuelve a golpear la Sierra Oeste de Madrid",
+      "published": "2026-09-08T17:54:47+02:00",
+      "source": "20minutos.es",
+      "title": "Un incendio declarado junto al río Cofio en Santa María de la Alameda azota de nuevo a la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEpQSTYzeDUwblZ6b1QybUZ1eVlXX0hTblZxcm5QNjRWRldadVZyc3FOZHNoWDFMU0NzVzhxM3JZNWRFb1ZJLVRjUUNmbVlvdWdHVkM4c0dQbGNaVmpiODBUOVdyYm1uNUc1ZVo5Y2U3cXdNcFB5UVpfRi1FZGZILVFRZGZaX0ZNQkVPclpsQnJ5TmlkZkxiV2I0UmFUbFNkVmJoLVoyZEFxMUZqOWNaWkQ5QmJfOTl30gHMAUFVX3lxTE42SDhyaE1DMDlxOEJQeFFERnpaTFUwYTcyNUFITkoyb0tRbkdUd2VpTnY5enViQzZXc3huZ3RtMFJzQmNYOV80dGxZLXZkdDZmWXl3bHNiTWdjUFo0c1RqWHhvQ3ZnZEVYLThpby1KV29YNVNQV0FFX0NUYzNldUwwUThlQU83RVo5RzVqdzFmdzNMWDB1Mng1MGQxUHNzV1U2d1p0blctV3BqN0VCdndPTWNVcGhaXzNhakJTS2wyVHRveXRhRGd1VUNTMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2NyZ19tWHVoRkZWZVQ2VVNoZmQ0ekxDd3NqbTRVRmxDQTk4NzZUVFdJbjhxbm1VQklBNHJJZHVIRHNYOF9jV1prU19OSTViVWZmY3VDOE9lQmNFbzZlSm9mRWRhQmRHWVM1MHBFODF0bEx4dzY0WmJ1NlJRVGtrT3JONU9CRmRPNDJ2WDVmV3RybHlidm90U1g0engxOVd1NHpaTHdFZDcxXy0xbGdEakVKWHI?oc=5"
     },
     {
       "id": "b0896815fc60f9bce5",
@@ -122,13 +122,25 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb0YwVDhsV0lsTEpxc2Q1LTFxS18yRk11VmNLdzRZX1NWUEltSWE3bzYxXzg4ZVR3aEZ4V1NaXzhiSWtIZFBsSUZwNTBBMnYyaGFTZ3F5TlZieFBIeTVDUlB5blBlV3ZGWUlaNk93SUlIQnc5a3NzSzlqVVpNU01NUFY0S3JOZU5oYjh6SEV1VEt2Q0tOWEs5RTV1X0VKQ0ExSExNa0R4YWVsa0E5WDRqWWNKVlhlWGZUQTB2Mzg0WExQUk9sZjA3cGdJMWxQRFJyTU9NRXE4eE85bE5vYVlTdHE0SWlnWnlNUVJrVU01YzJNTjRj0gH0AUFVX3lxTFBvRjBUOGxXSWxMSnFzZDUtMXFLXzJGTXVWY0t3NFlfU1ZQSW1JYTdvNjFfODhlVHdoRnhXU1pfOGJJa0hkUGxJRnA1MEEydjJoYVNncXlOVmJ4UEh5NUNSUHluUGVXdkZZSVo2T3dJSUhCdzlrc3NLOWpVWk1TTU1QVjRLck5lTmhiOHpIRXVUS3ZDS05YSzlFNXVfRUpDQTFITE1rRHhhZWxrQTlYNGpZY0pWWGVYZlRBMHYzODRYTFBST2xmMDdwZ0kxbFBEUnJNT01FcTh4TzlsTm9hWVN0cTRJaWdaeU1RUmtVTTVjMk1ONGM?oc=5"
     },
     {
-      "id": "5204f719537b3179f2",
+      "id": "56c3e3c3d8017e37cc",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-08T10:49:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Homenaje de Carlos Sainz a los que participaron en la extinción de los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk1hVDZRT215SURVOFRBWjkxVGkyOGhrMC1DQ1ZaLXo3WEdNdGMtNHFZRTJPdjY0ZlZJcnI1c0kxY2U3V2JDdE90Tl85TFFvanpOOXNYeURSejhqU29oTURSMjV1R2JtdHo4aG9tWG5JNjM1ZDhQUnBpaDBVbDZ5VlpvWmRUdGF4cnJaNFdfZXlfd2I4WVN1ZHpUTTNiOW1ZNms2RkdwdWQ3d0hSQkxKMGJHS1R4SllhUG0zZDN1OTExaUE?oc=5"
+    },
+    {
+      "id": "5342e7690d36a3c438",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-08T10:00:02+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "La Sierra Oeste vuelve a las aulas con total normalidad tras el incendio de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNS1B3cEZQVWxkYVlWY2txUDBycWNzeXh0cXZ5Z2swQnJfMHBkVkM1ZmhEM2NuaTFsSXBHZnlZWFJwLTdtc2trSGF6emRJSHc3anpLU2RQdmc5TGxwbjZkTXNLMWFTVnVUb3VjVk4zWE95SXg3MWs5N0VXcnV6OXlzSk9VajZLbWM0WUg1TXNPa0RIV3ctRHp2ZUNLUFR3SG85MERVcE80blA5VWxleElkeGNjLWxiUWM2ckdfdC1ZZFpLWFFDQkNWS2NlcWFJazZkNmlpb0U4V0ZQUEdnZGhuOXlNR0VxNzJObGVSUzVLTVV5LUtkNUFjMk9BTXV2RXc5ZkFTYS1iVdIBjAJBVV95cUxQOEtJWDZqN2tDdVFfekRRbmJKd3B3ZDFjNDBQaXREVktuRUgyQ3EtMzcwTEg0TjlCME9iMzl3QWZTQ2NPNW84WVNHR29IQzNLQklxRWN1MXlWUWhGY2NEQTRKRm5TSXF5cDdDMzh0OUhOMTJyN3lEMndqTmNPWmlUUU96aV9tbW5SLUdTVlZJS0hrUDR0UUkyekxZbWs5VmE5UHB2eVozUDNlZ3BfWTFySmdzeHdydlhWR1VQeG5aMlJYYnBuTHMwTnpDNktNNklQVW1WaDBoRHFaM25rekZwbkFBVWMtampzUG81b3kzem9KdWlWcnAtejhCNjlDSzB1QUs4bk5rUG1YS0Nh?oc=5"
@@ -253,17 +265,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 14
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 13
-    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
