@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-09-08T11:04:35+02:00",
+  "generated_at": "2026-09-08T15:32:07+02:00",
   "items": [
     {
-      "id": "36af35e5e625940ce1",
+      "id": "1f13ca12749f565500",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-08T13:58:44+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Evacuadas seis personas en un incendio urbano en Las Navas del Marqués",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHZ3a1BhY3h2a0NWMHJCRzVnZWJ1NUlzMjN6MjlCT3NtT2R1VGw3RXF3N1lTOFA4WDFEOExhbXlHOHh2UENwQmtMclVaQ2NWdGxQRmg2SERmbGE2Y1ZIUmdxcThOQ1p3aEh5RU85VEFSQzFSVFJzWmU2WS1IaHJUYWF4VXlvWGIwdmE0QTJQRWFqczE3QVdWVGltcTNuRVdTamZBNGt1aTVqT040Y291X2FNc3gtZw?oc=5"
+    },
+    {
+      "id": "0262c07a935e966e81",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-08T10:53:31+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Homenaje de Carlos Sainz a los que participaron en la extinción de los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk1hVDZRT215SURVOFRBWjkxVGkyOGhrMC1DQ1ZaLXo3WEdNdGMtNHFZRTJPdjY0ZlZJcnI1c0kxY2U3V2JDdE90Tl85TFFvanpOOXNYeURSejhqU29oTURSMjV1R2JtdHo4aG9tWG5JNjM1ZDhQUnBpaDBVbDZ5VlpvWmRUdGF4cnJaNFdfZXlfd2I4WVN1ZHpUTTNiOW1ZNms2RkdwdWQ3d0hSQkxKMGJHS1R4SllhUG0zZDN1OTExaUE?oc=5"
+    },
+    {
+      "id": "5204f719537b3179f2",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-08T10:35:28+02:00",
+      "published": "2026-09-08T10:00:02+02:00",
       "source": "Telemadrid",
       "title": "La Sierra Oeste vuelve a las aulas con total normalidad tras el incendio de este verano",
-      "summary": "Los estudiantes de la Sierra Oeste regresan a las aulas con total normalidad tras el incendio que sufrió esta comarca de la Comunidad de Madrid...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/La-Sierra-Oeste-vuelve-a-las-aulas-con-total-normalidad-tras-el-incendio-de-este-verano-2-2923827592--20260908100002.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOEtJWDZqN2tDdVFfekRRbmJKd3B3ZDFjNDBQaXREVktuRUgyQ3EtMzcwTEg0TjlCME9iMzl3QWZTQ2NPNW84WVNHR29IQzNLQklxRWN1MXlWUWhGY2NEQTRKRm5TSXF5cDdDMzh0OUhOMTJyN3lEMndqTmNPWmlUUU96aV9tbW5SLUdTVlZJS0hrUDR0UUkyekxZbWs5VmE5UHB2eVozUDNlZ3BfWTFySmdzeHdydlhWR1VQeG5aMlJYYnBuTHMwTnpDNktNNklQVW1WaDBoRHFaM25rekZwbkFBVWMtampzUG81b3kzem9KdWlWcnAtejhCNjlDSzB1QUs4bk5rUG1YS0Nh0gGMAkFVX3lxTFA4S0lYNmo3a0N1UV96RFFuYkp3cHdkMWM0MFBpdERWS25FSDJDcS0zNzBMSDROOUIwT2IzOXdBZlNDY081bzhZU0dHb0hDM0tCSXFFY3UxeVZRaEZjY0RBNEpGblNJcXlwN0MzOHQ5SE4xMnI3eUQyd2pOY09aaVRRT3ppX21tblItR1NWVklLSGtQNHRRSTJ6TFltazlWYTlQcHZ5WjNQM2VncF9ZMXJKZ3N4d3J2WFZHVVB4bloyUlhicG5MczBOekM2S002SVBVbVZoMGhEcVozbmt6RnBuQUFVYy1qanNQbzVveTN6b0p1aVZycC16OEI2OUNLMHVBSzhuTmtQbVhLQ2E?oc=5"
     },
     {
       "id": "b97bf04eb2f7376c9c",
@@ -24,18 +48,6 @@
       "title": "Navas del Rey celebra sus fiestas con encierros tras el azote de los incendios forestales",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeUo0bUd4WTZ0d2hyaFlMM2RJUGhWa3pibkdXZ1hieDE1S3d5azV5MFdjUFVLLTQ4cmpjWEVMb1JOQ1UzRGtWMVBUTHprWUVfeTV2Z0c5TzZWZ1RnZ2VDdVM3UGlpTkVwdHVEXzhFQ3F5LXZtaExKbEM5RHpIZ25CTUhPOTB3YmlxTWdrRHlzLXhqbjdDTGQtLVloUmVDaE9seG1oSjVNX2tJc2RuVm1fejB4VERwbXlRdWdzVjJQOUgwaGtlQjVWM0JtX3ZrSGl4bnRiOE8wUm9uMlFrdFlNNU9XMWhLZ2xTbVZSYVo3Zl9pR1dyVW1zWnRsd2hVa0JXVzJqNTJ5aFVkZ9IBigJBVV95cUxOeUo0bUd4WTZ0d2hyaFlMM2RJUGhWa3pibkdXZ1hieDE1S3d5azV5MFdjUFVLLTQ4cmpjWEVMb1JOQ1UzRGtWMVBUTHprWUVfeTV2Z0c5TzZWZ1RnZ2VDdVM3UGlpTkVwdHVEXzhFQ3F5LXZtaExKbEM5RHpIZ25CTUhPOTB3YmlxTWdrRHlzLXhqbjdDTGQtLVloUmVDaE9seG1oSjVNX2tJc2RuVm1fejB4VERwbXlRdWdzVjJQOUgwaGtlQjVWM0JtX3ZrSGl4bnRiOE8wUm9uMlFrdFlNNU9XMWhLZ2xTbVZSYVo3Zl9pR1dyVW1zWnRsd2hVa0JXVzJqNTJ5aFVkZw?oc=5"
-    },
-    {
-      "id": "eb186165aed5628801",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-07T15:30:08+02:00",
-      "source": "Cadena SER",
-      "title": "La Diputación de Ávila destinará 3 millones de euros a la dinamización económica de las comarcas afectadas por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVXRHcDdGajhCa2FUazBYWTNURWZMemhKcndNNzRCbVQ4aGd3YXlwUVRkOUJ6OHhCUmZCazZ4amJtcHpYY3o5dkkyR1JtSjhsVVI4QUw1TzM5SFUwRnVVd1gzLUtxcHJGQ3pRYVRqRnBPaW1LaUN1QXZadjNnemlWb2xmTkpIRU1iVmxaMWktNEstWDJtYnk3VEFnaVB0dFh4ZVFiTG5SWlVkRzZoT3hwV2hlR2tPMWJKcjdoSWRnNnVOZDFzYUVxVXlTNmJmcEh2N0tQeDFhZ1BJWlhKTjZXbzFaQkdBUDNpbkVoZEx1Z3ZENS1Wc3BINjB2S2dqQllPRUd2TjZqZm5VU1RQYWdSbFp0OVc4V09wdVpwMFVPa9IBswJBVV95cUxOMmhkU1Eycm04VEVvWWhCb0QtSkRvckJuV29mMFFYR2paTlVSNXkzd3BXM202RGJpSGlUVmp1SHRHaFgzR0hPakxBVGNCSUhvVVEwb293RmpGMVZNVFRYbThVZWtZRTc1SlVHNWlPdXBXWDZwSXRLNlNMWDZvV1JXcHY3YWkweXU4djRCOVNjU1BITGpnYzFNdU9oNTYyUEpvSmdwdVk1Ylk5TVVOa2RUV3I1emZJVHVYNmRyZS1DUHZJbm5vQll0T2xEdklxazJka1NqTGpaSzFJbkRZc2R6X21NUzFsc0M0UlBvZmR3bmx4bTRIdlVpRy1fM0dlMTYwRG84MUVQd083VWlSbUp0QUlFLWgtN2xQODgwODZkdWgxSEhfbmlTVDUyS3FBVVo0RVVv?oc=5"
     },
     {
       "id": "e6d0bca8f170eee04d",
@@ -163,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
