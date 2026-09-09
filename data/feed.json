@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:02:47+02:00",
+  "generated_at": "2026-09-10T00:27:58+02:00",
   "items": [
-    {
-      "id": "31c93a02adca8ef175",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Navas del Rey",
-      "published": "2026-09-09T20:51:32+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid estudia prolongar el desdoblamiento de la carretera M-501 desde Navas del Rey hasta el límite con Castilla y León",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNaUhId25heW04eDBiQlBYOHhDWjc4UVUwZUQ4VWNfN19FWVVDbnJxT3RMSUxXTUpDZ2FIaFkxejYtVWFoNG16YkNhTF9nUlVLZ2hyMTlBZTBYdUNlMzJ0clA0TG9RQjAwYUtVUzNWYkZ6WEZWY2NTSjhZQmlfZ214anVHei1vRFZDZmNKME9LTllLc2s3UjFsUEMwLVJuRjVyZ0JJX20yVGRmS3o2V09ueHVpNWxCa2VVY281Zkt1YmdySTVvV2MzdUdqd2pSWTNTUVdNWXl1dFhpUmZaZGJ0ejJtLUlzQ1RtbENOYWN5REJUdG42UTdzeXdmYVRzRUxKaDNaeFpQQThSM1VkejRERGdjZFFVOTBnR29nUlBRMTFyakF1azR0NndnU1VKMVpRazJV0gG4AkFVX3lxTE9vOXNFd0UtRTdsNXI5VmpNdlM4STRjQlFlN0JTWWpMYnMxUDNTOWlVRWx6aGlDZVRya0paVmlBelpDZTNESXI2NndQSkwwUE9rR2xzV0k5Mkc5Y1FlWGZlN1YzZklLSUs5Nzg4TVRGNDdrQWZfd1BHREpld2tnMU1BdzVkNzktWUxPVVVCa0VNMTNSSENhZk1ycW1pbTQ3NDdlNTloc0tuNUJBak9BTnBiYXJsdENXUnoxdHQwcXdYcDYtVHZOU29ycVE1OXdVRXI1TUxYX25wNEU5NXdhQ29ta3NLQU12OXJBZnc1czJicWpzX19XdjlYNE0tNHJoc2ppUnpXbkxsc2Rlc3ZTalJIQ3FBZzFubHh3N0dHaWQ1UXdrSjhveTZwZ0NfOW1RenU2X1NpYTlSYg?oc=5"
-    },
     {
       "id": "0640981eff35d5b39c",
       "type": "news",
@@ -26,12 +14,12 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
     },
     {
-      "id": "e2435e55d4fe9ced8d",
+      "id": "95002315a228a46efe",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-09T17:14:00+02:00",
+      "published": "2026-09-09T18:03:02+02:00",
       "source": "Tribuna de Ávila",
       "title": "El juez del incendio de Burgohondo ordena nuevas diligencias y pide informes al Seprona y a la Junta",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -48,6 +36,18 @@
       "title": "Ayuso anuncia 26 millones de euros para los municipios de la Sierra Oeste afectados por el incendio de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWGNVV3l5WkpyMTJONjRpakpXb01rSUhOMHplaXczemg1Q3BWZ3NhUU5zNjFBZzV0ZkZVcmEwN3FhVDBqRVhRSXFJamd0NXNYV3lyMzRwbEVvZFJhV1dnYUpvMHR5cGZKYmRjQjFlWmpETEl6YkZuQ2NCZWJqakpRRGVMcnFYeFhnbUVTbVdyVkphREl5dTVKUFo2T3AyLTgtcjM1ZndzazZEeUtCUTJsSVpaQnNxdFgxVUVpZDg2UG9ReksxT1lmVVUwNlFDMlNWWDkxUzBCM0NneW5YVWZFLTBnQlNhN1UtU2lXdWh3TUVqWFMzMnptTjNnRjdfaG9LLTlXU2dvdlpWQ1hzUlV0WHRyZmZoRGQ3YmhCbko4a1VBZjI4WFQxUVJuY9IBsAJBVV95cUxNbTQ0Mm5rU1M3WlNWVk9EQWh4dUJ4V1FFdUdjT0tlSkFqel84bVZfc1JhX001Q0hxTzlRei1vU0cwY1RyNVlFVUp2QUFWSHZLN2lTMW5fYTZFTU42amVNVWsyNXJKNmktWGY1eURXUUEwa08xQU8xN0J5VEFjV24zeFVtekROeWF6YTJlZlhxU0xMZnJONUpLUzNIRXdTcHVEMUdyamlTSUg0MUlucGR0eTBfbTB5QWk1RGhUSDJiTXBIaDdnc0NNdW44VEdRTld2WTJhRUFIUjVENDdzcTZxYlV1R0NOMXBzcld5cjVHVHQyRTNaUEU3YTdsNmZkbllHRG9hQjFERXZmVVpidUFPaDhlUmVWRWU2dUNJUzI2emRxQlhOQk16cndsZVRNbGth?oc=5"
+    },
+    {
+      "id": "fa80b2097d6f8fcdd9",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Navas del Rey",
+      "published": "2026-09-09T15:04:19+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid estudia prolongar el desdoblamiento de la carretera M-501 desde Navas del Rey hasta el límite con Castilla y León",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbzlzRXdFLUU3bDVyOVZqTXZTOEk0Y0JRZTdCU1lqTGJzMVAzUzlpVUVsemhpQ2VUcmtKWlZpQXpaQ2UzRElyNjZ3UEpMMFBPa0dsc1dJOTJHOWNRZVhmZTdWM2ZJS0lLOTc4OE1URjQ3a0FmX3dQR0RKZXdrZzFNQXc1ZDc5LVlMT1VVQmtFTTEzUkhDYWZNcnFtaW00NzQ3ZTU5aHNLbjVCQWpPQU5wYmFybHRDV1J6MXR0MHF3WHA2LVR2TlNvcnFRNTl3VUVyNU1MWF9ucDRFOTV3YUNvbWtzS0FNdjlyQWZ3NXMyYnFqc19fV3Y5WDRNLTRyaHNqaVJ6V25MbHNkZXN2U2pSSENxQWcxbmx4dzdHR2lkNVF3a0o4b3k2cGdDXzltUXp1Nl9TaWE5UmLSAbgCQVVfeXFMT285c0V3RS1FN2w1cjlWak12UzhJNGNCUWU3QlNZakxiczFQM1M5aVVFbHpoaUNlVHJrSlpWaUF6WkNlM0RJcjY2d1BKTDBQT2tHbHNXSTkyRzljUWVYZmU3VjNmSUtJSzk3ODhNVEY0N2tBZl93UEdESmV3a2cxTUF3NWQ3OS1ZTE9VVUJrRU0xM1JIQ2FmTXJxbWltNDc0N2U1OWhzS241QkFqT0FOcGJhcmx0Q1dSejF0dDBxd1hwNi1Udk5Tb3JxUTU5d1VFcjVNTFhfbnA0RTk1d2FDb21rc0tBTXY5ckFmdzVzMmJxanNfX1d2OVg0TS00cmhzamlSelduTGxzZGVzdlNqUkhDcUFnMW5seHc3R0dpZDVRd2tKOG95NnBnQ185bVF6dTZfU2lhOVJi?oc=5"
     },
     {
       "id": "125f0238268c8f567a",
