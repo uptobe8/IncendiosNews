@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-09T02:34:51+02:00",
+  "generated_at": "2026-09-09T07:11:31+02:00",
   "items": [
     {
-      "id": "dda19b9c4923b4d157",
+      "id": "e1ceba3564991b3c20",
       "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-08T21:42:45+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Evacuadas seis personas en un incendio urbano en Las Navas del Marqués",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-09T05:00:00+02:00",
+      "source": "20Minutos",
+      "title": "El plan para recuperar la Sierra Oeste suma recursos y una estrategia para lograr un monte más resistente al fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHZ3a1BhY3h2a0NWMHJCRzVnZWJ1NUlzMjN6MjlCT3NtT2R1VGw3RXF3N1lTOFA4WDFEOExhbXlHOHh2UENwQmtMclVaQ2NWdGxQRmg2SERmbGE2Y1ZIUmdxcThOQ1p3aEh5RU85VEFSQzFSVFJzWmU2WS1IaHJUYWF4VXlvWGIwdmE0QTJQRWFqczE3QVdWVGltcTNuRVdTamZBNGt1aTVqT040Y291X2FNc3gtZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSi03emVCcEpjOV9qdkx6cllwOGVJUGZERVlYSUhTN2k1dUk5N1RCajVydmg3bjB4SHVGLVMzNEc3VVo5NVNrelBfSmN3VHpNV3JRWk9uZV8zRnFqbFNYY1ZfQVVsLUNqeE1sMkJXc2RRMXBqdHp3OHg1UU9QWnhyUzN5dDVlTW0wQ2tfRERkeFd1XzZkSEowdHNwdHdObDVOZF9YaHcyZkRMWVA3N0FZQUNiQUNCVWRtX0d1QmE0VXRqTkhnTWpSQ0ZKakFDMkNTUjQ2SWhrNE5pNzZWaHhJRk1IYVo?oc=5"
     },
     {
       "id": "9b7735a1464e3b269f",
@@ -110,16 +110,28 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEpQSTYzeDUwblZ6b1QybUZ1eVlXX0hTblZxcm5QNjRWRldadVZyc3FOZHNoWDFMU0NzVzhxM3JZNWRFb1ZJLVRjUUNmbVlvdWdHVkM4c0dQbGNaVmpiODBUOVdyYm1uNUc1ZVo5Y2U3cXdNcFB5UVpfRi1FZGZILVFRZGZaX0ZNQkVPclpsQnJ5TmlkZkxiV2I0UmFUbFNkVmJoLVoyZEFxMUZqOWNaWkQ5QmJfOTl30gHMAUFVX3lxTE42SDhyaE1DMDlxOEJQeFFERnpaTFUwYTcyNUFITkoyb0tRbkdUd2VpTnY5enViQzZXc3huZ3RtMFJzQmNYOV80dGxZLXZkdDZmWXl3bHNiTWdjUFo0c1RqWHhvQ3ZnZEVYLThpby1KV29YNVNQV0FFX0NUYzNldUwwUThlQU83RVo5RzVqdzFmdzNMWDB1Mng1MGQxUHNzV1U2d1p0blctV3BqN0VCdndPTWNVcGhaXzNhakJTS2wyVHRveXRhRGd1VUNTMA?oc=5"
     },
     {
-      "id": "a4e40b872a821c2675",
+      "id": "111ac4b0a8bb068903",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-08T17:54:47+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Un incendio declarado junto al río Cofio en Santa María de la Alameda azota de nuevo a la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2NyZ19tWHVoRkZWZVQ2VVNoZmQ0ekxDd3NqbTRVRmxDQTk4NzZUVFdJbjhxbm1VQklBNHJJZHVIRHNYOF9jV1prU19OSTViVWZmY3VDOE9lQmNFbzZlSm9mRWRhQmRHWVM1MHBFODF0bEx4dzY0WmJ1NlJRVGtrT3JONU9CRmRPNDJ2WDVmV3RybHlidm90U1g0engxOVd1NHpaTHdFZDcxXy0xbGdEakVKWHI?oc=5"
+    },
+    {
+      "id": "451620639a8eceaa0d",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-08T13:55:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Evacuadas seis personas en un incendio urbano en Las Navas del Marqués",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHZ3a1BhY3h2a0NWMHJCRzVnZWJ1NUlzMjN6MjlCT3NtT2R1VGw3RXF3N1lTOFA4WDFEOExhbXlHOHh2UENwQmtMclVaQ2NWdGxQRmg2SERmbGE2Y1ZIUmdxcThOQ1p3aEh5RU85VEFSQzFSVFJzWmU2WS1IaHJUYWF4VXlvWGIwdmE0QTJQRWFqczE3QVdWVGltcTNuRVdTamZBNGt1aTVqT040Y291X2FNc3gtZw?oc=5"
     },
     {
       "id": "b0896815fc60f9bce5",
@@ -283,7 +295,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 16
+      "items": 17
     },
     "direct_media": {
       "ok": true,
