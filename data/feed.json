@@ -1,14 +1,62 @@
 {
-  "generated_at": "2026-09-09T11:47:11+02:00",
+  "generated_at": "2026-09-09T15:57:46+02:00",
   "items": [
     {
-      "id": "fa4e40e404d696d552",
+      "id": "1ded8118916dcd540d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-09T14:55:12+02:00",
+      "source": "EFE - Agencia de noticias",
+      "title": "El incendio de Niebla (Huelva) supera al de Burgohondo (Ávila) en superficie quemada",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
+    },
+    {
+      "id": "125f0238268c8f567a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-09T13:15:48+02:00",
+      "source": "Europa Press",
+      "title": "Más Madrid acusa al PP de \"vetar\" el acceso a los documentos sobre el ático de Chamberí: \"Están muertos de miedo\"",
+      "summary": "Sostiene que la Mesa de la Asamblea, con mayoría 'popular', convocó una reunión de urgencia por Whatsapp...",
+      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-acusa-pp-vetar-acceso-documentos-atico-chamberi-estan-muertos-miedo-20260909131548.html"
+    },
+    {
+      "id": "0606a68d9c1250411e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-09T13:01:38+02:00",
+      "source": "Telemadrid",
+      "title": "Los montes públicos recibirán 2,8 millones para su recuperación tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQdIBigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQQ?oc=5"
+    },
+    {
+      "id": "6496a75c7585b45ccf",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-09T12:16:41+02:00",
+      "source": "20minutos.es",
+      "title": "El incendio de la Sierra Oeste en Santa María de la Alameda se estabiliza: 43 hectáreas afectadas y vigilancia en las próximas horas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWThMM2xNZFlETjNJUkZXMUxZLUNDVWFidHFEdFpkWG9zYVJLelk4TEVWZXdlUjF5a0Q2TU9FQXNoenR5cVR3dlNMeHBMZlVyUmo1Q25ja211Sy1YTGZtNEU4WndQUTk0bG5IdERubjNjUmF6bnJVR083TVB5dWI0alFKZDVoeGZnaXUtUmhhNlJxZDhKZWt4ZGVhQWUxVDNhemlyNHBoa2JaeHE1UXM0REhlSm1HV2RodERSeXdQSHE1OTNTcWd3YWdEX3AtYkg4UW1TVUpmLVc2aHpXbXNMYVRZU2g5NkVtN3JB?oc=5"
+    },
+    {
+      "id": "ef8f060c3889554f8b",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T11:20:46+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Estabilizado el incendio declarado en la Sierra Oeste de Madrid tras calcinar 43 hectáreas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUp4TzRVaDlJX04xU3Z1SkFnM3JxWk9CVTRPM0RTakhkRzZmdE5pQXNkU0J2SnZiRW90VUlic0NoV2VoajZ3dGxmeGFlTFdGemc1ZElpd0t5S01qZENnR3BHbEpNYXpMYV9raXIxMkVuVXhYYXE4VU5JWXY4dVNLN0JxMkVqcUtpSW5FbGFWdTZodkIwVjlTck41YU5NLTRiWERZZGJnUTQ0eXAwMUhEZ2N6ZVp0N3U5X0tXUlRhd3FlaGM?oc=5"
@@ -38,13 +86,13 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdF9hNkFFVEt3MEVNdnJ3ZU9weE1JcHA4WmMzYVZqem1odkZMcEZ1b092NG42ajRLRXM3a05HTS1xUTJOVkpBTVZOTDRCd2pHMkxsV1h1aG5mRF9aa3c5dGx3Sy04SUpkazNOWm9SWloyMHBxRW0tNWNITWdWNE83NUl2d0YtVzJfNGZrdEQyMzMzYUwyUUpTNWpTTldndTlwNEk5NG1fVm9iR1UzV1NFSWlvakp1bEh2MVlUTWpJSWhIRXVCZGNIRlY5ck5FLXM?oc=5"
     },
     {
-      "id": "e1ceba3564991b3c20",
+      "id": "f45e44aadf2f21109e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T05:00:00+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "El plan para recuperar la Sierra Oeste suma recursos y una estrategia para lograr un monte más resistente al fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSi03emVCcEpjOV9qdkx6cllwOGVJUGZERVlYSUhTN2k1dUk5N1RCajVydmg3bjB4SHVGLVMzNEc3VVo5NVNrelBfSmN3VHpNV3JRWk9uZV8zRnFqbFNYY1ZfQVVsLUNqeE1sMkJXc2RRMXBqdHp3OHg1UU9QWnhyUzN5dDVlTW0wQ2tfRERkeFd1XzZkSEowdHNwdHdObDVOZF9YaHcyZkRMWVA3N0FZQUNiQUNCVWRtX0d1QmE0VXRqTkhnTWpSQ0ZKakFDMkNTUjQ2SWhrNE5pNzZWaHhJRk1IYVo?oc=5"
@@ -98,6 +146,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUNZR21xWEkyazVOek93cXdmMDJkbklPT0hKMTdLLVI0OGl2cTVmNi03VENhaGlNU3I1dlBNLVFncDVBVG9JeGpfc2VBUW12QnczME5vOUFtZ0hVQXFnWHIxbVZrY2ZMdHVtclVnbjJwZ1ZiYTZLa2g3Rm5BWU5WN0RNX3JXd3dyN1BNSGplYk1CV1RobE1RN1EyRzdhUUFGMFhwWmVIbnZLd9IBrwFBVV95cUxOTnJVOFl2WjgtcmhNR0thaEJUN2NoVXRZQUpMN21Jd1Jpdi1uUXVvYzdoRmRzTG1BYXVXTjdBQXhwaXhNS1NDakVVWTk5YlNxdlp1cy1TSldheFc0XzBKVlR6dDZHT2hpV3pQR2g4XzVsLVFPU0Zpck9JQTV2dHFUb0p0bndpOVJUWkd4UXlDVWJpNldLb0J4MGxjakx1d0VWREJITTN0OC1uT2oyZEk0?oc=5"
     },
     {
+      "id": "5fcdba2ff166b42333",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-08T19:14:27+02:00",
+      "source": "Cadena SER",
+      "title": "Un incendio en Santa María de la Alameda (Madrid) \"avanza sin control\" y obliga a confinar dos urbanizaciones",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYldYMkQ3OEx6WmgtMGlkVDJST1U3TFNuNG5qVVdQMkZQTTRrUEs5WVdPcUhRNm1JMEpNeldtTWVCV0piV2NvZXlrTUdqVXUyNzZhd2RyMHNDaFh2VjA1TURBaFVISjJ3WVZqQlhlSjJCNkhQVUpjLUFnSFV4NG5jLUFPWXY0dHE4WnM1bWo4c2ttRENmWkRnclp1aFh6el9BaDhuUFZvdDMzdHF1LTNXSmVuQVVVbWpFNFFnZzM4LUEtSjJNMXBFUlg4SEZmQlZjSFh2R1k2S0xIanZVSWdRUmczTjlqQUUtNWxHY3FPRHVMd9IBhgJBVV95cUxQaS1PbEI1NVlrZGZScDh6d1RucHpBNTNkeWM3SXZ0Qk8wN3VnQ0pvdGZjb2JJMmJoeE13b1lzX21nc2h3UFVvS2lXU1dCX1pwal9lRFNuZ0FCdDdRQU1qa1FCbTFEazdzTjNSRzVYLUZ3RWJDV19VU1FFX1hVdExkbzA1REVXYUM2Ujh0TGtfN3NYZ25UeWpYemEyNS05emlrSHhxWHNha3ktaGU5eHh3Q25WMFoxNUFzblVuM0VNeXhHY2xGWlp2Znk0UzBLVVd3R1gza1ZnaE1zMXp1RFpNdlByTF9wTDlTaDBWUE5rNF90U19yZFA4YU5XdGhGTGMtLWl0TXdn?oc=5"
+    },
+    {
       "id": "e3829edbf0fdf58212",
       "type": "news",
       "severity": "critical",
@@ -119,28 +179,16 @@
       "source": "Telemadrid",
       "title": "Nuevo incendio en la Sierra Oeste de Madrid: el fuego avanza sin control en Santa María de la Alameda y obliga a cortar la M-505",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQc19aTGhybEhKU2xPRWQ4S3ZybmtheGhVRzJ5SE9sRjlsYU5sOGJFNG9Lbzk3MjNSOGZCZ2xGTDhFWFppTy1vLVdpRGxvdkJEa0hOQlJZOHBObmJ0aGRkYngxQ0hJOFpHQzNpQ194TUJ4cG41M0NaeERpUC00SjNBV1liR1ZGU1JzTUEwei1ROWM0d3VEWkU3QXBwUDUtWkwzdUlRSG9LLXZjVEpCWG5CdUo5UzFOZmxtY09wa2FqZzZQeGFEVG1RQVVJdXhIQjl3SVNfNlMwRXk3YXdPeF9kYUNYQ0o1bENqbkZVc1lfSWF2dDJDUXdLN0NIR0JqNTZWQmdZMXZ1bHZFNS1CVTBCeGFpRmFuYzEzaUZOSllOMWxIMkhLOVF0U2t5UdIBsAJBVV95cUxOSkhuWkxSSUFESmFIMjRZYnJybUp4eHp2NXN6b0FGYmo1STR1RnpvN0JxMGxabTNza2pTYldaeUJaTld2b1VVZV9SUHYwN1pXTnowM1Z1WE1YSGNxUUxVQzJJb2c0eG5nbE1WVHF2c0NYZENpdDdtOUhxM1I1WmpvSEUtaWVJaW83cDNwLU43NFVIc0lHbmlnOUxQd0NEOUNTbjhkQ3kwb05MVGRwNVdKWHpZaGNSSWdlUk14QkcyaDhXLUY0dGpwOEI5X1hkX0NpeXVOMVczRDZsd2xwRi0ybmJPRWUtUFBvMzAwS0dISjAzWXktQUlMalc5ZHVLQnJJRVNnUlp5amtnYjhBQlpFa0VqbHJ3aWRUeDFFT3lZaHE4QXh4ZmlSZkRwTW5uWHZK?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQc19aTGhybEhKU2xPRWQ4S3ZybmtheGhVRzJ5SE9sRjlsYU5sOGJFNG9Lbzk3MjNSOGZCZ2xGTDhFWFppTy1vLVdpRGxvdkJEa0hOQlJZOHBObmJ0aGRkYngxQ0hJOFpHQzNpQ194TUJ4cG41M0NaeERpUC00SjNBV1liR1ZGU1JzTUEwei1ROWM0d3VEWkU3QXBwUDUtWkwzdUlRSG9LLXZjVEpCWG5CdUo5UzFOZmxtY09wa2FqZzZQeGFEVG1RQVVJdXhIQjl3SVNfNlMwRXk3YXdPeF9kYUNYQ0o1bENqbkZVc1lfSWF2dDJDUXdLN0NIR0JqNTZWQmdZMXZ1bHZFNS1CVTBCeGFpRmFuYzEzaUZOSllOMWxIMkhLOVF0U2t5UQ?oc=5"
     },
     {
-      "id": "dd6965b8caaf135e3e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-08T18:41:03+02:00",
-      "source": "La Razón",
-      "title": "Un nuevo incendio vuelve a golpear la Sierra Oeste de Madrid",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEpQSTYzeDUwblZ6b1QybUZ1eVlXX0hTblZxcm5QNjRWRldadVZyc3FOZHNoWDFMU0NzVzhxM3JZNWRFb1ZJLVRjUUNmbVlvdWdHVkM4c0dQbGNaVmpiODBUOVdyYm1uNUc1ZVo5Y2U3cXdNcFB5UVpfRi1FZGZILVFRZGZaX0ZNQkVPclpsQnJ5TmlkZkxiV2I0UmFUbFNkVmJoLVoyZEFxMUZqOWNaWkQ5QmJfOTl30gHMAUFVX3lxTE42SDhyaE1DMDlxOEJQeFFERnpaTFUwYTcyNUFITkoyb0tRbkdUd2VpTnY5enViQzZXc3huZ3RtMFJzQmNYOV80dGxZLXZkdDZmWXl3bHNiTWdjUFo0c1RqWHhvQ3ZnZEVYLThpby1KV29YNVNQV0FFX0NUYzNldUwwUThlQU83RVo5RzVqdzFmdzNMWDB1Mng1MGQxUHNzV1U2d1p0blctV3BqN0VCdndPTWNVcGhaXzNhakJTS2wyVHRveXRhRGd1VUNTMA?oc=5"
-    },
-    {
-      "id": "111ac4b0a8bb068903",
+      "id": "a4e40b872a821c2675",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-08T17:54:47+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Un incendio declarado junto al río Cofio en Santa María de la Alameda azota de nuevo a la Sierra Oeste de Madrid",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2NyZ19tWHVoRkZWZVQ2VVNoZmQ0ekxDd3NqbTRVRmxDQTk4NzZUVFdJbjhxbm1VQklBNHJJZHVIRHNYOF9jV1prU19OSTViVWZmY3VDOE9lQmNFbzZlSm9mRWRhQmRHWVM1MHBFODF0bEx4dzY0WmJ1NlJRVGtrT3JONU9CRmRPNDJ2WDVmV3RybHlidm90U1g0engxOVd1NHpaTHdFZDcxXy0xbGdEakVKWHI?oc=5"
@@ -259,11 +307,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 15
+      "items": 18
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
