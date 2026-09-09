@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-09T19:43:34+02:00",
+  "generated_at": "2026-09-09T22:02:47+02:00",
   "items": [
+    {
+      "id": "31c93a02adca8ef175",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Navas del Rey",
+      "published": "2026-09-09T20:51:32+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid estudia prolongar el desdoblamiento de la carretera M-501 desde Navas del Rey hasta el límite con Castilla y León",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNaUhId25heW04eDBiQlBYOHhDWjc4UVUwZUQ4VWNfN19FWVVDbnJxT3RMSUxXTUpDZ2FIaFkxejYtVWFoNG16YkNhTF9nUlVLZ2hyMTlBZTBYdUNlMzJ0clA0TG9RQjAwYUtVUzNWYkZ6WEZWY2NTSjhZQmlfZ214anVHei1vRFZDZmNKME9LTllLc2s3UjFsUEMwLVJuRjVyZ0JJX20yVGRmS3o2V09ueHVpNWxCa2VVY281Zkt1YmdySTVvV2MzdUdqd2pSWTNTUVdNWXl1dFhpUmZaZGJ0ejJtLUlzQ1RtbENOYWN5REJUdG42UTdzeXdmYVRzRUxKaDNaeFpQQThSM1VkejRERGdjZFFVOTBnR29nUlBRMTFyakF1azR0NndnU1VKMVpRazJV0gG4AkFVX3lxTE9vOXNFd0UtRTdsNXI5VmpNdlM4STRjQlFlN0JTWWpMYnMxUDNTOWlVRWx6aGlDZVRya0paVmlBelpDZTNESXI2NndQSkwwUE9rR2xzV0k5Mkc5Y1FlWGZlN1YzZklLSUs5Nzg4TVRGNDdrQWZfd1BHREpld2tnMU1BdzVkNzktWUxPVVVCa0VNMTNSSENhZk1ycW1pbTQ3NDdlNTloc0tuNUJBak9BTnBiYXJsdENXUnoxdHQwcXdYcDYtVHZOU29ycVE1OXdVRXI1TUxYX25wNEU5NXdhQ29ta3NLQU12OXJBZnc1czJicWpzX19XdjlYNE0tNHJoc2ppUnpXbkxsc2Rlc3ZTalJIQ3FBZzFubHh3N0dHaWQ1UXdrSjhveTZwZ0NfOW1RenU2X1NpYTlSYg?oc=5"
+    },
+    {
+      "id": "0640981eff35d5b39c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-09T20:40:34+02:00",
+      "source": "efe.com",
+      "title": "El incendio de Niebla (Huelva) supera al de Burgohondo (Ávila) en superficie quemada",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
+    },
     {
       "id": "e2435e55d4fe9ced8d",
       "type": "news",
@@ -24,18 +48,6 @@
       "title": "Ayuso anuncia 26 millones de euros para los municipios de la Sierra Oeste afectados por el incendio de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWGNVV3l5WkpyMTJONjRpakpXb01rSUhOMHplaXczemg1Q3BWZ3NhUU5zNjFBZzV0ZkZVcmEwN3FhVDBqRVhRSXFJamd0NXNYV3lyMzRwbEVvZFJhV1dnYUpvMHR5cGZKYmRjQjFlWmpETEl6YkZuQ2NCZWJqakpRRGVMcnFYeFhnbUVTbVdyVkphREl5dTVKUFo2T3AyLTgtcjM1ZndzazZEeUtCUTJsSVpaQnNxdFgxVUVpZDg2UG9ReksxT1lmVVUwNlFDMlNWWDkxUzBCM0NneW5YVWZFLTBnQlNhN1UtU2lXdWh3TUVqWFMzMnptTjNnRjdfaG9LLTlXU2dvdlpWQ1hzUlV0WHRyZmZoRGQ3YmhCbko4a1VBZjI4WFQxUVJuY9IBsAJBVV95cUxNbTQ0Mm5rU1M3WlNWVk9EQWh4dUJ4V1FFdUdjT0tlSkFqel84bVZfc1JhX001Q0hxTzlRei1vU0cwY1RyNVlFVUp2QUFWSHZLN2lTMW5fYTZFTU42amVNVWsyNXJKNmktWGY1eURXUUEwa08xQU8xN0J5VEFjV24zeFVtekROeWF6YTJlZlhxU0xMZnJONUpLUzNIRXdTcHVEMUdyamlTSUg0MUlucGR0eTBfbTB5QWk1RGhUSDJiTXBIaDdnc0NNdW44VEdRTld2WTJhRUFIUjVENDdzcTZxYlV1R0NOMXBzcld5cjVHVHQyRTNaUEU3YTdsNmZkbllHRG9hQjFERXZmVVpidUFPaDhlUmVWRWU2dUNJUzI2emRxQlhOQk16cndsZVRNbGth?oc=5"
-    },
-    {
-      "id": "1ded8118916dcd540d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-09T14:55:12+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "El incendio de Niebla (Huelva) supera al de Burgohondo (Ávila) en superficie quemada",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
     },
     {
       "id": "125f0238268c8f567a",
@@ -62,37 +74,37 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQdIBigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQQ?oc=5"
     },
     {
-      "id": "1bccc595aea9902fac",
+      "id": "6496a75c7585b45ccf",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T12:16:41+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "El incendio de la Sierra Oeste en Santa María de la Alameda se estabiliza: 43 hectáreas afectadas y vigilancia en las próximas horas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWThMM2xNZFlETjNJUkZXMUxZLUNDVWFidHFEdFpkWG9zYVJLelk4TEVWZXdlUjF5a0Q2TU9FQXNoenR5cVR3dlNMeHBMZlVyUmo1Q25ja211Sy1YTGZtNEU4WndQUTk0bG5IdERubjNjUmF6bnJVR083TVB5dWI0alFKZDVoeGZnaXUtUmhhNlJxZDhKZWt4ZGVhQWUxVDNhemlyNHBoa2JaeHE1UXM0REhlSm1HV2RodERSeXdQSHE1OTNTcWd3YWdEX3AtYkg4UW1TVUpmLVc2aHpXbXNMYVRZU2g5NkVtN3JB?oc=5"
     },
     {
-      "id": "fa4e40e404d696d552",
+      "id": "ef8f060c3889554f8b",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T11:20:46+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "Estabilizado el incendio declarado en la Sierra Oeste de Madrid tras calcinar 43 hectáreas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUp4TzRVaDlJX04xU3Z1SkFnM3JxWk9CVTRPM0RTakhkRzZmdE5pQXNkU0J2SnZiRW90VUlic0NoV2VoajZ3dGxmeGFlTFdGemc1ZElpd0t5S01qZENnR3BHbEpNYXpMYV9raXIxMkVuVXhYYXE4VU5JWXY4dVNLN0JxMkVqcUtpSW5FbGFWdTZodkIwVjlTck41YU5NLTRiWERZZGJnUTQ0eXAwMUhEZ2N6ZVp0N3U5X0tXUlRhd3FlaGM?oc=5"
     },
     {
-      "id": "e1ceba3564991b3c20",
+      "id": "f45e44aadf2f21109e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T05:00:00+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "El plan para recuperar la Sierra Oeste suma recursos y una estrategia para lograr un monte más resistente al fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSi03emVCcEpjOV9qdkx6cllwOGVJUGZERVlYSUhTN2k1dUk5N1RCajVydmg3bjB4SHVGLVMzNEc3VVo5NVNrelBfSmN3VHpNV3JRWk9uZV8zRnFqbFNYY1ZfQVVsLUNqeE1sMkJXc2RRMXBqdHp3OHg1UU9QWnhyUzN5dDVlTW0wQ2tfRERkeFd1XzZkSEowdHNwdHdObDVOZF9YaHcyZkRMWVA3N0FZQUNiQUNCVWRtX0d1QmE0VXRqTkhnTWpSQ0ZKakFDMkNTUjQ2SWhrNE5pNzZWaHhJRk1IYVo?oc=5"
@@ -205,13 +217,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 7
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 8
     },
     "direct_media": {
       "ok": true,
