@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T02:28:13+02:00",
+  "generated_at": "2026-09-10T07:06:27+02:00",
   "items": [
     {
       "id": "9737df8e1810bb39e3",
@@ -96,18 +96,6 @@
       "title": "Estabilizado el incendio declarado en la Sierra Oeste de Madrid tras calcinar 43 hectáreas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUp4TzRVaDlJX04xU3Z1SkFnM3JxWk9CVTRPM0RTakhkRzZmdE5pQXNkU0J2SnZiRW90VUlic0NoV2VoajZ3dGxmeGFlTFdGemc1ZElpd0t5S01qZENnR3BHbEpNYXpMYV9raXIxMkVuVXhYYXE4VU5JWXY4dVNLN0JxMkVqcUtpSW5FbGFWdTZodkIwVjlTck41YU5NLTRiWERZZGJnUTQ0eXAwMUhEZ2N6ZVp0N3U5X0tXUlRhd3FlaGM?oc=5"
-    },
-    {
-      "id": "e1ceba3564991b3c20",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-09T05:00:00+02:00",
-      "source": "20Minutos",
-      "title": "El plan para recuperar la Sierra Oeste suma recursos y una estrategia para lograr un monte más resistente al fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSi03emVCcEpjOV9qdkx6cllwOGVJUGZERVlYSUhTN2k1dUk5N1RCajVydmg3bjB4SHVGLVMzNEc3VVo5NVNrelBfSmN3VHpNV3JRWk9uZV8zRnFqbFNYY1ZfQVVsLUNqeE1sMkJXc2RRMXBqdHp3OHg1UU9QWnhyUzN5dDVlTW0wQ2tfRERkeFd1XzZkSEowdHNwdHdObDVOZF9YaHcyZkRMWVA3N0FZQUNiQUNCVWRtX0d1QmE0VXRqTkhnTWpSQ0ZKakFDMkNTUjQ2SWhrNE5pNzZWaHhJRk1IYVo?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -217,13 +205,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 9
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 7
     },
     "direct_media": {
       "ok": true,
