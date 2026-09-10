@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-09-10T15:49:12+02:00",
+  "generated_at": "2026-09-10T19:19:05+02:00",
   "items": [
     {
-      "id": "6eac2f1d9e20178583",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-10T15:42:15+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZms1Y3JEVDU5bGNYakNyLVFEcGxTZzRpOUhOU2t6bUpmeF92MEtQdzhTZndPUXY4LWpBTWo0NzkyaTY1eDVVLTNyUGtrSWZFNWZRY2xyVnFNN1gyaF9yOU5PR2dHVFJINk4zOGRRVWttM0xDYTJMUHlsSmh4QVpsckZUUk5SSzNuUlJ3dlNBcklCQzdwWFA3VmVYci00QnZxRWhtTzFCZDh0ZDJmQU83YkpuZFpDcWFGbU16M0dMQmVQS1RwdEEw?oc=5"
-    },
-    {
-      "id": "e43c19bdcc36cbcac9",
+      "id": "438f1631a8d07beed7",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-10T13:39:39+02:00",
+      "published": "2026-09-10T13:51:40+02:00",
       "source": "Europa Press",
       "title": "Fórmula 1 2026 en Madrid: cómo llegar al circuito Madring, accesos y cortes de tráfico",
       "summary": "El Ayuntamiento recomienda utilizar transporte público y prevé refuerzos en Metro, Cercanías, autobuses y...",
@@ -38,16 +26,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazBTQ0lxT0xjaFpFMzdJdFl5VVcxR3hucUphSXFuRnVXWk9uTlZqVllISDl4ZlRqV0VsamFIMmFtNHA4cHhOTmFFeEV0Nm83eHRkNGpRQU1fSHowU3hkd2xaUFBzQ3JpSWNqUU1ncTRaT09Xa0s2a1hFejhlYWZwWi1kTFJHOE9oLUI1eTdhbVVRdkFGZHRNMXlhWXBoRzZVdG5EZENZWHBndE4zTUg4Vm4wazRFa01fcHpTeHZIWFBiM0QzUTlUaVY4c3Z4c2RXSjBORQ?oc=5"
     },
     {
-      "id": "5549f59b3ffcbb963e",
+      "id": "300fb8776a0c2dab36",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-10T08:14:48+02:00",
-      "source": "Cadena SER",
-      "title": "El de Burgohondo (Ávila) no es el mayor incendio de la historia de España",
+      "published": "2026-09-10T12:33:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd3NfVm9DZEpaM3hxLW5nVDlwemctcWw5cy1qa0o2aGEyV0IzTWNEczZiOF9wSDVkMEhjeUNXZWRkMTk1dTlneGc3NjdSZmVVMUozNDRSYzFna1FER0hOblZrYXFjNDZtcGZwUWdKYkg3aUhicXB4YVpsaXFvZHdXbUNTNUt1UVAyNHR1SnZnaGVrTnhsN0ZUSUl1N3VYT2pMY3p3VWVJMUNwRlBDR2RwSlVPYkluUXdCcVdabkQ3MjZIamN2MFU5TGlZS3Bkdy1DMzJXdzIyRFNzSXlm0gHcAUFVX3lxTE53c19Wb0NkSlozeHEtbmdUOXB6Zy1xbDlzLWprSjZoYTJXQjNNY0RzNmI4X3BINWQwSGN5Q1dlZGQxOTV1OWd4Zzc2N1JmZVUxSjM0NFJjMWdrUURHSE5uVmthcWM0Nm1wZnBRZ0piSDdpSGJxcHhhWmxpcW9kd1dtQ1M1S3VRUDI0dHVKdmdoZWtOeGw3RlRJSXU3dVhPakxjendVZUkxQ3BGUENHZHBKVU9iSW5Rd0JxV1puRDcyNkhqY3YwVTlMaVlLcGR3LUMzMld3MjJEU3NJeWY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZms1Y3JEVDU5bGNYakNyLVFEcGxTZzRpOUhOU2t6bUpmeF92MEtQdzhTZndPUXY4LWpBTWo0NzkyaTY1eDVVLTNyUGtrSWZFNWZRY2xyVnFNN1gyaF9yOU5PR2dHVFJINk4zOGRRVWttM0xDYTJMUHlsSmh4QVpsckZUUk5SSzNuUlJ3dlNBcklCQzdwWFA3VmVYci00QnZxRWhtTzFCZDh0ZDJmQU83YkpuZFpDcWFGbU16M0dMQmVQS1RwdEEw?oc=5"
     },
     {
       "id": "9737df8e1810bb39e3",
@@ -60,30 +48,6 @@
       "title": "El incendio de Niebla (Huelva) supera al de Burgohondo (Ávila) en superficie quemada",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
-    },
-    {
-      "id": "95002315a228a46efe",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-09T18:03:02+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "El juez del incendio de Burgohondo ordena nuevas diligencias y pide informes al Seprona y a la Junta",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2NEZFBFNnIwZVVmWDlVT2FZTDdlRUJod25JWHJiVVg2WWNEb04wX0thbVJRSjNwR2xVaHFoLWZ4MWd5N0ExUnZIWC02ZEN5LW1wZWtuYWhjam95Z0pDYjU2VUtXb2E5MVRZemJuV2hEa096U1NUMjE3eUJ3a28xZHBRdmE2bk1FT0o0UGktYlpmbE5KYVY0STJvcXNOcWZXYXVVV25yNVYzenJsVnFySDRVQkh6Y1hocG9felVaTWVURnY5cWZPZGhxXzN6ZDc1eDVQRmZKMU5EQWJOVlE?oc=5"
-    },
-    {
-      "id": "835fae990cfc8ff4ab",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-09T16:51:49+02:00",
-      "source": "telemadrid.es",
-      "title": "Ayuso anuncia 26 millones de euros para los municipios de la Sierra Oeste afectados por el incendio de este verano",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbTQ0Mm5rU1M3WlNWVk9EQWh4dUJ4V1FFdUdjT0tlSkFqel84bVZfc1JhX001Q0hxTzlRei1vU0cwY1RyNVlFVUp2QUFWSHZLN2lTMW5fYTZFTU42amVNVWsyNXJKNmktWGY1eURXUUEwa08xQU8xN0J5VEFjV24zeFVtekROeWF6YTJlZlhxU0xMZnJONUpLUzNIRXdTcHVEMUdyamlTSUg0MUlucGR0eTBfbTB5QWk1RGhUSDJiTXBIaDdnc0NNdW44VEdRTld2WTJhRUFIUjVENDdzcTZxYlV1R0NOMXBzcld5cjVHVHQyRTNaUEU3YTdsNmZkbllHRG9hQjFERXZmVVpidUFPaDhlUmVWRWU2dUNJUzI2emRxQlhOQk16cndsZVRNbGth0gGwAkFVX3lxTE1tNDQybmtTUzdaU1ZWT0RBaHh1QnhXUUV1R2NPS2VKQWp6XzhtVl9zUmFfTTVDSHFPOVF6LW9TRzBjVHI1WUVVSnZBQVZIdks3aVMxbl9hNkVNTjZqZU1VazI1cko2aS1YZjV5RFdRQTBrTzFBTzE3QnlUQWNXbjN4VW16RE55YXphMmVmWHFTTExmck41SktTM0hFd1NwdUQxR3JqaVNJSDQxSW5wZHR5MF9tMHlBaTVEaFRIMmJNcEhoN2dzQ011bjhUR1FOV3ZZMmFFQUhSNUQ0N3NxNnFiVXVHQ04xcHNyV3lyNUdUdDJFM1pQRTdhN2w2ZmRuWUdEb2FCMURFdmZVWmJ1QU9oOGVSZVZFZTZ1Q0lTMjZ6ZHFCWE5CTXpyd2xlVE1sa2E?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -199,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 3
     },
     "direct_media": {
       "ok": true,
