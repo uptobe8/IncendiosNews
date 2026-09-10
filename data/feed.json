@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-10T11:39:15+02:00",
+  "generated_at": "2026-09-10T15:49:12+02:00",
   "items": [
+    {
+      "id": "6eac2f1d9e20178583",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-10T15:42:15+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZms1Y3JEVDU5bGNYakNyLVFEcGxTZzRpOUhOU2t6bUpmeF92MEtQdzhTZndPUXY4LWpBTWo0NzkyaTY1eDVVLTNyUGtrSWZFNWZRY2xyVnFNN1gyaF9yOU5PR2dHVFJINk4zOGRRVWttM0xDYTJMUHlsSmh4QVpsckZUUk5SSzNuUlJ3dlNBcklCQzdwWFA3VmVYci00QnZxRWhtTzFCZDh0ZDJmQU83YkpuZFpDcWFGbU16M0dMQmVQS1RwdEEw?oc=5"
+    },
+    {
+      "id": "e43c19bdcc36cbcac9",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-10T13:39:39+02:00",
+      "source": "Europa Press",
+      "title": "Fórmula 1 2026 en Madrid: cómo llegar al circuito Madring, accesos y cortes de tráfico",
+      "summary": "El Ayuntamiento recomienda utilizar transporte público y prevé refuerzos en Metro, Cercanías, autobuses y...",
+      "url": "https://www.europapress.es/madrid/noticia-formula-2026-madrid-llegar-circuito-madring-accesos-cortes-trafico-20260910133939.html"
+    },
+    {
+      "id": "3d1495ad069961ad9d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-10T12:51:18+02:00",
+      "source": "Europa Press",
+      "title": "Ayuso reivindica la labor de su portavoz en la reconstrucción \"inédita\" de la Sierra Oeste tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazBTQ0lxT0xjaFpFMzdJdFl5VVcxR3hucUphSXFuRnVXWk9uTlZqVllISDl4ZlRqV0VsamFIMmFtNHA4cHhOTmFFeEV0Nm83eHRkNGpRQU1fSHowU3hkd2xaUFBzQ3JpSWNqUU1ncTRaT09Xa0s2a1hFejhlYWZwWi1kTFJHOE9oLUI1eTdhbVVRdkFGZHRNMXlhWXBoRzZVdG5EZENZWHBndE4zTUg4Vm4wazRFa01fcHpTeHZIWFBiM0QzUTlUaVY4c3Z4c2RXSjBORQ?oc=5"
+    },
     {
       "id": "5549f59b3ffcbb963e",
       "type": "news",
@@ -38,64 +74,16 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2NEZFBFNnIwZVVmWDlVT2FZTDdlRUJod25JWHJiVVg2WWNEb04wX0thbVJRSjNwR2xVaHFoLWZ4MWd5N0ExUnZIWC02ZEN5LW1wZWtuYWhjam95Z0pDYjU2VUtXb2E5MVRZemJuV2hEa096U1NUMjE3eUJ3a28xZHBRdmE2bk1FT0o0UGktYlpmbE5KYVY0STJvcXNOcWZXYXVVV25yNVYzenJsVnFySDRVQkh6Y1hocG9felVaTWVURnY5cWZPZGhxXzN6ZDc1eDVQRmZKMU5EQWJOVlE?oc=5"
     },
     {
-      "id": "909e4a63c38cb64b21",
+      "id": "835fae990cfc8ff4ab",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T16:51:49+02:00",
-      "source": "Telemadrid",
+      "source": "telemadrid.es",
       "title": "Ayuso anuncia 26 millones de euros para los municipios de la Sierra Oeste afectados por el incendio de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbTQ0Mm5rU1M3WlNWVk9EQWh4dUJ4V1FFdUdjT0tlSkFqel84bVZfc1JhX001Q0hxTzlRei1vU0cwY1RyNVlFVUp2QUFWSHZLN2lTMW5fYTZFTU42amVNVWsyNXJKNmktWGY1eURXUUEwa08xQU8xN0J5VEFjV24zeFVtekROeWF6YTJlZlhxU0xMZnJONUpLUzNIRXdTcHVEMUdyamlTSUg0MUlucGR0eTBfbTB5QWk1RGhUSDJiTXBIaDdnc0NNdW44VEdRTld2WTJhRUFIUjVENDdzcTZxYlV1R0NOMXBzcld5cjVHVHQyRTNaUEU3YTdsNmZkbllHRG9hQjFERXZmVVpidUFPaDhlUmVWRWU2dUNJUzI2emRxQlhOQk16cndsZVRNbGth0gGwAkFVX3lxTE1tNDQybmtTUzdaU1ZWT0RBaHh1QnhXUUV1R2NPS2VKQWp6XzhtVl9zUmFfTTVDSHFPOVF6LW9TRzBjVHI1WUVVSnZBQVZIdks3aVMxbl9hNkVNTjZqZU1VazI1cko2aS1YZjV5RFdRQTBrTzFBTzE3QnlUQWNXbjN4VW16RE55YXphMmVmWHFTTExmck41SktTM0hFd1NwdUQxR3JqaVNJSDQxSW5wZHR5MF9tMHlBaTVEaFRIMmJNcEhoN2dzQ011bjhUR1FOV3ZZMmFFQUhSNUQ0N3NxNnFiVXVHQ04xcHNyV3lyNUdUdDJFM1pQRTdhN2w2ZmRuWUdEb2FCMURFdmZVWmJ1QU9oOGVSZVZFZTZ1Q0lTMjZ6ZHFCWE5CTXpyd2xlVE1sa2E?oc=5"
-    },
-    {
-      "id": "fa80b2097d6f8fcdd9",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Navas del Rey",
-      "published": "2026-09-09T15:04:19+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid estudia prolongar el desdoblamiento de la carretera M-501 desde Navas del Rey hasta el límite con Castilla y León",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbzlzRXdFLUU3bDVyOVZqTXZTOEk0Y0JRZTdCU1lqTGJzMVAzUzlpVUVsemhpQ2VUcmtKWlZpQXpaQ2UzRElyNjZ3UEpMMFBPa0dsc1dJOTJHOWNRZVhmZTdWM2ZJS0lLOTc4OE1URjQ3a0FmX3dQR0RKZXdrZzFNQXc1ZDc5LVlMT1VVQmtFTTEzUkhDYWZNcnFtaW00NzQ3ZTU5aHNLbjVCQWpPQU5wYmFybHRDV1J6MXR0MHF3WHA2LVR2TlNvcnFRNTl3VUVyNU1MWF9ucDRFOTV3YUNvbWtzS0FNdjlyQWZ3NXMyYnFqc19fV3Y5WDRNLTRyaHNqaVJ6V25MbHNkZXN2U2pSSENxQWcxbmx4dzdHR2lkNVF3a0o4b3k2cGdDXzltUXp1Nl9TaWE5UmLSAbgCQVVfeXFMT285c0V3RS1FN2w1cjlWak12UzhJNGNCUWU3QlNZakxiczFQM1M5aVVFbHpoaUNlVHJrSlpWaUF6WkNlM0RJcjY2d1BKTDBQT2tHbHNXSTkyRzljUWVYZmU3VjNmSUtJSzk3ODhNVEY0N2tBZl93UEdESmV3a2cxTUF3NWQ3OS1ZTE9VVUJrRU0xM1JIQ2FmTXJxbWltNDc0N2U1OWhzS241QkFqT0FOcGJhcmx0Q1dSejF0dDBxd1hwNi1Udk5Tb3JxUTU5d1VFcjVNTFhfbnA0RTk1d2FDb21rc0tBTXY5ckFmdzVzMmJxanNfX1d2OVg0TS00cmhzamlSelduTGxzZGVzdlNqUkhDcUFnMW5seHc3R0dpZDVRd2tKOG95NnBnQ185bVF6dTZfU2lhOVJi?oc=5"
-    },
-    {
-      "id": "125f0238268c8f567a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-09T13:15:48+02:00",
-      "source": "Europa Press",
-      "title": "Más Madrid acusa al PP de \"vetar\" el acceso a los documentos sobre el ático de Chamberí: \"Están muertos de miedo\"",
-      "summary": "Sostiene que la Mesa de la Asamblea, con mayoría 'popular', convocó una reunión de urgencia por Whatsapp...",
-      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-acusa-pp-vetar-acceso-documentos-atico-chamberi-estan-muertos-miedo-20260909131548.html"
-    },
-    {
-      "id": "0606a68d9c1250411e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-09T13:01:38+02:00",
-      "source": "Telemadrid",
-      "title": "Los montes públicos recibirán 2,8 millones para su recuperación tras el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWXhGSGs1TGFZQUNFSlRzY2FuVXN0UFd6bjBqNUFCdW0xX2tyY0FwVktBS1ZWRTdTNy1vSmlybm54Z21wdWhEeEpOMEo4WGxQbUlVRmRNN2dldkY1cUZfNTgwRWZWcVFTUmFHcFJvalB0eDJsYzRrSGtWblM3VjNBR1lqek1Nc0VUcDI2aTRuT2JrMHZBbTJEUXhtMVJaMXFfM1ZQSUIxOXhQMnI2cE01d0sweExpQVJPaDkwX1NsZElRM0Zham82cDhSVl9pUFpSNzlfeWM3MlZCZDIxTWh5VzZ0X0E2ZjZVSHdpcC1OMmFyMXlsTU8wYXU0Y3pNUEJwckR1Z9IBigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQQ?oc=5"
-    },
-    {
-      "id": "6496a75c7585b45ccf",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-09T12:16:41+02:00",
-      "source": "20minutos.es",
-      "title": "El incendio de la Sierra Oeste en Santa María de la Alameda se estabiliza: 43 hectáreas afectadas y vigilancia en las próximas horas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWThMM2xNZFlETjNJUkZXMUxZLUNDVWFidHFEdFpkWG9zYVJLelk4TEVWZXdlUjF5a0Q2TU9FQXNoenR5cVR3dlNMeHBMZlVyUmo1Q25ja211Sy1YTGZtNEU4WndQUTk0bG5IdERubjNjUmF6bnJVR083TVB5dWI0alFKZDVoeGZnaXUtUmhhNlJxZDhKZWt4ZGVhQWUxVDNhemlyNHBoa2JaeHE1UXM0REhlSm1HV2RodERSeXdQSHE1OTNTcWd3YWdEX3AtYkg4UW1TVUpmLVc2aHpXbXNMYVRZU2g5NkVtN3JB?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -211,11 +199,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 6
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 3
     }
   },
   "refresh_seconds": 300
