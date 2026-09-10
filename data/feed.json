@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-10T00:27:58+02:00",
+  "generated_at": "2026-09-10T02:28:13+02:00",
   "items": [
     {
-      "id": "0640981eff35d5b39c",
+      "id": "9737df8e1810bb39e3",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-09-09T20:40:34+02:00",
-      "source": "efe.com",
+      "source": "EFE - Agencia de noticias",
       "title": "El incendio de Niebla (Huelva) supera al de Burgohondo (Ávila) en superficie quemada",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
@@ -26,16 +26,16 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2NEZFBFNnIwZVVmWDlVT2FZTDdlRUJod25JWHJiVVg2WWNEb04wX0thbVJRSjNwR2xVaHFoLWZ4MWd5N0ExUnZIWC02ZEN5LW1wZWtuYWhjam95Z0pDYjU2VUtXb2E5MVRZemJuV2hEa096U1NUMjE3eUJ3a28xZHBRdmE2bk1FT0o0UGktYlpmbE5KYVY0STJvcXNOcWZXYXVVV25yNVYzenJsVnFySDRVQkh6Y1hocG9felVaTWVURnY5cWZPZGhxXzN6ZDc1eDVQRmZKMU5EQWJOVlE?oc=5"
     },
     {
-      "id": "01f2a18b215d1577bb",
+      "id": "909e4a63c38cb64b21",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-09T16:51:50+02:00",
+      "published": "2026-09-09T16:51:49+02:00",
       "source": "Telemadrid",
       "title": "Ayuso anuncia 26 millones de euros para los municipios de la Sierra Oeste afectados por el incendio de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWGNVV3l5WkpyMTJONjRpakpXb01rSUhOMHplaXczemg1Q3BWZ3NhUU5zNjFBZzV0ZkZVcmEwN3FhVDBqRVhRSXFJamd0NXNYV3lyMzRwbEVvZFJhV1dnYUpvMHR5cGZKYmRjQjFlWmpETEl6YkZuQ2NCZWJqakpRRGVMcnFYeFhnbUVTbVdyVkphREl5dTVKUFo2T3AyLTgtcjM1ZndzazZEeUtCUTJsSVpaQnNxdFgxVUVpZDg2UG9ReksxT1lmVVUwNlFDMlNWWDkxUzBCM0NneW5YVWZFLTBnQlNhN1UtU2lXdWh3TUVqWFMzMnptTjNnRjdfaG9LLTlXU2dvdlpWQ1hzUlV0WHRyZmZoRGQ3YmhCbko4a1VBZjI4WFQxUVJuY9IBsAJBVV95cUxNbTQ0Mm5rU1M3WlNWVk9EQWh4dUJ4V1FFdUdjT0tlSkFqel84bVZfc1JhX001Q0hxTzlRei1vU0cwY1RyNVlFVUp2QUFWSHZLN2lTMW5fYTZFTU42amVNVWsyNXJKNmktWGY1eURXUUEwa08xQU8xN0J5VEFjV24zeFVtekROeWF6YTJlZlhxU0xMZnJONUpLUzNIRXdTcHVEMUdyamlTSUg0MUlucGR0eTBfbTB5QWk1RGhUSDJiTXBIaDdnc0NNdW44VEdRTld2WTJhRUFIUjVENDdzcTZxYlV1R0NOMXBzcld5cjVHVHQyRTNaUEU3YTdsNmZkbllHRG9hQjFERXZmVVpidUFPaDhlUmVWRWU2dUNJUzI2emRxQlhOQk16cndsZVRNbGth?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbTQ0Mm5rU1M3WlNWVk9EQWh4dUJ4V1FFdUdjT0tlSkFqel84bVZfc1JhX001Q0hxTzlRei1vU0cwY1RyNVlFVUp2QUFWSHZLN2lTMW5fYTZFTU42amVNVWsyNXJKNmktWGY1eURXUUEwa08xQU8xN0J5VEFjV24zeFVtekROeWF6YTJlZlhxU0xMZnJONUpLUzNIRXdTcHVEMUdyamlTSUg0MUlucGR0eTBfbTB5QWk1RGhUSDJiTXBIaDdnc0NNdW44VEdRTld2WTJhRUFIUjVENDdzcTZxYlV1R0NOMXBzcld5cjVHVHQyRTNaUEU3YTdsNmZkbllHRG9hQjFERXZmVVpidUFPaDhlUmVWRWU2dUNJUzI2emRxQlhOQk16cndsZVRNbGth0gGwAkFVX3lxTE1tNDQybmtTUzdaU1ZWT0RBaHh1QnhXUUV1R2NPS2VKQWp6XzhtVl9zUmFfTTVDSHFPOVF6LW9TRzBjVHI1WUVVSnZBQVZIdks3aVMxbl9hNkVNTjZqZU1VazI1cko2aS1YZjV5RFdRQTBrTzFBTzE3QnlUQWNXbjN4VW16RE55YXphMmVmWHFTTExmck41SktTM0hFd1NwdUQxR3JqaVNJSDQxSW5wZHR5MF9tMHlBaTVEaFRIMmJNcEhoN2dzQ011bjhUR1FOV3ZZMmFFQUhSNUQ0N3NxNnFiVXVHQ04xcHNyV3lyNUdUdDJFM1pQRTdhN2w2ZmRuWUdEb2FCMURFdmZVWmJ1QU9oOGVSZVZFZTZ1Q0lTMjZ6ZHFCWE5CTXpyd2xlVE1sa2E?oc=5"
     },
     {
       "id": "fa80b2097d6f8fcdd9",
@@ -71,40 +71,40 @@
       "source": "Telemadrid",
       "title": "Los montes públicos recibirán 2,8 millones para su recuperación tras el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQdIBigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWXhGSGs1TGFZQUNFSlRzY2FuVXN0UFd6bjBqNUFCdW0xX2tyY0FwVktBS1ZWRTdTNy1vSmlybm54Z21wdWhEeEpOMEo4WGxQbUlVRmRNN2dldkY1cUZfNTgwRWZWcVFTUmFHcFJvalB0eDJsYzRrSGtWblM3VjNBR1lqek1Nc0VUcDI2aTRuT2JrMHZBbTJEUXhtMVJaMXFfM1ZQSUIxOXhQMnI2cE01d0sweExpQVJPaDkwX1NsZElRM0Zham82cDhSVl9pUFpSNzlfeWM3MlZCZDIxTWh5VzZ0X0E2ZjZVSHdpcC1OMmFyMXlsTU8wYXU0Y3pNUEJwckR1Z9IBigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQQ?oc=5"
     },
     {
-      "id": "6496a75c7585b45ccf",
+      "id": "1bccc595aea9902fac",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T12:16:41+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "El incendio de la Sierra Oeste en Santa María de la Alameda se estabiliza: 43 hectáreas afectadas y vigilancia en las próximas horas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWThMM2xNZFlETjNJUkZXMUxZLUNDVWFidHFEdFpkWG9zYVJLelk4TEVWZXdlUjF5a0Q2TU9FQXNoenR5cVR3dlNMeHBMZlVyUmo1Q25ja211Sy1YTGZtNEU4WndQUTk0bG5IdERubjNjUmF6bnJVR083TVB5dWI0alFKZDVoeGZnaXUtUmhhNlJxZDhKZWt4ZGVhQWUxVDNhemlyNHBoa2JaeHE1UXM0REhlSm1HV2RodERSeXdQSHE1OTNTcWd3YWdEX3AtYkg4UW1TVUpmLVc2aHpXbXNMYVRZU2g5NkVtN3JB?oc=5"
     },
     {
-      "id": "ef8f060c3889554f8b",
+      "id": "fa4e40e404d696d552",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T11:20:46+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "Estabilizado el incendio declarado en la Sierra Oeste de Madrid tras calcinar 43 hectáreas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUp4TzRVaDlJX04xU3Z1SkFnM3JxWk9CVTRPM0RTakhkRzZmdE5pQXNkU0J2SnZiRW90VUlic0NoV2VoajZ3dGxmeGFlTFdGemc1ZElpd0t5S01qZENnR3BHbEpNYXpMYV9raXIxMkVuVXhYYXE4VU5JWXY4dVNLN0JxMkVqcUtpSW5FbGFWdTZodkIwVjlTck41YU5NLTRiWERZZGJnUTQ0eXAwMUhEZ2N6ZVp0N3U5X0tXUlRhd3FlaGM?oc=5"
     },
     {
-      "id": "f45e44aadf2f21109e",
+      "id": "e1ceba3564991b3c20",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T05:00:00+02:00",
-      "source": "20minutos.es",
+      "source": "20Minutos",
       "title": "El plan para recuperar la Sierra Oeste suma recursos y una estrategia para lograr un monte más resistente al fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSi03emVCcEpjOV9qdkx6cllwOGVJUGZERVlYSUhTN2k1dUk5N1RCajVydmg3bjB4SHVGLVMzNEc3VVo5NVNrelBfSmN3VHpNV3JRWk9uZV8zRnFqbFNYY1ZfQVVsLUNqeE1sMkJXc2RRMXBqdHp3OHg1UU9QWnhyUzN5dDVlTW0wQ2tfRERkeFd1XzZkSEowdHNwdHdObDVOZF9YaHcyZkRMWVA3N0FZQUNiQUNCVWRtX0d1QmE0VXRqTkhnTWpSQ0ZKakFDMkNTUjQ2SWhrNE5pNzZWaHhJRk1IYVo?oc=5"
@@ -217,13 +217,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 9
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 8
     },
     "direct_media": {
       "ok": true,
