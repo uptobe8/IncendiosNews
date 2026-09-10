@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T23:59:05+02:00",
+  "generated_at": "2026-09-11T01:58:42+02:00",
   "items": [
     {
-      "id": "67b083c670c45ce96d",
+      "id": "973dcff43dae1cb6d5",
       "type": "news",
       "severity": "critical",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-10T21:07:47+02:00",
+      "published": "2026-09-10T21:33:00+02:00",
       "source": "Tribuna de Ávila",
       "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -50,16 +50,28 @@
       "url": "https://www.europapress.es/madrid/noticia-formula-2026-madrid-llegar-circuito-madring-accesos-cortes-trafico-20260910133939.html"
     },
     {
-      "id": "a9eee13f6ce131dce6",
+      "id": "3d1495ad069961ad9d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-10T12:51:18+02:00",
+      "source": "Europa Press",
+      "title": "Ayuso reivindica la labor de su portavoz en la reconstrucción \"inédita\" de la Sierra Oeste tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazBTQ0lxT0xjaFpFMzdJdFl5VVcxR3hucUphSXFuRnVXWk9uTlZqVllISDl4ZlRqV0VsamFIMmFtNHA4cHhOTmFFeEV0Nm83eHRkNGpRQU1fSHowU3hkd2xaUFBzQ3JpSWNqUU1ncTRaT09Xa0s2a1hFejhlYWZwWi1kTFJHOE9oLUI1eTdhbVVRdkFGZHRNMXlhWXBoRzZVdG5EZENZWHBndE4zTUg4Vm4wazRFa01fcHpTeHZIWFBiM0QzUTlUaVY4c3Z4c2RXSjBORQ?oc=5"
+    },
+    {
+      "id": "5549f59b3ffcbb963e",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-09-10T08:14:38+02:00",
+      "published": "2026-09-10T08:14:48+02:00",
       "source": "Cadena SER",
       "title": "El de Burgohondo (Ávila) no es el mayor incendio de la historia de España",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdFdmUmNCc2ZVbkVUeTc3bmVaS0J4b0VTNVA4dWpUWGZmU0JGVGZnX3I1TFhPNDZCWW1vRnh0clVVQWJZNkR6SV9FbVBpNHBGcnAzUnEyUzNFRzlvLXBTUE9xQWRTZzVIbVFfOXJJR2FTc2RoUmZJcEdJM25feGduOXpBLTRzUW5PUzZVNFBRMk1Dd1pWUWkzU2x2UmFObjlnMEhtaTFVX0FWX1hvcXl4YjB2LW9mbjZyOEhRblpQZi1LWVZSOW1oRtIB3AFBVV95cUxOd3NfVm9DZEpaM3hxLW5nVDlwemctcWw5cy1qa0o2aGEyV0IzTWNEczZiOF9wSDVkMEhjeUNXZWRkMTk1dTlneGc3NjdSZmVVMUozNDRSYzFna1FER0hOblZrYXFjNDZtcGZwUWdKYkg3aUhicXB4YVpsaXFvZHdXbUNTNUt1UVAyNHR1SnZnaGVrTnhsN0ZUSUl1N3VYT2pMY3p3VWVJMUNwRlBDR2RwSlVPYkluUXdCcVdabkQ3MjZIamN2MFU5TGlZS3Bkdy1DMzJXdzIyRFNzSXlm?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd3NfVm9DZEpaM3hxLW5nVDlwemctcWw5cy1qa0o2aGEyV0IzTWNEczZiOF9wSDVkMEhjeUNXZWRkMTk1dTlneGc3NjdSZmVVMUozNDRSYzFna1FER0hOblZrYXFjNDZtcGZwUWdKYkg3aUhicXB4YVpsaXFvZHdXbUNTNUt1UVAyNHR1SnZnaGVrTnhsN0ZUSUl1N3VYT2pMY3p3VWVJMUNwRlBDR2RwSlVPYkluUXdCcVdabkQ3MjZIamN2MFU5TGlZS3Bkdy1DMzJXdzIyRFNzSXlm0gHcAUFVX3lxTE53c19Wb0NkSlozeHEtbmdUOXB6Zy1xbDlzLWprSjZoYTJXQjNNY0RzNmI4X3BINWQwSGN5Q1dlZGQxOTV1OWd4Zzc2N1JmZVUxSjM0NFJjMWdrUURHSE5uVmthcWM0Nm1wZnBRZ0piSDdpSGJxcHhhWmxpcW9kd1dtQ1M1S3VRUDI0dHVKdmdoZWtOeGw3RlRJSXU3dVhPakxjendVZUkxQ3BGUENHZHBKVU9iSW5Rd0JxV1puRDcyNkhqY3YwVTlMaVlLcGR3LUMzMld3MjJEU3NJeWY?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -175,7 +187,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 5
     },
     "direct_media": {
       "ok": true,
