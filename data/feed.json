@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-10T19:19:05+02:00",
+  "generated_at": "2026-09-10T21:50:36+02:00",
   "items": [
+    {
+      "id": "67b083c670c45ce96d",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-10T21:07:47+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZms1Y3JEVDU5bGNYakNyLVFEcGxTZzRpOUhOU2t6bUpmeF92MEtQdzhTZndPUXY4LWpBTWo0NzkyaTY1eDVVLTNyUGtrSWZFNWZRY2xyVnFNN1gyaF9yOU5PR2dHVFJINk4zOGRRVWttM0xDYTJMUHlsSmh4QVpsckZUUk5SSzNuUlJ3dlNBcklCQzdwWFA3VmVYci00QnZxRWhtTzFCZDh0ZDJmQU83YkpuZFpDcWFGbU16M0dMQmVQS1RwdEEw?oc=5"
+    },
+    {
+      "id": "84f8350db613a691d7",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-10T16:51:24+02:00",
+      "source": "Diario de Ávila",
+      "title": "Aprobados más de 212.000 euros para ayudas por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVWoxZUVvMG1wMzBQTFZVVmxwQUFLUUZDZXJlMFI4Qk9ydDhpYklYdE4yRXdrSjMxLVZ4UFhJNDRNOWZLdDJmajJ0dWdTYUVVOEVCVVNoR3pQNXdYdThueHpwLWFtZDRXS1dUOElRbU9iZWZxRmRhV3lBSVVTOXR3aDJqblB2VV9wWjB5RElCWDZmcW40dmYzR0o1NkRJTExVbm5LaUlwSmJXWjNwaFIxQ0JmaGZTNjhjWHFPWl92My1rVW04M1NLNy1PSGZadk1UZllJSEFuSGI?oc=5"
+    },
     {
       "id": "438f1631a8d07beed7",
       "type": "news",
@@ -24,30 +48,6 @@
       "title": "Ayuso reivindica la labor de su portavoz en la reconstrucción \"inédita\" de la Sierra Oeste tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazBTQ0lxT0xjaFpFMzdJdFl5VVcxR3hucUphSXFuRnVXWk9uTlZqVllISDl4ZlRqV0VsamFIMmFtNHA4cHhOTmFFeEV0Nm83eHRkNGpRQU1fSHowU3hkd2xaUFBzQ3JpSWNqUU1ncTRaT09Xa0s2a1hFejhlYWZwWi1kTFJHOE9oLUI1eTdhbVVRdkFGZHRNMXlhWXBoRzZVdG5EZENZWHBndE4zTUg4Vm4wazRFa01fcHpTeHZIWFBiM0QzUTlUaVY4c3Z4c2RXSjBORQ?oc=5"
-    },
-    {
-      "id": "300fb8776a0c2dab36",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-10T12:33:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZms1Y3JEVDU5bGNYakNyLVFEcGxTZzRpOUhOU2t6bUpmeF92MEtQdzhTZndPUXY4LWpBTWo0NzkyaTY1eDVVLTNyUGtrSWZFNWZRY2xyVnFNN1gyaF9yOU5PR2dHVFJINk4zOGRRVWttM0xDYTJMUHlsSmh4QVpsckZUUk5SSzNuUlJ3dlNBcklCQzdwWFA3VmVYci00QnZxRWhtTzFCZDh0ZDJmQU83YkpuZFpDcWFGbU16M0dMQmVQS1RwdEEw?oc=5"
-    },
-    {
-      "id": "9737df8e1810bb39e3",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-09T20:40:34+02:00",
-      "source": "EFE - Agencia de noticias",
-      "title": "El incendio de Niebla (Huelva) supera al de Burgohondo (Ávila) en superficie quemada",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seTNvTFJZZUwydjV1U05FdGtZQkUwU0pnSUtZUndod1pmTHFOWDk1aUJEM3p5QmtsVlhRMm5YcFl5R1I1aXl0cmRLcEVWNHBNbzl3b3A1YVZmRjJfSWNhaEtxUS1FNGdwX0JESlZsNkI?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
