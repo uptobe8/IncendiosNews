@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-10T07:06:27+02:00",
+  "generated_at": "2026-09-10T11:39:15+02:00",
   "items": [
+    {
+      "id": "5549f59b3ffcbb963e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-10T08:14:48+02:00",
+      "source": "Cadena SER",
+      "title": "El de Burgohondo (Ávila) no es el mayor incendio de la historia de España",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd3NfVm9DZEpaM3hxLW5nVDlwemctcWw5cy1qa0o2aGEyV0IzTWNEczZiOF9wSDVkMEhjeUNXZWRkMTk1dTlneGc3NjdSZmVVMUozNDRSYzFna1FER0hOblZrYXFjNDZtcGZwUWdKYkg3aUhicXB4YVpsaXFvZHdXbUNTNUt1UVAyNHR1SnZnaGVrTnhsN0ZUSUl1N3VYT2pMY3p3VWVJMUNwRlBDR2RwSlVPYkluUXdCcVdabkQ3MjZIamN2MFU5TGlZS3Bkdy1DMzJXdzIyRFNzSXlm0gHcAUFVX3lxTE53c19Wb0NkSlozeHEtbmdUOXB6Zy1xbDlzLWprSjZoYTJXQjNNY0RzNmI4X3BINWQwSGN5Q1dlZGQxOTV1OWd4Zzc2N1JmZVUxSjM0NFJjMWdrUURHSE5uVmthcWM0Nm1wZnBRZ0piSDdpSGJxcHhhWmxpcW9kd1dtQ1M1S3VRUDI0dHVKdmdoZWtOeGw3RlRJSXU3dVhPakxjendVZUkxQ3BGUENHZHBKVU9iSW5Rd0JxV1puRDcyNkhqY3YwVTlMaVlLcGR3LUMzMld3MjJEU3NJeWY?oc=5"
+    },
     {
       "id": "9737df8e1810bb39e3",
       "type": "news",
@@ -74,28 +86,16 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWXhGSGs1TGFZQUNFSlRzY2FuVXN0UFd6bjBqNUFCdW0xX2tyY0FwVktBS1ZWRTdTNy1vSmlybm54Z21wdWhEeEpOMEo4WGxQbUlVRmRNN2dldkY1cUZfNTgwRWZWcVFTUmFHcFJvalB0eDJsYzRrSGtWblM3VjNBR1lqek1Nc0VUcDI2aTRuT2JrMHZBbTJEUXhtMVJaMXFfM1ZQSUIxOXhQMnI2cE01d0sweExpQVJPaDkwX1NsZElRM0Zham82cDhSVl9pUFpSNzlfeWM3MlZCZDIxTWh5VzZ0X0E2ZjZVSHdpcC1OMmFyMXlsTU8wYXU0Y3pNUEJwckR1Z9IBigJBVV95cUxONzJBckZXM2w3S1FqMlBRYWM2QnpaVzJHVE50U1NMVi1maGNKR1Bxd2ZQbnVaVVg5dWxKMWtIazF1d05yMjlMQTFJVWdlUW9oX1hQY09jVV9ITHo3YU1Wb1VQOXZDZ3Fjckprem1uYU45Q1BRTDFRR3k3VTh5d1pIWERmRDF6RXNEb0t5Y2RSeXY1cVBGaFJfZXpmWi0yUFNDdTBoeDlhblFxemkyZ0RxZ25mdnRVOGlNYkhUVExocGdPcEdnVTJJZi1xaVllckJkR1hNRjVrUzlTLW5qUi1haWNXaU1nMTdqTk90VVRqbXpXeE1VTUFKQ2ZPODR2bjFzX1U4dEZ2cTBEQQ?oc=5"
     },
     {
-      "id": "1bccc595aea9902fac",
+      "id": "6496a75c7585b45ccf",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-09-09T12:16:41+02:00",
-      "source": "20Minutos",
+      "source": "20minutos.es",
       "title": "El incendio de la Sierra Oeste en Santa María de la Alameda se estabiliza: 43 hectáreas afectadas y vigilancia en las próximas horas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWThMM2xNZFlETjNJUkZXMUxZLUNDVWFidHFEdFpkWG9zYVJLelk4TEVWZXdlUjF5a0Q2TU9FQXNoenR5cVR3dlNMeHBMZlVyUmo1Q25ja211Sy1YTGZtNEU4WndQUTk0bG5IdERubjNjUmF6bnJVR083TVB5dWI0alFKZDVoeGZnaXUtUmhhNlJxZDhKZWt4ZGVhQWUxVDNhemlyNHBoa2JaeHE1UXM0REhlSm1HV2RodERSeXdQSHE1OTNTcWd3YWdEX3AtYkg4UW1TVUpmLVc2aHpXbXNMYVRZU2g5NkVtN3JB?oc=5"
-    },
-    {
-      "id": "fa4e40e404d696d552",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-09T11:20:46+02:00",
-      "source": "20Minutos",
-      "title": "Estabilizado el incendio declarado en la Sierra Oeste de Madrid tras calcinar 43 hectáreas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUp4TzRVaDlJX04xU3Z1SkFnM3JxWk9CVTRPM0RTakhkRzZmdE5pQXNkU0J2SnZiRW90VUlic0NoV2VoajZ3dGxmeGFlTFdGemc1ZElpd0t5S01qZENnR3BHbEpNYXpMYV9raXIxMkVuVXhYYXE4VU5JWXY4dVNLN0JxMkVqcUtpSW5FbGFWdTZodkIwVjlTck41YU5NLTRiWERZZGJnUTQ0eXAwMUhEZ2N6ZVp0N3U5X0tXUlRhd3FlaGM?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
