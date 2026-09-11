@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:28:23+02:00",
+  "generated_at": "2026-09-11T19:07:08+02:00",
   "items": [
     {
       "id": "973dcff43dae1cb6d5",
@@ -24,18 +24,6 @@
       "title": "La Junta defiende su actuación en el incendio ante las críticas del PSOE y las dudas de XAV",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JQOVI4WUYtT2dBeWJxYThUTGw1UkhxekQyY3ZpYUttRmswN2Q4WlRBMjJ0TGJmN3ZRaGptWVpJUi1ob1NwXzBJdzBvNU1saUI2ZE51NXRTOXJmdzRNRDVFTEVvWXVoa2VseXpUX1lSTkpUcF8yY0VpdWVZdndtN1ctaUJISzlTMFNGekZ3aGdiM0lERjNIc2Ywb0NtQktyVHlpUWVBcHdBQ1pjQThvNzY3UGE5MTFoRnRudW5pcnhzeEZyd3pieDl3Z1h6NGl1c3JhYVR2Yw?oc=5"
-    },
-    {
-      "id": "84f8350db613a691d7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-10T16:51:24+02:00",
-      "source": "Diario de Ávila",
-      "title": "Aprobados más de 212.000 euros para ayudas por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVWoxZUVvMG1wMzBQTFZVVmxwQUFLUUZDZXJlMFI4Qk9ydDhpYklYdE4yRXdrSjMxLVZ4UFhJNDRNOWZLdDJmajJ0dWdTYUVVOEVCVVNoR3pQNXdYdThueHpwLWFtZDRXS1dUOElRbU9iZWZxRmRhV3lBSVVTOXR3aDJqblB2VV9wWjB5RElCWDZmcW40dmYzR0o1NkRJTExVbm5LaUlwSmJXWjNwaFIxQ0JmaGZTNjhjWHFPWl92My1rVW04M1NLNy1PSGZadk1UZllJSEFuSGI?oc=5"
     },
     {
       "id": "438f1631a8d07beed7",
@@ -157,13 +145,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
