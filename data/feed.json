@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:07:08+02:00",
+  "generated_at": "2026-09-11T21:39:51+02:00",
   "items": [
-    {
-      "id": "973dcff43dae1cb6d5",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-10T21:33:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Ayudas para dos municipios que acogieron a desalojados en el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZms1Y3JEVDU5bGNYakNyLVFEcGxTZzRpOUhOU2t6bUpmeF92MEtQdzhTZndPUXY4LWpBTWo0NzkyaTY1eDVVLTNyUGtrSWZFNWZRY2xyVnFNN1gyaF9yOU5PR2dHVFJINk4zOGRRVWttM0xDYTJMUHlsSmh4QVpsckZUUk5SSzNuUlJ3dlNBcklCQzdwWFA3VmVYci00QnZxRWhtTzFCZDh0ZDJmQU83YkpuZFpDcWFGbU16M0dMQmVQS1RwdEEw?oc=5"
-    },
-    {
-      "id": "3e343c636e22ba1299",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-10T21:07:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "La Junta defiende su actuación en el incendio ante las críticas del PSOE y las dudas de XAV",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JQOVI4WUYtT2dBeWJxYThUTGw1UkhxekQyY3ZpYUttRmswN2Q4WlRBMjJ0TGJmN3ZRaGptWVpJUi1ob1NwXzBJdzBvNU1saUI2ZE51NXRTOXJmdzRNRDVFTEVvWXVoa2VseXpUX1lSTkpUcF8yY0VpdWVZdndtN1ctaUJISzlTMFNGekZ3aGdiM0lERjNIc2Ywb0NtQktyVHlpUWVBcHdBQ1pjQThvNzY3UGE5MTFoRnRudW5pcnhzeEZyd3pieDl3Z1h6NGl1c3JhYVR2Yw?oc=5"
-    },
     {
       "id": "438f1631a8d07beed7",
       "type": "news",
@@ -151,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 0
     },
     "direct_media": {
       "ok": true,
