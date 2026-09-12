@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-12T16:24:39+02:00",
+  "generated_at": "2026-09-12T19:20:50+02:00",
   "items": [
-    {
-      "id": "d228094423a5cbb9a5",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-12T05:30:01+02:00",
-      "source": "EL PAÍS",
-      "title": "Un verano infernal para los buitres negros de Ávila: el gran incendio de Burgohondo mató a un centenar de polluelos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNT1NpSWJBVm1MQ0hmcjA2Y213SF85VTVMSVZMbjZWU2N5SVdkTGdraGVWZm9tdGh6OThURk5HUnNqd0lJRWllRDYxYVJlazlnNVNjOUdsX3FWNlJIOW1vV1RoNEVBVWJ1M19NNkpzM3FYQ0YwMkZUNF9qdVVWMHJDajNpc21pZWRKOUVRcldGb1k2cXpYNnZEdkJ6OERNQzJFSG50NENXUm0zNFNtS2xydE5qRlVQXzdvejNXS2ZUR3lzLVh2dnZXYjNfdER1UjhrVzhSLW9ubW53Q1N3czRYcHFpMlFDNWJMVkdmLXdQTEtMVHQ3SXZrSFUtRU9RYzZwcEdwYUVobGpRak5jTW9LYzctMnREQdIBlgJBVV95cUxNT1NpSWJBVm1MQ0hmcjA2Y213SF85VTVMSVZMbjZWU2N5SVdkTGdraGVWZm9tdGh6OThURk5HUnNqd0lJRWllRDYxYVJlazlnNVNjOUdsX3FWNlJIOW1vV1RoNEVBVWJ1M19NNkpzM3FYQ0YwMkZUNF9qdVVWMHJDajNpc21pZWRKOUVRcldGb1k2cXpYNnZEdkJ6OERNQzJFSG50NENXUm0zNFNtS2xydE5qRlVQXzdvejNXS2ZUR3lzLVh2dnZXYjNfdER1UjhrVzhSLW9ubW53Q1N3czRYcHFpMlFDNWJMVkdmLXdQTEtMVHQ3SXZrSFUtRU9RYzZwcEdwYUVobGpRak5jTW9LYzctMnREQQ?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -127,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
