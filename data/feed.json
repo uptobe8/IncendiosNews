@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-13T13:47:01+02:00",
+  "generated_at": "2026-09-13T17:05:52+02:00",
   "items": [
+    {
+      "id": "3ad120f41b9bbf22a7",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Pelayos de la Presa",
+      "published": "2026-09-13T15:48:07+02:00",
+      "source": "Telemadrid",
+      "title": "El cuento de una madre para explicar a su hija el incendio de Pelayos de la Presa llega a los colegios de la Sierra Oeste",
+      "summary": "Una de las medidas anunciadas por Isabel Díaz Ayuso en el Debate del Estado de la Región contempla 26 millones de euros en ayudas para la...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/El-cuento-de-una-madre-para-explicar-a-su-hija-el-incendio-de-Pelayos-de-la-Presa-llega-a-los-colegios-de-la-Sierra-Oeste-2-2925327447--20260913034806.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,17 +121,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
