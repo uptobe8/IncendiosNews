@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-13T18:08:38+00:00",
+  "checked_at": "2026-09-13T20:47:35+00:00",
   "ok": false,
   "incidents": [
     {
       "road": "",
-      "description": "EnvironmentalObstruction · Impact · Delays · Validity · OverallPeriod · Instant · longDelays · rockfalls",
+      "description": "GeneralObstruction · Validity · OverallPeriod · Instant · Mobility · N72f520962db7450e91981073cf922ea7 · stationary · objectOnTheRoad",
       "lat": null,
       "lon": null,
       "road_tokens": []
