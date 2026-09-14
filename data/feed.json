@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:34:18+02:00",
+  "generated_at": "2026-09-15T01:25:27+02:00",
   "items": [
     {
       "id": "b9ab0f59c5dc7afb8e",
@@ -24,6 +24,18 @@
       "title": "Casi 60 trabajadores están en situación de ERTE a causa del incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHB4bU1hNTdacjJEeThCR2cwazdueWxFT2JqcjU4c2Y1NEJGTzBOdFVBemVrNlVvNVU2ZlZoUE12RWZyZ0dzZ0prbnVyc2Z3QnJER3BSbG1oVFBEMG5KVjdMbjdQOGpxX2VaRGt3UlZ6Mml4ejN4QXZCZVhmRWl5SXFnSHM1NHl0MGQ4UTFNOXJfVHNzME16czU3SnFQVE5SVWJtQ1oyTTJSN3hjRnNySl9xbWRXRW0tNk9sdG12SnhhXzhBcndyQXh3?oc=5"
+    },
+    {
+      "id": "9fb6a88c6b39504b05",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-14T17:45:13+02:00",
+      "source": "La Razón",
+      "title": "La Guardia Civil contabiliza 63 denuncias por daños materiales derivados del incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTJBWWFIRHJRXzNSNTNoajRqUnl6ZTNfWHBzT0xwa1JoaEQ0Rk1tNGVhcVBUcVJvbVB3bTRKcWZHdmxWa0ZXd0RHcUU0SnM0NkhyVnhmTTJsNDFaR09uY3JIOFhKSWNpUS1nUDkyRTlpSlZSYVlqVEc4Wlk3d2tHYkZwcURMTEtaREJ1ck9SdUY2X0xVSDBwS0JFb0ZqRUswTXdXSl83OXJ4Ykw4NW9BdTNIUHpRUG43cXdNOGhhZDctajNvRHBPMHlweWhVZnUxdUZiMmJwcUVIU2ZBMDRtMFBVU0pKcW1fZ3pLeXdKWEhUQVA4eFpLNG1vb0RjaEg4dTFtZnZVOU_SAYgCQVVfeXFMUGUyQVlhSERyUV8zUjUzaGo0alJ5emUzX1hwc09McGtSaGhENEZNbTRlYXFQVHFSb21Qd200SnFmR3ZsVmtGV3dER3FFNEpzNDZIclZ4Zk0ybDQxWkdPbmNySDhYSkljaVEtZ1A5MkU5aUpWUmFZalRHOFpZN3drR2JGcHFETExLWkRCdXJPUnVGNl9MVUgwcEtCRW9GakVLME13V0pfNzlyeGJMODVvQXUzSFB6UVBuN3F3TThoYWQ3LWozb0RwTzB5cHloVWZ1MXVGYjJicHFFSFNmQTA0bTBQVVNKSnFtX2d6S3l3SlhIVEFQOHhaSzRtb29EY2hIOHUxbWZ2VTlP?oc=5"
     },
     {
       "id": "ebae0a0ab8e9f1a749",
@@ -145,17 +157,17 @@
     }
   ],
   "checks": {
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
       "items": 1
-    },
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
