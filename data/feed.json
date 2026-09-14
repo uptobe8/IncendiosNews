@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-14T07:20:10+02:00",
+  "generated_at": "2026-09-14T12:48:27+02:00",
   "items": [
+    {
+      "id": "5efa7cc19970997269",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Sotillo de la Adrada",
+      "published": "2026-09-13T18:30:14+02:00",
+      "source": "La Razón",
+      "title": "Agua de calidad y en cantidad para los vecinos de Sotillo de La Adrada tras el grave incendio de este verano",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQWZDUmltdGR0R2djazNXMXhIekpwSWRvRTlvRmFvV2t6eWUtdkVwZ0lweS1qWG1BVkNLdEw5TFFKMzFrWG5nYlZ0b0JyV242MHg5R3ZjZFJSQ3Rib1lZdV9WTXF1c3doRDVqdGs2cm1Uemg1SURfTUNONEt5bVdDcHo0XzNoTzBwYjk4NGZWb0tMR2dsRjlKb1Z4OGdMOEN0WFEyTEJkaDRxQWRmeFhXLUlJR3FaRXNpUWFFcERpZHVyUnBRRjZJN2xzb0JXNEFuWlFPV3loc2Ntem9tZEtaMGZn0gH2AUFVX3lxTFBOV2pSU3R6a1l0ci1MNDVNblhYV2NRYVpOLVptRzBEd0laU3hTRWdJVzd3UlBjYXBpM2ZUci1YaWhDeXVCc1k2ZDUyTGd3aXVjYlBLcEUxM2JLakhQaXB2ZV9HWENfbjZUWTRZSG9Pb1RpcFh5U0daTlRiNnBCU1lxaTE4eGxKVl9BRjBrY3BnVlJSSDNfbFRfRFlFRGoxaUloNGxkY3ZqN0VuWENuWHE0TDFjRVRpYXBPOUhCcnl4MHZLUjJzREowQS1RYWF2VGVGNXl2UE5McHp0SVFia21FLXNwQ3RyYndMVmJub1FrZTRRQzIxZw?oc=5"
+    },
     {
       "id": "289e769bbeb0c84722",
       "type": "news",
@@ -121,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
