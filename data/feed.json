@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-15T08:45:50+02:00",
+  "generated_at": "2026-09-15T14:13:17+02:00",
   "items": [
+    {
+      "id": "2d07d698e5d6406f4a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-15T13:50:57+02:00",
+      "source": "La Razón",
+      "title": "Más de 15.000 llamadas y 2.300 horas de auxilio: la Comunidad de Madrid mantiene el plan de rescate emocional tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbkFLRDdtM3IyVTI2dkdhTjdTVTROaHdOZTR4Sk5TZXRjRUw5YlU3RXFxMlJVUEl6SUpPVTdwcDhMb3VpWGpYQVk3OGlWSUF5VzJWaEtuVDg4c3o1cUtjZmZuLXg2TVd1UDhFVTVqbEtHU2hLSDJFX1FJVklBX1hac3BZR1ZhMW5UQ2EtZEFENXBESUdCOUpudEFicV9SYjBFYlp0Y1MteFhKVnF0bWF3NUZvVEFzNWxCaGQ4T2IwZklCcklXOEtIb1V0MGFtLWdvaWRXbXlheUY2am9OanJEb3JfdXNDY2NPOGpYMElXUVNXSjlCT1HSAYoCQVVfeXFMTmpHVTR2SUV6eWloa2RmSldHa011Z2ljRGs1b3pPUG9jdXlmYjNOd3pBNl9Ob1ZHNUpTVjFaQWVidGdkLWpZSnVUc2Y4NFBDQTVCS3Vpb1VMb1c0Z3ZvSERvRjA1dmhpdEJvZFppdUgzYVp6RkpaZGdQNFZ5T2RiLUdDOFBBYVFZU1lIZkhGQXBsUEdnb3g3cldMV3JQZVFuSExHS3c0MjhhUUpwSEVVYzczMG1zTjFZMEVUZmsyTEJOSmtqTkcyWF9yaTV0Y2doMS1MOFllcW8ySU9OX0ZzalhvTWUtX0JFT0F4cmFXc21Gd1BxN1hrSm1Kd3VKb1FQR1ByQTJyc1Z2Ync?oc=5"
+    },
+    {
+      "id": "66ca4056201dd45cd3",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-15T13:38:27+02:00",
+      "source": "Diario de Ávila",
+      "title": "CEOE CyL inicia curso apoyando a los afectados por el fuego de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGY4T3AxYk55eXpLeVpLZWN0ZERyWTk5a1pNLWktcVc2X3hzajlJeE9xM24tOU1ySG16R3NhRUtzR1RTeGx5bUpyajNOWGFpX1d0OFl4dmhYczJSNExqc0NIXzJBVXdiNjkxR2RDdVduLU5XOWV2ZmREUWpLdWxWejRCVzVPYVJZdlhKZm5RVUVidElWOUpSeFFhYWQyS0JQanROZGVQazZnTzVOLVNKZzFzMnNQZzZpNDRNd3lVdjkzc3dySkZuTUt3THJiMEM3VllxcXJJLVFBQ2M?oc=5"
+    },
+    {
+      "id": "29c9eaff57a0fa5eb4",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-15T10:47:03+02:00",
+      "source": "RTVE.es",
+      "title": "La DOP Cebreros resiste al incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjljdFBKLWlBaXNCdGs1TGc0dGFzQmtRV0YzY0gxbFl5THhnTkJhRWVwVlVZeEdLMXh0YXF4UldwMzMzM1hsM1VaaWh5TjRjNWRqUzIxV1pwTEVfSGJCbXIyYVVyTGpWSkhfZGtERUpiZ0VTOU9mZ2l0eDhiOVpWUjJVVVc3SmhaeFhXZXUxcUlwWkkxbTE2Um9KTzZId2xVYm9rRTg3UnlEeGls?oc=5"
+    },
     {
       "id": "dacd4edd99ff70cbb6",
       "type": "news",
@@ -35,19 +71,7 @@
       "source": "La Razón",
       "title": "La Guardia Civil contabiliza 63 denuncias por daños materiales derivados del incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTJBWWFIRHJRXzNSNTNoajRqUnl6ZTNfWHBzT0xwa1JoaEQ0Rk1tNGVhcVBUcVJvbVB3bTRKcWZHdmxWa0ZXd0RHcUU0SnM0NkhyVnhmTTJsNDFaR09uY3JIOFhKSWNpUS1nUDkyRTlpSlZSYVlqVEc4Wlk3d2tHYkZwcURMTEtaREJ1ck9SdUY2X0xVSDBwS0JFb0ZqRUswTXdXSl83OXJ4Ykw4NW9BdTNIUHpRUG43cXdNOGhhZDctajNvRHBPMHlweWhVZnUxdUZiMmJwcUVIU2ZBMDRtMFBVU0pKcW1fZ3pLeXdKWEhUQVA4eFpLNG1vb0RjaEg4dTFtZnZVOU_SAYgCQVVfeXFMUGUyQVlhSERyUV8zUjUzaGo0alJ5emUzX1hwc09McGtSaGhENEZNbTRlYXFQVHFSb21Qd200SnFmR3ZsVmtGV3dER3FFNEpzNDZIclZ4Zk0ybDQxWkdPbmNySDhYSkljaVEtZ1A5MkU5aUpWUmFZalRHOFpZN3drR2JGcHFETExLWkRCdXJPUnVGNl9MVUgwcEtCRW9GakVLME13V0pfNzlyeGJMODVvQXUzSFB6UVBuN3F3TThoYWQ3LWozb0RwTzB5cHloVWZ1MXVGYjJicHFFSFNmQTA0bTBQVVNKSnFtX2d6S3l3SlhIVEFQOHhaSzRtb29EY2hIOHUxbWZ2VTlP?oc=5"
-    },
-    {
-      "id": "ebae0a0ab8e9f1a749",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-14T13:47:42+02:00",
-      "source": "Europa Press",
-      "title": "La Junta colabora en la extinción del incendio de Tornavacas (Cáceres) que está a 2 km de Ávila",
-      "summary": "El operativo Infocal de la Junta de Castilla y León colabora en la extinción del incendio...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-colabora-extincion-incendio-tornavacas-caceres-km-avila-20260914134742.html"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWFtTFJEbF9ZbENIbzBUaENQOUZiUTlsZDZVZ09MMEN2WmlRdldoeXAzS0FfUWMxS2tHOHQ3cTJ1aEpiMzRxZjI3akRlb3l0QVNkbVJXaDdrcUVOLXY2WVhTMGtHN0hreW4yZ0NVeVZGZHI0M1RqdUt2TXpqeDZfNFlSOVQ4MmRSRl9DOW4weEUzWGE2TW9hd00xOF8yaHRyZm9rT0p5MnlCYVRLT213ajUwSUZRVWJoaklvSl9ITjBtcU0xOVVjUDlMcS1hamR4cWp6QkxDaW0ybVFrMndVN0Fua01jLS0tSE9OQ2hZRVdHN21v0gGIAkFVX3lxTFBlMkFZYUhEclFfM1I1M2hqNGpSeXplM19YcHNPTHBrUmhoRDRGTW00ZWFxUFRxUm9tUHdtNEpxZkd2bFZrRld3REdxRTRKczQ2SHJWeGZNMmw0MVpHT25jckg4WEpJY2lRLWdQOTJFOWlKVlJhWWpURzhaWTd3a0diRnBxRExMS1pEQnVyT1J1RjZfTFVIMHBLQkVvRmpFSzBNd1dKXzc5cnhiTDg1b0F1M0hQelFQbjdxd004aGFkNy1qM29EcE8weXB5aFVmdTF1RmIyYnBxRUhTZkEwNG0wUFVTSkpxbV9nekt5d0pYSFRBUDh4Wks0bW9vRGNoSDh1MW1mdlU5Tw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +187,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 6
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
