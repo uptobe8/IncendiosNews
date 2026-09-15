@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-15T14:13:17+02:00",
+  "generated_at": "2026-09-15T19:02:50+02:00",
   "items": [
+    {
+      "id": "49643c3e08de0bdbe4",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-15T18:30:13+02:00",
+      "source": "La Razón",
+      "title": "CEOE-CyL inicia el curso económico en Burgohondo (Ávila) para mostrar su apoyo al tejido empresarial de las zonas afectadas por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNanVlZnFGdEwyRWhBVWJoNFlDdFBZdThzQlBWR0duejJrWmxXX0k3TDNwc0V5NlpPczhHMy1WbFB3WTJOa0tiMVlLWDBvSlp4dzA4M01OZzJIUU5Ia0JQb2REOEhIeC1rUS1GcWZJM2x0NDJRbkFnTmhTU2ZNU09zTlMzRXMzbFlYOTlkV1R6ektvYlZmNzlUSUJVVm5qV3RLWGo4MG9TNFRod2RUS0lmbXc3NzVZTVQxTllXYmI3cTJvYVRGZ0VwazVxNjlTV2ZkT215M3BhOTFPaGJ0ZWZIV2tCLXhlblJua19sS0hKNXN2aUt4aGVKc0ZmNTRYdVpxdkFPeDViZDdDanJqZmJHedIBpAJBVV95cUxOMWlVOUR3SEVUel9YWEJOR2dUUGluRjlXLWc5bHI1d1paYUc0NC05Vlh4WWlSeHo4VjQ1aHIzNmdfR20zeTUtb1paRFc3clB4akJKcmU1am5zbHRDeDFYS2ZWSXFDWjNIQnlzREYxU2JQYVBPVW52V04wb2VqSXBJc2ZnQUg5QlZiWE5sNXdhcm1ER3JqNnFvSWYwSnRCMnlCRjI3RWcybmxXWFVySl9nYWp0ZWlhNWdIb2pQSUlBVGNLMzJBdmtIZ2preVdLSURrbGhkQVBHNkhXQk14dkhwUGx4TS1qalRkLTlac0FhX0hhUHBCXy1HTW9KYklEODVJMTdFR09sT1NaakRuVjVTLVlraW5hNXJaWDhCTW9wV2FVSDBy?oc=5"
+    },
+    {
+      "id": "b58ea118a23ddbabc8",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-15T14:26:17+02:00",
+      "source": "Telemadrid",
+      "title": "La Comunidad de Madrid mantiene la atención social para más de 2.000 mayores que se vieron afectados por los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPOXNrS2I0c21pRmczdmRteWtfQkh2ZFVLOGN6M1VFWXBZTWNwS0NRWmJzQlNlVnRER1RrODczdTZ1bE9BYXdNUXAyeVZOb2otcmhPUFVGSDZ1cVJFM2ZfcUxWNmJ4bFRZdTdwNEpyMlZZMzV6VzhDVVZ4QmNMSGtHNnZmcU9UVnZZQ1JpdWg2OGxUR21wcVc0bV8ya2hQazBTLWI4RFFwalFGVV81Qm5rU1VhTUpLc0U5Zk5pTTBoRURaQlRBamxlbXF5NjZKcjBfcF9wOGVEUVNjRUViUkM5QkVFbFdPNHFRMm1ja0MwN1IyUk5pamgtVFdCZHhLbUthSVFKX2hUT2V1cFFQcU5WTS01ZjJLeHpxVGw2RUtBWWotX2tmRnctUExxR2tyS3fSAa8CQVVfeXFMTzlza0tiNHNtaUZnM3ZkbXlrX0JIdmRVSzhjejNVRVlwWU1jcEtDUVpic0JTZVZ0REdUazg3M3U2dWxPQWF3TVFwMnlWTm9qLXJoT1BVRkg2dXFSRTNmX3FMVjZieGxUWXU3cDRKcjJWWTM1elc4Q1VWeEJjTEhrRzZ2ZnFPVFZ2WUNSaXVoNjhsVEdtcHFXNG1fMmtoUGswUy1iOERRcGpRRlVfNUJua1NVYU1KS3NFOWZOaU0waEVEWkJUQWpsZW1xeTY2SnIwX3BfcDhlRFFTY0VFYlJDOUJFRWxXTzRxUTJtY2tDMDdSMlJOaWpoLVRXQmR4S21LYUlRSl9oVE9ldXBRUHFOVk0tNWYyS3h6cVRsNkVLQVlqLV9rZkZ3LVBMcUdrckt3?oc=5"
+    },
     {
       "id": "2d07d698e5d6406f4a",
       "type": "news",
@@ -11,19 +35,7 @@
       "source": "La Razón",
       "title": "Más de 15.000 llamadas y 2.300 horas de auxilio: la Comunidad de Madrid mantiene el plan de rescate emocional tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbkFLRDdtM3IyVTI2dkdhTjdTVTROaHdOZTR4Sk5TZXRjRUw5YlU3RXFxMlJVUEl6SUpPVTdwcDhMb3VpWGpYQVk3OGlWSUF5VzJWaEtuVDg4c3o1cUtjZmZuLXg2TVd1UDhFVTVqbEtHU2hLSDJFX1FJVklBX1hac3BZR1ZhMW5UQ2EtZEFENXBESUdCOUpudEFicV9SYjBFYlp0Y1MteFhKVnF0bWF3NUZvVEFzNWxCaGQ4T2IwZklCcklXOEtIb1V0MGFtLWdvaWRXbXlheUY2am9OanJEb3JfdXNDY2NPOGpYMElXUVNXSjlCT1HSAYoCQVVfeXFMTmpHVTR2SUV6eWloa2RmSldHa011Z2ljRGs1b3pPUG9jdXlmYjNOd3pBNl9Ob1ZHNUpTVjFaQWVidGdkLWpZSnVUc2Y4NFBDQTVCS3Vpb1VMb1c0Z3ZvSERvRjA1dmhpdEJvZFppdUgzYVp6RkpaZGdQNFZ5T2RiLUdDOFBBYVFZU1lIZkhGQXBsUEdnb3g3cldMV3JQZVFuSExHS3c0MjhhUUpwSEVVYzczMG1zTjFZMEVUZmsyTEJOSmtqTkcyWF9yaTV0Y2doMS1MOFllcW8ySU9OX0ZzalhvTWUtX0JFT0F4cmFXc21Gd1BxN1hrSm1Kd3VKb1FQR1ByQTJyc1Z2Ync?oc=5"
-    },
-    {
-      "id": "66ca4056201dd45cd3",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-15T13:38:27+02:00",
-      "source": "Diario de Ávila",
-      "title": "CEOE CyL inicia curso apoyando a los afectados por el fuego de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGY4T3AxYk55eXpLeVpLZWN0ZERyWTk5a1pNLWktcVc2X3hzajlJeE9xM24tOU1ySG16R3NhRUtzR1RTeGx5bUpyajNOWGFpX1d0OFl4dmhYczJSNExqc0NIXzJBVXdiNjkxR2RDdVduLU5XOWV2ZmREUWpLdWxWejRCVzVPYVJZdlhKZm5RVUVidElWOUpSeFFhYWQyS0JQanROZGVQazZnTzVOLVNKZzFzMnNQZzZpNDRNd3lVdjkzc3dySkZuTUt3THJiMEM3VllxcXJJLVFBQ2M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOakdVNHZJRXp5aWhrZGZKV0drTXVnaWNEazVvek9Qb2N1eWZiM053ekE2X05vVkc1SlNWMVpBZWJ0Z2QtallKdVRzZjg0UENBNUJLdWlvVUxvVzRndm9IRG9GMDV2aGl0Qm9kWml1SDNhWnpGSlpkZ1A0VnlPZGItR0M4UEFhUVlTWUhmSEZBcGxQR2dveDdyV0xXclBlUW5ITEdLdzQyOGFRSnBIRVVjNzMwbXNOMVkwRVRmazJMQk5Ka2pORzJYX3JpNXRjZ2gxLUw4WWVxbzJJT05fRnNqWG9NZS1fQkVPQXhyYVdzbUZ3UHE3WGtKbUp3dUpvUVBHUHJBMnJzVnZid9IBigJBVV95cUxOakdVNHZJRXp5aWhrZGZKV0drTXVnaWNEazVvek9Qb2N1eWZiM053ekE2X05vVkc1SlNWMVpBZWJ0Z2QtallKdVRzZjg0UENBNUJLdWlvVUxvVzRndm9IRG9GMDV2aGl0Qm9kWml1SDNhWnpGSlpkZ1A0VnlPZGItR0M4UEFhUVlTWUhmSEZBcGxQR2dveDdyV0xXclBlUW5ITEdLdzQyOGFRSnBIRVVjNzMwbXNOMVkwRVRmazJMQk5Ka2pORzJYX3JpNXRjZ2gxLUw4WWVxbzJJT05fRnNqWG9NZS1fQkVPQXhyYVdzbUZ3UHE3WGtKbUp3dUpvUVBHUHJBMnJzVnZidw?oc=5"
     },
     {
       "id": "29c9eaff57a0fa5eb4",
@@ -48,30 +60,6 @@
       "title": "Registradas 63 denuncias por daños materiales derivados del incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnNyYW90MXphZ1lJbEJlM1VuSWxVMXpMSnR6V1ZWSWxWb1I1T1ZUX1Y3S3V5V1lCRFNKcDROQmZRdUJ2bHZnM01TQm8xVWhiSHBUaXNvanczT01XeGdlZ3l4Zm11aXQzTElfZ0E1Uno5VXl1ZkNTcDhrU3RkdW12T1EyRWZEYzJ2SlBsYm5DUFhLYzY5Rk8zM0FKVFE3YndLQlFaMkwweHJScGhrcU8ySy1TOGN2RVc1cnkwekxYajl0WVlaSVE?oc=5"
-    },
-    {
-      "id": "5862c17e71c622a2a5",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-14T20:04:45+02:00",
-      "source": "Diario de Ávila",
-      "title": "Casi 60 trabajadores, en ERTE a causa del incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHB4bU1hNTdacjJEeThCR2cwazdueWxFT2JqcjU4c2Y1NEJGTzBOdFVBemVrNlVvNVU2ZlZoUE12RWZyZ0dzZ0prbnVyc2Z3QnJER3BSbG1oVFBEMG5KVjdMbjdQOGpxX2VaRGt3UlZ6Mml4ejN4QXZCZVhmRWl5SXFnSHM1NHl0MGQ4UTFNOXJfVHNzME16czU3SnFQVE5SVWJtQ1oyTTJSN3hjRnNySl9xbWRXRW0tNk9sdG12SnhhXzhBcndyQXh3?oc=5"
-    },
-    {
-      "id": "9fb6a88c6b39504b05",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-14T17:45:13+02:00",
-      "source": "La Razón",
-      "title": "La Guardia Civil contabiliza 63 denuncias por daños materiales derivados del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWFtTFJEbF9ZbENIbzBUaENQOUZiUTlsZDZVZ09MMEN2WmlRdldoeXAzS0FfUWMxS2tHOHQ3cTJ1aEpiMzRxZjI3akRlb3l0QVNkbVJXaDdrcUVOLXY2WVhTMGtHN0hreW4yZ0NVeVZGZHI0M1RqdUt2TXpqeDZfNFlSOVQ4MmRSRl9DOW4weEUzWGE2TW9hd00xOF8yaHRyZm9rT0p5MnlCYVRLT213ajUwSUZRVWJoaklvSl9ITjBtcU0xOVVjUDlMcS1hamR4cWp6QkxDaW0ybVFrMndVN0Fua01jLS0tSE9OQ2hZRVdHN21v0gGIAkFVX3lxTFBlMkFZYUhEclFfM1I1M2hqNGpSeXplM19YcHNPTHBrUmhoRDRGTW00ZWFxUFRxUm9tUHdtNEpxZkd2bFZrRld3REdxRTRKczQ2SHJWeGZNMmw0MVpHT25jckg4WEpJY2lRLWdQOTJFOWlKVlJhWWpURzhaWTd3a0diRnBxRExMS1pEQnVyT1J1RjZfTFVIMHBLQkVvRmpFSzBNd1dKXzc5cnhiTDg1b0F1M0hQelFQbjdxd004aGFkNy1qM29EcE8weXB5aFVmdTF1RmIyYnBxRUhTZkEwNG0wUFVTSkpxbV9nekt5d0pYSFRBUDh4Wks0bW9vRGNoSDh1MW1mdlU5Tw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -181,13 +169,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 5
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 6
     },
     "direct_media": {
       "ok": true,
