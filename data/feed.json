@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:10:41+02:00",
+  "generated_at": "2026-09-16T00:53:50+02:00",
   "items": [
     {
       "id": "49643c3e08de0bdbe4",
@@ -60,18 +60,6 @@
       "title": "La DOP Cebreros resiste al incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjljdFBKLWlBaXNCdGs1TGc0dGFzQmtRV0YzY0gxbFl5THhnTkJhRWVwVlVZeEdLMXh0YXF4UldwMzMzM1hsM1VaaWh5TjRjNWRqUzIxV1pwTEVfSGJCbXIyYVVyTGpWSkhfZGtERUpiZ0VTOU9mZ2l0eDhiOVpWUjJVVVc3SmhaeFhXZXUxcUlwWkkxbTE2Um9KTzZId2xVYm9rRTg3UnlEeGls?oc=5"
-    },
-    {
-      "id": "dacd4edd99ff70cbb6",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-14T23:30:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Registradas 63 denuncias por daños materiales derivados del incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnNyYW90MXphZ1lJbEJlM1VuSWxVMXpMSnR6V1ZWSWxWb1I1T1ZUX1Y3S3V5V1lCRFNKcDROQmZRdUJ2bHZnM01TQm8xVWhiSHBUaXNvanczT01XeGdlZ3l4Zm11aXQzTElfZ0E1Uno5VXl1ZkNTcDhrU3RkdW12T1EyRWZEYzJ2SlBsYm5DUFhLYzY5Rk8zM0FKVFE3YndLQlFaMkwweHJScGhrcU8ySy1TOGN2RVc1cnkwekxYajl0WVlaSVE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -187,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 6
+      "items": 5
     },
     "direct_media": {
       "ok": true,
