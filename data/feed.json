@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-16T17:08:33+02:00",
+  "generated_at": "2026-09-16T20:53:17+02:00",
   "items": [
+    {
+      "id": "43480da539e61f1e9c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-16T20:29:09+02:00",
+      "source": "Diario de Ávila",
+      "title": "Tras el incendio de Burgohondo: en homenaje a quienes protegieron",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUhPODZPQ242Zy1EcDBnLUVMbk5Eb2xWMENjRTBLQWtoenlJQk9mMkxCSTVmNkJpcWVTRk9YeWtvbXhtaXFOa1hxb0w0QVdiNi1FNFZpRDFYT00yYmx6Vjl2MEhxSmJfT1BBRmppbUw2cEg4akIyNml1NkRnaVJjdlE5YmNHX2NWUHJkTFhocndZM3VXNUFueTlVZF9vd05QbXN3LVFubmU5NFM4cTNEM3lVNm1xX3kwU202Ug?oc=5"
+    },
+    {
+      "id": "c4f00014c97131c0a3",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-16T18:30:50+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid abastece con comida y agua a la fauna de la Sierra Oeste tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS0l0dVZNRHNROHlPTW5DY2tqY3JwdjlXMWRVdTltWGpySDJSa05vRmlxYjZVUG1IOGVvdzd4UkdWMFM0NFdqLVNRdFRNWFdtVWdOQlZmcngweERnbkNPUkFvVFNVWWhYczNLRWJyZWdGY09aUlNXZVo4dUpZVUF2ZkY3NXNIRFBBQ2t2UUxONnlhNlg0RzRqdEpXckRYWmNPWFdUWjZXTmFTYWVmcEhSOU5TcnJDUWR4cG1rSktMYkRLQlc0X1JfMlV1a1NwMGFDTnFqeUVfUUJic3lTTWdlOQ?oc=5"
+    },
     {
       "id": "9930c8bd05818c548d",
       "type": "news",
@@ -12,18 +36,6 @@
       "title": "Andalucía movilizó cerca de 180 miembros del Infoca en los incendios de Guadalajara, Madrid y Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVXoxTWxIWVZxQl9iUWNqZkdCaWNKRlV1RFBwQTE0STZHX1FkYlktVThCRWxQN1J6M3JiVVRVWjhmNXpkSkxEdTNFX1ZzeTdEM0NPNl9kREt4by1LS1otdk1mbWR5QVprTlRDNEowd213dzQ0YWpIXzBDZFJLcWdVNWJGR1pJcHJjbUhmejk0cWJpSnhGMFZnYzhyMEpKbklyQXNXMGxJY3EyMml2N2NwWThTUVJjNmVFOXdwVnlwU29BSk04Z2hjclZuVnM4YTNFeW9CQTlrMmFwREpDUXRqLTBSNExGOGk3dnc?oc=5"
-    },
-    {
-      "id": "60596f8ed49596cbbb",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-16T11:32:02+02:00",
-      "source": "Madrid Actual",
-      "title": "Madrid abastece con comida y agua a la fauna de la Sierra Oeste tras el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS0l0dVZNRHNROHlPTW5DY2tqY3JwdjlXMWRVdTltWGpySDJSa05vRmlxYjZVUG1IOGVvdzd4UkdWMFM0NFdqLVNRdFRNWFdtVWdOQlZmcngweERnbkNPUkFvVFNVWWhYczNLRWJyZWdGY09aUlNXZVo4dUpZVUF2ZkY3NXNIRFBBQ2t2UUxONnlhNlg0RzRqdEpXckRYWmNPWFdUWjZXTmFTYWVmcEhSOU5TcnJDUWR4cG1rSktMYkRLQlc0X1JfMlV1a1NwMGFDTnFqeUVfUUJic3lTTWdlOQ?oc=5"
     },
     {
       "id": "2b011152c71238b025",
@@ -48,18 +60,6 @@
       "title": "Más Madrid lanza una 'app' para llevar la organización política \"del móvil a las calles\" y desalojar al PP en 2027",
       "summary": "Busca emular la campaña del alcalde demócrata de Nueva York Zohran Mamdani, enfatizar sus 'puerta y puerta'...",
       "url": "https://www.europapress.es/madrid/noticia-mas-madrid-lanza-app-llevar-organizacion-politica-movil-calles-desalojar-pp-2027-20260916090250.html"
-    },
-    {
-      "id": "49643c3e08de0bdbe4",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-15T18:30:13+02:00",
-      "source": "La Razón",
-      "title": "CEOE-CyL inicia el curso económico en Burgohondo (Ávila) para mostrar su apoyo al tejido empresarial de las zonas afectadas por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWlVOUR3SEVUel9YWEJOR2dUUGluRjlXLWc5bHI1d1paYUc0NC05Vlh4WWlSeHo4VjQ1aHIzNmdfR20zeTUtb1paRFc3clB4akJKcmU1am5zbHRDeDFYS2ZWSXFDWjNIQnlzREYxU2JQYVBPVW52V04wb2VqSXBJc2ZnQUg5QlZiWE5sNXdhcm1ER3JqNnFvSWYwSnRCMnlCRjI3RWcybmxXWFVySl9nYWp0ZWlhNWdIb2pQSUlBVGNLMzJBdmtIZ2preVdLSURrbGhkQVBHNkhXQk14dkhwUGx4TS1qalRkLTlac0FhX0hhUHBCXy1HTW9KYklEODVJMTdFR09sT1NaakRuVjVTLVlraW5hNXJaWDhCTW9wV2FVSDBy0gGkAkFVX3lxTE4xaVU5RHdIRVR6X1hYQk5HZ1RQaW5GOVctZzlscjV3WlphRzQ0LTlWWHhZaVJ4ejhWNDVocjM2Z19HbTN5NS1vWlpEVzdyUHhqQkpyZTVqbnNsdEN4MVhLZlZJcUNaM0hCeXNERjFTYlBhUE9VbnZXTjBvZWpJcElzZmdBSDlCVmJYTmw1d2FybURHcmo2cW9JZjBKdEIyeUJGMjdFZzJubFdYVXJKX2dhanRlaWE1Z0hvalBJSUFUY0szMkF2a0hnamt5V0tJRGtsaGRBUEc2SFdCTXh2SHBQbHhNLWpqVGQtOVpzQWFfSGFQcEJfLUdNb0piSUQ4NUkxN0VHT2xPU1pqRG5WNVMtWWtpbmE1clpYOEJNb3BXYVVIMHI?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
