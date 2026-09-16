@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-16T23:49:40+02:00",
+  "generated_at": "2026-09-17T01:54:58+02:00",
   "items": [
     {
-      "id": "43480da539e61f1e9c",
+      "id": "9930c8bd05818c548d",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-16T20:29:09+02:00",
-      "source": "Diario de Ávila",
-      "title": "Tras el incendio de Burgohondo: en homenaje a quienes protegieron",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-16T14:53:03+02:00",
+      "source": "Europa Press",
+      "title": "Andalucía movilizó cerca de 180 miembros del Infoca en los incendios de Guadalajara, Madrid y Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUhPODZPQ242Zy1EcDBnLUVMbk5Eb2xWMENjRTBLQWtoenlJQk9mMkxCSTVmNkJpcWVTRk9YeWtvbXhtaXFOa1hxb0w0QVdiNi1FNFZpRDFYT00yYmx6Vjl2MEhxSmJfT1BBRmppbUw2cEg4akIyNml1NkRnaVJjdlE5YmNHX2NWUHJkTFhocndZM3VXNUFueTlVZF9vd05QbXN3LVFubmU5NFM4cTNEM3lVNm1xX3kwU202Ug?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVXoxTWxIWVZxQl9iUWNqZkdCaWNKRlV1RFBwQTE0STZHX1FkYlktVThCRWxQN1J6M3JiVVRVWjhmNXpkSkxEdTNFX1ZzeTdEM0NPNl9kREt4by1LS1otdk1mbWR5QVprTlRDNEowd213dzQ0YWpIXzBDZFJLcWdVNWJGR1pJcHJjbUhmejk0cWJpSnhGMFZnYzhyMEpKbklyQXNXMGxJY3EyMml2N2NwWThTUVJjNmVFOXdwVnlwU29BSk04Z2hjclZuVnM4YTNFeW9CQTlrMmFwREpDUXRqLTBSNExGOGk3dnc?oc=5"
     },
     {
-      "id": "c4f00014c97131c0a3",
+      "id": "60596f8ed49596cbbb",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-16T18:30:50+02:00",
+      "published": "2026-09-16T11:32:02+02:00",
       "source": "Madrid Actual",
       "title": "Madrid abastece con comida y agua a la fauna de la Sierra Oeste tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -145,13 +145,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
