@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-16T07:53:21+02:00",
+  "generated_at": "2026-09-16T12:32:27+02:00",
   "items": [
+    {
+      "id": "60596f8ed49596cbbb",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-16T11:32:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Madrid abastece con comida y agua a la fauna de la Sierra Oeste tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS0l0dVZNRHNROHlPTW5DY2tqY3JwdjlXMWRVdTltWGpySDJSa05vRmlxYjZVUG1IOGVvdzd4UkdWMFM0NFdqLVNRdFRNWFdtVWdOQlZmcngweERnbkNPUkFvVFNVWWhYczNLRWJyZWdGY09aUlNXZVo4dUpZVUF2ZkY3NXNIRFBBQ2t2UUxONnlhNlg0RzRqdEpXckRYWmNPWFdUWjZXTmFTYWVmcEhSOU5TcnJDUWR4cG1rSktMYkRLQlc0X1JfMlV1a1NwMGFDTnFqeUVfUUJic3lTTWdlOQ?oc=5"
+    },
+    {
+      "id": "2b011152c71238b025",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-16T11:28:26+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad reparte 55.000 kilos de comida y 50.000 litros de agua para la fauna afectada por el incendio Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeXZnRlozTk9LQ1B2ZEMwTWJ6RnVyc2hTaUU0SDlLM3hmVjUycFYxcDdJbUh6UGNHTHM0c0FHaGFiTGE3WGpBMjV1NUFGbVA4MEMzNkRnX2xfakRmNy1oaENzYmVna1RnaXkxSk9WaU1ta05ZclhwMnNvNWY3TlRyU2sxeXJsWXpjbjFIVDk5eDZEV0VxeWhpLWYxckJBTmZYMnphUURRVU9LV2Fmb19DcERXYjM1Q3JVZ2NvaVhYZENUTEZWeGlia1lZcEhNV3hxbXYtUjVrZ3htSnZ6dk5YdGcyT3F2QWk2?oc=5"
+    },
+    {
+      "id": "7b8ff9225365f024d5",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-16T09:02:50+02:00",
+      "source": "Europa Press",
+      "title": "Más Madrid lanza una 'app' para llevar la organización política \"del móvil a las calles\" y desalojar al PP en 2027",
+      "summary": "Busca emular la campaña del alcalde demócrata de Nueva York Zohran Mamdani, enfatizar sus 'puerta y puerta'...",
+      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-lanza-app-llevar-organizacion-politica-movil-calles-desalojar-pp-2027-20260916090250.html"
+    },
     {
       "id": "49643c3e08de0bdbe4",
       "type": "news",
@@ -11,7 +47,7 @@
       "source": "La Razón",
       "title": "CEOE-CyL inicia el curso económico en Burgohondo (Ávila) para mostrar su apoyo al tejido empresarial de las zonas afectadas por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNanVlZnFGdEwyRWhBVWJoNFlDdFBZdThzQlBWR0duejJrWmxXX0k3TDNwc0V5NlpPczhHMy1WbFB3WTJOa0tiMVlLWDBvSlp4dzA4M01OZzJIUU5Ia0JQb2REOEhIeC1rUS1GcWZJM2x0NDJRbkFnTmhTU2ZNU09zTlMzRXMzbFlYOTlkV1R6ektvYlZmNzlUSUJVVm5qV3RLWGo4MG9TNFRod2RUS0lmbXc3NzVZTVQxTllXYmI3cTJvYVRGZ0VwazVxNjlTV2ZkT215M3BhOTFPaGJ0ZWZIV2tCLXhlblJua19sS0hKNXN2aUt4aGVKc0ZmNTRYdVpxdkFPeDViZDdDanJqZmJHedIBpAJBVV95cUxOMWlVOUR3SEVUel9YWEJOR2dUUGluRjlXLWc5bHI1d1paYUc0NC05Vlh4WWlSeHo4VjQ1aHIzNmdfR20zeTUtb1paRFc3clB4akJKcmU1am5zbHRDeDFYS2ZWSXFDWjNIQnlzREYxU2JQYVBPVW52V04wb2VqSXBJc2ZnQUg5QlZiWE5sNXdhcm1ER3JqNnFvSWYwSnRCMnlCRjI3RWcybmxXWFVySl9nYWp0ZWlhNWdIb2pQSUlBVGNLMzJBdmtIZ2preVdLSURrbGhkQVBHNkhXQk14dkhwUGx4TS1qalRkLTlac0FhX0hhUHBCXy1HTW9KYklEODVJMTdFR09sT1NaakRuVjVTLVlraW5hNXJaWDhCTW9wV2FVSDBy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWlVOUR3SEVUel9YWEJOR2dUUGluRjlXLWc5bHI1d1paYUc0NC05Vlh4WWlSeHo4VjQ1aHIzNmdfR20zeTUtb1paRFc3clB4akJKcmU1am5zbHRDeDFYS2ZWSXFDWjNIQnlzREYxU2JQYVBPVW52V04wb2VqSXBJc2ZnQUg5QlZiWE5sNXdhcm1ER3JqNnFvSWYwSnRCMnlCRjI3RWcybmxXWFVySl9nYWp0ZWlhNWdIb2pQSUlBVGNLMzJBdmtIZ2preVdLSURrbGhkQVBHNkhXQk14dkhwUGx4TS1qalRkLTlac0FhX0hhUHBCXy1HTW9KYklEODVJMTdFR09sT1NaakRuVjVTLVlraW5hNXJaWDhCTW9wV2FVSDBy0gGkAkFVX3lxTE4xaVU5RHdIRVR6X1hYQk5HZ1RQaW5GOVctZzlscjV3WlphRzQ0LTlWWHhZaVJ4ejhWNDVocjM2Z19HbTN5NS1vWlpEVzdyUHhqQkpyZTVqbnNsdEN4MVhLZlZJcUNaM0hCeXNERjFTYlBhUE9VbnZXTjBvZWpJcElzZmdBSDlCVmJYTmw1d2FybURHcmo2cW9JZjBKdEIyeUJGMjdFZzJubFdYVXJKX2dhanRlaWE1Z0hvalBJSUFUY0szMkF2a0hnamt5V0tJRGtsaGRBUEc2SFdCTXh2SHBQbHhNLWpqVGQtOVpzQWFfSGFQcEJfLUdNb0piSUQ4NUkxN0VHT2xPU1pqRG5WNVMtWWtpbmE1clpYOEJNb3BXYVVIMHI?oc=5"
     },
     {
       "id": "cc03ab55498fbf0be0",
@@ -26,18 +62,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWVGUjc1eHRsb0hlQkpTUmZKUDZSamRreS1aZHNBUVZSVi1US1BDWEtnWkNXMERlaC05ZGIyZUNEMU9iNjdSU2JXNGowZk1tZXZEdUxjS2tHbnhYT256VUNsTE9QZUhsdnQwMkdmUldnTFV6T3N4UVh2dEJtMjZFQWZSanUtYnlkSkRtRnAwc1BzanZSbFNYNHc2U2VueEd3OTN6WWd3dzQzOERiX01OeXhVYWFMNnFiUDlKbWhKRnZPckVNUlVjbDJTd0t0UQ?oc=5"
     },
     {
-      "id": "b58ea118a23ddbabc8",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-15T14:26:17+02:00",
-      "source": "Telemadrid",
-      "title": "La Comunidad de Madrid mantiene la atención social para más de 2.000 mayores que se vieron afectados por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPOXNrS2I0c21pRmczdmRteWtfQkh2ZFVLOGN6M1VFWXBZTWNwS0NRWmJzQlNlVnRER1RrODczdTZ1bE9BYXdNUXAyeVZOb2otcmhPUFVGSDZ1cVJFM2ZfcUxWNmJ4bFRZdTdwNEpyMlZZMzV6VzhDVVZ4QmNMSGtHNnZmcU9UVnZZQ1JpdWg2OGxUR21wcVc0bV8ya2hQazBTLWI4RFFwalFGVV81Qm5rU1VhTUpLc0U5Zk5pTTBoRURaQlRBamxlbXF5NjZKcjBfcF9wOGVEUVNjRUViUkM5QkVFbFdPNHFRMm1ja0MwN1IyUk5pamgtVFdCZHhLbUthSVFKX2hUT2V1cFFQcU5WTS01ZjJLeHpxVGw2RUtBWWotX2tmRnctUExxR2tyS3fSAa8CQVVfeXFMTzlza0tiNHNtaUZnM3ZkbXlrX0JIdmRVSzhjejNVRVlwWU1jcEtDUVpic0JTZVZ0REdUazg3M3U2dWxPQWF3TVFwMnlWTm9qLXJoT1BVRkg2dXFSRTNmX3FMVjZieGxUWXU3cDRKcjJWWTM1elc4Q1VWeEJjTEhrRzZ2ZnFPVFZ2WUNSaXVoNjhsVEdtcHFXNG1fMmtoUGswUy1iOERRcGpRRlVfNUJua1NVYU1KS3NFOWZOaU0waEVEWkJUQWpsZW1xeTY2SnIwX3BfcDhlRFFTY0VFYlJDOUJFRWxXTzRxUTJtY2tDMDdSMlJOaWpoLVRXQmR4S21LYUlRSl9oVE9ldXBRUHFOVk0tNWYyS3h6cVRsNkVLQVlqLV9rZkZ3LVBMcUdrckt3?oc=5"
-    },
-    {
       "id": "2d07d698e5d6406f4a",
       "type": "news",
       "severity": "info",
@@ -48,18 +72,6 @@
       "title": "Más de 15.000 llamadas y 2.300 horas de auxilio: la Comunidad de Madrid mantiene el plan de rescate emocional tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOakdVNHZJRXp5aWhrZGZKV0drTXVnaWNEazVvek9Qb2N1eWZiM053ekE2X05vVkc1SlNWMVpBZWJ0Z2QtallKdVRzZjg0UENBNUJLdWlvVUxvVzRndm9IRG9GMDV2aGl0Qm9kWml1SDNhWnpGSlpkZ1A0VnlPZGItR0M4UEFhUVlTWUhmSEZBcGxQR2dveDdyV0xXclBlUW5ITEdLdzQyOGFRSnBIRVVjNzMwbXNOMVkwRVRmazJMQk5Ka2pORzJYX3JpNXRjZ2gxLUw4WWVxbzJJT05fRnNqWG9NZS1fQkVPQXhyYVdzbUZ3UHE3WGtKbUp3dUpvUVBHUHJBMnJzVnZid9IBigJBVV95cUxOakdVNHZJRXp5aWhrZGZKV0drTXVnaWNEazVvek9Qb2N1eWZiM053ekE2X05vVkc1SlNWMVpBZWJ0Z2QtallKdVRzZjg0UENBNUJLdWlvVUxvVzRndm9IRG9GMDV2aGl0Qm9kWml1SDNhWnpGSlpkZ1A0VnlPZGItR0M4UEFhUVlTWUhmSEZBcGxQR2dveDdyV0xXclBlUW5ITEdLdzQyOGFRSnBIRVVjNzMwbXNOMVkwRVRmazJMQk5Ka2pORzJYX3JpNXRjZ2gxLUw4WWVxbzJJT05fRnNqWG9NZS1fQkVPQXhyYVdzbUZ3UHE3WGtKbUp3dUpvUVBHUHJBMnJzVnZidw?oc=5"
-    },
-    {
-      "id": "29c9eaff57a0fa5eb4",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-15T10:47:03+02:00",
-      "source": "RTVE.es",
-      "title": "La DOP Cebreros resiste al incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjljdFBKLWlBaXNCdGs1TGc0dGFzQmtRV0YzY0gxbFl5THhnTkJhRWVwVlVZeEdLMXh0YXF4UldwMzMzM1hsM1VaaWh5TjRjNWRqUzIxV1pwTEVfSGJCbXIyYVVyTGpWSkhfZGtERUpiZ0VTOU9mZ2l0eDhiOVpWUjJVVVc3SmhaeFhXZXUxcUlwWkkxbTE2Um9KTzZId2xVYm9rRTg3UnlEeGls?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -169,17 +181,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 5
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
