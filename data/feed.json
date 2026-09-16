@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-16T12:32:27+02:00",
+  "generated_at": "2026-09-16T17:08:33+02:00",
   "items": [
+    {
+      "id": "9930c8bd05818c548d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-16T14:53:03+02:00",
+      "source": "Europa Press",
+      "title": "Andalucía movilizó cerca de 180 miembros del Infoca en los incendios de Guadalajara, Madrid y Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVXoxTWxIWVZxQl9iUWNqZkdCaWNKRlV1RFBwQTE0STZHX1FkYlktVThCRWxQN1J6M3JiVVRVWjhmNXpkSkxEdTNFX1ZzeTdEM0NPNl9kREt4by1LS1otdk1mbWR5QVprTlRDNEowd213dzQ0YWpIXzBDZFJLcWdVNWJGR1pJcHJjbUhmejk0cWJpSnhGMFZnYzhyMEpKbklyQXNXMGxJY3EyMml2N2NwWThTUVJjNmVFOXdwVnlwU29BSk04Z2hjclZuVnM4YTNFeW9CQTlrMmFwREpDUXRqLTBSNExGOGk3dnc?oc=5"
+    },
     {
       "id": "60596f8ed49596cbbb",
       "type": "news",
@@ -48,30 +60,6 @@
       "title": "CEOE-CyL inicia el curso económico en Burgohondo (Ávila) para mostrar su apoyo al tejido empresarial de las zonas afectadas por los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWlVOUR3SEVUel9YWEJOR2dUUGluRjlXLWc5bHI1d1paYUc0NC05Vlh4WWlSeHo4VjQ1aHIzNmdfR20zeTUtb1paRFc3clB4akJKcmU1am5zbHRDeDFYS2ZWSXFDWjNIQnlzREYxU2JQYVBPVW52V04wb2VqSXBJc2ZnQUg5QlZiWE5sNXdhcm1ER3JqNnFvSWYwSnRCMnlCRjI3RWcybmxXWFVySl9nYWp0ZWlhNWdIb2pQSUlBVGNLMzJBdmtIZ2preVdLSURrbGhkQVBHNkhXQk14dkhwUGx4TS1qalRkLTlac0FhX0hhUHBCXy1HTW9KYklEODVJMTdFR09sT1NaakRuVjVTLVlraW5hNXJaWDhCTW9wV2FVSDBy0gGkAkFVX3lxTE4xaVU5RHdIRVR6X1hYQk5HZ1RQaW5GOVctZzlscjV3WlphRzQ0LTlWWHhZaVJ4ejhWNDVocjM2Z19HbTN5NS1vWlpEVzdyUHhqQkpyZTVqbnNsdEN4MVhLZlZJcUNaM0hCeXNERjFTYlBhUE9VbnZXTjBvZWpJcElzZmdBSDlCVmJYTmw1d2FybURHcmo2cW9JZjBKdEIyeUJGMjdFZzJubFdYVXJKX2dhanRlaWE1Z0hvalBJSUFUY0szMkF2a0hnamt5V0tJRGtsaGRBUEc2SFdCTXh2SHBQbHhNLWpqVGQtOVpzQWFfSGFQcEJfLUdNb0piSUQ4NUkxN0VHT2xPU1pqRG5WNVMtWWtpbmE1clpYOEJNb3BXYVVIMHI?oc=5"
-    },
-    {
-      "id": "cc03ab55498fbf0be0",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-15T15:30:02+02:00",
-      "source": "Madrid Actual",
-      "title": "La Comunidad atiende a 2.000 mayores tras el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWVGUjc1eHRsb0hlQkpTUmZKUDZSamRreS1aZHNBUVZSVi1US1BDWEtnWkNXMERlaC05ZGIyZUNEMU9iNjdSU2JXNGowZk1tZXZEdUxjS2tHbnhYT256VUNsTE9QZUhsdnQwMkdmUldnTFV6T3N4UVh2dEJtMjZFQWZSanUtYnlkSkRtRnAwc1BzanZSbFNYNHc2U2VueEd3OTN6WWd3dzQzOERiX01OeXhVYWFMNnFiUDlKbWhKRnZPckVNUlVjbDJTd0t0UQ?oc=5"
-    },
-    {
-      "id": "2d07d698e5d6406f4a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-15T13:50:57+02:00",
-      "source": "La Razón",
-      "title": "Más de 15.000 llamadas y 2.300 horas de auxilio: la Comunidad de Madrid mantiene el plan de rescate emocional tras el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOakdVNHZJRXp5aWhrZGZKV0drTXVnaWNEazVvek9Qb2N1eWZiM053ekE2X05vVkc1SlNWMVpBZWJ0Z2QtallKdVRzZjg0UENBNUJLdWlvVUxvVzRndm9IRG9GMDV2aGl0Qm9kWml1SDNhWnpGSlpkZ1A0VnlPZGItR0M4UEFhUVlTWUhmSEZBcGxQR2dveDdyV0xXclBlUW5ITEdLdzQyOGFRSnBIRVVjNzMwbXNOMVkwRVRmazJMQk5Ka2pORzJYX3JpNXRjZ2gxLUw4WWVxbzJJT05fRnNqWG9NZS1fQkVPQXhyYVdzbUZ3UHE3WGtKbUp3dUpvUVBHUHJBMnJzVnZid9IBigJBVV95cUxOakdVNHZJRXp5aWhrZGZKV0drTXVnaWNEazVvek9Qb2N1eWZiM053ekE2X05vVkc1SlNWMVpBZWJ0Z2QtallKdVRzZjg0UENBNUJLdWlvVUxvVzRndm9IRG9GMDV2aGl0Qm9kWml1SDNhWnpGSlpkZ1A0VnlPZGItR0M4UEFhUVlTWUhmSEZBcGxQR2dveDdyV0xXclBlUW5ITEdLdzQyOGFRSnBIRVVjNzMwbXNOMVkwRVRmazJMQk5Ka2pORzJYX3JpNXRjZ2gxLUw4WWVxbzJJT05fRnNqWG9NZS1fQkVPQXhyYVdzbUZ3UHE3WGtKbUp3dUpvUVBHUHJBMnJzVnZidw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -181,13 +169,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 4
     },
     "direct_media": {
       "ok": true,
