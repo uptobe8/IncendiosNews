@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:23:56+02:00",
+  "generated_at": "2026-09-17T10:48:32+02:00",
   "items": [
-    {
-      "id": "43480da539e61f1e9c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-16T20:29:09+02:00",
-      "source": "Diario de Ávila",
-      "title": "Tras el incendio de Burgohondo: en homenaje a quienes protegieron",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUhPODZPQ242Zy1EcDBnLUVMbk5Eb2xWMENjRTBLQWtoenlJQk9mMkxCSTVmNkJpcWVTRk9YeWtvbXhtaXFOa1hxb0w0QVdiNi1FNFZpRDFYT00yYmx6Vjl2MEhxSmJfT1BBRmppbUw2cEg4akIyNml1NkRnaVJjdlE5YmNHX2NWUHJkTFhocndZM3VXNUFueTlVZF9vd05QbXN3LVFubmU5NFM4cTNEM3lVNm1xX3kwU202Ug?oc=5"
-    },
     {
       "id": "9930c8bd05818c548d",
       "type": "news",
@@ -36,18 +24,6 @@
       "title": "Madrid abastece con comida y agua a la fauna de la Sierra Oeste tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS0l0dVZNRHNROHlPTW5DY2tqY3JwdjlXMWRVdTltWGpySDJSa05vRmlxYjZVUG1IOGVvdzd4UkdWMFM0NFdqLVNRdFRNWFdtVWdOQlZmcngweERnbkNPUkFvVFNVWWhYczNLRWJyZWdGY09aUlNXZVo4dUpZVUF2ZkY3NXNIRFBBQ2t2UUxONnlhNlg0RzRqdEpXckRYWmNPWFdUWjZXTmFTYWVmcEhSOU5TcnJDUWR4cG1rSktMYkRLQlc0X1JfMlV1a1NwMGFDTnFqeUVfUUJic3lTTWdlOQ?oc=5"
-    },
-    {
-      "id": "7b8ff9225365f024d5",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-16T09:02:50+02:00",
-      "source": "Europa Press",
-      "title": "Más Madrid lanza una 'app' para llevar la organización política \"del móvil a las calles\" y desalojar al PP en 2027",
-      "summary": "Busca emular la campaña del alcalde demócrata de Nueva York Zohran Mamdani, enfatizar sus 'puerta y puerta'...",
-      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-lanza-app-llevar-organizacion-politica-movil-calles-desalojar-pp-2027-20260916090250.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +139,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
