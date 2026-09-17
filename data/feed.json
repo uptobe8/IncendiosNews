@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-17T01:54:58+02:00",
+  "generated_at": "2026-09-17T05:23:56+02:00",
   "items": [
+    {
+      "id": "43480da539e61f1e9c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-16T20:29:09+02:00",
+      "source": "Diario de Ávila",
+      "title": "Tras el incendio de Burgohondo: en homenaje a quienes protegieron",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUhPODZPQ242Zy1EcDBnLUVMbk5Eb2xWMENjRTBLQWtoenlJQk9mMkxCSTVmNkJpcWVTRk9YeWtvbXhtaXFOa1hxb0w0QVdiNi1FNFZpRDFYT00yYmx6Vjl2MEhxSmJfT1BBRmppbUw2cEg4akIyNml1NkRnaVJjdlE5YmNHX2NWUHJkTFhocndZM3VXNUFueTlVZF9vd05QbXN3LVFubmU5NFM4cTNEM3lVNm1xX3kwU202Ug?oc=5"
+    },
     {
       "id": "9930c8bd05818c548d",
       "type": "news",
@@ -151,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
