@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-09-17T19:45:32+02:00",
+  "generated_at": "2026-09-17T22:35:13+02:00",
   "items": [
-    {
-      "id": "b3bea76777c9db53bd",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-17T14:57:03+02:00",
-      "source": "Europa Press",
-      "title": "Dos militares evacuados de Ceuta al Hospital Gómez Ulla de Madrid tras resultar heridos por agresiones de inmigrantes",
-      "summary": "Dos militares se encuentran ingresados en el Hospital Central de la Defensa Gómez Ulla, en Madrid, tras...",
-      "url": "https://www.europapress.es/seguridad-y-defensa/noticia-dos-militares-evacuados-ceuta-hospital-gomez-ulla-madrid-resultar-heridos-agresiones-inmigrantes-20260917110053.html"
-    },
-    {
-      "id": "43480da539e61f1e9c",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-16T20:29:09+02:00",
-      "source": "Diario de Ávila",
-      "title": "Tras el incendio de Burgohondo: en homenaje a quienes protegieron",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUhPODZPQ242Zy1EcDBnLUVMbk5Eb2xWMENjRTBLQWtoenlJQk9mMkxCSTVmNkJpcWVTRk9YeWtvbXhtaXFOa1hxb0w0QVdiNi1FNFZpRDFYT00yYmx6Vjl2MEhxSmJfT1BBRmppbUw2cEg4akIyNml1NkRnaVJjdlE5YmNHX2NWUHJkTFhocndZM3VXNUFueTlVZF9vd05QbXN3LVFubmU5NFM4cTNEM3lVNm1xX3kwU202Ug?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -139,11 +115,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
