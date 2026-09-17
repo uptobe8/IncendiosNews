@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-17T15:49:08+02:00",
+  "generated_at": "2026-09-17T19:45:32+02:00",
   "items": [
-    {
-      "id": "4272022d17c06fe635",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-17T15:41:58+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid recuerda a Gregorio Ordóñez con más de 300 objetos personales y documentos inéditos",
-      "summary": "El Centro Cultural Eduardo Úrculo acoge desde este jueves 17 de septiembre hasta el 11 de diciembre la exposición 'Gregorio Ordóñez', organizada...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-recuerda-a-Gregorio-Ordonez-con-mas-de-300-objetos-personales-y-documentos-ineditos-2-2926527330--20260917024002.html"
-    },
     {
       "id": "b3bea76777c9db53bd",
       "type": "news",
@@ -155,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 1
     }
   },
   "refresh_seconds": 300
