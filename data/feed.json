@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:53:27+02:00",
+  "generated_at": "2026-09-19T23:13:06+02:00",
   "items": [
     {
       "id": "c4ff9c6815a85acd3e",
@@ -12,18 +12,6 @@
       "title": "Iberradio reúne a aficionados de todo el mundo y reivindica la radio ante emergencias y fallos de comunicación",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRFVqYWhCOUdIRmFZa2tyT3ZpZFp2RU1lVmw2Um9sbFdWTDE0Rm54bGJqeVNrQWktQ3hIRTJ1aFYzVVB1ejNPUHNxaW42cEczeWltdGVWaGhUS2ZoZDZTSjJRcFB3eGFiZ25ScmlxdWJvOTZRQXc4YW02RDl5Y2hoRGxHbVkta3RPVDE4ZVRvVnc4aEU5NlVxTktFeGxuNWFfSi0ya3A4UWk5R0ZUN0xJNnBSUWhtek1sV0dKbW9hbVJPdlc5MEtLWXdDdjJ2MXlpS3BPV3BiSVBqWmk0VmN2eU1IV0JJZE1Kc2l3?oc=5"
-    },
-    {
-      "id": "6b86f88637e3ee8a51",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-19T15:41:58+02:00",
-      "source": "Telemadrid",
-      "title": "Gran fiesta de la movilidad en Madrid: autobuses de la EMT, cortes en el Paseo del Prado y actividades este fin de semana",
-      "summary": "Madrid vive este fin de semana el punto álgido de la Semana de la Movilidad 2026 con una programación volcada en el transporte sostenible y una...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Gran-fiesta-de-la-movilidad-en-Madrid-autobuses-de-la-EMT-cortes-en-el-Paseo-del-Prado-y-actividades-este-fin-de-semana-2-2927127266--20260919034157.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -143,7 +131,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
