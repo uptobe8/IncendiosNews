@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-19T15:23:03+02:00",
+  "generated_at": "2026-09-19T18:37:26+02:00",
   "items": [
+    {
+      "id": "6b86f88637e3ee8a51",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-19T15:41:58+02:00",
+      "source": "Telemadrid",
+      "title": "Gran fiesta de la movilidad en Madrid: autobuses de la EMT, cortes en el Paseo del Prado y actividades este fin de semana",
+      "summary": "Madrid vive este fin de semana el punto álgido de la Semana de la Movilidad 2026 con una programación volcada en el transporte sostenible y una...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Gran-fiesta-de-la-movilidad-en-Madrid-autobuses-de-la-EMT-cortes-en-el-Paseo-del-Prado-y-actividades-este-fin-de-semana-2-2927127266--20260919034157.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,17 +121,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "direct_media": {
+    "google_news": {
       "ok": true,
       "items": 0
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 1
     }
   },
   "refresh_seconds": 300
