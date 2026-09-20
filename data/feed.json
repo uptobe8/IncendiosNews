@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-20T01:09:12+02:00",
+  "generated_at": "2026-09-20T03:07:01+02:00",
   "items": [
-    {
-      "id": "c4ff9c6815a85acd3e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-19T19:07:17+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Iberradio reúne a aficionados de todo el mundo y reivindica la radio ante emergencias y fallos de comunicación",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRFVqYWhCOUdIRmFZa2tyT3ZpZFp2RU1lVmw2Um9sbFdWTDE0Rm54bGJqeVNrQWktQ3hIRTJ1aFYzVVB1ejNPUHNxaW42cEczeWltdGVWaGhUS2ZoZDZTSjJRcFB3eGFiZ25ScmlxdWJvOTZRQXc4YW02RDl5Y2hoRGxHbVkta3RPVDE4ZVRvVnc4aEU5NlVxTktFeGxuNWFfSi0ya3A4UWk5R0ZUN0xJNnBSUWhtek1sV0dKbW9hbVJPdlc5MEtLWXdDdjJ2MXlpS3BPV3BiSVBqWmk0VmN2eU1IV0JJZE1Kc2l3?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -125,13 +113,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "direct_media": {
       "ok": true,
       "items": 0
+    },
+    "google_news": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
