@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-20T16:46:55+02:00",
+  "generated_at": "2026-09-20T19:42:54+02:00",
   "items": [
+    {
+      "id": "7a0e1d159eb87d9292",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-20T17:58:21+02:00",
+      "source": "ABC",
+      "title": "Madrid destina 14 millones de euros a pymes y autónomos afectados por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUF1OFpLMzVnZEVMcHM0RDhtQWpBVWpEczFobzBka09heWFhUzFndGFCREphZi1hWXNIOGN2OHhxS2F6dHZpTks5M01xZkRBeFZUWE4wb3VTdExoZmlXMHBxVXJlckJvQV9EVm5JWWRmS2ZiR3hxcGdCTVdSQ3R2ZEhfOEpGZW9FZHRyNFVpWk83dDVJRndjN096MkVpYU45Z251NFpoR3RRWXBDMDg3RdIBtgFBVV95cUxObUVGV3dHd2lJTGRwZ2NnUkU2MmhNRnpzcnBMbjZuYVNybjlERXNuQkdlRnYteWxPbnlZSnZDSFBJQllSVVhHUldNNEdIWDVWYUlvd1FVLWZjcGF1Q2tXVGFlNllNQ2xiWVlqSVY0Z2dBNU5OaW9CWl9YbmluU1dsbHJ3N2RFb1dFUjJsQXRnM2FuNVBWRWUxUnM3YWozMlI5SklkcllFc25ZODRPZGQ1RTlpRjRqdw?oc=5"
+    },
     {
       "id": "07fcb4cd981ed84e56",
       "type": "news",
@@ -125,13 +137,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "direct_media": {
       "ok": true,
       "items": 3
-    },
-    "google_news": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
