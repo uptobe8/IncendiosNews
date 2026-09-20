@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-20T08:10:54+02:00",
+  "generated_at": "2026-09-20T13:24:14+02:00",
   "items": [
+    {
+      "id": "07fcb4cd981ed84e56",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-20T06:29:50+02:00",
+      "source": "Europa Press",
+      "title": "Cortes de tráfico y modificaciones en 38 líneas de EMT este domingo por la carrera 'Madrid corre por Madrid'",
+      "summary": "La 18ª edición de 'Ibercaja Madrid corre por Madrid' volverá a llenar este domingo de corredores las...",
+      "url": "https://www.europapress.es/madrid/noticia-cortes-trafico-modificaciones-38-lineas-emt-domingo-carrera-madrid-corre-madrid-20260920062950.html"
+    },
     {
       "id": "c4ff9c6815a85acd3e",
       "type": "news",
@@ -121,17 +133,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 3
     }
   },
   "refresh_seconds": 300
