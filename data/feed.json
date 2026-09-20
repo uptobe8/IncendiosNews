@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:24:14+02:00",
+  "generated_at": "2026-09-20T16:46:55+02:00",
   "items": [
     {
       "id": "07fcb4cd981ed84e56",
@@ -12,18 +12,6 @@
       "title": "Cortes de tráfico y modificaciones en 38 líneas de EMT este domingo por la carrera 'Madrid corre por Madrid'",
       "summary": "La 18ª edición de 'Ibercaja Madrid corre por Madrid' volverá a llenar este domingo de corredores las...",
       "url": "https://www.europapress.es/madrid/noticia-cortes-trafico-modificaciones-38-lineas-emt-domingo-carrera-madrid-corre-madrid-20260920062950.html"
-    },
-    {
-      "id": "c4ff9c6815a85acd3e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-19T19:07:17+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Iberradio reúne a aficionados de todo el mundo y reivindica la radio ante emergencias y fallos de comunicación",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRFVqYWhCOUdIRmFZa2tyT3ZpZFp2RU1lVmw2Um9sbFdWTDE0Rm54bGJqeVNrQWktQ3hIRTJ1aFYzVVB1ejNPUHNxaW42cEczeWltdGVWaGhUS2ZoZDZTSjJRcFB3eGFiZ25ScmlxdWJvOTZRQXc4YW02RDl5Y2hoRGxHbVkta3RPVDE4ZVRvVnc4aEU5NlVxTktFeGxuNWFfSi0ya3A4UWk5R0ZUN0xJNnBSUWhtek1sV0dKbW9hbVJPdlc5MEtLWXdDdjJ2MXlpS3BPV3BiSVBqWmk0VmN2eU1IV0JJZE1Kc2l3?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -137,13 +125,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "direct_media": {
       "ok": true,
       "items": 3
+    },
+    "google_news": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
