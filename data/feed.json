@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-21T03:45:02+02:00",
+  "generated_at": "2026-09-21T09:15:05+02:00",
   "items": [
+    {
+      "id": "49e18c29b99be58a92",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-21T08:46:17+02:00",
+      "source": "Telemadrid",
+      "title": "La Sierra Oeste avanza en su recuperación tras el incendio de este verano",
+      "summary": "Los trabajos de reconstrucción y limpieza en la Sierra Oeste continúan dos meses después del incendio que afectó a esta comarca. Las labores se...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/La-Sierra-Oeste-avanza-en-su-recuperacion-tras-el-incendio-de-este-verano-2-2927727202--20260921084233.html"
+    },
+    {
+      "id": "914b3cf183ca81339f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-21T05:00:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "La colección que nació del fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1JlNFZPMVpobFBDMTUxVURfbDBLMGNIekh5V2k4SFNFak1OUGptZW1WQW0wTjFFTXl6aW5vbTJNUHdNNWx2N0ZwOGwtUFY1ODVPdWxLclJQalRfV092T2FWVlpTWTRVd00tTnZ5ckFDZ0pMbE85aF8xcmhwc0ZlaWVBUVBLclFJM0dmWkdLZmM0ZXlSZHRTSUpOTTFwNG5PbmZEZ1RkaGM5emZmNDc0emxRYw?oc=5"
+    },
     {
       "id": "7a0e1d159eb87d9292",
       "type": "news",
@@ -139,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
