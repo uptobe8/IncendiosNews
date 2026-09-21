@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-09-21T09:15:05+02:00",
+  "generated_at": "2026-09-21T16:16:50+02:00",
   "items": [
     {
-      "id": "49e18c29b99be58a92",
+      "id": "cba27c7030940f7a22",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-21T08:46:17+02:00",
+      "published": "2026-09-21T10:09:54+02:00",
+      "source": "La Vanguardia",
+      "title": "200 pymes de la sierra oeste de Madrid piden ayudas por 1,3 millones tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnJUX0tSMHVYbVQzLTNuUUo0dEJGU0pSeVMteElBUFhNU2JxQ1lKVnZJdUoyQlZtcjBLV0E5U1lPRG5nOGx2Qi14VHM1VU9qdUxhWElNTHV3SzBEY2E2TVZkaEJ0NTlLenk5eXBkdzdRYjNiTFVPZUdTaTVmQlFmRXpIdnpmU3JUQTliTXhBV0pkZlRLQWFYeGw1S2xhNWlncWRfbGlBNms2bERraEpGUXNTQUN5TjhPakJpVkt3Qk1LcElWdUpjUtIBzgFBVV95cUxOekQ4Rk5nZ1JjU2NlcDVhTDJSQldMZE1Lc0pXSzVEaHg1dHhhZ19hMkRUY2NrelltbTdMejBLeHdpWWxBRnozNlJOZkI2Q05xRzF4UGdvMXRrNDcyQUFpSWRnQ1ZmQ0xwNHRCd0FXQU1YS2cxTGpjRGxrdlFBT0xLOU96Z1FIT2dKMXdMdVlrV2pQOG10UlpPSXAyYUJKdi0yUEgzZHNCdlVyYlppZmgtMzBZMGRGbW9PMzB1Ylc2ejNYakRZMHB1a0V3RzlwUQ?oc=5"
+    },
+    {
+      "id": "4b0a4f5753967724e4",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-21T09:39:12+02:00",
+      "source": "Europa Press",
+      "title": "Las ventas del sector servicios aumentan en la Comunidad de Madrid un 6,4% en julio",
+      "summary": "El sector servicios de Madrid aumentó su facturación un 6,4% el pasado mes de julio respecto al mismo...",
+      "url": "https://www.europapress.es/madrid/noticia-ventas-sector-servicios-aumentan-comunidad-madrid-64-julio-20260921093912.html"
+    },
+    {
+      "id": "8630822564fe832665",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-21T08:42:33+02:00",
       "source": "Telemadrid",
       "title": "La Sierra Oeste avanza en su recuperación tras el incendio de este verano",
-      "summary": "Los trabajos de reconstrucción y limpieza en la Sierra Oeste continúan dos meses después del incendio que afectó a esta comarca. Las labores se...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/La-Sierra-Oeste-avanza-en-su-recuperacion-tras-el-incendio-de-este-verano-2-2927727202--20260921084233.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTEhGcFlKTDAtYjNxY0dKWkxfN3NUblJKempnZGJscWxDN3NWT1Rhb2laSTBqU3VSRTlLZTdhUEF4cTlLOFNpWDQyYU5ZdkxEeDJ1NXNEU1c2bHNVYlFHSmJmLW5qVVg1Y3BuaUJta0ctZnE2a20ybVZremZOQ1RlQXBoR3hWWFI2SF9lTjV6OWw5UlVEWmJsUmREd1J4UFQzcmFyVi1zT1ZPQUdwaV8xNm1VM2hfOFdvZnFqdFl1SllxNGY0cHFldjQ1SWNBb0xTTHFUall3YXUyaFBnMzVpLVJvTm04VXkxQ05Uejk5Nk5jWXgt0gH6AUFVX3lxTE9lME5rak1uREMwU1YzblFhZjFodTdSTE1UNUYtWVNYcVlaOUlNM2JaVEhuOFA4ejFjRS04RUItOFVmdGVRX2U0YW05QXA2WGdOVjNCdVhMb2l3blBhRF9sMGtLYnRVOTgyTEJUZlhSb1dianRGQTJkc3hLYjJJQlJuc2drRHFVdnhIYXZTa1RuY3NsMF9OcUNKdlFldFl2NkFtVzRmUXluU2hqbTAxRkRZbnpMc2tMNVFjdzRMN1RKUkhia2QxRGtiaEhaNmF4b3JFWkdqNXFsWFlCVzdKSGpWOXRZLWg4MEdIMlZiR0FWZlZLRU5kVTJXUUE?oc=5"
     },
     {
       "id": "914b3cf183ca81339f",
@@ -35,19 +59,7 @@
       "source": "ABC",
       "title": "Madrid destina 14 millones de euros a pymes y autónomos afectados por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUF1OFpLMzVnZEVMcHM0RDhtQWpBVWpEczFobzBka09heWFhUzFndGFCREphZi1hWXNIOGN2OHhxS2F6dHZpTks5M01xZkRBeFZUWE4wb3VTdExoZmlXMHBxVXJlckJvQV9EVm5JWWRmS2ZiR3hxcGdCTVdSQ3R2ZEhfOEpGZW9FZHRyNFVpWk83dDVJRndjN096MkVpYU45Z251NFpoR3RRWXBDMDg3RdIBtgFBVV95cUxObUVGV3dHd2lJTGRwZ2NnUkU2MmhNRnpzcnBMbjZuYVNybjlERXNuQkdlRnYteWxPbnlZSnZDSFBJQllSVVhHUldNNEdIWDVWYUlvd1FVLWZjcGF1Q2tXVGFlNllNQ2xiWVlqSVY0Z2dBNU5OaW9CWl9YbmluU1dsbHJ3N2RFb1dFUjJsQXRnM2FuNVBWRWUxUnM3YWozMlI5SklkcllFc25ZODRPZGQ1RTlpRjRqdw?oc=5"
-    },
-    {
-      "id": "07fcb4cd981ed84e56",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-20T06:29:50+02:00",
-      "source": "Europa Press",
-      "title": "Cortes de tráfico y modificaciones en 38 líneas de EMT este domingo por la carrera 'Madrid corre por Madrid'",
-      "summary": "La 18ª edición de 'Ibercaja Madrid corre por Madrid' volverá a llenar este domingo de corredores las...",
-      "url": "https://www.europapress.es/madrid/noticia-cortes-trafico-modificaciones-38-lineas-emt-domingo-carrera-madrid-corre-madrid-20260920062950.html"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUF1OFpLMzVnZEVMcHM0RDhtQWpBVWpEczFobzBka09heWFhUzFndGFCREphZi1hWXNIOGN2OHhxS2F6dHZpTks5M01xZkRBeFZUWE4wb3VTdExoZmlXMHBxVXJlckJvQV9EVm5JWWRmS2ZiR3hxcGdCTVdSQ3R2ZEhfOEpGZW9FZHRyNFVpWk83dDVJRndjN096MkVpYU45Z251NFpoR3RRWXBDMDg3RQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 1
     }
   },
   "refresh_seconds": 300
