@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-09-22T08:19:52+02:00",
+  "generated_at": "2026-09-22T13:52:10+02:00",
   "items": [
     {
-      "id": "e0710dbe865bddaf41",
+      "id": "3ce54566dc0faef0a0",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-22T08:16:10+02:00",
-      "source": "Telemadrid",
-      "title": "Obras en Metro de Madrid: mapa de afecciones en la red y cortes de fin de semana en la Línea 6",
-      "summary": "La red de Metro de Madrid afronta el mayor plan de obras y modernización tecnológica de su última década. La acumulación de proyectos simultáneos...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Obras-en-Metro-de-Madrid-mapa-de-afecciones-en-la-red-y-cortes-de-fin-de-semana-en-la-Linea-6-0-2928007172--20260922081610.html"
+      "published": "2026-09-22T11:08:18+02:00",
+      "source": "Europa Press",
+      "title": "Más Madrid lleva a Fiscalía las listas de espera del Ramón y Cajal por presunta prevaricación y falsedad documental",
+      "summary": "Más Madrid pedirá este martes a la Fiscalía Provincial de Madrid que investigue la modificación de listas...",
+      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-lleva-fiscalia-listas-espera-ramon-cajal-presunta-prevaricacion-falsedad-documental-20260922081548.html"
+    },
+    {
+      "id": "96032e113b9d465f93",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-22T09:37:42+02:00",
+      "source": "Europa Press",
+      "title": "Las pernoctaciones hoteleras en la Comunidad de Madrid aumentan un 2,36% en agosto, con 2,17 millones de estancias",
+      "summary": "Las pernoctaciones en establecimientos hoteleros en la Comunidad de Madrid aumentaron un 2,36% en agosto...",
+      "url": "https://www.europapress.es/madrid/noticia-pernoctaciones-hoteleras-comunidad-madrid-aumentan-236-agosto-217-millones-estancias-20260922093742.html"
     },
     {
       "id": "06fd5e8693582a758d",
@@ -24,30 +36,6 @@
       "title": "Nace una iniciativa vecinal para atajar los efectos del fuego",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDhUT2JUTVItYXEyWjA4bXE3TG5USHdiQlB4eGxEbnV0ZFRKcVpRaE1DTDNSY0dVRUxHQWdQZm1qNXVmdy0xX3VhcW1IMmZQTEJTQ0I1c1dPY09OLXVmRHM1aldNUk0xLWxTTzE1eElFWmtjbV9WaU4wSDg2U1lEb0w5WUlIaXNZX2ZHYTRORlZOT0pPTGhpQXJkYWhjRE85Q3RZdXJzSUdFc09RbnROZ2JhRV9tQ2ViRmtjNHFaSjdjRDhTTC1TN3dGYk1zMDFJTHVqYUNzc041UQ?oc=5"
-    },
-    {
-      "id": "cba27c7030940f7a22",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-21T10:09:54+02:00",
-      "source": "La Vanguardia",
-      "title": "200 pymes de la sierra oeste de Madrid piden ayudas por 1,3 millones tras el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnJUX0tSMHVYbVQzLTNuUUo0dEJGU0pSeVMteElBUFhNU2JxQ1lKVnZJdUoyQlZtcjBLV0E5U1lPRG5nOGx2Qi14VHM1VU9qdUxhWElNTHV3SzBEY2E2TVZkaEJ0NTlLenk5eXBkdzdRYjNiTFVPZUdTaTVmQlFmRXpIdnpmU3JUQTliTXhBV0pkZlRLQWFYeGw1S2xhNWlncWRfbGlBNms2bERraEpGUXNTQUN5TjhPakJpVkt3Qk1LcElWdUpjUtIBzgFBVV95cUxOekQ4Rk5nZ1JjU2NlcDVhTDJSQldMZE1Lc0pXSzVEaHg1dHhhZ19hMkRUY2NrelltbTdMejBLeHdpWWxBRnozNlJOZkI2Q05xRzF4UGdvMXRrNDcyQUFpSWRnQ1ZmQ0xwNHRCd0FXQU1YS2cxTGpjRGxrdlFBT0xLOU96Z1FIT2dKMXdMdVlrV2pQOG10UlpPSXAyYUJKdi0yUEgzZHNCdlVyYlppZmgtMzBZMGRGbW9PMzB1Ylc2ejNYakRZMHB1a0V3RzlwUQ?oc=5"
-    },
-    {
-      "id": "8630822564fe832665",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-21T08:42:33+02:00",
-      "source": "Telemadrid",
-      "title": "La Sierra Oeste avanza en su recuperación tras el incendio de este verano",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTEhGcFlKTDAtYjNxY0dKWkxfN3NUblJKempnZGJscWxDN3NWT1Rhb2laSTBqU3VSRTlLZTdhUEF4cTlLOFNpWDQyYU5ZdkxEeDJ1NXNEU1c2bHNVYlFHSmJmLW5qVVg1Y3BuaUJta0ctZnE2a20ybVZremZOQ1RlQXBoR3hWWFI2SF9lTjV6OWw5UlVEWmJsUmREd1J4UFQzcmFyVi1zT1ZPQUdwaV8xNm1VM2hfOFdvZnFqdFl1SllxNGY0cHFldjQ1SWNBb0xTTHFUall3YXUyaFBnMzVpLVJvTm04VXkxQ05Uejk5Nk5jWXgt?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +151,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
