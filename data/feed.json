@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-22T03:15:37+02:00",
+  "generated_at": "2026-09-22T08:19:52+02:00",
   "items": [
+    {
+      "id": "e0710dbe865bddaf41",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-22T08:16:10+02:00",
+      "source": "Telemadrid",
+      "title": "Obras en Metro de Madrid: mapa de afecciones en la red y cortes de fin de semana en la Línea 6",
+      "summary": "La red de Metro de Madrid afronta el mayor plan de obras y modernización tecnológica de su última década. La acumulación de proyectos simultáneos...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Obras-en-Metro-de-Madrid-mapa-de-afecciones-en-la-red-y-cortes-de-fin-de-semana-en-la-Linea-6-0-2928007172--20260922081610.html"
+    },
     {
       "id": "06fd5e8693582a758d",
       "type": "news",
@@ -36,18 +48,6 @@
       "title": "La Sierra Oeste avanza en su recuperación tras el incendio de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTEhGcFlKTDAtYjNxY0dKWkxfN3NUblJKempnZGJscWxDN3NWT1Rhb2laSTBqU3VSRTlLZTdhUEF4cTlLOFNpWDQyYU5ZdkxEeDJ1NXNEU1c2bHNVYlFHSmJmLW5qVVg1Y3BuaUJta0ctZnE2a20ybVZremZOQ1RlQXBoR3hWWFI2SF9lTjV6OWw5UlVEWmJsUmREd1J4UFQzcmFyVi1zT1ZPQUdwaV8xNm1VM2hfOFdvZnFqdFl1SllxNGY0cHFldjQ1SWNBb0xTTHFUall3YXUyaFBnMzVpLVJvTm04VXkxQ05Uejk5Nk5jWXgt?oc=5"
-    },
-    {
-      "id": "914b3cf183ca81339f",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-21T05:00:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "La colección que nació del fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1JlNFZPMVpobFBDMTUxVURfbDBLMGNIekh5V2k4SFNFak1OUGptZW1WQW0wTjFFTXl6aW5vbTJNUHdNNWx2N0ZwOGwtUFY1ODVPdWxLclJQalRfV092T2FWVlpTWTRVd00tTnZ5ckFDZ0pMbE85aF8xcmhwc0ZlaWVBUVBLclFJM0dmWkdLZmM0ZXlSZHRTSUpOTTFwNG5PbmZEZ1RkaGM5emZmNDc0emxRYw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
