@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-09-22T17:55:31+02:00",
+  "generated_at": "2026-09-22T21:34:32+02:00",
   "items": [
     {
-      "id": "c1185105f8bb141e64",
+      "id": "1b246ae20ea1d7a60d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-09-22T21:18:13+02:00",
+      "source": "20Minutos",
+      "title": "Así se salvó del incendio de Burgohondo la estación espacial clave de la ESA en Cebreros",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWZTWW1QcVY3SjM5VmRyTzN1bTJxSUhlclRzVWFPWEVqYUdDSTdFbzBrQTZIYVItSUxhVWdiT09fWWs1cFdrVi1ONW55SHJDNll1NUs4NmgwcmN6clk1dFlQTVpaV3BlZncyVTh2bnVQcUJENTh1ODRzakNiNEpXaWVWRUdoengxel9WeDBkeUlIS0N5SG5mYlRndGhlU1Y3REFLb014TTQtQ2c1blVmSUM0ZUlvaW1BcnhNckVqb0dqcTBfOWVYbl9zcw?oc=5"
+    },
+    {
+      "id": "f0f771bd078199fe10",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Cebreros",
+      "published": "2026-09-22T20:47:19+02:00",
+      "source": "La Razón",
+      "title": "Homenaje a quienes ayudaron a salvar del fuego la estación espacial de la ESA en Cebreros",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFhtWmEwMDZ1UTVadElmUXNGR19JOGliSGR5cmZtLVhCZVlQZTFldnU2T1k4c0Y5RHhleDl2LWVZMnk4aG9GTHhsM21UanlSMjE0dzNQRW54ZnUydS1jWGV6RGIxQzVwV0ttUmZzdURKQkY5X0w3S25iLVlmeU43UEtFc25tX01WaUZBQkpxWVRFR25KYjFrYnpValZzdHdiMzY3VVdwcndtZzRKVmNnQnlvQlRNaEtacnhqcWZ6Q092VWRCYlF2c1J3aVJ5VmhuSHpKRzlR0gHqAUFVX3lxTE1nRENfQnZMc1JTeUtNc1A0SmF6QW5Hd09mLVVVZDAyeEhXS1QzSXc0R19lUXpRaEVoRXRoMVFRVTROeEVPN3g3MUVKaTBza2FSejBhNWtEeFhXTXZZNURiSGxkNmxMZmdGSng4WWM4bjJmTklCUWNKeHdCVE9MQ1BXOTlQVGVRZEhwVDZFYVY2MkpIOEZ4YmluNHBvLUtpMFR5QnkzUldTWS10eEZNTkRUSlJ2cUVfMmpuVVlLN0lKTTM5NmtobmM5bDhMZmtLaHZUTEp6MjFCNms2SG9qcWFRZmFrUkYtSFI3UQ?oc=5"
+    },
+    {
+      "id": "62d54fe77ca5e4d1b4",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-09-22T17:13:19+02:00",
+      "published": "2026-09-22T18:57:55+02:00",
+      "source": "Europa Press",
+      "title": "Estabilizado el incendio declarado en Puerto Castilla, en Ávila",
+      "summary": "Una veintena de medios trabaja a estas horas en un incendio que se ha declarado en el térmimo municipal...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-incendios-estabilizado-incendio-declarado-puerto-castilla-avila-20260922185735.html"
+    },
+    {
+      "id": "f297e43a5c2f978821",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-22T18:35:53+02:00",
+      "source": "Europa Press",
+      "title": "Sin heridos en el incendio de un camión cargado de paja en El Barraco (Ávila)",
+      "summary": "Un camión cargado de paja ha ardido esta tarde en el término abulense de El Barraco, sin que hubiera que...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-heridos-incendio-camion-cargado-paja-barraco-avila-20260922183553.html"
+    },
+    {
+      "id": "febdee8fef8aea1f25",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-22T18:13:36+02:00",
       "source": "Europa Press",
       "title": "Una veintena de medios trabaja para sofocar un fuego en Puerto Castilla (Ávila)",
       "summary": "Una veintena de medios trabaja a estas horas en un incendio que se ha declarado en el térmimo municipal...",
@@ -151,11 +199,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 5
     }
   },
   "refresh_seconds": 300
