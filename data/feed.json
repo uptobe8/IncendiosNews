@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-23T07:16:48+02:00",
+  "generated_at": "2026-09-23T12:04:59+02:00",
   "items": [
+    {
+      "id": "109d7b7ee08614d66e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Cebreros",
+      "published": "2026-09-23T09:44:28+02:00",
+      "source": "Cadena SER",
+      "title": "Homenaje a los profesionales y voluntarios que salvaron del fuego las instalaciones de la Agencia Espacial Europea en Cebreros",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOaTlxbDhMSTJDN0JCaG81NTN5NHRrNVlqQzg2RXkzc3U0ZG5EaVZSUmtwSXhLeWRuUlAzNGFmNjhPZ0x0NkNxVEh0c2Jwa2hENmlFTV9NUFgxUnp5b1lFN2FzUndKZENFT2hGcEQ4TWtCUzlLV0sweXllXzY4eXdwRjNYSTBZVnVvUWdFRm90bzV0OFczR3pYb2FFYXNjV1dNSUdxSk5OQl9ocmppb3AyUnljODVxUXpMaVBJU1E1cVFvUlZhZTZVaHZuM3QtQjZvRHVHRk5kdmNIaTJHTHh2dTZId3N2WTlaRXhkUWlWeTFZUXpXcFR4NXp5SGpIQlN6bGV2VjBXM3ZLRTZjMHkzOS1YSHVnMmdGd2NPU0NkakE5dU1iWXfSAaYCQVVfeXFMTmk5cWw4TEkyQzdCQmhvNTUzeTR0azVZakM4NkV5M3N1NGRuRGlWUlJrcEl4S3lkblJQMzRhZjY4T2dMdDZDcVRIdHNicGtoRDZpRU1fTVBYMVJ6eW9ZRTdhc1J3SmRDRU9oRnBEOE1rQlM5S1dLMHl5ZV82OHl3cEYzWEkwWVZ1b1FnRUZvdG81dDhXM0d6WG9hRWFzY1dXTUlHcUpOTkJfaHJqaW9wMlJ5Yzg1cVF6TGlQSVNRNXFRb1JWYWU2VWh2bjN0LUI2b0R1R0ZOZHZjSGkyR0x4dnU2SHdzdlk5WkV4ZFFpVnkxWVF6V3BUeDV6eUhqSEJTemxldlYwVzN2S0U2YzB5MzktWEh1ZzJnRndjT1NDZGpBOXVNYll3?oc=5"
+    },
     {
       "id": "5048ab8b45bb63a4a5",
       "type": "news",
@@ -14,18 +26,6 @@
       "url": "https://www.europapress.es/madrid/noticia-mas-madrid-lleva-fiscalia-listas-espera-ramon-cajal-presunta-prevaricacion-falsedad-documental-20260922081548.html"
     },
     {
-      "id": "1b246ae20ea1d7a60d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-09-22T21:18:13+02:00",
-      "source": "20Minutos",
-      "title": "Así se salvó del incendio de Burgohondo la estación espacial clave de la ESA en Cebreros",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWZTWW1QcVY3SjM5VmRyTzN1bTJxSUhlclRzVWFPWEVqYUdDSTdFbzBrQTZIYVItSUxhVWdiT09fWWs1cFdrVi1ONW55SHJDNll1NUs4NmgwcmN6clk1dFlQTVpaV3BlZncyVTh2bnVQcUJENTh1ODRzakNiNEpXaWVWRUdoengxel9WeDBkeUlIS0N5SG5mYlRndGhlU1Y3REFLb014TTQtQ2c1blVmSUM0ZUlvaW1BcnhNckVqb0dqcTBfOWVYbl9zcw?oc=5"
-    },
-    {
       "id": "f0f771bd078199fe10",
       "type": "news",
       "severity": "info",
@@ -35,7 +35,7 @@
       "source": "La Razón",
       "title": "Homenaje a quienes ayudaron a salvar del fuego la estación espacial de la ESA en Cebreros",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFhtWmEwMDZ1UTVadElmUXNGR19JOGliSGR5cmZtLVhCZVlQZTFldnU2T1k4c0Y5RHhleDl2LWVZMnk4aG9GTHhsM21UanlSMjE0dzNQRW54ZnUydS1jWGV6RGIxQzVwV0ttUmZzdURKQkY5X0w3S25iLVlmeU43UEtFc25tX01WaUZBQkpxWVRFR25KYjFrYnpValZzdHdiMzY3VVdwcndtZzRKVmNnQnlvQlRNaEtacnhqcWZ6Q092VWRCYlF2c1J3aVJ5VmhuSHpKRzlR0gHqAUFVX3lxTE1nRENfQnZMc1JTeUtNc1A0SmF6QW5Hd09mLVVVZDAyeEhXS1QzSXc0R19lUXpRaEVoRXRoMVFRVTROeEVPN3g3MUVKaTBza2FSejBhNWtEeFhXTXZZNURiSGxkNmxMZmdGSng4WWM4bjJmTklCUWNKeHdCVE9MQ1BXOTlQVGVRZEhwVDZFYVY2MkpIOEZ4YmluNHBvLUtpMFR5QnkzUldTWS10eEZNTkRUSlJ2cUVfMmpuVVlLN0lKTTM5NmtobmM5bDhMZmtLaHZUTEp6MjFCNms2SG9qcWFRZmFrUkYtSFI3UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ0RDX0J2THNSU3lLTXNQNEphekFuR3dPZi1VVWQwMnhIV0tUM0l3NEdfZVF6UWhFaEV0aDFRUVU0TnhFTzd4NzFFSmkwc2thUnowYTVrRHhYV012WTVEYkhsZDZsTGZnRkp4OFljOG4yZk5JQlFjSnh3QlRPTENQVzk5UFRlUWRIcFQ2RWFWNjJKSDhGeGJpbjRwby1LaTBUeUJ5M1JXU1ktdHhGTU5EVEpSdnFFXzJqblVZSzdJSk0zOTZraG5jOWw4TGZrS2h2VExKejIxQjZrNkhvanFhUWZha1JGLUhSN1HSAeoBQVVfeXFMTWdEQ19CdkxzUlN5S01zUDRKYXpBbkd3T2YtVVVkMDJ4SFdLVDNJdzRHX2VRelFoRWhFdGgxUVFVNE54RU83eDcxRUppMHNrYVJ6MGE1a0R4WFdNdlk1RGJIbGQ2bExmZ0ZKeDhZYzhuMmZOSUJRY0p4d0JUT0xDUFc5OVBUZVFkSHBUNkVhVjYySkg4RnhiaW40cG8tS2kwVHlCeTNSV1NZLXR4Rk1ORFRKUnZxRV8yam5VWUs3SUpNMzk2a2huYzlsOExma0todlRMSnoyMUI2azZIb2pxYVFmYWtSRi1IUjdR?oc=5"
     },
     {
       "id": "62d54fe77ca5e4d1b4",
@@ -48,18 +48,6 @@
       "title": "Estabilizado el incendio declarado en Puerto Castilla, en Ávila",
       "summary": "Una veintena de medios trabaja a estas horas en un incendio que se ha declarado en el térmimo municipal...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-incendios-estabilizado-incendio-declarado-puerto-castilla-avila-20260922185735.html"
-    },
-    {
-      "id": "49411ffdb1ccbb221f",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-22T18:45:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Un camión cargado de paja se incendia en El Barraco",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0phSkVHM1VPVElfVkgxaDVZdnlULWQyd296ZGJtdXcwWmpCaEgzZFNCeEJqcHNPRVlNYjBGa1BuWlo4MXdZbnRaVHNSaHd3ZHVlM0VuREpBZVRZeTVKVXhhYjd2RTdlRXZpQVF1Z1NFdzB5MWJzQjNyVUtSR2NEOFU3Vy0weTRHaW8zNHg4NDFIVjBvUU9XcWpRa2M?oc=5"
     },
     {
       "id": "f297e43a5c2f978821",
@@ -84,18 +72,6 @@
       "title": "Una veintena de medios trabaja para sofocar un fuego en Puerto Castilla (Ávila)",
       "summary": "Una veintena de medios trabaja a estas horas en un incendio que se ha declarado en el térmimo municipal...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-veintena-medios-trabaja-sofocar-fuego-puerto-castilla-avila-20260922171319.html"
-    },
-    {
-      "id": "96032e113b9d465f93",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-22T09:37:42+02:00",
-      "source": "Europa Press",
-      "title": "Las pernoctaciones hoteleras en la Comunidad de Madrid aumentan un 2,36% en agosto, con 2,17 millones de estancias",
-      "summary": "Las pernoctaciones en establecimientos hoteleros en la Comunidad de Madrid aumentaron un 2,36% en agosto...",
-      "url": "https://www.europapress.es/madrid/noticia-pernoctaciones-hoteleras-comunidad-madrid-aumentan-236-agosto-217-millones-estancias-20260922093742.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -211,11 +187,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 5
+      "items": 4
     }
   },
   "refresh_seconds": 300
