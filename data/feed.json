@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:13:21+02:00",
+  "generated_at": "2026-09-24T12:04:51+02:00",
   "items": [
     {
       "id": "6b9734e7187741d0e7",
@@ -12,30 +12,6 @@
       "title": "La ESA rinde homenaje a quienes protegieron la estación de Cebreros durante el incendio de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2t4dUItVW15VG9fVFhOeWNDV2txbWNKVEUzMmFkYkZzd3hDOFBGb3ZMMzdmMzhpX0xrNDNlSGxndzRRSnEtRnh5d2RyWFY2V0Q1X3RaQ2dJZmh5aWJqVGNPNDY3cGkxZy1fV1M5MlhHS0tIZ1NoVmQ1RkgydkJxVm5yeUZHRzZfOUdSRjlnbWF1N1RhVWxFaFloVDNOSFBsd2Y3QlR3?oc=5"
-    },
-    {
-      "id": "109d7b7ee08614d66e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Cebreros",
-      "published": "2026-09-23T09:44:28+02:00",
-      "source": "Cadena SER",
-      "title": "Homenaje a los profesionales y voluntarios que salvaron del fuego las instalaciones de la Agencia Espacial Europea en Cebreros",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMVU3UGRTM0ljelFLX0ZDRV9VMV9YMlA2UnZWendNbE5vLUZ1bklTUGJVdDRSQnZsM2xaNjFMeGN5V2ZzdjNBQWhXM1BqRFV0cEl2dkUzUG16R1ctZ1ZGRmNCVnBpVzQ2VTg5NVdScnFIT1VVa0JWX0gyU29YckJqQXJVam5peHZEbjRaZkFCUGhEVUtHd3FmX0xDcnFrZE1WbC1jNTEzOFlOaTIyWXRfNmRtZDA4LVlXRUVXYmJwVzBBVk8yR3ZRb0ZrUktOWjdzZkV1YS05amx5VFlERG5lN3VvRkZqWGFOcm4yNmc0d3pqbHJubUZFQW04bHdULW5ZZGhYZUtFeW9wLXpMdVZPcDF3?oc=5"
-    },
-    {
-      "id": "f297e43a5c2f978821",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-22T18:35:53+02:00",
-      "source": "Europa Press",
-      "title": "Sin heridos en el incendio de un camión cargado de paja en El Barraco (Ávila)",
-      "summary": "Un camión cargado de paja ha ardido esta tarde en el término abulense de El Barraco, sin que hubiera que...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-heridos-incendio-camion-cargado-paja-barraco-avila-20260922183553.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
