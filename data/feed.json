@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:05:19+02:00",
+  "generated_at": "2026-09-24T02:27:49+02:00",
   "items": [
     {
       "id": "6b9734e7187741d0e7",
@@ -11,19 +11,7 @@
       "source": "RTVE.es",
       "title": "La ESA rinde homenaje a quienes protegieron la estación de Cebreros durante el incendio de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmtLaTFGdE96Y2J2OEZ0ZVIwdjNZU05lTGJrTnBoQzdQb1FFSEdVdE1UTUJZWXptS0gyRGlKRUFCOFU1SkIxNmZrYV9vMm03RzA4N0pZaWNpMWhlUEFnanFWS0RQQkkxMk44bnJ4RmUxbi1DOTRIWDk3YXVfbGoxcnJ5LUxmbUJGR3RzcG1XQzdJLU5sTGk0Ry1Zd2VKS1RIUHQ0ZU5B?oc=5"
-    },
-    {
-      "id": "109d7b7ee08614d66e",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Cebreros",
-      "published": "2026-09-23T09:44:28+02:00",
-      "source": "Cadena SER",
-      "title": "Homenaje a los profesionales y voluntarios que salvaron del fuego las instalaciones de la Agencia Espacial Europea en Cebreros",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOaTlxbDhMSTJDN0JCaG81NTN5NHRrNVlqQzg2RXkzc3U0ZG5EaVZSUmtwSXhLeWRuUlAzNGFmNjhPZ0x0NkNxVEh0c2Jwa2hENmlFTV9NUFgxUnp5b1lFN2FzUndKZENFT2hGcEQ4TWtCUzlLV0sweXllXzY4eXdwRjNYSTBZVnVvUWdFRm90bzV0OFczR3pYb2FFYXNjV1dNSUdxSk5OQl9ocmppb3AyUnljODVxUXpMaVBJU1E1cVFvUlZhZTZVaHZuM3QtQjZvRHVHRk5kdmNIaTJHTHh2dTZId3N2WTlaRXhkUWlWeTFZUXpXcFR4NXp5SGpIQlN6bGV2VjBXM3ZLRTZjMHkzOS1YSHVnMmdGd2NPU0NkakE5dU1iWXfSAaYCQVVfeXFMTmk5cWw4TEkyQzdCQmhvNTUzeTR0azVZakM4NkV5M3N1NGRuRGlWUlJrcEl4S3lkblJQMzRhZjY4T2dMdDZDcVRIdHNicGtoRDZpRU1fTVBYMVJ6eW9ZRTdhc1J3SmRDRU9oRnBEOE1rQlM5S1dLMHl5ZV82OHl3cEYzWEkwWVZ1b1FnRUZvdG81dDhXM0d6WG9hRWFzY1dXTUlHcUpOTkJfaHJqaW9wMlJ5Yzg1cVF6TGlQSVNRNXFRb1JWYWU2VWh2bjN0LUI2b0R1R0ZOZHZjSGkyR0x4dnU2SHdzdlk5WkV4ZFFpVnkxWVF6V3BUeDV6eUhqSEJTemxldlYwVzN2S0U2YzB5MzktWEh1ZzJnRndjT1NDZGpBOXVNYll3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2t4dUItVW15VG9fVFhOeWNDV2txbWNKVEUzMmFkYkZzd3hDOFBGb3ZMMzdmMzhpX0xrNDNlSGxndzRRSnEtRnh5d2RyWFY2V0Q1X3RaQ2dJZmh5aWJqVGNPNDY3cGkxZy1fV1M5MlhHS0tIZ1NoVmQ1RkgydkJxVm5yeUZHRzZfOUdSRjlnbWF1N1RhVWxFaFloVDNOSFBsd2Y3QlR3?oc=5"
     },
     {
       "id": "f297e43a5c2f978821",
@@ -151,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
