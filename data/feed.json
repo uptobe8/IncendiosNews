@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-09-24T12:04:51+02:00",
+  "generated_at": "2026-09-24T16:59:34+02:00",
   "items": [
     {
-      "id": "6b9734e7187741d0e7",
+      "id": "3733487fe31f7c03df",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-24T16:37:45+02:00",
+      "source": "Europa Press",
+      "title": "La Policía Municipal de Madrid desaloja el asentamiento ilegal de la calle Villaamil",
+      "summary": "La Policía Municipal de Madrid ha desalojado este jueves el asentamiento ilegal de una decena de...",
+      "url": "https://www.europapress.es/madrid/noticia-policia-municipal-madrid-desaloja-asentamiento-ilegal-calle-villaamil-20260924163745.html"
+    },
+    {
+      "id": "21c38423110b14c509",
       "type": "news",
       "severity": "info",
-      "province": "Ávila",
-      "town": "Cebreros",
-      "published": "2026-09-23T16:57:57+02:00",
-      "source": "RTVE.es",
-      "title": "La ESA rinde homenaje a quienes protegieron la estación de Cebreros durante el incendio de Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2t4dUItVW15VG9fVFhOeWNDV2txbWNKVEUzMmFkYkZzd3hDOFBGb3ZMMzdmMzhpX0xrNDNlSGxndzRRSnEtRnh5d2RyWFY2V0Q1X3RaQ2dJZmh5aWJqVGNPNDY3cGkxZy1fV1M5MlhHS0tIZ1NoVmQ1RkgydkJxVm5yeUZHRzZfOUdSRjlnbWF1N1RhVWxFaFloVDNOSFBsd2Y3QlR3?oc=5"
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-09-24T13:04:00+02:00",
+      "source": "Europa Press",
+      "title": "Tres personas afectadas por inhalación de humo tras el incendio en una vivienda de Illescas (Toledo)",
+      "summary": "Tres personas han resultado afectadas por inhalación de humo este jueves tras el incendio registrado en...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-tres-personas-afectadas-inhalacion-humo-incendio-vivienda-illescas-toledo-20260924130400.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -127,11 +139,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 2
     }
   },
   "refresh_seconds": 300
