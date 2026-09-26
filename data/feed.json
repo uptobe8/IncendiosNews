@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-26T12:14:30+02:00",
+  "generated_at": "2026-09-26T16:32:23+02:00",
   "items": [
-    {
-      "id": "017250e10e64e5883a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-26T07:56:14+02:00",
-      "source": "Telemadrid",
-      "title": "Cortes de tráfico en Madrid este sábado por la Marcha por la Dignidad de Cibeles a Moncloa",
-      "summary": "Jornada complicada para la movilidad en el centro de la capital. Una nueva manifestación convocada por la plataforma Sociedad Civil Española bajo...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Cortes-de-trafico-en-Madrid-este-sabado-por-la-Marcha-por-la-Dignidad-de-Cibeles-a-Moncloa-0-2929207051--20260926075043.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -131,7 +119,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
