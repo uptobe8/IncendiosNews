@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-27T09:04:10+02:00",
+  "generated_at": "2026-09-27T14:57:18+02:00",
   "items": [
-    {
-      "id": "f0a04333a953848c17",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-26T21:43:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Castilla y León concentra una de las mayores superficies quemadas de España este verano",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnhDemFQNWVDMjRhcDJUOXFUWUVwRDd2OU1pWVJ3a1ZBMmw4eHZCM0tyN2F5NUZiWTAzZWU4SlQ4OEtCT0l0b0JyN3VYYVFBLVRWUWZneF9URzV5cHdLM3pwZVZvX1B5a3ByM2FZcmFuS1l5blZQYkV2U3dlLWQ2T19kMnJFRkw0STZtNEcyZmZVY1VNN21PS3VSRVRTSUNEZENzLXpkelRnSHg3OGRYNzcwSzItbnNXWmY4SzZKeGNPSDVUMEFNVEpEbWk?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -127,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
