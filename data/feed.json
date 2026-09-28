@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-28T01:11:34+02:00",
+  "generated_at": "2026-09-28T03:40:22+02:00",
   "items": [
-    {
-      "id": "819b6e7efdabf9bb86",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-27T18:40:35+02:00",
-      "source": "La Razón",
-      "title": "Rescatan a un corzo extremadamente delgado en la zona afectada por el incendio de Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV0kwU0F1TXl3d3BxUU01UFl0ZTREblV0cnZHWnZhZUpWbzNoX29YZWhQbm9fZ0QxMXUxOF91TnN5RXZENW11TzFCNlZ4aHF4NEVPc0xOa01JNzR6bWRNQVcwRnlSb2llYzU2a2JEeF9qSVE2eWFwN3g0Y1ZBVS1MTDFWLWp6MVRPbFFxakJUQ0d1N1ROOXdPendGTXBDQlRUSTk1Q2RQX0g5aTBKSVh4WnptclZsUVhkMk9kZy1pX1dKYXp6OXVHUFNTOWFneTI0VnE4aEo5a096U2kzTGQweC1ZVUVKWHFkNW1rRNIB7AFBVV95cUxQV0kwU0F1TXl3d3BxUU01UFl0ZTREblV0cnZHWnZhZUpWbzNoX29YZWhQbm9fZ0QxMXUxOF91TnN5RXZENW11TzFCNlZ4aHF4NEVPc0xOa01JNzR6bWRNQVcwRnlSb2llYzU2a2JEeF9qSVE2eWFwN3g0Y1ZBVS1MTDFWLWp6MVRPbFFxakJUQ0d1N1ROOXdPendGTXBDQlRUSTk1Q2RQX0g5aTBKSVh4WnptclZsUVhkMk9kZy1pX1dKYXp6OXVHUFNTOWFneTI0VnE4aEo5a096U2kzTGQweC1ZVUVKWHFkNW1rRA?oc=5"
-    },
     {
       "id": "8d63ccdebeb4de9ff2",
       "type": "news",
@@ -139,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
