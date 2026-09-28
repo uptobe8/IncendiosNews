@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-09-28T09:38:47+02:00",
+  "generated_at": "2026-09-28T17:58:09+02:00",
   "items": [
     {
-      "id": "c581e3669aa24a91c4",
+      "id": "acad3a857c9f29b09e",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-09-28T17:08:15+02:00",
+      "source": "Diario de Ávila",
+      "title": "Piden más medios contra el fuego para pueblos de \"alto riesgo\"",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWmxILUk2XzFBWHpMZ29VNXpGQ0Jjb1FGUFBzOUd4UWczb2xJYUM3VmF1Z01NRll2Mnh1ekpmeEx0WlJ2YlhiSHo0QWZXU0phaWJqYzNxbVg0UHpzcmRKaWJfRncwWW1sbDBjbUlOMFMxMGloVGFHWUlMWm5OQm9CTk5SNjdrM2ZGRkRCM25aaVZiOThCZ0pPUVRoT2Jxa2VRQ3ZxeGFuenVtX3Jqejl2RFdMTXhFRHFmZmJ5NEhnYmtmdU1ta3JvVF9JaTZIZlRpZkxXVjJkc2Y?oc=5"
+    },
+    {
+      "id": "692ee4273da70e4842",
+      "type": "news",
+      "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-09-28T06:28:32+02:00",
+      "published": "2026-09-28T15:01:38+02:00",
       "source": "Telemadrid",
-      "title": "La Comunidad de Madrid acusa a Interior de \"lavarse las manos\" al pasar la responsabilidad de desalojar Sol a a la Policía Municipal",
-      "summary": "La acampada de Sol desata un cruce de acusaciones entre la Comunidad de Madrid y el Ministerio del Interior. El gobierno regional reprocha a...",
-      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-acusa-a-Interior-de-lavarse-las-manos-al-pasar-la-responsabilidad-de-desalojar-Sol-a-a-la-Policia-Municipal-0-2929806991--20260928062831.html"
+      "title": "La Consejería de Medio Ambiente revisa los árboles afectados tras el incendio de la Sierra Oeste de julio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPSHdNZjI4MWZya3ZoT0ZNTG5ta2poMllDWk9wNzI0cGM2NERxLWxCQkItWW05X3VURUM0UWNsalF6TUxxMDNmSmc3TU53d0RuRmkxXzNlaEU0YVdSMUNPcHF5TUpnbGgwd0VSVFV3UFhQYlctdFM4cXpmUDJwcE9pLWt2ZzZNYXR2dXJuOHlmWVVYXzY3bkcwbEszVF9wWU5xZW1neGRXeWtDcXhXN0NFaVJNYXhvSUtsSGIwNl85TkwxR3Q4RmVETDBlY0E5eWN5ZDduamotNzJua1RqcDF5Y1dVTWZYaVpMclB2RURQLVVLSlZoU2Jmb0xvTWN0OVF0RUFsU05Ic2EySzItVEhDZWxvNGpRbkY4NWfSAZ8CQVVfeXFMUDlzRDR0TlFBOGtnaHBra0tjWVpVMXVFaXRFME9JcjRlWmU5MFNlRUdGYUNZZk1tT25ySnB3TlFXTmtWdW1vMkpaSVVteGNTMkp1WHl6MUYwYnlFMTZZRjJQZXBBUFJpTXNKcE9jTUx2bmpnNmFhOVdrSm13VlNKb2huNUtEbWJlV2hvSVVpRWc0dml3cU85Z3RVdkpOTkRNYU9wdVVUYkF1aTRkQXAtSXV0Y25YOFZZblNmM2hYb2JuVWdTbGhndm1rZTZrTDNWZXRad3ppUy16aE13dkRqcWliQVVDVUJVMEx3dVVNdGdWR0tZUFkxRWlkcUpvaHE2c2dHTDJMU21nQXA1V3NWYk9zNzl3R0duVU1uMDl2MjA?oc=5"
+    },
+    {
+      "id": "2fe5f88508f6727226",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-28T14:36:41+02:00",
+      "source": "Telemadrid",
+      "title": "La Comunidad lanza una campaña informativa sobre las ayudas para la reconstrucción tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSHVneHRJQThMYkZPTl8ya1Z4SGtodWVFQ2pSd2VTWHRtdFNXVzJwUzBJbXNoc1hCSVh6VnQySlB5YkxTSTBjVW44amVnYUxZSlZFX2NndlZnVUJjUUdaZTFPb3FobkZ5RklvTHpJdVhxbFgxWHU2VnhGMVZwVC0xdFpuNHM5aHZCM0ZqMTRYdVhNTW1TU3RuY2ZPb1lfNTE1eExfQ0tEZkJfZTRTNlVYRWV2LTBMVUVWV1Axc3k0Y1RDYmlYOXgyVnN0cTIwNXk5MkRxUy03anZXbDYwSnBKejJIOU14Si1pdkZKcDg4MXFtTHoxVHN5Z0NwQ21uMmF4akl6c3VhbDJWNDdUTHp1ZVpDMGZrdVZ5Nm95cldfaUQtdVVuS3dQSGFpaUZGTGhX0gGwAkFVX3lxTE5IdWd4dElBOExiRk9OXzJrVnhIa2h1ZUVDalJ3ZVNYdG10U1dXMnBTMEltc2hzWEJJWHpWdDJKUHliTFNJMGNVbjhqZWdhTFlKVkVfY2d2VmdVQmNRR1plMU9vcWhuRnlGSW9Mekl1WHFsWDFYdTZWeEYxVnBULTF0Wm40czlodkIzRmoxNFh1WE1NbVNTdG5jZk9vWV81MTV4TF9DS0RmQl9lNFM2VVhFZXYtMExVRVZXUDFzeTRjVENiaVg5eDJWc3RxMjA1eTkyRHFTLTdqdldsNjBKcEp6Mkg5TXhKLWl2RkpwODgxcW1MejFUc3lnQ3BDbW4yYXhqSXpzdWFsMlY0N1RMenVlWkMwZmt1Vnk2b3lyV19pRC11VW5Ld1BIYWlpRkZMaFc?oc=5"
     },
     {
       "id": "819b6e7efdabf9bb86",
@@ -24,18 +48,6 @@
       "title": "Rescatan a un corzo extremadamente delgado en la zona afectada por el incendio de Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV0kwU0F1TXl3d3BxUU01UFl0ZTREblV0cnZHWnZhZUpWbzNoX29YZWhQbm9fZ0QxMXUxOF91TnN5RXZENW11TzFCNlZ4aHF4NEVPc0xOa01JNzR6bWRNQVcwRnlSb2llYzU2a2JEeF9qSVE2eWFwN3g0Y1ZBVS1MTDFWLWp6MVRPbFFxakJUQ0d1N1ROOXdPendGTXBDQlRUSTk1Q2RQX0g5aTBKSVh4WnptclZsUVhkMk9kZy1pX1dKYXp6OXVHUFNTOWFneTI0VnE4aEo5a096U2kzTGQweC1ZVUVKWHFkNW1rRNIB7AFBVV95cUxQV0kwU0F1TXl3d3BxUU01UFl0ZTREblV0cnZHWnZhZUpWbzNoX29YZWhQbm9fZ0QxMXUxOF91TnN5RXZENW11TzFCNlZ4aHF4NEVPc0xOa01JNzR6bWRNQVcwRnlSb2llYzU2a2JEeF9qSVE2eWFwN3g0Y1ZBVS1MTDFWLWp6MVRPbFFxakJUQ0d1N1ROOXdPendGTXBDQlRUSTk1Q2RQX0g5aTBKSVh4WnptclZsUVhkMk9kZy1pX1dKYXp6OXVHUFNTOWFneTI0VnE4aEo5a096U2kzTGQweC1ZVUVKWHFkNW1rRA?oc=5"
-    },
-    {
-      "id": "8d63ccdebeb4de9ff2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-27T16:59:59+02:00",
-      "source": "Telemadrid",
-      "title": "Rescatan a un corzo en estado de extrema delgadez en la zona afectada por el incendio de Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNWpZSXVyMVFzZEh3X1ZCMFpfRmNrdjZVSE9PZ1VsaWxjOHZqZU92ZUhWU3ZyX0xicDlVb2VHSG9udmhSY2xDWk5Ld25wZFVGVG5oQjk1Tk53VDFva2thb09xUnBEekRBQzh6b0xDakdZRzN6eldUejBleklXV0VmZDFnYUN2aGhNUlR6YmdUdzAxa3VoY1lTNUtJOGsyeDV6a3FjT2FoVVB3X3czU1VTanEyMUQ2YjMwbmJOMG5TRlRXRU9CM2RGRl92M1F0UFhPRXJSRV93bnM1LV9KMkNvSXN5N3c4UHRNREE5VE1nRnlYMldGRkd4Wmc3clVUa0l3TENabndmZXhOZnNobXfSAY4CQVVfeXFMTTVqWUl1cjFRc2RId19WQjBaX0Zja3Y2VUhPT2dVbGlsYzh2amVPdmVIVlN2cl9MYnA5VW9lR0hvbnZoUmNsQ1pOS3ducGRVRlRuaEI5NU5Od1Qxb2trYW9PcVJwRHpEQUM4em9MQ2pHWUczenpXVHowZXpJV1dFZmQxZ2FDdmhoTVJUemJnVHcwMWt1aGNZUzVLSThrMng1emtxY09haFVQd193M1NVU2pxMjFENmIzMG5iTjBuU0ZUV0VPQjNkRkZfdjNRdFBYT0VyUkVfd25zNS1fSjJDb0lzeTd3OFB0TURBOVRNZ0Z5WDJXRkZHeFpnN3JVVGtJd0xDWm53ZmV4TmZzaG13?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,11 +163,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 4
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
