@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T17:58:09+02:00",
+  "generated_at": "2026-09-28T23:45:35+02:00",
   "items": [
     {
-      "id": "acad3a857c9f29b09e",
+      "id": "5af82df706c7778a05",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-09-28T17:08:15+02:00",
+      "published": "2026-09-28T17:08:00+02:00",
       "source": "Diario de Ávila",
       "title": "Piden más medios contra el fuego para pueblos de \"alto riesgo\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -36,18 +36,6 @@
       "title": "La Comunidad lanza una campaña informativa sobre las ayudas para la reconstrucción tras el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSHVneHRJQThMYkZPTl8ya1Z4SGtodWVFQ2pSd2VTWHRtdFNXVzJwUzBJbXNoc1hCSVh6VnQySlB5YkxTSTBjVW44amVnYUxZSlZFX2NndlZnVUJjUUdaZTFPb3FobkZ5RklvTHpJdVhxbFgxWHU2VnhGMVZwVC0xdFpuNHM5aHZCM0ZqMTRYdVhNTW1TU3RuY2ZPb1lfNTE1eExfQ0tEZkJfZTRTNlVYRWV2LTBMVUVWV1Axc3k0Y1RDYmlYOXgyVnN0cTIwNXk5MkRxUy03anZXbDYwSnBKejJIOU14Si1pdkZKcDg4MXFtTHoxVHN5Z0NwQ21uMmF4akl6c3VhbDJWNDdUTHp1ZVpDMGZrdVZ5Nm95cldfaUQtdVVuS3dQSGFpaUZGTGhX0gGwAkFVX3lxTE5IdWd4dElBOExiRk9OXzJrVnhIa2h1ZUVDalJ3ZVNYdG10U1dXMnBTMEltc2hzWEJJWHpWdDJKUHliTFNJMGNVbjhqZWdhTFlKVkVfY2d2VmdVQmNRR1plMU9vcWhuRnlGSW9Mekl1WHFsWDFYdTZWeEYxVnBULTF0Wm40czlodkIzRmoxNFh1WE1NbVNTdG5jZk9vWV81MTV4TF9DS0RmQl9lNFM2VVhFZXYtMExVRVZXUDFzeTRjVENiaVg5eDJWc3RxMjA1eTkyRHFTLTdqdldsNjBKcEp6Mkg5TXhKLWl2RkpwODgxcW1MejFUc3lnQ3BDbW4yYXhqSXpzdWFsMlY0N1RMenVlWkMwZmt1Vnk2b3lyV19pRC11VW5Ld1BIYWlpRkZMaFc?oc=5"
-    },
-    {
-      "id": "819b6e7efdabf9bb86",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-09-27T18:40:35+02:00",
-      "source": "La Razón",
-      "title": "Rescatan a un corzo extremadamente delgado en la zona afectada por el incendio de Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV0kwU0F1TXl3d3BxUU01UFl0ZTREblV0cnZHWnZhZUpWbzNoX29YZWhQbm9fZ0QxMXUxOF91TnN5RXZENW11TzFCNlZ4aHF4NEVPc0xOa01JNzR6bWRNQVcwRnlSb2llYzU2a2JEeF9qSVE2eWFwN3g0Y1ZBVS1MTDFWLWp6MVRPbFFxakJUQ0d1N1ROOXdPendGTXBDQlRUSTk1Q2RQX0g5aTBKSVh4WnptclZsUVhkMk9kZy1pX1dKYXp6OXVHUFNTOWFneTI0VnE4aEo5a096U2kzTGQweC1ZVUVKWHFkNW1rRNIB7AFBVV95cUxQV0kwU0F1TXl3d3BxUU01UFl0ZTREblV0cnZHWnZhZUpWbzNoX29YZWhQbm9fZ0QxMXUxOF91TnN5RXZENW11TzFCNlZ4aHF4NEVPc0xOa01JNzR6bWRNQVcwRnlSb2llYzU2a2JEeF9qSVE2eWFwN3g0Y1ZBVS1MTDFWLWp6MVRPbFFxakJUQ0d1N1ROOXdPendGTXBDQlRUSTk1Q2RQX0g5aTBKSVh4WnptclZsUVhkMk9kZy1pX1dKYXp6OXVHUFNTOWFneTI0VnE4aEo5a096U2kzTGQweC1ZVUVKWHFkNW1rRA?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
