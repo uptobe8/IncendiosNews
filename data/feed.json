@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:00:00+02:00",
+  "generated_at": "2026-09-30T10:20:18+02:00",
   "items": [
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -109,10 +109,6 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 0
@@ -120,6 +116,10 @@
     "direct_media": {
       "ok": true,
       "items": 0
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
