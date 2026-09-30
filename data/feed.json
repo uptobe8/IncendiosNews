@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-30T10:20:18+02:00",
+  "generated_at": "2026-09-30T17:00:07+02:00",
   "items": [
+    {
+      "id": "314e712b394c51baa4",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-30T13:08:20+02:00",
+      "source": "Europa Press",
+      "title": "Más Madrid pide a Delegación que proteja de \"amenazas de agresión\" a acampados y no desaloje Sol como pide la Comunidad",
+      "summary": "Más Madrid ha enviado este miércoles a la Delegación del Gobierno en Madrid una misiva en la que plantea...",
+      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-pide-delegacion-proteja-amenazas-agresion-acampados-no-desaloje-sol-pide-comunidad-20260930130152.html"
+    },
+    {
+      "id": "1755109870d1fccc98",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-30T12:47:01+02:00",
+      "source": "Madrid Actual",
+      "title": "La Comunidad aloja en hoteles a 248 evacuados del incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1RwWG1EM2R4bWRzdjJmSGJxcDBsZTlWZU56X3dqcGpMdXZQa3FoZTM5U1NWYzVYSEl4MnpKTmZNczZOM2ItMHJJU1hkTFZDWk03N2ZyNmtmNm5zYWpfWUNXRTVQT0dVZUN0MDdMTjJpWXluOERDUnRiZC1kai1ZcVpSWWE2Z2p2WWZxbWVlV3pqUFp5UUVuTHJHU3drRFIzSWI4MlFhbU85ZGVzT2djWEFhbkFTbEpDVFFiRW1zanQ2eGRrNGV0d0dB?oc=5"
+    },
+    {
+      "id": "db3baa7f2d42986b1f",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-09-30T12:44:19+02:00",
+      "source": "Europa Press",
+      "title": "La Comunidad facilita el alojamiento temporal en hoteles a 248 personas evacuadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZHNvR2FxZlRBUUVYOU5FNGM5NkJtOU1wY0pONGpWTDhqRTJOdmFyRURlYUcwU2ptbktzbWpUY0N1emstN19FMVlaTXZqRVdhS2pvUzViMTlwSDIwWF9fUnBGalE0cDRnME04R3BMdHFlUVYwM2laUkRjajlaU1pNNmctbFRhZ2psbzYyUHFrRmlWUmtpdnpsSW5wclZBOVItZWxPdWlRWGI0YkRIYVB0bXpjUHZXb3BNZFB6SUc4cW9PZEMwazI3X0c0NjN5dUN3Sm5fMzFFbUQwQnhNbnlzZUJOTlMtNkRscWc?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,17 +145,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 2
     }
   },
   "refresh_seconds": 300
