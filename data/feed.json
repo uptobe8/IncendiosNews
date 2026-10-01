@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-01T01:30:23+02:00",
+  "generated_at": "2026-10-01T04:20:31+02:00",
   "items": [
-    {
-      "id": "6a8d1374e254873385",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-30T19:27:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Incendio de pastos en la antigua fábrica de la luz",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTm56S2JBekdJejMxMjRGN1dFX0dfWDN3V0NvWTNQSWRDTXZ1cmlQd1NIUkpvQmRRbzV3VnBYNGJ2eElINlRLS0xvbkZzU01UWEF3Qnl5MnpZcHhDeWVGaUtMSzF4VTNBQU1JbDJkNVpCYXhWVWVzQXlXTDQ0eUhsZ0d5U3FTc3Rib01tOTFHbFNhV0lsU0gzMzR6MUlTS3hrSWZmV01TUXBtSWMtekZibmVOWlY1N1BBa2lmMFlucjJWVjByS29sTXVJaw?oc=5"
-    },
     {
       "id": "c87a56983f784490aa",
       "type": "news",
@@ -36,18 +24,6 @@
       "title": "Un plan busca «recuperar y ampliar» la demanda turística en la zona del incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWxoa0xqQVk5MWhnQS0zeXFjU1AxaU0welU3Mi1vQnpXWmkyeGc5MmJvemYtN0JZenczYURLcmhSMWlRVFdPclZXME8yNnVja0RBNDh3Q2QycmhBUVBwMW5QUDQtYWt3eUF5dDVPN0p4eGR0XzZHcFc5VTZDbVJMZExiT0gyWW9FVUtBcXFqUmc5ZWlsNnhOVEVvNjlycVl6eVBONHJ1eFRoVGRvODNBMlYwY0x0SDZ3cmfSAboBQVVfeXFMTlFsaGtMakFZOTFoZ0EtM3lxY1NQMWlNMHpVNzItb0J6V1ppMnhnOTJib3pmLTdCWXp3M2FES3JoUjFpUVRXT3JWVzBPMjZ1Y2tEQTQ4d0NkMnJoQVFQcDFuUFA0LWFrd3lBeXQ1TzdKeHhkdF82R3BXOVU2Q21STGRMYk9IMllvRVVLQXFxalJnOWVpbDZ4TlRFbzY5cnFZenlQTjRydXhUaFRkbzgzQTJWMGNMdEg2d3Jn?oc=5"
-    },
-    {
-      "id": "2b3ec7ebe56188d5b7",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-09-30T15:08:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Un plan para dinamizar los pueblos tras el fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR1pncVM1ZUpUOF9KUFlJVXp3SzZoT21vcTBRT19mNlo5RlAxVkt0dGpjT1hFR3V5eEpaajlyTjZxLVZBRndkWERJUUwzRjMtekVtNV9hRnBSLTZwam5QM3VNOERlTlJxR3pPeV8yQ0Vvd1lGRlc0bmpnZ2JQQTFEcVAtSTk0MDA1emRGRmtpbW45TTJ4dHVrWjFkbGFRaWVvM3JhelFkSmlwQWxva05HZTQ0ZG1hSEJtT2lBSTY1Mzk3eWVNYTRUNA?oc=5"
     },
     {
       "id": "314e712b394c51baa4",
@@ -199,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 5
+      "items": 3
     },
     "direct_media": {
       "ok": true,
