@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-02T02:46:56+02:00",
+  "generated_at": "2026-10-02T08:18:24+02:00",
   "items": [
+    {
+      "id": "b54c9bf328f94e4eb0",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-02T01:07:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "La Junta moviliza más de 2,2 millones para recuperar Ávila tras los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYk9WaDZuQmZ3c2treHIwdlVNeEpyYlE1a09CU3Z1X2VjLWwzQW9ma3JnRkhnNmRVVnZDaGp4ZGVoZ2JjTUJfLWxlZDd3VGhVLXljQ2VnMVc1aUxFT3VJZU9mNG1sX1RpVmhsdHBUVmFvOWtDOXRPLUVBYW00QTZtLUZuX2drSTBOaEJnQ1NSWFRDekxwMVJzYnVTbEdkUG5vVDJmUmFNOXBWVDV1V2VYVFJnUnRFWVlVQVdlQjNCaw?oc=5"
+    },
     {
       "id": "8793ad10838f600a77",
       "type": "news",
@@ -169,13 +181,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 5
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 4
     },
     "direct_media": {
       "ok": true,
