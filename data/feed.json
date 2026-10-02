@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-01T23:10:01+02:00",
+  "generated_at": "2026-10-02T02:46:56+02:00",
   "items": [
+    {
+      "id": "8793ad10838f600a77",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-01T18:21:06+02:00",
+      "source": "Diario de Ávila",
+      "title": "Inversión tras el incendio: agua y erosión del suelo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0xHVnBVM1RNQlk4RVlkYXN2dHYyY0JRMnVXQ293LXhRdUlHakh2a205eXluZ3dHWWlTZ2ZiS2o2XzBRMTlQNDZkNzdHNXZicmU2c2hIbHY0NjluekNxV3U2eU9odUhUa2lDZ00yRVZRY3VhdDRKQkpTSFZiUmk3SU5yY0FtcktDb1QzV0hsMm1kMjlXODVNV1JnbVRrM1p5NGVmTHFsVUJsdjZuOENNOWUwYlMtdDNUWWJPUGJpTmtjY05Fcl9IYnNfbkM?oc=5"
+    },
+    {
+      "id": "55d077235c3d091f96",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-01T14:44:46+02:00",
+      "source": "Cadena SER",
+      "title": "Las consecuencias económicas del incendio de Burgohondo: el turismo rural cae un 27% en agosto",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa3RjaF9Ra2RGb3Z3cURYUHE0VzVWNEo4LXZXTV9nalJ5MEt2eWx2VDFnZF9xbVhaVk9OQS01SFM1RHc4eFJnWFdTMk9BczIzSk4zdTJ0ekIxM1o4N0VaVHVmT2QtSnZ6YTMzVmEtdVhMSUpNVkN6eS1hbVdrVGNyX3VSaVo1b3luRnkycW0xTG4tOG82S0Y1dm91aVFPYU05Tm8zUDdvSE1NYXNORF8za1ZGVEI5emVLM1phWWNmRXdqRXFFR1BqZldPeGs3OWZZbV9iM3dVWU13NXNqRngyRXVnYW3SAfgBQVVfeXFMT3BkR3U1a0xiZWFmMUdUOWR5ME5lVWhvWFJzTHdlcGhVV0FlT3dIek9BOGlEcVVJRmxKNnNmT1NCYnFTVnRKTUxrTzk2b01hSzBOY183V05POW1zYlVxaWRCRVh1UFk4eEhVS0NDNmg0N2x6T1pObWZHLXFzT2Rmd0xKMXRpOFFBTFpNVzlZWE9qZjgyTHNVQTJjeUszaTNBYmRmbjk4RjI2d0gtY2NvNWg5UldaNzgtMXFxVkJDZjIzRGsxRUF5ajJnbWFIc3NOejNtaUdYNnVkal9WanNqTWRnQ1BsOUY3ZmJqdVBUZW1tV0M5aXhtaE4?oc=5"
+    },
+    {
+      "id": "5c94bebaa728a3b949",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-01T12:24:17+02:00",
+      "source": "Cadena SER",
+      "title": "La policía local de Ávila investiga a cuatro menores como presuntos autores del incendio declarado junto a la antigua fábrica de la luz",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVTg2Zlk4SkpNSkpxR0dRekVFb3RzRS0yd2hLMlZ5TzJuaV9tajlQSFpWZmdyc0Y5Vmp3SVoxYi1jUlViNUdSVG53bnJRNzIxajlTSC1tTks5TVAwZHMtZHBYR2hrR0dJck8taGIxT2lQV1lLbVRYV3hyREJhN0VTMjJvUm5EU1NEcGVFblNjdDcyS0d5WE1VWjR5MV9Qak0yaUhaNFdidmpLVmd2NVRfcGhGY0RqclNQREFWTGZVR183NVgzTnVXUVlVZDZDQnhYTlJWeVhxbnlTeC1RbFhqTThLWDMyMVhPQURRMC1MUllmMVVZVG05a3VyOTNYMU9wcms2VWgzN2lYdzBjMEdGeXBBbjVJcXp0bFVLSVBnSHhScnhkeDRLRm9zejQtdTE4SUHSAbICQVVfeXFMTVU4NmZZOEpKTUpKcUdHUXpFRW90c0UtMndoSzJWeU8ybmlfbWo5UEhaVmZncnNGOVZqd0laMWItY1JVYjVHUlRud25yUTcyMWo5U0gtbU5LOU1QMGRzLWRwWEdoa0dHSXJPLWhiMU9pUFdZS21UWFd4ckRCYTdFUzIyb1JuRFNTRHBlRW5TY3Q3MktHeVhNVVo0eTFfUGpNMmlIWjRXYnZqS1ZndjVUX3BoRmNEanJTUERBVkxmVUdfNzVYM051V1FZVWQ2Q0J4WE5SVnlYcW55U3gtUWxYak04S1gzMjFYT0FEUTAtTFJZZjFVWVRtOWt1cjkzWDFPcHJrNlVoMzdpWHcwYzBHRnlwQW41SXF6dGxVS0lQZ0h4UnJ4ZHg0S0Zvc3o0LXUxOElB?oc=5"
+    },
     {
       "id": "62085d31e341b6b321",
       "type": "news",
@@ -12,6 +48,18 @@
       "title": "Identificados cuatro menores como presuntos autores de un incendio en la antigua fábrica de luz de Ávila",
       "summary": "Agentes de Policía Local de Ávila han identificado a cuatro menores como posibles autores...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-identificados-cuatro-menores-presuntos-autores-incendio-antigua-fabrica-luz-avila-20261001122321.html"
+    },
+    {
+      "id": "506d9e0ebc09efa7c7",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-01T12:12:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "Identificados 4 menores como posibles autores del incendio en la Fábrica de la Luz",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY3o3S0RmVDJlYncweW5tcVdEbGRpSVRqWGhHME9mY2p1b2NtMUE0X1BzazhCS2NoSjJYN3ItVU01SHVBcFF6b25vYndORHQtTVFHZHNrdklUY21iM0dteWZnZXJvV1oycEQzUWZjTjB1ZnpROGFqdGVpNWhtenJXclVXano2WUQ1VU9vamEyR2U2UmN3bGNseXRTVFIyUGFzaDdKRlR4UV9fSlJqc2ZOWDRHTXYxb1VXYUZRM2hkNlNSbHVqZGQ4OUx2Qk1jRHJNN2FvVDhPcWJoc2c?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -125,13 +173,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
     "direct_media": {
       "ok": true,
       "items": 1
-    },
-    "google_news": {
-      "ok": false,
-      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
