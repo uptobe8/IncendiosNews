@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-03T21:11:01+02:00",
+  "generated_at": "2026-10-04T00:07:59+02:00",
   "items": [
+    {
+      "id": "2ea7c0f9c5d0321505",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-03T19:49:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "Extinguido el incendio de Burgohondo, 73 días después",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmZxYnF3Ql9LeFZvVjZiSURJRDF2akNPTmNkWWFUcHN3NFA1Z0szRXJVY0wtM3ZRRFJDdk83aDlHV2ZSaXotMlN5bHQ0RkY2UUtXaG1EeHR2cEs2alVfYXFJZ2ZOOXhFaTVCR00xNDljcmdJbE8wcjZJbktLZHlHN3d1QnJCLWFzNVh5Sm00MFJjNzB2enA0UW1XdEtRTldtVEtjV0tLSlpEVmpSZ256OEJoclNGaFg5N1BNWFYza2F2SnNuUTBMUEk3M1JGQQ?oc=5"
+    },
+    {
+      "id": "0899d76c677154f99a",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-03T18:34:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "Las lluvias dejan los primeros arrastres de cenizas tras el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFlUSEFmVkhGNFJfQzR5T3ZFSTRDSmgzclpoYk5saFFYX2ZwUTdTcldEcklsRURJSW5IR3kwY2pqanVQNVVBRXplZjVaUXQxdDNxR2RrdGRqOFl2SzcxSkhJSldNUmZoLVhQYldCZVRKVXZwemgwRlVaeWViT3E2NlVlbGpvdnBrYjZKdzFRSDBFTEQ1SFZ3YUhYeVlxYkZDTXEtREJPN2FBemxwenhIZWk2bzRYaGRWaE1SZG5oSkpwZHRmQXBJUmJPb3k?oc=5"
+    },
     {
       "id": "a3373eb11763a485de",
       "type": "news",
@@ -121,13 +145,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
