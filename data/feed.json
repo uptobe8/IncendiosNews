@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-03T18:03:45+02:00",
+  "generated_at": "2026-10-03T21:11:01+02:00",
   "items": [
+    {
+      "id": "a3373eb11763a485de",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-03T18:19:01+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid activa el Plan de Inundaciones en fase de preemergencia ante la previsión de lluvias y tormentas",
+      "summary": "La Comunidad de Madrid ha activado el Plan Especial de Protección Civil ante el Riesgo de Inundaciones (Inuncam) en fase de preemergencia ante la...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-activa-el-Plan-de-Inundaciones-en-fase-de-preemergencia-ante-la-prevision-de-lluvias-y-tormentas-0-2931306848--20261003061618.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,17 +121,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 0
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
