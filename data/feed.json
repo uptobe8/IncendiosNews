@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-03T13:58:12+02:00",
+  "generated_at": "2026-10-03T18:03:45+02:00",
   "items": [
-    {
-      "id": "6588e3184ee93acbbd",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-02T15:10:09+02:00",
-      "source": "Cadena SER",
-      "title": "UGT asegura que los medios empleados, en el inicio del incendio de Burgohondo, fueron insuficientes",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFlMeHIxYURqY0prdUNSNG9PN05aMVJVTlRoV3lkSDR4SzdSSnlWbkE2OTRWczFXalAzNTVXZjVYUXFUaVp0WEFxY0FfaWRjUGJnMTlnbnU1cTdheUhDV2hOMmdxYVhLMUpva2pmRzZzVVlyU2FRdFUtZnJzZUFJX2p4NU5ZNnUyNGM3ZEp2R2Y2QUhDTS1xMkNvMldBWmktN251d25zaTFlOUlHVWpvNXB5M0RRY2NEeGZ0bGU2Wk85X1d3UE1rQVNJeElsaksyTW1iMl93OFZoVVN2aXYzOFhuZG1XQzA5cG530gH_AUFVX3lxTE1pNVFkb3BqLUZ4Y0Y5bGRrODhoQ1NrQ3Z4Ym1hX1ZPLW81YndkS3pXYVl5WW1iazVLQ0tIYmFJTmpkSmxNZUpXaTFGeFpCbFk2V3lVUm5LRzF1aWNaNTNxSk40T20wTW5JM2lsdUdleVQ2UUpfVUpja2dmQXpENUZRYjVSQ29aaWQ2UG1NbnZ0OTYzWmxBbno5YjltLTRUNURVek55aEQ0ZU11MWtGVTVsVzAyTTUxdFNJbG5XU3B2d1d5bWlISWpNLWxmczZCZ3NLMU43S1ZfaHRRT3NLWGFPRXlOWHNnRmpES2xJN1Z3SjFva05oQ1dBbWxYMjVzYw?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -127,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
