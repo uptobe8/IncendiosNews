@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-03T08:33:18+02:00",
+  "generated_at": "2026-10-03T13:58:12+02:00",
   "items": [
-    {
-      "id": "03da85843cf936e3bb",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-02T17:05:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "UGT denuncia vacantes y falta de formación en la lucha de incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOVdWSUQ4UGZoRGlTTi1QX3JqZGEtMnc3aFpKNHJJM0Z0cndNdG40bFE0bm16d1hjSmtGczBqMnRsSTk5S3NSTmRxY01DdXZSczVEOE9TUDUyVFNjR2FSbUNobUc1ejNnQ2lycXUwXzlBcTB6MWRkNjA1akpucTUzdVlwd1NFTzZWQjdUN2dEc2tQR2ltTjFhR21veHlyUHRFZ3h1S09qaVV3b1JERVZaZnlQenJWTXpmeXIzNExCNHF6cVBEMUNqUFdYNWxBMkpXZjlJZld2R0xEZw?oc=5"
-    },
     {
       "id": "6588e3184ee93acbbd",
       "type": "news",
@@ -24,30 +12,6 @@
       "title": "UGT asegura que los medios empleados, en el inicio del incendio de Burgohondo, fueron insuficientes",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFlMeHIxYURqY0prdUNSNG9PN05aMVJVTlRoV3lkSDR4SzdSSnlWbkE2OTRWczFXalAzNTVXZjVYUXFUaVp0WEFxY0FfaWRjUGJnMTlnbnU1cTdheUhDV2hOMmdxYVhLMUpva2pmRzZzVVlyU2FRdFUtZnJzZUFJX2p4NU5ZNnUyNGM3ZEp2R2Y2QUhDTS1xMkNvMldBWmktN251d25zaTFlOUlHVWpvNXB5M0RRY2NEeGZ0bGU2Wk85X1d3UE1rQVNJeElsaksyTW1iMl93OFZoVVN2aXYzOFhuZG1XQzA5cG530gH_AUFVX3lxTE1pNVFkb3BqLUZ4Y0Y5bGRrODhoQ1NrQ3Z4Ym1hX1ZPLW81YndkS3pXYVl5WW1iazVLQ0tIYmFJTmpkSmxNZUpXaTFGeFpCbFk2V3lVUm5LRzF1aWNaNTNxSk40T20wTW5JM2lsdUdleVQ2UUpfVUpja2dmQXpENUZRYjVSQ29aaWQ2UG1NbnZ0OTYzWmxBbno5YjltLTRUNURVek55aEQ0ZU11MWtGVTVsVzAyTTUxdFNJbG5XU3B2d1d5bWlISWpNLWxmczZCZ3NLMU43S1ZfaHRRT3NLWGFPRXlOWHNnRmpES2xJN1Z3SjFva05oQ1dBbWxYMjVzYw?oc=5"
-    },
-    {
-      "id": "83ad08e45b8b921a12",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-02T09:01:39+02:00",
-      "source": "Europa Press",
-      "title": "El paro aumenta un 0,99% en septiembre en la Comunidad de Madrid, hasta los 283.285 desempleados",
-      "summary": "El número de parados registrados en las oficinas de los servicios públicos de empleo (antiguo Inem) en la...",
-      "url": "https://www.europapress.es/madrid/noticia-paro-aumenta-099-septiembre-comunidad-madrid-283285-desempleados-20261002085949.html"
-    },
-    {
-      "id": "267cb6fe62355b2acc",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-02T09:00:54+02:00",
-      "source": "Europa Press",
-      "title": "La afiliación a la Seguridad Social en la Comunidad de Madrid aumenta un 1,44% en septiembre y gana 55.861 cotizantes",
-      "summary": "La afiliación a la Seguridad Social en la Comunidad de Madrid durante septiembre aumentó un 1,44% en...",
-      "url": "https://www.europapress.es/madrid/noticia-afiliacion-seguridad-social-comunidad-madrid-aumenta-144-septiembre-gana-55861-cotizantes-20261002090054.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 0
     }
   },
   "refresh_seconds": 300
