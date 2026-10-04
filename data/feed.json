@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-04T08:18:17+02:00",
+  "generated_at": "2026-10-04T14:33:01+02:00",
   "items": [
+    {
+      "id": "52c4ccd8d1439609ab",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-04T10:29:00+02:00",
+      "source": "ABC",
+      "title": "Raíces, toconas y el interior de árboles quemados, el refugio del incendio de Burgohondo durante dos meses",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnY4QXZxWVRLUkxhOXJtYlNUMzZVejBRWVZQS0E5ZnN2Z1hfNFRQdDlMdnRpTGtCYkU0cGtFU3RCNjZvanpUN2RUWW1GSEN6bll5WkNIYmVheGJOV0tPUDBmSF9mN3Nqd3k5RFp3dkt4eWw0WUNBb2RudGtKMjk2UUpJV1d2cVlVcGthTkRfdHZtSzBVOWp6dXZXWlRIb0ZvaFJMa2VBR0dwS25xZ3QwdNIBtgFBVV95cUxPQTNnZG5xcXd5N1Y3dzJmN0xNWmdOVTR1b1JPVEJoWjdqb1IwcDNFdmFUMHYyNkFya3FpRWplZFIzUVJuVGU3cENlX2JhRHU3bUprX3hDOFp2MDZQU1Y0c2hnWHZnZ2lkck1wWWRWRXFiWEMybEIwXzlCVGNybmQ1c0dja3pNVFoyclpIWVlDOHlVekNteUdiWUdOWkRkeklMQk9pT1phd3ZuUXE4MGZkMExJNVpMZw?oc=5"
+    },
     {
       "id": "2ea7c0f9c5d0321505",
       "type": "news",
@@ -139,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
