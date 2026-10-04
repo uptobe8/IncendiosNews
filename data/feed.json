@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-04T18:58:31+02:00",
+  "generated_at": "2026-10-04T22:01:07+02:00",
   "items": [
-    {
-      "id": "4fb570b0ac8a434037",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-04T17:40:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Cortada la carretera de La Rinconada por lluvia y arrastres",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZjBKU1JYWldkWmc5SndQUlN4aENUcVVNX3BQQUYyMEJlX1dqcXk4VThHNXJfblY3RjhfV0dIOUpSaHBJS3dkVDVTUTlrRlB1Q0dreTVXV1VsQzVpR1dDWXdmV0JEcEdGd3hNcDhzanl3WTVJTWtCeXBfSFJaTzNiX183TllwWXMyWVRjWGhuZ3JHSVNWRkxxN3djR3VpaWY0NElwd3NpNjdzVHh2ckl1UEpVNGZ6Rno3MEU0ZGN4Q2l4MXVTTi1Lai1Vei1BVlF5TWIzUll6QQ?oc=5"
-    },
     {
       "id": "0773bff276150f5b40",
       "type": "news",
@@ -36,18 +24,6 @@
       "title": "Raíces, toconas y el interior de árboles quemados, el refugio del incendio de Burgohondo durante dos meses",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTNnZG5xcXd5N1Y3dzJmN0xNWmdOVTR1b1JPVEJoWjdqb1IwcDNFdmFUMHYyNkFya3FpRWplZFIzUVJuVGU3cENlX2JhRHU3bUprX3hDOFp2MDZQU1Y0c2hnWHZnZ2lkck1wWWRWRXFiWEMybEIwXzlCVGNybmQ1c0dja3pNVFoyclpIWVlDOHlVekNteUdiWUdOWkRkeklMQk9pT1phd3ZuUXE4MGZkMExJNVpMZ9IBtgFBVV95cUxPQTNnZG5xcXd5N1Y3dzJmN0xNWmdOVTR1b1JPVEJoWjdqb1IwcDNFdmFUMHYyNkFya3FpRWplZFIzUVJuVGU3cENlX2JhRHU3bUprX3hDOFp2MDZQU1Y0c2hnWHZnZ2lkck1wWWRWRXFiWEMybEIwXzlCVGNybmQ1c0dja3pNVFoyclpIWVlDOHlVekNteUdiWUdOWkRkeklMQk9pT1phd3ZuUXE4MGZkMExJNVpMZw?oc=5"
-    },
-    {
-      "id": "2ea7c0f9c5d0321505",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-03T19:49:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Extinguido el incendio de Burgohondo, 73 días después",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmZxYnF3Ql9LeFZvVjZiSURJRDF2akNPTmNkWWFUcHN3NFA1Z0szRXJVY0wtM3ZRRFJDdk83aDlHV2ZSaXotMlN5bHQ0RkY2UUtXaG1EeHR2cEs2alVfYXFJZ2ZOOXhFaTVCR00xNDljcmdJbE8wcjZJbktLZHlHN3d1QnJCLWFzNVh5Sm00MFJjNzB2enA0UW1XdEtRTldtVEtjV0tLSlpEVmpSZ256OEJoclNGaFg5N1BNWFYza2F2SnNuUTBMUEk3M1JGQQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 2
     },
     "direct_media": {
       "ok": true,
