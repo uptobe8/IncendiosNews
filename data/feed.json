@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-04T14:33:01+02:00",
+  "generated_at": "2026-10-04T18:58:31+02:00",
   "items": [
+    {
+      "id": "4fb570b0ac8a434037",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-04T17:40:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "Cortada la carretera de La Rinconada por lluvia y arrastres",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZjBKU1JYWldkWmc5SndQUlN4aENUcVVNX3BQQUYyMEJlX1dqcXk4VThHNXJfblY3RjhfV0dIOUpSaHBJS3dkVDVTUTlrRlB1Q0dreTVXV1VsQzVpR1dDWXdmV0JEcEdGd3hNcDhzanl3WTVJTWtCeXBfSFJaTzNiX183TllwWXMyWVRjWGhuZ3JHSVNWRkxxN3djR3VpaWY0NElwd3NpNjdzVHh2ckl1UEpVNGZ6Rno3MEU0ZGN4Q2l4MXVTTi1Lai1Vei1BVlF5TWIzUll6QQ?oc=5"
+    },
+    {
+      "id": "0773bff276150f5b40",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-04T15:09:33+02:00",
+      "source": "Telemadrid",
+      "title": "Cenizas sobre el río Alberche por los incendios de Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3lNTkpYclN2SHJIT0VBenpWUWJ2NjBkNjRqYVZIUE1xZGFGaG83a1pIRW5McmtIYzI1T2IxcDFoSTV0MUJCQ19DQ0NLZmRCTmJPc2xydE11bjVFR29ES1d0X1NHLXpjVUZlNUFtVkNoX1NYd1BLdjVyQzFlVlhzcGRaeUloVnlJaUx0d3lwVWlwOXluNnROTUhtd0E3VW1JVzlfZm91Q2pfck8xTnNLeEtjYl9tLXh0VFp4TkhISlk3cWg5a0o1cFdvNERHdklIZ2ZmNnRNQ0dSZUJfOGZIVzVKWjY5ejJhWVBKWjRn0gHuAUFVX3lxTE5zeU1OSlhyU3ZIckhPRUF6elZRYnY2MGQ2NGphVkhQTXFkYUZobzdrWkhFbkxya0hjMjVPYjFwMWhJNXQxQkJDX0NDQ0tmZEJOYk9zbHJ0TXVuNUVHb0RLV3RfU0ctemNVRmU1QW1WQ2hfU1h3UEt2NXJDMWVWWHNwZFp5SWhWeUlpTHR3eXBVaXA5eW42dE5NSG13QTdVbUlXOV9mb3VDal9yTzFOc0t4S2NiX20teHRUWnhOSEhKWTdxaDlrSjVwV280REd2SUhnZmY2dE1DR1JlQl84ZkhXNUpaNjl6MmFZUEpaNGc?oc=5"
+    },
     {
       "id": "52c4ccd8d1439609ab",
       "type": "news",
@@ -11,7 +35,7 @@
       "source": "ABC",
       "title": "Raíces, toconas y el interior de árboles quemados, el refugio del incendio de Burgohondo durante dos meses",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnY4QXZxWVRLUkxhOXJtYlNUMzZVejBRWVZQS0E5ZnN2Z1hfNFRQdDlMdnRpTGtCYkU0cGtFU3RCNjZvanpUN2RUWW1GSEN6bll5WkNIYmVheGJOV0tPUDBmSF9mN3Nqd3k5RFp3dkt4eWw0WUNBb2RudGtKMjk2UUpJV1d2cVlVcGthTkRfdHZtSzBVOWp6dXZXWlRIb0ZvaFJMa2VBR0dwS25xZ3QwdNIBtgFBVV95cUxPQTNnZG5xcXd5N1Y3dzJmN0xNWmdOVTR1b1JPVEJoWjdqb1IwcDNFdmFUMHYyNkFya3FpRWplZFIzUVJuVGU3cENlX2JhRHU3bUprX3hDOFp2MDZQU1Y0c2hnWHZnZ2lkck1wWWRWRXFiWEMybEIwXzlCVGNybmQ1c0dja3pNVFoyclpIWVlDOHlVekNteUdiWUdOWkRkeklMQk9pT1phd3ZuUXE4MGZkMExJNVpMZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTNnZG5xcXd5N1Y3dzJmN0xNWmdOVTR1b1JPVEJoWjdqb1IwcDNFdmFUMHYyNkFya3FpRWplZFIzUVJuVGU3cENlX2JhRHU3bUprX3hDOFp2MDZQU1Y0c2hnWHZnZ2lkck1wWWRWRXFiWEMybEIwXzlCVGNybmQ1c0dja3pNVFoyclpIWVlDOHlVekNteUdiWUdOWkRkeklMQk9pT1phd3ZuUXE4MGZkMExJNVpMZ9IBtgFBVV95cUxPQTNnZG5xcXd5N1Y3dzJmN0xNWmdOVTR1b1JPVEJoWjdqb1IwcDNFdmFUMHYyNkFya3FpRWplZFIzUVJuVGU3cENlX2JhRHU3bUprX3hDOFp2MDZQU1Y0c2hnWHZnZ2lkck1wWWRWRXFiWEMybEIwXzlCVGNybmQ1c0dja3pNVFoyclpIWVlDOHlVekNteUdiWUdOWkRkeklMQk9pT1phd3ZuUXE4MGZkMExJNVpMZw?oc=5"
     },
     {
       "id": "2ea7c0f9c5d0321505",
@@ -24,18 +48,6 @@
       "title": "Extinguido el incendio de Burgohondo, 73 días después",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmZxYnF3Ql9LeFZvVjZiSURJRDF2akNPTmNkWWFUcHN3NFA1Z0szRXJVY0wtM3ZRRFJDdk83aDlHV2ZSaXotMlN5bHQ0RkY2UUtXaG1EeHR2cEs2alVfYXFJZ2ZOOXhFaTVCR00xNDljcmdJbE8wcjZJbktLZHlHN3d1QnJCLWFzNVh5Sm00MFJjNzB2enA0UW1XdEtRTldtVEtjV0tLSlpEVmpSZ256OEJoclNGaFg5N1BNWFYza2F2SnNuUTBMUEk3M1JGQQ?oc=5"
-    },
-    {
-      "id": "0899d76c677154f99a",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-03T18:34:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Las lluvias dejan los primeros arrastres de cenizas tras el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFlUSEFmVkhGNFJfQzR5T3ZFSTRDSmgzclpoYk5saFFYX2ZwUTdTcldEcklsRURJSW5IR3kwY2pqanVQNVVBRXplZjVaUXQxdDNxR2RrdGRqOFl2SzcxSkhJSldNUmZoLVhQYldCZVRKVXZwemgwRlVaeWViT3E2NlVlbGpvdnBrYjZKdzFRSDBFTEQ1SFZ3YUhYeVlxYkZDTXEtREJPN2FBemxwenhIZWk2bzRYaGRWaE1SZG5oSkpwZHRmQXBJUmJPb3k?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
