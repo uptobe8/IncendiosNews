@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:07:59+02:00",
+  "generated_at": "2026-10-04T02:35:37+02:00",
   "items": [
     {
       "id": "2ea7c0f9c5d0321505",
@@ -24,18 +24,6 @@
       "title": "Las lluvias dejan los primeros arrastres de cenizas tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFlUSEFmVkhGNFJfQzR5T3ZFSTRDSmgzclpoYk5saFFYX2ZwUTdTcldEcklsRURJSW5IR3kwY2pqanVQNVVBRXplZjVaUXQxdDNxR2RrdGRqOFl2SzcxSkhJSldNUmZoLVhQYldCZVRKVXZwemgwRlVaeWViT3E2NlVlbGpvdnBrYjZKdzFRSDBFTEQ1SFZ3YUhYeVlxYkZDTXEtREJPN2FBemxwenhIZWk2bzRYaGRWaE1SZG5oSkpwZHRmQXBJUmJPb3k?oc=5"
-    },
-    {
-      "id": "a3373eb11763a485de",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-03T18:19:01+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid activa el Plan de Inundaciones en fase de preemergencia ante la previsión de lluvias y tormentas",
-      "summary": "La Comunidad de Madrid ha activado el Plan Especial de Protección Civil ante el Riesgo de Inundaciones (Inuncam) en fase de preemergencia ante la...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-activa-el-Plan-de-Inundaciones-en-fase-de-preemergencia-ante-la-prevision-de-lluvias-y-tormentas-0-2931306848--20261003061618.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -155,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
