@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-05T18:24:57+02:00",
+  "generated_at": "2026-10-06T00:49:40+02:00",
   "items": [
+    {
+      "id": "2e611bdc5e16e9083d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-05T19:19:04+02:00",
+      "source": "abc.es",
+      "title": "Tras los incendios de Ávila, llega el 'chapapote' del monte",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdWZFd1dy1IMlFueHVsbFRaTDJGZUR1MUVORnlmXy1wNEFFNFJpQmpnV1paM2owWkpJcmk4R3dYN05DN3l0Yk1fbVB1YVN0N3dMX0V2bE4tVFREaWtJbUxXenBIOHdtcGt2NFZwQWhBRlpZaHNEWk9ENzlLQTVOUDlud2ltV2VQYl9JMHlFMER4Ty15VGFMaUdIUi1KVFNsWlBoRENYWXh3N2xBZlHSAa4BQVVfeXFMUHV3VmRXdXctSDJRbnh1bGxUWkwyRmVEdTFFTkZ5Zl8tcDRBRTRSaUJqZ1daWjNqMFpKSXJpOEd3WDdOQzd5dGJNX21QdWFTdDd3TF9FdmxOLVRURGlrSW1MV3pwSDh3bXBrdjRWcEFoQUZaWWhzRFpPRDc5S0E1TlA5bndpbVdlUGJfSTB5RTBEeE8teVRhTGlHSFItSlRTbFpQaERDWFl4dzdsQWZR?oc=5"
+    },
     {
       "id": "f492237d1e872cee49",
       "type": "news",
@@ -14,13 +26,25 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZUwxMGpBdjdnWG02am8wQW52Q1E4bmgxX3ZUdk5meTBEcURtc3YzSEVvMVB6cXh4aG5GQmlzbU9fNTVfYVJBQ2xwaXhzbUJxU3JrbXNjTmprUlI3MnY3bFFCMTBxZDNXaWtXaVhhYks3Tlg5d2YzQURLNDFXeXQ3Sm9oWGxUQnFFVUlLdm5leXRUUXlFZ1QteXBKVzFuSWx2ZGlFYWw3WENIVGkybDA2STBZMVMycjBSTHdYUWtMelFDdEp6dHk0YWxVUHA0Ymc5TnROWnRiRWtQa21SUTFVcENzV0JuM2RwaGUyNFF3?oc=5"
     },
     {
-      "id": "62da862a36f2798ac5",
+      "id": "3ca75d489250be7b2b",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-05T14:48:31+02:00",
+      "source": "EL PAÍS",
+      "title": "Agua negra bajando por los ríos: pueblos afectados por los incendios de Ávila, sin agua potable por la contaminación",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNmVuYXZZNFJhVlJZTlFYWVhRVkJNTnR0dkVGU2RiYUJtMTdRRlprN0Y5dVdkakMweHNpLTlWT0ZwWkRQYWhSWkFTbnZybnFWNm9QdkhzOV9TcU9oS2V0ei1senI5SS1hQWg3RFJQdkVic0dhUGVoVzRFNjdPclZCRzdPa25oQlBDWkQxZlVjTU93MVNhQjNvOFVjenFuWFZ1NTZYRndURFFfbXhtQk5nWlFudXhGVTN2VFBmRzU5RGQtdU0wT0x4SXRycWd5b25fdGVHa0RlX0pRS0s1dURIY19rWmlUdkVmNFJkUtIBgAJBVV95cUxNS0xqdWZVcVZRdkZMWDB5emozU1JmcGtxS193YUw4Z2kxck5nS3Y5XzFCSEV3UHBlbERHT3MtZlhKbXU1M1ZkNnNtd3poaG8zNEJ2OGk5di1Yb2NNNklKbUd4OHo5M2wzNS12ZVktVFRlSFdVMjdyYmhLYjY3NXc1SGdsS3FsS3FIVmEyNVlNNzhPU1RSbC1oMUVmYlRrWlJ0TDhJSUM5SV9QQ1JSdFNIQm5QeDRxT2pYN0hHeEdHTXhOVnl1OFJaZ2trSGFGUmdjU2ZvZ015dmd2V0RGQWZXWk5uZlYyaWVzNlBITWlrR2hheEFyVU9Ob1plUTdEdUtI?oc=5"
+    },
+    {
+      "id": "27599bdd6ade201ec2",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
       "published": "2026-10-05T11:36:18+02:00",
-      "source": "ABC",
+      "source": "abc.es",
       "title": "Las cenizas del incendio de Burgohondo obligan a abastecer con botellas de agua a más de 4.000 personas de tres pueblos de Ávila",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdG9tQW9DVm1HUThCWjhGUWFpNFdlQWlGM002N2lJdTExb3ZYbXZHMHczdFVXMldXQm9sT1dfd2F4WVk2aER3aUt2cTJKN2J5aWVieU4zQjlIdnJaOUFTQk5Manl6ODQwMEhzX2hiYXUtQ19sZjdXUVNrNWhGSWo1cEFta29yYTFQX0FTYzVQNWV3WEYxeEVfa241Vm5HQVdrU2VianlLVmRqaGJreG42djBn0gG3AUFVX3lxTFBubnR2a0luVHlKSWdBcWdMUmdYRVBkaktKb2dWalBhU1RIcDUxT0tPOWk5Y2NwU01hTHBiWDVGWXduaVcxZWNYNlJ5RDZDdXZZRFBLa1pIbmpXRjBKWWZzVTZzWTdhMjlrTDBZdTVxYjIyemlaQXRwLWtvNVFUWUlqa1NtR0dTZU9udWZFU3RkaFluaUVUSXdQbXNJSTRnamxyaXlpUEpzTWpYbnVyMTM5SXlPN3BLUQ?oc=5"
@@ -139,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 4
     },
     "direct_media": {
       "ok": true,
