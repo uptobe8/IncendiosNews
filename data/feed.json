@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-05T03:48:59+02:00",
+  "generated_at": "2026-10-05T09:44:14+02:00",
   "items": [
+    {
+      "id": "802dc077c8d8abcc15",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-04T17:40:00+02:00",
+      "source": "Diario de Ávila",
+      "title": "Cortes en la carretera de La Rinconada por lluvia y arrastres",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZjBKU1JYWldkWmc5SndQUlN4aENUcVVNX3BQQUYyMEJlX1dqcXk4VThHNXJfblY3RjhfV0dIOUpSaHBJS3dkVDVTUTlrRlB1Q0dreTVXV1VsQzVpR1dDWXdmV0JEcEdGd3hNcDhzanl3WTVJTWtCeXBfSFJaTzNiX183TllwWXMyWVRjWGhuZ3JHSVNWRkxxN3djR3VpaWY0NElwd3NpNjdzVHh2ckl1UEpVNGZ6Rno3MEU0ZGN4Q2l4MXVTTi1Lai1Vei1BVlF5TWIzUll6QQ?oc=5"
+    },
     {
       "id": "0773bff276150f5b40",
       "type": "news",
@@ -139,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
