@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-06T11:22:16+02:00",
+  "generated_at": "2026-10-06T18:04:07+02:00",
   "items": [
+    {
+      "id": "8fdfa45e1725d86370",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-06T17:00:33+02:00",
+      "source": "Telemadrid",
+      "title": "Cortes parciales en las líneas 4 y 7 de Metro de Madrid por acumulación de agua",
+      "summary": "La intensa lluvia caída a media tarde de este martes en Madrid ha provocado la interrupción parcial del servicio en las líneas 4 (entre las...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Cortes-parciales-en-las-lineas-4-y-7-de-Metro-de-Madrid-por-acumulacion-de-agua-0-2932206763--20261006044514.html"
+    },
+    {
+      "id": "0110b76a718c8c88ae",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Cebreros",
+      "published": "2026-10-06T11:18:44+02:00",
+      "source": "Cadena SER",
+      "title": "La D.O.P. Cebreros cierra la vendimia más atípica de su historia, marcada por el calor y los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNGEzVEoteWVFWUxnQWV5OFpWVXNGZHVsLUNqS09ZUnNWaURFNjFEd3d0QlZVSlVSV1VldnR1ZWJPd3VTekNPSEM5UWwtR2VzMy1SX2dGV2NhMGVFb0Y2aW5EYzE5bEs5Y09mSHV4bF9rNEZITUxKT2hhQ28xcTNPalNJTVJNRFJYYTd1NDRrX041RTZuYkJlWnJycWk5N2hoY0pOYmI0UzVtb2cyN0JJU3FaN05FRE9xcWk4NFd2NjZORWkwbGU3VGtMb1B2UVBUT1dka1FidUMzVnQ5VWJzMktCMFpJTWx6RHhWdFJNWnM4TjZNS3ZDRnlveTY3VWdO0gGAAkFVX3lxTFA0YTNUSi15ZUVZTGdBZXk4WlZVc0ZkdWwtQ2pLT1lSc1ZpREU2MUR3d3RCVlVKVVJXVWV2dHVlYk93dVN6Q09IQzlRbC1HZXMzLVJfZ0ZXY2EwZUVvRjZpbkRjMTlsSzljT2ZIdXhsX2s0RkhNTEpPaGFDbzFxM09qU0lNUk1EUlhhN3U0NGtfTjVFNm5iQmVacnJxaTk3aGhjSk5iYjRTNW1vZzI3QklTcVo3TkVET3FxaTg0V3Y2Nk5FaTBsZTdUa0xvUHZRUFRPV2RrUWJ1QzNWdDlVYnMyS0IwWklNbHpEeFZ0Uk1aczhONk1LdkNGeW95NjdVZ04?oc=5"
+    },
+    {
+      "id": "fa6a4adab284b5800e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-06T10:25:21+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Diputación mantiene el apoyo a los municipios afectados por las lluvias y el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEdvNl9wZ1Fxa3F3MG0tSHhpdE1MemIya2tIanZjYnVZcDdEcVJneDhBZUIzU0VYSUNUalBiSXlNdjU3cGpaVkM1N0VWWnNYbGZ2N3F5cklWbXVfTml5b1JabzEtd05mdHJ0TXBGa1pJc2RzQWVwMlhsZGtEQTZBellURDJqcHNYYWQzbzJ6czF3ZDhmRVBRTTlYRW1GU1ZuZzFNdGdTR1dIcXZLUHkwdXFCc21DYWcyZW5XS21zQkpTWU56dTE0Q1J3?oc=5"
+    },
     {
       "id": "6a1b5e77a05245b0b7",
       "type": "news",
@@ -12,42 +48,6 @@
       "title": "El 'chapapote' de los incendios amenaza el agua de Madrid y Toledo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2pPYWotNk9QTDRQcENIUldxc3QzWUpNQ0thU1ZZZ0ZwY0kzNE42YjNuYmpFYVhDS0tKcVJpaHplWDRWbnhjWG41dHVFa0xmUDJuaWFUVkNGLW80REtPamdZd0NpX1U2eFJvZzJ3djl1NVJLcFRlUk1mYmpTMjhOSjdkeWtab2pWZzU5V3VVNFFSdC0zSVRYUmpzLVhJVktlQ3RkSjZaUDjSAa4BQVVfeXFMUHV3VmRXdXctSDJRbnh1bGxUWkwyRmVEdTFFTkZ5Zl8tcDRBRTRSaUJqZ1daWjNqMFpKSXJpOEd3WDdOQzd5dGJNX21QdWFTdDd3TF9FdmxOLVRURGlrSW1MV3pwSDh3bXBrdjRWcEFoQUZaWWhzRFpPRDc5S0E1TlA5bndpbVdlUGJfSTB5RTBEeE8teVRhTGlHSFItSlRTbFpQaERDWFl4dzdsQWZR?oc=5"
-    },
-    {
-      "id": "f492237d1e872cee49",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-05T16:26:55+02:00",
-      "source": "20Minutos",
-      "title": "Las tormentas dejan sin agua potable a varios pueblos de Ávila afectados por el fuego de Burgohondo en verano",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZUwxMGpBdjdnWG02am8wQW52Q1E4bmgxX3ZUdk5meTBEcURtc3YzSEVvMVB6cXh4aG5GQmlzbU9fNTVfYVJBQ2xwaXhzbUJxU3JrbXNjTmprUlI3MnY3bFFCMTBxZDNXaWtXaVhhYks3Tlg5d2YzQURLNDFXeXQ3Sm9oWGxUQnFFVUlLdm5leXRUUXlFZ1QteXBKVzFuSWx2ZGlFYWw3WENIVGkybDA2STBZMVMycjBSTHdYUWtMelFDdEp6dHk0YWxVUHA0Ymc5TnROWnRiRWtQa21SUTFVcENzV0JuM2RwaGUyNFF3?oc=5"
-    },
-    {
-      "id": "3ca75d489250be7b2b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-05T14:48:31+02:00",
-      "source": "EL PAÍS",
-      "title": "Agua negra bajando por los ríos: pueblos afectados por los incendios de Ávila, sin agua potable por la contaminación",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNmVuYXZZNFJhVlJZTlFYWVhRVkJNTnR0dkVGU2RiYUJtMTdRRlprN0Y5dVdkakMweHNpLTlWT0ZwWkRQYWhSWkFTbnZybnFWNm9QdkhzOV9TcU9oS2V0ei1senI5SS1hQWg3RFJQdkVic0dhUGVoVzRFNjdPclZCRzdPa25oQlBDWkQxZlVjTU93MVNhQjNvOFVjenFuWFZ1NTZYRndURFFfbXhtQk5nWlFudXhGVTN2VFBmRzU5RGQtdU0wT0x4SXRycWd5b25fdGVHa0RlX0pRS0s1dURIY19rWmlUdkVmNFJkUtIBgAJBVV95cUxNS0xqdWZVcVZRdkZMWDB5emozU1JmcGtxS193YUw4Z2kxck5nS3Y5XzFCSEV3UHBlbERHT3MtZlhKbXU1M1ZkNnNtd3poaG8zNEJ2OGk5di1Yb2NNNklKbUd4OHo5M2wzNS12ZVktVFRlSFdVMjdyYmhLYjY3NXc1SGdsS3FsS3FIVmEyNVlNNzhPU1RSbC1oMUVmYlRrWlJ0TDhJSUM5SV9QQ1JSdFNIQm5QeDRxT2pYN0hHeEdHTXhOVnl1OFJaZ2trSGFGUmdjU2ZvZ015dmd2V0RGQWZXWk5uZlYyaWVzNlBITWlrR2hheEFyVU9Ob1plUTdEdUtI?oc=5"
-    },
-    {
-      "id": "62da862a36f2798ac5",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-05T11:36:18+02:00",
-      "source": "ABC",
-      "title": "Las cenizas del incendio de Burgohondo obligan a abastecer con botellas de agua a más de 4.000 personas de tres pueblos de Ávila",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdG9tQW9DVm1HUThCWjhGUWFpNFdlQWlGM002N2lJdTExb3ZYbXZHMHczdFVXMldXQm9sT1dfd2F4WVk2aER3aUt2cTJKN2J5aWVieU4zQjlIdnJaOUFTQk5Manl6ODQwMEhzX2hiYXUtQ19sZjdXUVNrNWhGSWo1cEFta29yYTFQX0FTYzVQNWV3WEYxeEVfa241Vm5HQVdrU2VianlLVmRqaGJreG42djBn0gG3AUFVX3lxTFBubnR2a0luVHlKSWdBcWdMUmdYRVBkaktKb2dWalBhU1RIcDUxT0tPOWk5Y2NwU01hTHBiWDVGWXduaVcxZWNYNlJ5RDZDdXZZRFBLa1pIbmpXRjBKWWZzVTZzWTdhMjlrTDBZdTVxYjIyemlaQXRwLWtvNVFUWUlqa1NtR0dTZU9udWZFU3RkaFluaUVUSXdQbXNJSTRnamxyaXlpUEpzTWpYbnVyMTM5SXlPN3BLUQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -157,17 +157,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 6
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
