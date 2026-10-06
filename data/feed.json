@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-06T18:04:07+02:00",
+  "generated_at": "2026-10-06T22:55:56+02:00",
   "items": [
-    {
-      "id": "8fdfa45e1725d86370",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-06T17:00:33+02:00",
-      "source": "Telemadrid",
-      "title": "Cortes parciales en las líneas 4 y 7 de Metro de Madrid por acumulación de agua",
-      "summary": "La intensa lluvia caída a media tarde de este martes en Madrid ha provocado la interrupción parcial del servicio en las líneas 4 (entre las...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Cortes-parciales-en-las-lineas-4-y-7-de-Metro-de-Madrid-por-acumulacion-de-agua-0-2932206763--20261006044514.html"
-    },
     {
       "id": "0110b76a718c8c88ae",
       "type": "news",
@@ -36,18 +24,6 @@
       "title": "Diputación mantiene el apoyo a los municipios afectados por las lluvias y el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEdvNl9wZ1Fxa3F3MG0tSHhpdE1MemIya2tIanZjYnVZcDdEcVJneDhBZUIzU0VYSUNUalBiSXlNdjU3cGpaVkM1N0VWWnNYbGZ2N3F5cklWbXVfTml5b1JabzEtd05mdHJ0TXBGa1pJc2RzQWVwMlhsZGtEQTZBellURDJqcHNYYWQzbzJ6czF3ZDhmRVBRTTlYRW1GU1ZuZzFNdGdTR1dIcXZLUHkwdXFCc21DYWcyZW5XS21zQkpTWU56dTE0Q1J3?oc=5"
-    },
-    {
-      "id": "6a1b5e77a05245b0b7",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-10-05T19:19:04+02:00",
-      "source": "ABC",
-      "title": "El 'chapapote' de los incendios amenaza el agua de Madrid y Toledo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2pPYWotNk9QTDRQcENIUldxc3QzWUpNQ0thU1ZZZ0ZwY0kzNE42YjNuYmpFYVhDS0tKcVJpaHplWDRWbnhjWG41dHVFa0xmUDJuaWFUVkNGLW80REtPamdZd0NpX1U2eFJvZzJ3djl1NVJLcFRlUk1mYmpTMjhOSjdkeWtab2pWZzU5V3VVNFFSdC0zSVRYUmpzLVhJVktlQ3RkSjZaUDjSAa4BQVVfeXFMUHV3VmRXdXctSDJRbnh1bGxUWkwyRmVEdTFFTkZ5Zl8tcDRBRTRSaUJqZ1daWjNqMFpKSXJpOEd3WDdOQzd5dGJNX21QdWFTdDd3TF9FdmxOLVRURGlrSW1MV3pwSDh3bXBrdjRWcEFoQUZaWWhzRFpPRDc5S0E1TlA5bndpbVdlUGJfSTB5RTBEeE8teVRhTGlHSFItSlRTbFpQaERDWFl4dzdsQWZR?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -157,17 +133,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 6
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
