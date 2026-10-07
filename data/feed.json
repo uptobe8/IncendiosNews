@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-07T08:15:29+02:00",
+  "generated_at": "2026-10-07T15:34:25+02:00",
   "items": [
     {
-      "id": "0110b76a718c8c88ae",
+      "id": "a1de02e29e928bd302",
       "type": "news",
       "severity": "info",
-      "province": "Ávila",
-      "town": "Cebreros",
-      "published": "2026-10-06T11:18:44+02:00",
-      "source": "Cadena SER",
-      "title": "La D.O.P. Cebreros cierra la vendimia más atípica de su historia, marcada por el calor y los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNGEzVEoteWVFWUxnQWV5OFpWVXNGZHVsLUNqS09ZUnNWaURFNjFEd3d0QlZVSlVSV1VldnR1ZWJPd3VTekNPSEM5UWwtR2VzMy1SX2dGV2NhMGVFb0Y2aW5EYzE5bEs5Y09mSHV4bF9rNEZITUxKT2hhQ28xcTNPalNJTVJNRFJYYTd1NDRrX041RTZuYkJlWnJycWk5N2hoY0pOYmI0UzVtb2cyN0JJU3FaN05FRE9xcWk4NFd2NjZORWkwbGU3VGtMb1B2UVBUT1dka1FidUMzVnQ5VWJzMktCMFpJTWx6RHhWdFJNWnM4TjZNS3ZDRnlveTY3VWdO0gGAAkFVX3lxTFA0YTNUSi15ZUVZTGdBZXk4WlZVc0ZkdWwtQ2pLT1lSc1ZpREU2MUR3d3RCVlVKVVJXVWV2dHVlYk93dVN6Q09IQzlRbC1HZXMzLVJfZ0ZXY2EwZUVvRjZpbkRjMTlsSzljT2ZIdXhsX2s0RkhNTEpPaGFDbzFxM09qU0lNUk1EUlhhN3U0NGtfTjVFNm5iQmVacnJxaTk3aGhjSk5iYjRTNW1vZzI3QklTcVo3TkVET3FxaTg0V3Y2Nk5FaTBsZTdUa0xvUHZRUFRPV2RrUWJ1QzNWdDlVYnMyS0IwWklNbHpEeFZ0Uk1aczhONk1LdkNGeW95NjdVZ04?oc=5"
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-07T15:01:21+02:00",
+      "source": "Telemadrid",
+      "title": "La Comunidad aporta forrajes a las ganaderías afectadas por los incendios de la Sierra Oeste",
+      "summary": "El gobierno regional sigue inmerso en la reconstrucción de la Sierra Oeste gravemente afectada por los incendios de este verano. Lo está haciendo...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/La-Comunidad-aporta-forrajes-a-las-ganaderias-afectadas-por-los-incendios-de-la-Sierra-Oeste-2-2932526732--20261007030120.html"
     },
     {
-      "id": "fa6a4adab284b5800e",
+      "id": "59d9fa7946c9319fd2",
       "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-06T10:25:21+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Diputación mantiene el apoyo a los municipios afectados por las lluvias y el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEdvNl9wZ1Fxa3F3MG0tSHhpdE1MemIya2tIanZjYnVZcDdEcVJneDhBZUIzU0VYSUNUalBiSXlNdjU3cGpaVkM1N0VWWnNYbGZ2N3F5cklWbXVfTml5b1JabzEtd05mdHJ0TXBGa1pJc2RzQWVwMlhsZGtEQTZBellURDJqcHNYYWQzbzJ6czF3ZDhmRVBRTTlYRW1GU1ZuZzFNdGdTR1dIcXZLUHkwdXFCc21DYWcyZW5XS21zQkpTWU56dTE0Q1J3?oc=5"
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-07T14:26:26+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid exige el \"desalojo inmediato\" de la acampada de Sol",
+      "summary": "La Comunidad de Madrid sigue exigiendo el desalojo de la acampada en la Puerta del Sol, y reclamando al Delegado del Gobierno que actúe de forma...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-exige-el-desalojo-inmediato-de-la-acampada-de-Sol-2-2932526725--20261007022520.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,11 +139,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 2
     }
   },
   "refresh_seconds": 300
