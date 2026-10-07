@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-07T15:34:25+02:00",
+  "generated_at": "2026-10-07T21:30:08+02:00",
   "items": [
     {
-      "id": "a1de02e29e928bd302",
+      "id": "08cc572a325fed918e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-07T15:01:21+02:00",
+      "published": "2026-10-07T15:01:20+02:00",
       "source": "Telemadrid",
       "title": "La Comunidad aporta forrajes a las ganaderías afectadas por los incendios de la Sierra Oeste",
-      "summary": "El gobierno regional sigue inmerso en la reconstrucción de la Sierra Oeste gravemente afectada por los incendios de este verano. Lo está haciendo...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/La-Comunidad-aporta-forrajes-a-las-ganaderias-afectadas-por-los-incendios-de-la-Sierra-Oeste-2-2932526732--20261007030120.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUEVzbHN5SVF3OEhJVzNKVWJaRlVxU25TeC1jMjZRX0g3eDRFMHFfTWd2V2h0TTdxSHdiQW1zNVNtdkNvZ0FRZW05SmpZRzFzZzNSaU1QaWxPNHhYY05FdXU0dFcwM0tQTjBSM0R5LWVFUFVJNlZKNGh0eklENWNTZlE2Q0hDVUZlYkszcGI5b2J6Ml9hYWFPVVRTeGpKNC1vdGdoSG9mV2VpcmhidzZ3NjQ0WExGUHVxVXdXUVQxTmJ2cnBXVjRFQ1pGWmU3UlRZZ2Itam03QXRrSFQxZkNmX0dCNmdVYzhsSXl2R2M4NzBMaXhpc2ZTNGVWcEFRdE5nQXFhYl9kVEXSAY4CQVVfeXFMTXc2emJGb3dSRm1Ec0ZkS1BvWDZvbzNHZU9RNE0tRFZVQjl2VU96cmFKVW1XZzRubkFISGtLSWJPTHk5MUhqZTlCU3BvZWlydlBZaVduNVJBNFhxeXZSc1JBSTc1LWE2RWNLX01pUzN4RThIdS1qN1lpQXAzQkxzVV82Uy1faURRcXlnX2RqQk1zTGRiejBSNWM0dE8yRUlEQVJBcTJJNXhiUEJNeGtMd1JOVDNaaTVvSjR3dW5fZ2RBTnlnWmktRzhqbERscUxyaFVBUURndWtpRWlPTkh6eFpZdmJGcl9UQWdkY1VmX1VoNFlCamxhU19RdHVZRlJnMFhQN2RmZTZzTW10cTlR?oc=5"
     },
     {
-      "id": "59d9fa7946c9319fd2",
+      "id": "507faaa7018ce3ec24",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-07T14:26:26+02:00",
-      "source": "Telemadrid",
-      "title": "Madrid exige el \"desalojo inmediato\" de la acampada de Sol",
-      "summary": "La Comunidad de Madrid sigue exigiendo el desalojo de la acampada en la Puerta del Sol, y reclamando al Delegado del Gobierno que actúe de forma...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Madrid-exige-el-desalojo-inmediato-de-la-acampada-de-Sol-2-2932526725--20261007022520.html"
+      "published": "2026-10-07T12:00:02+02:00",
+      "source": "Madrid Actual",
+      "title": "España acumula 301.101 hectáreas quemadas hasta septiembre",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdXRieHNXWWgwY2gwb0h2T0JmTm9DUlgwcTA3OFcxVkZMSDJPcWlfQ3dLeUZTVTlDczR2c0hQc2diTmZnbS1icXNEZkFTbGtacXljMkF1Y2NnN29HdlJVYkdGYm16bVBoZml0VTVTRklEVHVYSmpLS0RxZDRzaXR3a3lEOHBXT2pGcERXUzQ1eGZCODBpRWpFV0lkV0hmMGxlWXRHeUZIY3lxNjBKUWRTLXhRUUxURFZuQ3Uw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,11 +139,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 0
     }
   },
   "refresh_seconds": 300
