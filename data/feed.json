@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-08T12:23:31+02:00",
+  "generated_at": "2026-10-08T19:28:05+02:00",
   "items": [
+    {
+      "id": "5aa2018a197cafb6ca",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-08T17:48:01+02:00",
+      "source": "Madrid Actual",
+      "title": "La UME celebra su XXI aniversario en Torrejón de Ardoz",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR21VOXctbkt5SDFDWmc2YUdhSkJaQ2YtWEIzRVd3c2ROTVBUSkV4dndsamFiYk1kd0FVMHFQS09lbUNJRGtwcGU0ZFpDR2FpdVBuUFA5Z2pOTlY1cGJqRDl2RWtiNEkzY01FWWZNbVp3dFAxckUwSEZSamJWQ0NDaFo1RmNHRUNuSE5CNzZYX3NMWWZyU2I5WVZSWkJYUF82VE13d0oyeEpGdWd3TWYyRmhXdW1zRVhZeUdadldvV1YxQVVOYTNtZU1ZWVNLRm5SdEE?oc=5"
+    },
+    {
+      "id": "b40ec01e05d5e34b7e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-08T12:53:35+02:00",
+      "source": "EFE Verde",
+      "title": "Greenpeace denuncia que pueblos afectados por el incendio de Burgohondo no tienen agua por las cenizas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tQVNBUmxHZVJfZWpFR0FTNjA3ZElYaVRRZWtPNkVvUnNMcEZuTXVkVVJ5ci0tbVhXWGFnZFVEeWxlcUgwNzltZmZaVC1IbFdPRVVyMG1yUWd6c3BMbWRaR3Rub1o4d2xOa296dFEtd3VDRVk?oc=5"
+    },
     {
       "id": "688599e3775e6971b0",
       "type": "news",
@@ -11,19 +35,7 @@
       "source": "ABC",
       "title": "Casavieja pide a la Junta «elevar el nivel de emergencia» y medios estatales tras los arrastres provocados las fuertes lluvias",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3o4U01na3VfN1RxbXF4OFlqa0w0ZUJsVmJhVEpsMy1lZ2R4VVFpamhESWI0ckdXc2Q5TTZfTkVtZHF2WjVBb2o5ZW5XdlVnUU9sdk9pN3JpWm82emxpYTFGbmRqa0dZUjlydTFqZk4yVW1DLU9LWkQwaXM4UExfZkxPY09sQnBQTVhkc0hONjZwZzV3aEtvak02cEFNWFRncnlOajhSa1pQcmhaWi0wZzhHWEPSAboBQVVfeXFMTnM3NFJWRXR0cWxCNkhkb2pwZk5kQ2wyalhtUU1tUGlNSjFDTl9iODI3U3FNblFyZ1U3aFJ5YTNOWnJ2UV9TOURVUjdxSkQwMDMwNXdtOEdHR0E2bEx5cFI5c1pGbE5UYVItUGxLRHdjWkZ6TmxmNWVlMno0RnBHbmQ0c3d0VHIwcmowdDUyVzJaMHZ3Vk9aR1BZajNTSzRDc09MS2hzY2xBQ3lqM05SdlV0QUYwZVVKbnFB?oc=5"
-    },
-    {
-      "id": "08cc572a325fed918e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-07T15:01:20+02:00",
-      "source": "Telemadrid",
-      "title": "La Comunidad aporta forrajes a las ganaderías afectadas por los incendios de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUEVzbHN5SVF3OEhJVzNKVWJaRlVxU25TeC1jMjZRX0g3eDRFMHFfTWd2V2h0TTdxSHdiQW1zNVNtdkNvZ0FRZW05SmpZRzFzZzNSaU1QaWxPNHhYY05FdXU0dFcwM0tQTjBSM0R5LWVFUFVJNlZKNGh0eklENWNTZlE2Q0hDVUZlYkszcGI5b2J6Ml9hYWFPVVRTeGpKNC1vdGdoSG9mV2VpcmhidzZ3NjQ0WExGUHVxVXdXUVQxTmJ2cnBXVjRFQ1pGWmU3UlRZZ2Itam03QXRrSFQxZkNmX0dCNmdVYzhsSXl2R2M4NzBMaXhpc2ZTNGVWcEFRdE5nQXFhYl9kVEXSAY4CQVVfeXFMTXc2emJGb3dSRm1Ec0ZkS1BvWDZvbzNHZU9RNE0tRFZVQjl2VU96cmFKVW1XZzRubkFISGtLSWJPTHk5MUhqZTlCU3BvZWlydlBZaVduNVJBNFhxeXZSc1JBSTc1LWE2RWNLX01pUzN4RThIdS1qN1lpQXAzQkxzVV82Uy1faURRcXlnX2RqQk1zTGRiejBSNWM0dE8yRUlEQVJBcTJJNXhiUEJNeGtMd1JOVDNaaTVvSjR3dW5fZ2RBTnlnWmktRzhqbERscUxyaFVBUURndWtpRWlPTkh6eFpZdmJGcl9UQWdkY1VmX1VoNFlCamxhU19RdHVZRlJnMFhQN2RmZTZzTW10cTlR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczc0UlZFdHRxbEI2SGRvanBmTmRDbDJqWG1RTW1QaU1KMUNOX2I4MjdTcU1uUXJnVTdoUnlhM05acnZRX1M5RFVSN3FKRDAwMzA1d204R0dHQTZsTHlwUjlzWkZsTlRhUi1QbEtEd2NaRnpObGY1ZWUyejRGcEduZDRzd3RUcjByajB0NTJXMlowdndWT1pHUFlqM1NLNENzT0xLaHNjbEFDeWozTlJ2VXRBRjBlVUpucUHSAboBQVVfeXFMTnM3NFJWRXR0cWxCNkhkb2pwZk5kQ2wyalhtUU1tUGlNSjFDTl9iODI3U3FNblFyZ1U3aFJ5YTNOWnJ2UV9TOURVUjdxSkQwMDMwNXdtOEdHR0E2bEx5cFI5c1pGbE5UYVItUGxLRHdjWkZ6TmxmNWVlMno0RnBHbmQ0c3d0VHIwcmowdDUyVzJaMHZ3Vk9aR1BZajNTSzRDc09MS2hzY2xBQ3lqM05SdlV0QUYwZVVKbnFB?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
