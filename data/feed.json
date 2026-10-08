@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-08T04:59:52+02:00",
+  "generated_at": "2026-10-08T12:23:31+02:00",
   "items": [
+    {
+      "id": "688599e3775e6971b0",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Casavieja",
+      "published": "2026-10-08T11:56:52+02:00",
+      "source": "ABC",
+      "title": "Casavieja pide a la Junta «elevar el nivel de emergencia» y medios estatales tras los arrastres provocados las fuertes lluvias",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3o4U01na3VfN1RxbXF4OFlqa0w0ZUJsVmJhVEpsMy1lZ2R4VVFpamhESWI0ckdXc2Q5TTZfTkVtZHF2WjVBb2o5ZW5XdlVnUU9sdk9pN3JpWm82emxpYTFGbmRqa0dZUjlydTFqZk4yVW1DLU9LWkQwaXM4UExfZkxPY09sQnBQTVhkc0hONjZwZzV3aEtvak02cEFNWFRncnlOajhSa1pQcmhaWi0wZzhHWEPSAboBQVVfeXFMTnM3NFJWRXR0cWxCNkhkb2pwZk5kQ2wyalhtUU1tUGlNSjFDTl9iODI3U3FNblFyZ1U3aFJ5YTNOWnJ2UV9TOURVUjdxSkQwMDMwNXdtOEdHR0E2bEx5cFI5c1pGbE5UYVItUGxLRHdjWkZ6TmxmNWVlMno0RnBHbmQ0c3d0VHIwcmowdDUyVzJaMHZ3Vk9aR1BZajNTSzRDc09MS2hzY2xBQ3lqM05SdlV0QUYwZVVKbnFB?oc=5"
+    },
     {
       "id": "08cc572a325fed918e",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "La Comunidad aporta forrajes a las ganaderías afectadas por los incendios de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUEVzbHN5SVF3OEhJVzNKVWJaRlVxU25TeC1jMjZRX0g3eDRFMHFfTWd2V2h0TTdxSHdiQW1zNVNtdkNvZ0FRZW05SmpZRzFzZzNSaU1QaWxPNHhYY05FdXU0dFcwM0tQTjBSM0R5LWVFUFVJNlZKNGh0eklENWNTZlE2Q0hDVUZlYkszcGI5b2J6Ml9hYWFPVVRTeGpKNC1vdGdoSG9mV2VpcmhidzZ3NjQ0WExGUHVxVXdXUVQxTmJ2cnBXVjRFQ1pGWmU3UlRZZ2Itam03QXRrSFQxZkNmX0dCNmdVYzhsSXl2R2M4NzBMaXhpc2ZTNGVWcEFRdE5nQXFhYl9kVEXSAY4CQVVfeXFMTXc2emJGb3dSRm1Ec0ZkS1BvWDZvbzNHZU9RNE0tRFZVQjl2VU96cmFKVW1XZzRubkFISGtLSWJPTHk5MUhqZTlCU3BvZWlydlBZaVduNVJBNFhxeXZSc1JBSTc1LWE2RWNLX01pUzN4RThIdS1qN1lpQXAzQkxzVV82Uy1faURRcXlnX2RqQk1zTGRiejBSNWM0dE8yRUlEQVJBcTJJNXhiUEJNeGtMd1JOVDNaaTVvSjR3dW5fZ2RBTnlnWmktRzhqbERscUxyaFVBUURndWtpRWlPTkh6eFpZdmJGcl9UQWdkY1VmX1VoNFlCamxhU19RdHVZRlJnMFhQN2RmZTZzTW10cTlR?oc=5"
-    },
-    {
-      "id": "507faaa7018ce3ec24",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-07T12:00:02+02:00",
-      "source": "Madrid Actual",
-      "title": "España acumula 301.101 hectáreas quemadas hasta septiembre",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdXRieHNXWWgwY2gwb0h2T0JmTm9DUlgwcTA3OFcxVkZMSDJPcWlfQ3dLeUZTVTlDczR2c0hQc2diTmZnbS1icXNEZkFTbGtacXljMkF1Y2NnN29HdlJVYkdGYm16bVBoZml0VTVTRklEVHVYSmpLS0RxZDRzaXR3a3lEOHBXT2pGcERXUzQ1eGZCODBpRWpFV0lkV0hmMGxlWXRHeUZIY3lxNjBKUWRTLXhRUUxURFZuQ3Uw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
