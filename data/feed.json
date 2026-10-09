@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-09T18:20:12+02:00",
+  "generated_at": "2026-10-09T23:02:16+02:00",
   "items": [
-    {
-      "id": "844673543e105f8a52",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-08T22:04:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Greenpeace alerta del impacto de las lluvias sobre las zonas quemadas en Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTkxMGQ5OHRNU29QTFN4WUFPMFJaQ1ZfaEhTZEQzQnNaM1hWZXJMbGJYRjRIX3dST20xb3ZUeXhFNEFmc1VKd0REMTJTWUhSOTlnRjJ3ZHN5dGpkdlhTOUhqejBMMndTdHpnV3ZZaWpvZkE5OTExTUUxMk1NMWNjVXZmRkJWZkJpRFNydXp1cl9nWkNJajhxQzRVekhjZko2RHo3a3pZSV9PMVNGWmtfc3UycU9LdTFoY2QyTVZyZEtUcURKX0xv?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -127,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
