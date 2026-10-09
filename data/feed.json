@@ -1,53 +1,17 @@
 {
-  "generated_at": "2026-10-09T11:17:23+02:00",
+  "generated_at": "2026-10-09T18:20:12+02:00",
   "items": [
     {
-      "id": "1888f9cb83e1a00341",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-09T09:58:43+02:00",
-      "source": "Telemadrid",
-      "title": "Más usuarios en Metro de Madrid: los viajeros del suburbano aumentaron hasta un 2,4% en el mes de agosto",
-      "summary": "El número de viajeros que optó por los autobuses de la Empresa Municipal de Transporte (EMT) para desplazarse en la capital cayeron un 3,1% en...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Mas-usuarios-en-Metro-de-Madrid-los-viajeros-del-suburbano-aumentaron-hasta-un-24-en-el-mes-de-agosto-0-2933106663--20261009095555.html"
-    },
-    {
-      "id": "5aa2018a197cafb6ca",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-08T17:48:01+02:00",
-      "source": "Madrid Actual",
-      "title": "La UME celebra su XXI aniversario en Torrejón de Ardoz",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR21VOXctbkt5SDFDWmc2YUdhSkJaQ2YtWEIzRVd3c2ROTVBUSkV4dndsamFiYk1kd0FVMHFQS09lbUNJRGtwcGU0ZFpDR2FpdVBuUFA5Z2pOTlY1cGJqRDl2RWtiNEkzY01FWWZNbVp3dFAxckUwSEZSamJWQ0NDaFo1RmNHRUNuSE5CNzZYX3NMWWZyU2I5WVZSWkJYUF82VE13d0oyeEpGdWd3TWYyRmhXdW1zRVhZeUdadldvV1YxQVVOYTNtZU1ZWVNLRm5SdEE?oc=5"
-    },
-    {
-      "id": "b40ec01e05d5e34b7e",
+      "id": "844673543e105f8a52",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-10-08T12:53:35+02:00",
-      "source": "EFE Verde",
-      "title": "Greenpeace denuncia que pueblos afectados por el incendio de Burgohondo no tienen agua por las cenizas",
+      "published": "2026-10-08T22:04:00+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Greenpeace alerta del impacto de las lluvias sobre las zonas quemadas en Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tQVNBUmxHZVJfZWpFR0FTNjA3ZElYaVRRZWtPNkVvUnNMcEZuTXVkVVJ5ci0tbVhXWGFnZFVEeWxlcUgwNzltZmZaVC1IbFdPRVVyMG1yUWd6c3BMbWRaR3Rub1o4d2xOa296dFEtd3VDRVk?oc=5"
-    },
-    {
-      "id": "688599e3775e6971b0",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Casavieja",
-      "published": "2026-10-08T11:56:52+02:00",
-      "source": "ABC",
-      "title": "Casavieja pide a la Junta «elevar el nivel de emergencia» y medios estatales tras los arrastres provocados las fuertes lluvias",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczc0UlZFdHRxbEI2SGRvanBmTmRDbDJqWG1RTW1QaU1KMUNOX2I4MjdTcU1uUXJnVTdoUnlhM05acnZRX1M5RFVSN3FKRDAwMzA1d204R0dHQTZsTHlwUjlzWkZsTlRhUi1QbEtEd2NaRnpObGY1ZWUyejRGcEduZDRzd3RUcjByajB0NTJXMlowdndWT1pHUFlqM1NLNENzT0xLaHNjbEFDeWozTlJ2VXRBRjBlVUpucUHSAboBQVVfeXFMTnM3NFJWRXR0cWxCNkhkb2pwZk5kQ2wyalhtUU1tUGlNSjFDTl9iODI3U3FNblFyZ1U3aFJ5YTNOWnJ2UV9TOURVUjdxSkQwMDMwNXdtOEdHR0E2bEx5cFI5c1pGbE5UYVItUGxLRHdjWkZ6TmxmNWVlMno0RnBHbmQ0c3d0VHIwcmowdDUyVzJaMHZ3Vk9aR1BZajNTSzRDc09MS2hzY2xBQ3lqM05SdlV0QUYwZVVKbnFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTkxMGQ5OHRNU29QTFN4WUFPMFJaQ1ZfaEhTZEQzQnNaM1hWZXJMbGJYRjRIX3dST20xb3ZUeXhFNEFmc1VKd0REMTJTWUhSOTlnRjJ3ZHN5dGpkdlhTOUhqejBMMndTdHpnV3ZZaWpvZkE5OTExTUUxMk1NMWNjVXZmRkJWZkJpRFNydXp1cl9nWkNJajhxQzRVekhjZko2RHo3a3pZSV9PMVNGWmtfc3UycU9LdTFoY2QyTVZyZEtUcURKX0xv?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
