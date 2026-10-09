@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-09T04:18:40+02:00",
+  "generated_at": "2026-10-09T11:17:23+02:00",
   "items": [
+    {
+      "id": "1888f9cb83e1a00341",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-09T09:58:43+02:00",
+      "source": "Telemadrid",
+      "title": "Más usuarios en Metro de Madrid: los viajeros del suburbano aumentaron hasta un 2,4% en el mes de agosto",
+      "summary": "El número de viajeros que optó por los autobuses de la Empresa Municipal de Transporte (EMT) para desplazarse en la capital cayeron un 3,1% en...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Mas-usuarios-en-Metro-de-Madrid-los-viajeros-del-suburbano-aumentaron-hasta-un-24-en-el-mes-de-agosto-0-2933106663--20261009095555.html"
+    },
     {
       "id": "5aa2018a197cafb6ca",
       "type": "news",
@@ -155,7 +167,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
