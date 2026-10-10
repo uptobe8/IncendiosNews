@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-10T08:24:49+02:00",
+  "generated_at": "2026-10-10T14:51:55+02:00",
   "items": [
+    {
+      "id": "46c8b966a29fd3b47b",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-10T14:35:46+02:00",
+      "source": "Europa Press",
+      "title": "La BRIF de La Iglesuela, premio 'Serrano de Honor 2026' por su labor en el incendio de Almorox-Burgohondo",
+      "summary": "El Encuentro Anual de la Sociedad de Amigos de la Sierra de San Vicente ha reconocido como 'Serrano de...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-brif-iglesuela-premio-serrano-honor-2026-labor-incendio-almorox-burgohondo-20261010143546.html"
+    },
+    {
+      "id": "2ec569efdc32e01f64",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-10T13:56:32+02:00",
+      "source": "Madrid Actual",
+      "title": "Ecologistas piden limitar la caza tras el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSVEtMkRfeTFLZ1ZWaXZYMU5IcWpQOXFsNlM5aUlSVzlTQ0ZLLUwzVU5nbmxXNUF0VTFQbzBxOFB5dm9qZFUyR05wdExHdE1JTVhid2dBS0VuQUFyU1ZhQ0NnQW5nc05IanVmYjBKN1pMbl9zeG4zbmRkaWxPVDNqOElFeGdtS3JhaFBtdWtGRGtDQzJNOWJ1RWt5RUlNWm0tdmV3Z19zd1ZoaTBvUVNJNHlPRnpOcWdIY1BnVjEtZXRQcW0wMGd2bXduZ1g1ckN3QW1CTkpKNmw5TEh2SXc?oc=5"
+    },
+    {
+      "id": "51fd39ba57db6b6f49",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-10T10:09:54+02:00",
+      "source": "Europa Press",
+      "title": "Ecologistas alertan del inicio de la temporada de caza con animales exhaustos tras el incendio de la Sierra Oeste",
+      "summary": "La temporada de caza 2026-2027 arranca en la Comunidad de Madrid entre la preocupación de los colectivos...",
+      "url": "https://www.europapress.es/madrid/noticia-ecologistas-alertan-inicio-temporada-caza-animales-exhaustos-incendio-sierra-oeste-20261010100954.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,11 +151,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 2
     }
   },
   "refresh_seconds": 300
