@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:36:09+02:00",
+  "generated_at": "2026-10-11T21:42:11+02:00",
   "items": [
     {
       "id": "e2febd4f18c4ea45d2",
@@ -155,7 +155,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 2
     }
   },
   "refresh_seconds": 300
