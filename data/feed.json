@@ -1,29 +1,17 @@
 {
-  "generated_at": "2026-10-12T11:34:16+02:00",
+  "generated_at": "2026-10-12T21:17:20+02:00",
   "items": [
     {
-      "id": "e2febd4f18c4ea45d2",
+      "id": "c9b0c2ad38e8cbbf4a",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-11T15:25:59+02:00",
+      "published": "2026-10-12T18:10:16+02:00",
       "source": "Telemadrid",
-      "title": "Madrid reparte miles de kilos de comida entre la fauna silvestre afectada en los incendios de Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNN2VVUmtRV3hjbm40RTYzOWwyWUVpRURfUDdJTFczS1BmQl9aWGFTczltUk41cDFTcDI0dlY4OHBxNGUyOEd4MHQtZlJwR0dlU1h6dk1rcGFZc3BMWGtxMHdRcnZpU0VmVUJONUdETktZTzlPTEQ2cFBRalZ4YU1IOHh0Nlhob3A1MkNIaGFvc2dUbEh2M2NvNG5YdGQ4ZnZMcEd2anhVZ0lLQ1kxMEY3S0JjWTMxblF0LWcwdHVZcnhpbEJlTF9MNnNWTnhaUi00WkQ0V3BPOWZfWWxuckZaYlcxS2NOZUhmRVl1VHdnVW5VQmp2UGIxRG5wdGIzYnV1T3UwM3kxa3lYVHI4UGVScGRxRDAzY1FQdUh1TmNoUXpSemxNcDNTRUt4SdIBsAJBVV95cUxOSmh0SUpEQ2VVQ3QtSUlRMHVUNDNxNlkzTlJRUkJGWENGaDM3RlVRMXlsX29aNjY5Y1JlV2JkaC1lUllIaEE0LWxyMnBXVFRJdVFqQThtb2w1ZEV6RjJ4dllsY0l3T0g4TjJfT3ZwZGRKdjJHR2lybTVLN3ZERFJRNS1MNnhfMFlMOGFINGpqMFNMczg1YUNSaWd4bklHVGN6amJWQUVRRkVhRmJWaDZwR2huU0FPQkJfNzZKakZRQ3cwOUU5Nm9KT0ZKcmRnWmxzekVndjJSdElnaVJERDBKeDJWYTB3MVFlNEYyUWVXMmFoTE1QY3M0WDRWOURsSUx2RXVCSm42SnZ0WWtMZ3AtbEFvcGh5TEp3MTlRbmNkV3M3dEprcFFFRUx1TmZUMHBY?oc=5"
-    },
-    {
-      "id": "46c8b966a29fd3b47b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-10T14:35:46+02:00",
-      "source": "Europa Press",
-      "title": "La BRIF de La Iglesuela, premio 'Serrano de Honor 2026' por su labor en el incendio de Almorox-Burgohondo",
-      "summary": "El Encuentro Anual de la Sociedad de Amigos de la Sierra de San Vicente ha reconocido como 'Serrano de...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-brif-iglesuela-premio-serrano-honor-2026-labor-incendio-almorox-burgohondo-20261010143546.html"
+      "title": "Incendio en un AVE en Zaragoza: desalojan a 380 pasajeros y cortan la línea Madrid-Barcelona",
+      "summary": "Un incendio en un tren AVE con destino a Figueras (Girona) ha obligado a desalojar a sus 380 pasajeros en la localidad de Ricla, en Zaragoza. Los...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Incendio-en-un-AVE-en-Zaragoza-desalojan-a-380-pasajeros-y-cortan-la-linea-Madrid-Barcelona-0-2934006580--20261012061015.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -133,13 +121,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 0
     },
     "direct_media": {
       "ok": true,
