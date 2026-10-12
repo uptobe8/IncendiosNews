@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:25:02+02:00",
+  "generated_at": "2026-10-12T11:34:16+02:00",
   "items": [
     {
       "id": "e2febd4f18c4ea45d2",
@@ -12,18 +12,6 @@
       "title": "Madrid reparte miles de kilos de comida entre la fauna silvestre afectada en los incendios de Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNN2VVUmtRV3hjbm40RTYzOWwyWUVpRURfUDdJTFczS1BmQl9aWGFTczltUk41cDFTcDI0dlY4OHBxNGUyOEd4MHQtZlJwR0dlU1h6dk1rcGFZc3BMWGtxMHdRcnZpU0VmVUJONUdETktZTzlPTEQ2cFBRalZ4YU1IOHh0Nlhob3A1MkNIaGFvc2dUbEh2M2NvNG5YdGQ4ZnZMcEd2anhVZ0lLQ1kxMEY3S0JjWTMxblF0LWcwdHVZcnhpbEJlTF9MNnNWTnhaUi00WkQ0V3BPOWZfWWxuckZaYlcxS2NOZUhmRVl1VHdnVW5VQmp2UGIxRG5wdGIzYnV1T3UwM3kxa3lYVHI4UGVScGRxRDAzY1FQdUh1TmNoUXpSemxNcDNTRUt4SdIBsAJBVV95cUxOSmh0SUpEQ2VVQ3QtSUlRMHVUNDNxNlkzTlJRUkJGWENGaDM3RlVRMXlsX29aNjY5Y1JlV2JkaC1lUllIaEE0LWxyMnBXVFRJdVFqQThtb2w1ZEV6RjJ4dllsY0l3T0g4TjJfT3ZwZGRKdjJHR2lybTVLN3ZERFJRNS1MNnhfMFlMOGFINGpqMFNMczg1YUNSaWd4bklHVGN6amJWQUVRRkVhRmJWaDZwR2huU0FPQkJfNzZKakZRQ3cwOUU5Nm9KT0ZKcmRnWmxzekVndjJSdElnaVJERDBKeDJWYTB3MVFlNEYyUWVXMmFoTE1QY3M0WDRWOURsSUx2RXVCSm42SnZ0WWtMZ3AtbEFvcGh5TEp3MTlRbmNkV3M3dEprcFFFRUx1TmZUMHBY?oc=5"
-    },
-    {
-      "id": "e296c56a647946146f",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-11T09:19:50+02:00",
-      "source": "Europa Press",
-      "title": "El código de las campanas: Así se avisaban los incendios en Madrid antes del teléfono",
-      "summary": "Las campanas de las iglesias fueron en su día un sistema para dar la alarma de incendios en Madrid, con...",
-      "url": "https://www.europapress.es/madrid/noticia-codigo-campanas-asi-avisaban-incendios-madrid-antes-telefono-20261011091950.html"
     },
     {
       "id": "46c8b966a29fd3b47b",
@@ -145,17 +133,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 1
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
