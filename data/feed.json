@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-13T03:26:05+02:00",
+  "generated_at": "2026-10-13T10:09:42+02:00",
   "items": [
+    {
+      "id": "243b7eae9aa0b93cbd",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-13T09:51:57+02:00",
+      "source": "Europa Press",
+      "title": "Alteraciones y demoras en trenes de la línea Madrid-Barcelona, interrumpida ayer por un incendio en la cabina de un AVE",
+      "summary": "Las salidas y llegadas de algunos trenes de la línea Madrid-Barcelona están sufriendo este martes...",
+      "url": "https://www.europapress.es/economia/transportes-00343/noticia-alteraciones-demoras-salidas-llegadas-algunos-trenes-linea-madrid-barcelona-20261013080904.html"
+    },
+    {
+      "id": "9a6453e037ecd9f508",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-13T08:52:31+02:00",
+      "source": "Telemadrid",
+      "title": "Continúan los retrasos en las salidas de la alta velocidad Madrid-Barcelona tras el incendio de un tren AVE",
+      "summary": "Un incendio en un tren de Alta Velociad entre Madrid y Barcelona provocaba el caos en pleno regreso del Puente del Pilar. El fuego se registraba...",
+      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/Continuan-los-retrasos-en-las-salidas-de-la-alta-velocidad-Madrid-Barcelona-tras-el-incendio-de-un-tren-AVE-2-2934326540--20261013085211.html"
+    },
+    {
+      "id": "2c0bb77993eb30e9d2",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-13T07:13:01+02:00",
+      "source": "Telemadrid",
+      "title": "Un nuevo bosque para la Sierra Oeste: así será la reforestación tras el incendio",
+      "summary": "La devastación del fuego del pasado verano, que quemó 24.000 hectáreas en la Sierra Oeste de Madrid, dará paso con el tiempo a un bosque que...",
+      "url": "https://www.telemadrid.es/noticias/madrid/Un-nuevo-bosque-para-la-Sierra-Oeste-asi-sera-la-reforestacion-tras-el-incendio-0-2934306542--20261013070122.html"
+    },
+    {
+      "id": "16d86676296155eeff",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-13T06:30:00+02:00",
+      "source": "El Español",
+      "title": "La hoja de ruta de Ayuso para evitar incendios en la Sierra Oeste: 'plantará' especies autóctonas resistentes al fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVG1nLWJEb24xMDlCRXR3OTdBTE1uS3B6d0ZtVDd4SlJxaTRfMmNZN29RMV9pZE4wd2M4bk9FYjVzbFdrbzhueTF5M0E5XzJwOExwQUYwNTZGNGxvUUthWnNGazRXeFdVTGdhZzlISFlnRFhGZThJRTNVZUhvWXUyaHJib3NiXzU3WXp2ejB2UkNHYkpYUWdDN0czNlBpZUVkNFEwQmtFVElrc1ZSaDVlRURtMmRHbHEtR1NjY29BeG9ac2w0S2tRLU1NMGhFQmhYUnR5bFlnbTFHdks0UVhyWmVuUVFCa2V3VVRVdlp4dERzQlJ4cXhBRUU3SXpQUdIB_gFBVV95cUxQVG1nLWJEb24xMDlCRXR3OTdBTE1uS3B6d0ZtVDd4SlJxaTRfMmNZN29RMV9pZE4wd2M4bk9FYjVzbFdrbzhueTF5M0E5XzJwOExwQUYwNTZGNGxvUUthWnNGazRXeFdVTGdhZzlISFlnRFhGZThJRTNVZUhvWXUyaHJib3NiXzU3WXp2ejB2UkNHYkpYUWdDN0czNlBpZUVkNFEwQmtFVElrc1ZSaDVlRURtMmRHbHEtR1NjY29BeG9ac2w0S2tRLU1NMGhFQmhYUnR5bFlnbTFHdks0UVhyWmVuUVFCa2V3VVRVdlp4dERzQlJ4cXhBRUU3SXpQUQ?oc=5"
+    },
     {
       "id": "57c456ed239e0e222a",
       "type": "news",
@@ -36,18 +84,6 @@
       "title": "La recuperación total de los montes de la Sierra Oeste tras los incendios se extenderá una década",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkszem50elBWS09QNGtka2hwSlNoYUl6MC1PZVExMHpkS3poU0lieUZsMklRandVLWlRNkEyc3VHNGxiYmdpWUVLVjdxNlhpZGVadGhhT2VMb0FPMEFYSE1seWMyLUJBTFNVbmxYNGxyUklYVUZSVmtfLUNJV3BCQ2xwV2dYSllWWkhYdGxtbjZiUWNmWXR2VTMtVHhSMWpOb1djc0JPa2HSAa4BQVVfeXFMTVlCRkVVSk5wUE0tRFFNUWMyTzAtOVhoRGluc2JnOWxHUlQxbV9LeFdZZUFlb1psMDJNX2VZaklmZ3BLNVQyZjYwbmdsWjZZZkUzeGV1bm5ud21iX2tvQUg5ay02X3NFaXgyb0dpOGtnY0Zia3Q3V2NqZDlJTm9vTUNmLU1LVkJULVI0VTNtTExhcVExNjRuNjBVTGw5dnBHWTN0U1libDV2LUFMdTV3?oc=5"
-    },
-    {
-      "id": "f74a557dc75d72848a",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-12T21:53:50+02:00",
-      "source": "Telemadrid",
-      "title": "Un incendio en la cocina de un restaurante de la calle Argensola genera una gran columna de humo en Madrid",
-      "summary": "Un incendio declarado esta mañana en la cocina de un restaurante de la calle Argensola, en pleno centro de Madrid, ha generado una gran columna de...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Un-incendio-en-la-cocina-de-un-restaurante-de-la-calle-Argensola-genera-una-gran-columna-de-humo-en-Madrid-2-2934026600--20261012095349.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,11 +199,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 5
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 3
     }
   },
   "refresh_seconds": 300
