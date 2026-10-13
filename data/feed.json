@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-10-12T21:17:20+02:00",
+  "generated_at": "2026-10-13T03:26:05+02:00",
   "items": [
     {
-      "id": "c9b0c2ad38e8cbbf4a",
+      "id": "57c456ed239e0e222a",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-12T18:10:16+02:00",
+      "published": "2026-10-13T00:57:00+02:00",
+      "source": "El Mundo",
+      "title": "La Comunidad de Madrid apuesta por las encinas y un mosaico de bosques, viñedos y pastos para regenerar la Sierra Oeste tras el incendio forestal",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xSkNrU1Q2RlhYWUhxSUdoWTVfWEFadVVOVHBDb016MTRQZHV1MmZmWDIxVlkya1oxRVRvVk5DYTM5RmljV1BHTzFseEtvVFVDSXVmWks0alR4VkhKekVGREZlRlN2V0pDTnpCbS1xUEZKRFpGeEtMMWR30gF6QVVfeXFMTzA3LXd4T240ZE96Yk5FbExXYVVKM1JPY0tSRXJnTGlFX3RPeno3LWxHT0tnbzFmR2phMjRpMGNvWFE5TWVsUTEtMm1MSDNER3o3ZGUtZWtoWkNUaVlJTVlEeElJclV4aDJRdU9leEhvY1QyaWV3ZWJaeXc?oc=5"
+    },
+    {
+      "id": "9223f9ee53e7ac1de6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-13T00:48:00+02:00",
+      "source": "El Mundo",
+      "title": "La Guardia Civil destaca en Tres Cantos su respuesta ante el incendio de la Sierra Oeste que afectó a más de 35.000 personas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWXzJIdi1lcGdjcHBlTjkzZG1KeVIxU1hlWmRIbVVSckNQQ2xib3c5SVpNQm9SQVpjZHdtZzhfby1uTTFPSnE2VnFEeVN3cEg2Z1h1Z0xYdVpnaEJsNTN1UWoxbzhUQkVuRHpDSlVuajZGNkVGcUdwX2RB0gF6QVVfeXFMUG4tNFRKdzFleEk0NGZkNXlBWmJUbnE4Qk5GalNkazdhQkI5WTd5T191VVg2U1Z5eWNwbzRQaFFUdzJWU1RyMEZHbmVKalNiY2FFcGZyV0d1ZEIteW9pMERkUXZ2MEZDWDRSRDBvT3RTV0I5Mzl0TDkwZUE?oc=5"
+    },
+    {
+      "id": "cd73916724184646c7",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-13T00:47:53+02:00",
+      "source": "ABC",
+      "title": "La recuperación total de los montes de la Sierra Oeste tras los incendios se extenderá una década",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkszem50elBWS09QNGtka2hwSlNoYUl6MC1PZVExMHpkS3poU0lieUZsMklRandVLWlRNkEyc3VHNGxiYmdpWUVLVjdxNlhpZGVadGhhT2VMb0FPMEFYSE1seWMyLUJBTFNVbmxYNGxyUklYVUZSVmtfLUNJV3BCQ2xwV2dYSllWWkhYdGxtbjZiUWNmWXR2VTMtVHhSMWpOb1djc0JPa2HSAa4BQVVfeXFMTVlCRkVVSk5wUE0tRFFNUWMyTzAtOVhoRGluc2JnOWxHUlQxbV9LeFdZZUFlb1psMDJNX2VZaklmZ3BLNVQyZjYwbmdsWjZZZkUzeGV1bm5ud21iX2tvQUg5ay02X3NFaXgyb0dpOGtnY0Zia3Q3V2NqZDlJTm9vTUNmLU1LVkJULVI0VTNtTExhcVExNjRuNjBVTGw5dnBHWTN0U1libDV2LUFMdTV3?oc=5"
+    },
+    {
+      "id": "f74a557dc75d72848a",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-12T21:53:50+02:00",
       "source": "Telemadrid",
-      "title": "Incendio en un AVE en Zaragoza: desalojan a 380 pasajeros y cortan la línea Madrid-Barcelona",
-      "summary": "Un incendio en un tren AVE con destino a Figueras (Girona) ha obligado a desalojar a sus 380 pasajeros en la localidad de Ricla, en Zaragoza. Los...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Incendio-en-un-AVE-en-Zaragoza-desalojan-a-380-pasajeros-y-cortan-la-linea-Madrid-Barcelona-0-2934006580--20261012061015.html"
+      "title": "Un incendio en la cocina de un restaurante de la calle Argensola genera una gran columna de humo en Madrid",
+      "summary": "Un incendio declarado esta mañana en la cocina de un restaurante de la calle Argensola, en pleno centro de Madrid, ha generado una gran columna de...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Un-incendio-en-la-cocina-de-un-restaurante-de-la-calle-Argensola-genera-una-gran-columna-de-humo-en-Madrid-2-2934026600--20261012095349.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -127,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 3
     },
     "direct_media": {
       "ok": true,
