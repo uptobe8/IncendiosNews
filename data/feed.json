@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-13T17:57:06+02:00",
+  "generated_at": "2026-10-13T23:03:17+02:00",
   "items": [
     {
-      "id": "dec013b3469cd61c59",
+      "id": "c825f971b2e374282d",
       "type": "news",
-      "severity": "critical",
+      "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-13T17:25:16+02:00",
+      "published": "2026-10-13T21:14:17+02:00",
       "source": "Telemadrid",
-      "title": "La Comunidad de Madrid pide el desalojo de la acampada en Sol ante el \"riesgo\" para los viajeros de Metro",
-      "summary": "La Comunidad de Madrid ha vuelto a reclamar este martes a la Delegación del Gobierno en Madrid el desalojo de la acampada \"ilegal\" que permanece...",
-      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-pide-el-desalojo-de-la-acampada-en-Sol-ante-el-riesgo-para-los-viajeros-de-Metro-0-2934306559--20261013045745.html"
+      "title": "Siguen los retrasos en la línea Madrid-Barcelona sin fecha de retirada del tren incendiado",
+      "summary": "Los retrasos en la circulación y los cambios de horarios se han sucedido este martes en la alta velocidad ferroviaria entre Madrid y Barcelona,...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Siguen-los-retrasos-en-la-linea-Madrid-Barcelona-sin-fecha-de-retirada-del-tren-incendiado-2-2934326597--20261013091416.html"
     },
     {
       "id": "4354b1c26325f93464",
@@ -181,13 +181,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 5
     },
     "direct_media": {
       "ok": true,
