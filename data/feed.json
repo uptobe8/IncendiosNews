@@ -1,41 +1,29 @@
 {
-  "generated_at": "2026-10-13T10:09:42+02:00",
+  "generated_at": "2026-10-13T17:57:06+02:00",
   "items": [
     {
-      "id": "243b7eae9aa0b93cbd",
+      "id": "dec013b3469cd61c59",
       "type": "news",
-      "severity": "info",
+      "severity": "critical",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-13T09:51:57+02:00",
-      "source": "Europa Press",
-      "title": "Alteraciones y demoras en trenes de la línea Madrid-Barcelona, interrumpida ayer por un incendio en la cabina de un AVE",
-      "summary": "Las salidas y llegadas de algunos trenes de la línea Madrid-Barcelona están sufriendo este martes...",
-      "url": "https://www.europapress.es/economia/transportes-00343/noticia-alteraciones-demoras-salidas-llegadas-algunos-trenes-linea-madrid-barcelona-20261013080904.html"
-    },
-    {
-      "id": "9a6453e037ecd9f508",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-13T08:52:31+02:00",
+      "published": "2026-10-13T17:25:16+02:00",
       "source": "Telemadrid",
-      "title": "Continúan los retrasos en las salidas de la alta velocidad Madrid-Barcelona tras el incendio de un tren AVE",
-      "summary": "Un incendio en un tren de Alta Velociad entre Madrid y Barcelona provocaba el caos en pleno regreso del Puente del Pilar. El fuego se registraba...",
-      "url": "https://www.telemadrid.es/programas/buenos-dias-madrid/Continuan-los-retrasos-en-las-salidas-de-la-alta-velocidad-Madrid-Barcelona-tras-el-incendio-de-un-tren-AVE-2-2934326540--20261013085211.html"
+      "title": "La Comunidad de Madrid pide el desalojo de la acampada en Sol ante el \"riesgo\" para los viajeros de Metro",
+      "summary": "La Comunidad de Madrid ha vuelto a reclamar este martes a la Delegación del Gobierno en Madrid el desalojo de la acampada \"ilegal\" que permanece...",
+      "url": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-pide-el-desalojo-de-la-acampada-en-Sol-ante-el-riesgo-para-los-viajeros-de-Metro-0-2934306559--20261013045745.html"
     },
     {
-      "id": "2c0bb77993eb30e9d2",
+      "id": "4354b1c26325f93464",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-13T07:13:01+02:00",
+      "published": "2026-10-13T07:01:22+02:00",
       "source": "Telemadrid",
       "title": "Un nuevo bosque para la Sierra Oeste: así será la reforestación tras el incendio",
-      "summary": "La devastación del fuego del pasado verano, que quemó 24.000 hectáreas en la Sierra Oeste de Madrid, dará paso con el tiempo a un bosque que...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Un-nuevo-bosque-para-la-Sierra-Oeste-asi-sera-la-reforestacion-tras-el-incendio-0-2934306542--20261013070122.html"
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTVQ3dUJrWV8yM3AwcE5IZE03UEtmX2FYaGpSdU1LSmdidEtWWHBDdkQ0WXZrQlZ4T2FaS3pjMkt5Q2hrcVFzS2xzWUdUYWxBWjZwbzYwNmE2bjBtZGJPU1FBM1l2eTltdmliTF9Td3VqcVkwN05YOE1nOUE0LXIxbHU4eHVGdG5QSFNONE9UU2hjdldsYzVoRUlQWEdxN01QYjZ0a25USXd1Wm5WUGdsUjZMcTF0UlBLVXBBcVdMQTBGRUJ5b2otWDdKa1VfN1puT3JITjVzT3VRakZfRDBqa0NpdXowQnZQRWFzYWRKMlrSAfABQVVfeXFMUE1UN3VCa1lfMjNwMHBOSGRNN1BLZl9hWGhqUnVNS0pnYnRLVlhwQ3ZENFl2a0JWeE9hWkt6YzJLeUNoa3FRc0tsc1lHVGFsQVo2cG82MDZhNm4wbWRiT1NRQTNZdnk5bXZpYkxfU3d1anFZMDdOWDhNZzlBNC1yMWx1OHh1RnRuUEhTTjRPVFNoY3ZXbGM1aEVJUFhHcTdNUGI2dGtuVEl3dVpuVlBnbFI2THExdFJQS1VwQXFXTEEwRkVCeW9qLVg3SmtVXzdabk9ySE41c091UWpGX0QwamtDaXV6MEJ2UEVhc2FkSjJa?oc=5"
     },
     {
       "id": "16d86676296155eeff",
@@ -193,17 +181,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 5
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 1
     }
   },
   "refresh_seconds": 300
