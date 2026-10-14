@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-14T02:15:16+02:00",
+  "generated_at": "2026-10-14T07:01:10+02:00",
   "items": [
-    {
-      "id": "c825f971b2e374282d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-13T21:14:17+02:00",
-      "source": "Telemadrid",
-      "title": "Siguen los retrasos en la línea Madrid-Barcelona sin fecha de retirada del tren incendiado",
-      "summary": "Los retrasos en la circulación y los cambios de horarios se han sucedido este martes en la alta velocidad ferroviaria entre Madrid y Barcelona,...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Siguen-los-retrasos-en-la-linea-Madrid-Barcelona-sin-fecha-de-retirada-del-tren-incendiado-2-2934326597--20261013091416.html"
-    },
     {
       "id": "4354b1c26325f93464",
       "type": "news",
@@ -24,18 +12,6 @@
       "title": "Un nuevo bosque para la Sierra Oeste: así será la reforestación tras el incendio",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTVQ3dUJrWV8yM3AwcE5IZE03UEtmX2FYaGpSdU1LSmdidEtWWHBDdkQ0WXZrQlZ4T2FaS3pjMkt5Q2hrcVFzS2xzWUdUYWxBWjZwbzYwNmE2bjBtZGJPU1FBM1l2eTltdmliTF9Td3VqcVkwN05YOE1nOUE0LXIxbHU4eHVGdG5QSFNONE9UU2hjdldsYzVoRUlQWEdxN01QYjZ0a25USXd1Wm5WUGdsUjZMcTF0UlBLVXBBcVdMQTBGRUJ5b2otWDdKa1VfN1puT3JITjVzT3VRakZfRDBqa0NpdXowQnZQRWFzYWRKMlrSAfABQVVfeXFMUE1UN3VCa1lfMjNwMHBOSGRNN1BLZl9hWGhqUnVNS0pnYnRLVlhwQ3ZENFl2a0JWeE9hWkt6YzJLeUNoa3FRc0tsc1lHVGFsQVo2cG82MDZhNm4wbWRiT1NRQTNZdnk5bXZpYkxfU3d1anFZMDdOWDhNZzlBNC1yMWx1OHh1RnRuUEhTTjRPVFNoY3ZXbGM1aEVJUFhHcTdNUGI2dGtuVEl3dVpuVlBnbFI2THExdFJQS1VwQXFXTEEwRkVCeW9qLVg3SmtVXzdabk9ySE41c091UWpGX0QwamtDaXV6MEJ2UEVhc2FkSjJa?oc=5"
-    },
-    {
-      "id": "16d86676296155eeff",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-13T06:30:00+02:00",
-      "source": "El Español",
-      "title": "La hoja de ruta de Ayuso para evitar incendios en la Sierra Oeste: 'plantará' especies autóctonas resistentes al fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTW1QMW9oOFZnSjBGY1NPQXdfTGZ4OXRlN0Z3NmRyMEQtSDlwd0J5akw1TW45MmNmVUo5b014eUVrTjZVSzJxT0xXeUFoVHhKNkl0RU5CWGJTUDl5dFVLVXZrVVpvemNSUlRzWFZ6c0xjY0ZrVThuS0NDSVExbUhjY2VkVElMS3g4amppei12OUlvdGFhSUJrZTJ5dGZXbWk1TXRQWTRrajJvcVNBQXk2N0FnTnZzU20wWkpTTjNmUG8teFFicjlaa29FUlhHZXJzOHc3ZVRlME9FZ24tWWpQclNlUFNJOFFKbTQ0S241UUxSdkJZRHpBV9IB_gFBVV95cUxQVG1nLWJEb24xMDlCRXR3OTdBTE1uS3B6d0ZtVDd4SlJxaTRfMmNZN29RMV9pZE4wd2M4bk9FYjVzbFdrbzhueTF5M0E5XzJwOExwQUYwNTZGNGxvUUthWnNGazRXeFdVTGdhZzlISFlnRFhGZThJRTNVZUhvWXUyaHJib3NiXzU3WXp2ejB2UkNHYkpYUWdDN0czNlBpZUVkNFEwQmtFVElrc1ZSaDVlRURtMmRHbHEtR1NjY29BeG9ac2w0S2tRLU1NMGhFQmhYUnR5bFlnbTFHdks0UVhyWmVuUVFCa2V3VVRVdlp4dERzQlJ4cXhBRUU3SXpQUQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -145,17 +121,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "direct_media": {
+    "google_news": {
       "ok": true,
       "items": 1
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 0
     }
   },
   "refresh_seconds": 300
