@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-14T17:01:58+02:00",
+  "generated_at": "2026-10-14T21:17:36+02:00",
   "items": [
+    {
+      "id": "6e76e30b689dd7b7a6",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-14T19:48:31+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Piden limpiar las cunetas de la zona quemada para evitar la contaminación del agua",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVJISC1jbHFNM0t2Um15aGpENXpyWENubVpGUTNpWk9FTFdQcVlYczdFRndZZ2JqczFxRG5xbi0xT0JsazBJQUxKYlExZ3Fub2p1QVVNb0kzZ3VvZTh2cnkyaDJZVGFBaFBjazBDOFdkSHJhNkpyNTdCSDBFcVo0aG5KcGJMOHBtSnluaFVjU19EMkthWEdDWWhlNG9zT2ZyejEyM1ZXWERJWUNzTU9wQy1iTzlqZ1BrQTNQODlyQlVJWV9SWEE?oc=5"
+    },
+    {
+      "id": "3c5d8957ae63ddd97a",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-14T19:48:07+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "El PSOE reclama reparar los daños del incendio de Burgohondo y aclarar el acceso a viviendas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkZTZmtjOEdTRnFsWXBuangzTDZxUkVFTDNBamxvQVVoNktYUUJzY3VqZmNuVGd5SHZjbWVmVjdCQ2k0RmJ1TGttM0tZSzhZT21hVzloV05LRElkN0xXLS1BSkNsN1JGbDJkSGZJWDZFb3c0Z3VDck9aVGE4UmJ2WmVBTVN0S2pyLWVIT1JVWnhkM1lvUEdUM2tqdU83cUh3b19wclg0dmx6MTBJSkpWdGxOMGtRX01CV3pTcTk2dEM4TWpzTEhwVTlZSzluUDNwT09J?oc=5"
+    },
+    {
+      "id": "9f8f32267a5947c941",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-14T18:39:21+02:00",
+      "source": "ABC",
+      "title": "Madrid repara más de 130 kilómetros de carreteras afectadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3BzckhSQjNlZGdKbmJtbGFrOUxVdlFUSTlZN3l1VXVkVnNSMkFkNElXUzhEUXdCLV9aSGhmUl8yaUo4LTg0MngtcVY2OHl1SDZweUhvaXlWeGRvQlh1RjBma2JJekk5VUxyVkRBYnF4ODhOdHFVd1ZVWHowNXRkcmdsaDdMcFZXdkNRVzNMcEQwckFZM25DdzJRV0JSQ1lLdXU0LXBpUUJYdGp0XzVwUTlDOWrSAboBQVVfeXFMTmhQdGZTYTZCeWphZ0hzQkFZQUtwclJVODZLQjlBRkQ0UEs0Q0RFamFTVExyQUdGVUQtNGpldkNVRVZWTnVvWXVhd2FtZjlMd19zVlB6d3B3SW5NNVVTajJ5Snd2aThBQUY5R1BRLVJ1cktNaFVub2tyTGRTSU9VcmpwcHdiRUdYNzRWckNqWS1GRW82UDZyVUZzV044bThuaU1EZTFvbTRwVjh5WlNMWDlCdlhPZWNMbnV3?oc=5"
+    },
     {
       "id": "efaddfe9fd5e3bc82d",
       "type": "news",
@@ -169,13 +205,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 5
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 8
     },
     "direct_media": {
       "ok": true,
