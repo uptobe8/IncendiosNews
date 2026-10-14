@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:17:36+02:00",
+  "generated_at": "2026-10-15T00:22:38+02:00",
   "items": [
     {
       "id": "6e76e30b689dd7b7a6",
@@ -62,12 +62,12 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTjhOWHItbjF0V195a0hpQU5MMjQ5U3hURVFfQUxCVGJEYTlIdzRYaHZVTVJncDN0R0RBTU53WDJfd1NtVWhGOUdSeXhSckpLRU9PdTF4V0N5b3F3TlJ0N1lmajVHTTBmc0JXY2ZwVml3WjU5RmdiMVoyYWJOTDNPTVFLVXpLRnQwblFjazEyUGxSQ1ZqdnFUYzUwek9aVEZNMWdrWktHU3BQeUhOVVhKb2NSVmFLU0RGclJsS2dCUEI0dWFrRmxPYnJpRUdLMkFLVExmYzZKekdfNmZBMmhJR0o0aEVGNFZQeEE?oc=5"
     },
     {
-      "id": "f6d2d442697959c2c9",
+      "id": "aaa242189cedb0b545",
       "type": "news",
       "severity": "info",
       "province": "Toledo",
       "town": "Provincia de Toledo",
-      "published": "2026-10-14T11:06:53+02:00",
+      "published": "2026-10-14T11:06:00+02:00",
       "source": "La Tribuna de Toledo",
       "title": "Provoca un incendio para cobrar 2,5 millones del seguro",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -84,18 +84,6 @@
       "title": "Por Ávila pide retirar cenizas y lodos de las cunetas para evitar la contaminación del agua tras el incendio de El Tiemblo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0lNU3RuVWQ2RUJqSjRtWU41NTZvdUVuX1Mxb0FtYkpjWmNZYVZ6aVQ0UTE4WkVXTVlSSGt5N3ZCNno2ZGszSlZJZnpXUFlPaUducUNDQlFPeC1aTUFVSEFLWkZqbF9YN0Z3TEx6Rl9peEdEYjhwVE5UUGE4QUxFWEZpeUdnSEhaYVg3OW5lc2JvN2VEc2FzNC1aQzZDMHhOSjdfdHgyY09JZ0lCb2Vj0gG0AUFVX3lxTFAtOGcwNVpjQ3AwbnNBbGpud0p6MnN0b3NOZlZuT285VGVtVnQyVjNaMkluTVZ0Mm0wTWpkM1pjemhGZjE3Tk5USW1NbVRRTlNTcmdNemw4d2lJWlFyTU4ydkljb09pc0dtLTM1ZTZINEpfQnd6Q2l5bGZsaWN0dkRzSld0V3FkWDVFQzlMMEgwREFSUi1BZGd4SERqMjVrV0VuNlRtUllYM1F0MFE0anB2ZlB3Yg?oc=5"
-    },
-    {
-      "id": "9288cd2fcf8a243527",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-14T00:01:39+02:00",
-      "source": "RTVE.es",
-      "title": "Agua potable: la ceniza del incendio de Ávila contamina el agua",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlRhMjFiNHhxTlZNckxxMHVSdXFQcjUxYnc1LTBfaGVkTWtWVzBtT21sYUh5Y0pGV3BwaFVnMDFNNUtfZGdhWnk0eWlGU0FJcHp0VURPalF3c0xRZ1FQQ2JIOUFJbVBJeGVoUk1aaTVzUW5Dck9FdklIU18wQ1U1OEVOdmVSVmdVVHkyTjJqQW50blcxbUg1YWd0WWpKRzNRNEFSaVg1RWFYeG5n?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -205,13 +193,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 7
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 8
     },
     "direct_media": {
       "ok": true,
