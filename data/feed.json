@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:48:01+02:00",
+  "generated_at": "2026-10-16T01:55:32+02:00",
   "items": [
     {
       "id": "e1b17e4abc63afa628",
@@ -12,6 +12,18 @@
       "title": "Guardia Civil detiene persona en Rivas por siete incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS29SeUZaY0Q2UjB2VnpaR285N05mYjlwTFRtNEk3LTZfZ0NRZV9DbmZBWXY0SFNoRHQ1Z0NoeURsUHI1ZE1EOE9hTFhPOWp2VUlqeGs2SzFCSmk5X3NFVnZmekhTbHBnYlBxR3Raa0JWQ1Zxams1LUZHMWtrWGFCOXdwLVM4SzVTTEJyVF8tWUdTZk53VFA5NlhkSFlZNmUyUFRONHlhQm1zNlN2SDV2SlU2VW9wTmZ5Ql9xcGRqVHZJbG10LVZyUXdvZEVvZjZEZHRyQURyTVVCQQ?oc=5"
+    },
+    {
+      "id": "07158d1d53768643bd",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Robledo de Chavela",
+      "published": "2026-10-15T11:32:09+02:00",
+      "source": "Infodefensa",
+      "title": "Robles condecora al personal de la estación espacial de Robledo de Chavela por su actuación en el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakdHS2N2VEdUZ210S3FiT1kwckpEcjVjZWFmcEZ2WV83MWdpV1M0b0REaDJMQWtjbTc0SnNkcWx2cW1wR1k0T2JFU0NJWDZLWlpiLUdJdVZlU24wbzEtZ080bnItQXpBZ3U2YWFMdnpzcWNJTzlxWWxGX2x4V1d4STFRMkpINDh4b0hwUDFka3lrOTNDM1hIOElvVEJwRlNPYXB6OXY0NTRlUDlaMWtRNHBYSTFGWkI1ZzRLY0NYdm9MME5GRlJpVHZ3c2Q2MDZLb253WnloOFBmbk1NejVBc092N2s?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -125,13 +137,13 @@
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "direct_media": {
       "ok": true,
       "items": 0
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     }
   },
   "refresh_seconds": 300
