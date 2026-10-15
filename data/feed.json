@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:12:55+02:00",
+  "generated_at": "2026-10-15T11:58:23+02:00",
   "items": [
     {
       "id": "3c5d8957ae63ddd97a",
@@ -60,30 +60,6 @@
       "title": "Madrid invierte 4,9 millones en reparar carreteras",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSldUemVBd1p4bmJrUzdhSTVaRzBzU194bjY3c245MTVMUzhERXo4ZmlGaHNBM043X0tKR1Ztd01HVmpkOXltdDJXWFBmY08tVUtxSzdxQ3BqWjUxNFpnUTl1aXdsZDVrVWZIcDhaR3hqNVlkZ1lqaDFvSDlSdndmNVdWLV9WTGFhM1dVV1RTVUowdUtBSWhfQmxtRHViY0txeVJNN193dVNOWkhuNDItX1NQbUp2LXhjak9GbVBQMzJRbmNn?oc=5"
-    },
-    {
-      "id": "aaa242189cedb0b545",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-10-14T11:06:00+02:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Provoca un incendio para cobrar 2,5 millones del seguro",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQck9XOHFsakNwbnBOcVU0MEZscDdiYnhJQlJkZFFWd1pkY3c4eGZYOG9DZDNKSWI4SHpLX3pESFF5dFBLbm1ueUw2eW4wQk05Qjh1XzI5SWFLSlNYQWJkdXFXT2NiSTFDVlpzLXlzR0JtYzA3VURPY1dMLVZ6aGlWN0FlWE1Bd3d2V0tZbUNTa1FKQUJqZ2ZiaEM4VDhuYWNIZ1ZkcXVBLWpsMG9OUEs1YTd0STBuVGx1YVBLakRjUnR3anctdVRiQzlzTXp1VGFIRmZBRFc4MA?oc=5"
-    },
-    {
-      "id": "0680ff8a85974a18fe",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "El Tiemblo",
-      "published": "2026-10-14T10:42:37+02:00",
-      "source": "ABC",
-      "title": "Por Ávila pide retirar cenizas y lodos de las cunetas para evitar la contaminación del agua tras el incendio de El Tiemblo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0lNU3RuVWQ2RUJqSjRtWU41NTZvdUVuX1Mxb0FtYkpjWmNZYVZ6aVQ0UTE4WkVXTVlSSGt5N3ZCNno2ZGszSlZJZnpXUFlPaUducUNDQlFPeC1aTUFVSEFLWkZqbF9YN0Z3TEx6Rl9peEdEYjhwVE5UUGE4QUxFWEZpeUdnSEhaYVg3OW5lc2JvN2VEc2FzNC1aQzZDMHhOSjdfdHgyY09JZ0lCb2Vj0gG0AUFVX3lxTFAtOGcwNVpjQ3AwbnNBbGpud0p6MnN0b3NOZlZuT285VGVtVnQyVjNaMkluTVZ0Mm0wTWpkM1pjemhGZjE3Tk5USW1NbVRRTlNTcmdNemw4d2lJWlFyTU4ydkljb09pc0dtLTM1ZTZINEpfQnd6Q2l5bGZsaWN0dkRzSld0V3FkWDVFQzlMMEgwREFSUi1BZGd4SERqMjVrV0VuNlRtUllYM1F0MFE0anB2ZlB3Yg?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -199,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 7
+      "items": 5
     },
     "direct_media": {
       "ok": true,
