@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-16T19:32:35+02:00",
+  "generated_at": "2026-10-16T22:02:35+02:00",
   "items": [
+    {
+      "id": "a737886795063cd8b4",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-10-16T21:05:40+02:00",
+      "source": "Europa Press",
+      "title": "Toledo estrena LEMS360, la realidad aumentada que hará viajar al turista en el tiempo en una experiencia inmersiva",
+      "summary": "Toledo ha acogido en la tarde de este viernes el acto de presentación de LEMS360, una nueva herramienta...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-toledo-estrena-lems360-realidad-aumentada-hara-viajar-turista-tiempo-experiencia-inmersiva-20261016210540.html"
+    },
     {
       "id": "118d0a4a314962b53d",
       "type": "news",
@@ -143,7 +155,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
