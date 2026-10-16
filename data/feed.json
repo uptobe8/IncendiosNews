@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-16T10:18:48+02:00",
+  "generated_at": "2026-10-16T15:20:48+02:00",
   "items": [
-    {
-      "id": "57deab72c2c4886b2e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-16T09:38:53+02:00",
-      "source": "Telemadrid",
-      "title": "Las ventas del sector servicios aumentaron en agosto un 7,4% en Madrid",
-      "summary": "El sector servicios de la Comunidad de Madrid aumentó su facturación un 7,4% el pasado mes de agosto respecto al mismo periodo del año anterior....",
-      "url": "https://www.telemadrid.es/noticias/madrid/Las-ventas-del-sector-servicios-aumentaron-en-agosto-un-74-en-Madrid-0-2935206454--20261016093852.html"
-    },
     {
       "id": "118d0a4a314962b53d",
       "type": "news",
@@ -24,42 +12,6 @@
       "title": "Las ventas del sector servicios aumentaron en Madrid un 7,4% en agosto y fue la tercera CCAA donde más crecieron",
       "summary": "El sector servicios de la Comunidad de Madrid aumentó su facturación un 7,4% el pasado mes de agosto...",
       "url": "https://www.europapress.es/madrid/noticia-ventas-sector-servicios-aumentaron-madrid-74-agosto-fue-tercera-ccaa-donde-mas-crecieron-20261016091543.html"
-    },
-    {
-      "id": "7b0ff0968d80a197c1",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-10-15T22:46:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Obras de emergencia en los sistemas de abastecimiento y depuración de Casajavieja y Piedralaves",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakIwWEUzd3IwcHdOU3VzVkNWLWRFcXExRGZ0Qjd1bnppcFZiQ0lKdlJNSW5BWFd6bTJDS19sN3R6bEVPenFlUmxiZU0zaUo0SE83RTJnZGRkbmxldVQ1QzAxWGRNbkNENFBhdGxQemZuYzNtVGFteXp0ZjYwRmR0VW9aNGZGel9YMVlrMTVYQ0plRjZhZnBvdVE3UU51SmtVNkRVcTktSEpRelYxMzkzUEc5cHNWMG04TERvNW1WRHRnSnFDUzBNMHR4NkNzc1ZVYklsTWpYZw?oc=5"
-    },
-    {
-      "id": "e1b17e4abc63afa628",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-15T11:32:19+02:00",
-      "source": "Madrid Actual",
-      "title": "Guardia Civil detiene persona en Rivas por siete incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS29SeUZaY0Q2UjB2VnpaR285N05mYjlwTFRtNEk3LTZfZ0NRZV9DbmZBWXY0SFNoRHQ1Z0NoeURsUHI1ZE1EOE9hTFhPOWp2VUlqeGs2SzFCSmk5X3NFVnZmekhTbHBnYlBxR3Raa0JWQ1Zxams1LUZHMWtrWGFCOXdwLVM4SzVTTEJyVF8tWUdTZk53VFA5NlhkSFlZNmUyUFRONHlhQm1zNlN2SDV2SlU2VW9wTmZ5Ql9xcGRqVHZJbG10LVZyUXdvZEVvZjZEZHRyQURyTVVCQQ?oc=5"
-    },
-    {
-      "id": "07158d1d53768643bd",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Robledo de Chavela",
-      "published": "2026-10-15T11:32:09+02:00",
-      "source": "Infodefensa",
-      "title": "Robles condecora al personal de la estación espacial de Robledo de Chavela por su actuación en el incendio de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakdHS2N2VEdUZ210S3FiT1kwckpEcjVjZWFmcEZ2WV83MWdpV1M0b0REaDJMQWtjbTc0SnNkcWx2cW1wR1k0T2JFU0NJWDZLWlpiLUdJdVZlU24wbzEtZ080bnItQXpBZ3U2YWFMdnpzcWNJTzlxWWxGX2x4V1d4STFRMkpINDh4b0hwUDFka3lrOTNDM1hIOElvVEJwRlNPYXB6OXY0NTRlUDlaMWtRNHBYSTFGWkI1ZzRLY0NYdm9MME5GRlJpVHZ3c2Q2MDZLb253WnloOFBmbk1NejVBc092N2s?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -169,17 +121,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 0
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
