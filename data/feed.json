@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-10-17T18:18:27+02:00",
+  "generated_at": "2026-10-17T20:35:24+02:00",
   "items": [
     {
-      "id": "4f47956b7fe36c3be4",
+      "id": "6d1ab6e308746f302a",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-10-17T17:45:15+02:00",
+      "published": "2026-10-17T19:06:21+02:00",
       "source": "Telemadrid",
       "title": "Madrid aumenta los cribados para el cáncer de mama a mujeres entre los 45 y 74 años",
       "summary": "La Comunidad de Madrid continúa avanzando en el desarrollo del programa de Detección Precoz de Cáncer de Mama regional (Deprecam), que permite...",
       "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Madrid-aumenta-los-cribados-para-el-cancer-de-mama-a-mujeres-entre-los-45-y-74-anos-2-2935526432--20261017054514.html"
+    },
+    {
+      "id": "dcc3402955d9875d86",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-17T18:35:36+02:00",
+      "source": "Madrid Actual",
+      "title": "Incendio en Alcobendas intoxica a cuatro personas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXVOMERaM1RIVUVwU2RERDhGbE9mYWFWWHByaUprZkRnUlktdVFfTEFwT2ltWURHWjdGUDZEVFJXU1dJckFtWGJrQnIwM21UWldzYmQybHltRWtxSWRGbG1FQ3pvc1BoN2dHejNqNkVnU3VYV3o1dUhQS1RjSTZFV29ESUV5M2txWFREbkk2eG81SUcwa1BEYVkxOERDN0FjakFpUS0yT2N4WVdWbnotek96NER5UWdfbVJVVDlkazRmRDB3STY5aWM5MA?oc=5"
     },
     {
       "id": "084460ea2f8241a468",
@@ -145,13 +157,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 3
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 2
     },
     "direct_media": {
       "ok": true,
