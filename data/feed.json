@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-17T11:15:09+02:00",
+  "generated_at": "2026-10-17T15:00:42+02:00",
   "items": [
+    {
+      "id": "084460ea2f8241a468",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-17T13:30:16+02:00",
+      "source": "La Razón",
+      "title": "Cesefor desaconseja recoger setas en los montes afectados por el incendio de Burgohondo (Ávila)",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXdYakFWVmJMZHRBRWJBUW96UXFPU19zR1hWYS10ay1iRzFuYmtKc1V4RWNSYmMxYXZ5UjE1Z2JRcVpKejBaYmVLSTVOVmlrc3ZRYlc0M3JXbllsOXA0Mnc5d29EYW1mUU9OTnJrUGxPbFFHNkg5TWNMX1FkWnM4WDZGa0psWUMxUlB6QjFuYXREMXhEZEtLS3VkZ3RvM2JseVJBdkQxOVlHQmNzT0pxZkhTVWc3YktyOGpxZ3FlOXJaeU9PYllSZzZIdGFSQjl1dUt1eXhHMm9PaTZIc3Fva0t6dmxXOWJI0gH8AUFVX3lxTE5BYVh4TWRhajNvTGlrRUtfSEVvUzFnYkV1U1dfX0htaE03cDdWTmZPTVpqai1nOXNSOUV5M1NfQ01nSk1MeHNuc0pmY0VSajZJeW1ndE9PcjlnanlORmc5R3FVVWNjQmNsb1JxXzRJYnFUcEo1ZTU3UmRCb2h1ZmhzcEdiLXZGUnpIMkNMLThWUXhHR2gwMWFoaURwOXEzVUVkUDdZSDEtUWJ3THlLWERBbEtzRkpmMUNwdEtSTFN4bUgxY3VYR080dVdvSUY5MDBaTXpSRGg4bzV2cVVQVWRJSHhpcHkxVjFJQ1JIcTRUd3A3WEVtaUdhOVVpVQ?oc=5"
+    },
     {
       "id": "2d5210364d0e76aa05",
       "type": "news",
@@ -24,18 +36,6 @@
       "title": "Toledo estrena LEMS360, la realidad aumentada que hará viajar al turista en el tiempo en una experiencia inmersiva",
       "summary": "Toledo ha acogido en la tarde de este viernes el acto de presentación de LEMS360, una nueva herramienta...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-toledo-estrena-lems360-realidad-aumentada-hara-viajar-turista-tiempo-experiencia-inmersiva-20261016210540.html"
-    },
-    {
-      "id": "118d0a4a314962b53d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-16T09:15:43+02:00",
-      "source": "Europa Press",
-      "title": "Las ventas del sector servicios aumentaron en Madrid un 7,4% en agosto y fue la tercera CCAA donde más crecieron",
-      "summary": "El sector servicios de la Comunidad de Madrid aumentó su facturación un 7,4% el pasado mes de agosto...",
-      "url": "https://www.europapress.es/madrid/noticia-ventas-sector-servicios-aumentaron-madrid-74-agosto-fue-tercera-ccaa-donde-mas-crecieron-20261016091543.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,11 +151,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
