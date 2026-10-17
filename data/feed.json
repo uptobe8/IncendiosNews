@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-17T22:55:40+02:00",
+  "generated_at": "2026-10-18T00:54:49+02:00",
   "items": [
     {
-      "id": "dcc3402955d9875d86",
+      "id": "e168e1f2582af0796e",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-10-17T18:35:36+02:00",
       "source": "Madrid Actual",
-      "title": "Incendio en Alcobendas intoxica a cuatro personas",
+      "title": "Un incendio en Alcobendas provoca intoxicación leve por humo en cuatro personas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXVOMERaM1RIVUVwU2RERDhGbE9mYWFWWHByaUprZkRnUlktdVFfTEFwT2ltWURHWjdGUDZEVFJXU1dJckFtWGJrQnIwM21UWldzYmQybHltRWtxSWRGbG1FQ3pvc1BoN2dHejNqNkVnU3VYV3o1dUhQS1RjSTZFV29ESUV5M2txWFREbkk2eG81SUcwa1BEYVkxOERDN0FjakFpUS0yT2N4WVdWbnotek96NER5UWdfbVJVVDlkazRmRDB3STY5aWM5MA?oc=5"
     },
@@ -24,18 +24,6 @@
       "title": "Cesefor desaconseja recoger setas en los montes afectados por el incendio de Burgohondo (Ávila)",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXdYakFWVmJMZHRBRWJBUW96UXFPU19zR1hWYS10ay1iRzFuYmtKc1V4RWNSYmMxYXZ5UjE1Z2JRcVpKejBaYmVLSTVOVmlrc3ZRYlc0M3JXbllsOXA0Mnc5d29EYW1mUU9OTnJrUGxPbFFHNkg5TWNMX1FkWnM4WDZGa0psWUMxUlB6QjFuYXREMXhEZEtLS3VkZ3RvM2JseVJBdkQxOVlHQmNzT0pxZkhTVWc3YktyOGpxZ3FlOXJaeU9PYllSZzZIdGFSQjl1dUt1eXhHMm9PaTZIc3Fva0t6dmxXOWJI0gH8AUFVX3lxTE5BYVh4TWRhajNvTGlrRUtfSEVvUzFnYkV1U1dfX0htaE03cDdWTmZPTVpqai1nOXNSOUV5M1NfQ01nSk1MeHNuc0pmY0VSajZJeW1ndE9PcjlnanlORmc5R3FVVWNjQmNsb1JxXzRJYnFUcEo1ZTU3UmRCb2h1ZmhzcEdiLXZGUnpIMkNMLThWUXhHR2gwMWFoaURwOXEzVUVkUDdZSDEtUWJ3THlLWERBbEtzRkpmMUNwdEtSTFN4bUgxY3VYR080dVdvSUY5MDBaTXpSRGg4bzV2cVVQVWRJSHhpcHkxVjFJQ1JIcTRUd3A3WEVtaUdhOVVpVQ?oc=5"
-    },
-    {
-      "id": "2d5210364d0e76aa05",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-16T23:51:28+02:00",
-      "source": "Madrid Actual",
-      "title": "Incendio en trasteros de Villaverde extinguido por Bomberos",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbDdvVDZTZTdEQ29lbE51SFhzVTI1bndGNWZGbHdRWDBVQjNibFpLZFphb0Z1bDVsR2ZsMWRHNkgtYWRtS1BZZ1dYdXNHT1NUVGF4TXpYLW9HZU1POFB0M2lSR2VTc0pVV2ZHS2dJckFKSzE0RDZCaGpjU2FnWmVVay1xTTQtLTB1bnNmbU1QLUR4Y0JlWUpHZGpnZUtIanpZUHRZNXdEdWR6aFRZcmJIUzFaa0ZRM2xNZTNHbHRRNV9udVFOSk9IMk9Bb1Q2S29kSGRpNFJsWEs3NHZXUFMwYjFqMkJKRW1xOHc?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "direct_media": {
       "ok": true,
