@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-17T15:00:42+02:00",
+  "generated_at": "2026-10-17T18:18:27+02:00",
   "items": [
+    {
+      "id": "4f47956b7fe36c3be4",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-17T17:45:15+02:00",
+      "source": "Telemadrid",
+      "title": "Madrid aumenta los cribados para el cáncer de mama a mujeres entre los 45 y 74 años",
+      "summary": "La Comunidad de Madrid continúa avanzando en el desarrollo del programa de Detección Precoz de Cáncer de Mama regional (Deprecam), que permite...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-fin-de-semana/Madrid-aumenta-los-cribados-para-el-cancer-de-mama-a-mujeres-entre-los-45-y-74-anos-2-2935526432--20261017054514.html"
+    },
     {
       "id": "084460ea2f8241a468",
       "type": "news",
@@ -24,18 +36,6 @@
       "title": "Incendio en trasteros de Villaverde extinguido por Bomberos",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbDdvVDZTZTdEQ29lbE51SFhzVTI1bndGNWZGbHdRWDBVQjNibFpLZFphb0Z1bDVsR2ZsMWRHNkgtYWRtS1BZZ1dYdXNHT1NUVGF4TXpYLW9HZU1POFB0M2lSR2VTc0pVV2ZHS2dJckFKSzE0RDZCaGpjU2FnWmVVay1xTTQtLTB1bnNmbU1QLUR4Y0JlWUpHZGpnZUtIanpZUHRZNXdEdWR6aFRZcmJIUzFaa0ZRM2xNZTNHbHRRNV9udVFOSk9IMk9Bb1Q2S29kSGRpNFJsWEs3NHZXUFMwYjFqMkJKRW1xOHc?oc=5"
-    },
-    {
-      "id": "a737886795063cd8b4",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-10-16T21:05:40+02:00",
-      "source": "Europa Press",
-      "title": "Toledo estrena LEMS360, la realidad aumentada que hará viajar al turista en el tiempo en una experiencia inmersiva",
-      "summary": "Toledo ha acogido en la tarde de este viernes el acto de presentación de LEMS360, una nueva herramienta...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-toledo-estrena-lems360-realidad-aumentada-hara-viajar-turista-tiempo-experiencia-inmersiva-20261016210540.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
