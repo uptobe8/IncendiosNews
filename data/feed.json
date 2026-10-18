@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-18T15:30:16+02:00",
+  "generated_at": "2026-10-18T18:47:27+02:00",
   "items": [
+    {
+      "id": "4b48db528d3e2ca58a",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-18T16:45:42+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Desaconsejan recoger setas en los montes afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3lhbkdsOUdnYnpJNWdwNDFxdDFLbjNKSExReGVybmJsbERjY2lYdU9jdE9mNXo0VS1UdXRrTjFRQVNSZWx1bGp3TThKSFhPcUN1dE1SNnZLTTJ1NVJYR1NzVEYtemNWYmtRUjVKNm04U2xpUE8waXNWZW9VQW54X0hqRTFoWlFYTk5Ha1lKRjZuLVlmdkdMYlo2Y25nb2FXeUJ1eS1PNmVteDRua0MwX0pQYnpBc2tQdHhqYTJWUXIwRVU?oc=5"
+    },
     {
       "id": "1b62184e8c09c2196e",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "Cebreros y El Tiemblo acogen una exposición sobre cómo recuperar los montes quemados",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGE1VzE1OHRpMnVpdnFMbG8xZXpTb1hJRXBuQWhkVHh6QVRGc2F3WHFKblM2MHpPT3hpRzF0UTZYYmNlMnNtelJqaUJzQXhMYU5MLUktU2tmY2VyLXNkWmI0V29NRVp2bjdselgyamZ6X0hLMnp0dEVxeGxJWlFpTDgwU0NfVnZwTWp2Z1FNN3FuN29ITjVZNWZPZlZpOGVDWVhYRGlfbXFfblpuM2ktbXJVQXRsV1JCOGJSTTlOWkdWTzRUckYwSQ?oc=5"
-    },
-    {
-      "id": "1d949a1726ebfe4741",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-18T12:59:31+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Desaconsejan recoger setas en los montes afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3lhbkdsOUdnYnpJNWdwNDFxdDFLbjNKSExReGVybmJsbERjY2lYdU9jdE9mNXo0VS1UdXRrTjFRQVNSZWx1bGp3TThKSFhPcUN1dE1SNnZLTTJ1NVJYR1NzVEYtemNWYmtRUjVKNm04U2xpUE8waXNWZW9VQW54X0hqRTFoWlFYTk5Ha1lKRjZuLVlmdkdMYlo2Y25nb2FXeUJ1eS1PNmVteDRua0MwX0pQYnpBc2tQdHhqYTJWUXIwRVU?oc=5"
     },
     {
       "id": "fa668ab2838e744790",
@@ -48,18 +48,6 @@
       "title": "Anillas, cuerdas y trapecios: la gimnasia que preparaba a los bomberos de Madrid para combatir el fuego en el siglo XIX",
       "summary": "Las anillas, las barras y los trapecios formaron parte de la preparación de los bomberos de Madrid mucho...",
       "url": "https://www.europapress.es/madrid/noticia-anillas-cuerdas-trapecios-gimnasia-preparaba-bomberos-madrid-combatir-fuego-siglo-xix-20261018090550.html"
-    },
-    {
-      "id": "e168e1f2582af0796e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-17T18:35:36+02:00",
-      "source": "Madrid Actual",
-      "title": "Un incendio en Alcobendas provoca intoxicación leve por humo en cuatro personas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXVOMERaM1RIVUVwU2RERDhGbE9mYWFWWHByaUprZkRnUlktdVFfTEFwT2ltWURHWjdGUDZEVFJXU1dJckFtWGJrQnIwM21UWldzYmQybHltRWtxSWRGbG1FQ3pvc1BoN2dHejNqNkVnU3VYV3o1dUhQS1RjSTZFV29ESUV5M2txWFREbkk2eG81SUcwa1BEYVkxOERDN0FjakFpUS0yT2N4WVdWbnotek96NER5UWdfbVJVVDlkazRmRDB3STY5aWM5MA?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -175,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "direct_media": {
       "ok": true,
