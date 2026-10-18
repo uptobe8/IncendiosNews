@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-18T07:06:27+02:00",
+  "generated_at": "2026-10-18T11:31:13+02:00",
   "items": [
+    {
+      "id": "ba2c1b057be17e4f40",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-18T09:05:50+02:00",
+      "source": "Europa Press",
+      "title": "Anillas, cuerdas y trapecios: la gimnasia que preparaba a los bomberos de Madrid para combatir el fuego en el siglo XIX",
+      "summary": "Las anillas, las barras y los trapecios formaron parte de la preparación de los bomberos de Madrid mucho...",
+      "url": "https://www.europapress.es/madrid/noticia-anillas-cuerdas-trapecios-gimnasia-preparaba-bomberos-madrid-combatir-fuego-siglo-xix-20261018090550.html"
+    },
     {
       "id": "e168e1f2582af0796e",
       "type": "news",
@@ -133,17 +145,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
