@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-18T11:31:13+02:00",
+  "generated_at": "2026-10-18T15:30:16+02:00",
   "items": [
+    {
+      "id": "1b62184e8c09c2196e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "El Tiemblo",
+      "published": "2026-10-18T14:39:33+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Cebreros y El Tiemblo acogen una exposición sobre cómo recuperar los montes quemados",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGE1VzE1OHRpMnVpdnFMbG8xZXpTb1hJRXBuQWhkVHh6QVRGc2F3WHFKblM2MHpPT3hpRzF0UTZYYmNlMnNtelJqaUJzQXhMYU5MLUktU2tmY2VyLXNkWmI0V29NRVp2bjdselgyamZ6X0hLMnp0dEVxeGxJWlFpTDgwU0NfVnZwTWp2Z1FNN3FuN29ITjVZNWZPZlZpOGVDWVhYRGlfbXFfblpuM2ktbXJVQXRsV1JCOGJSTTlOWkdWTzRUckYwSQ?oc=5"
+    },
+    {
+      "id": "1d949a1726ebfe4741",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-10-18T12:59:31+02:00",
+      "source": "Tribuna de Ávila",
+      "title": "Desaconsejan recoger setas en los montes afectados por el incendio de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3lhbkdsOUdnYnpJNWdwNDFxdDFLbjNKSExReGVybmJsbERjY2lYdU9jdE9mNXo0VS1UdXRrTjFRQVNSZWx1bGp3TThKSFhPcUN1dE1SNnZLTTJ1NVJYR1NzVEYtemNWYmtRUjVKNm04U2xpUE8waXNWZW9VQW54X0hqRTFoWlFYTk5Ha1lKRjZuLVlmdkdMYlo2Y25nb2FXeUJ1eS1PNmVteDRua0MwX0pQYnpBc2tQdHhqYTJWUXIwRVU?oc=5"
+    },
+    {
+      "id": "fa668ab2838e744790",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-18T12:29:54+02:00",
+      "source": "Europa Press",
+      "title": "Una exposición visita municipios de Ávila para mostrar el proceso de recuperación de los montes afectados por incendios",
+      "summary": "La Junta de Castilla y León, a través del Centro para la Defensa contra el Fuego, ha diseñado una...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-exposicion-visita-municipios-avila-mostrar-proceso-recuperacion-montes-afectados-incendios-20261018122954.html"
+    },
     {
       "id": "ba2c1b057be17e4f40",
       "type": "news",
@@ -24,18 +60,6 @@
       "title": "Un incendio en Alcobendas provoca intoxicación leve por humo en cuatro personas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXVOMERaM1RIVUVwU2RERDhGbE9mYWFWWHByaUprZkRnUlktdVFfTEFwT2ltWURHWjdGUDZEVFJXU1dJckFtWGJrQnIwM21UWldzYmQybHltRWtxSWRGbG1FQ3pvc1BoN2dHejNqNkVnU3VYV3o1dUhQS1RjSTZFV29ESUV5M2txWFREbkk2eG81SUcwa1BEYVkxOERDN0FjakFpUS0yT2N4WVdWbnotek96NER5UWdfbVJVVDlkazRmRDB3STY5aWM5MA?oc=5"
-    },
-    {
-      "id": "084460ea2f8241a468",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-17T13:30:16+02:00",
-      "source": "La Razón",
-      "title": "Cesefor desaconseja recoger setas en los montes afectados por el incendio de Burgohondo (Ávila)",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXdYakFWVmJMZHRBRWJBUW96UXFPU19zR1hWYS10ay1iRzFuYmtKc1V4RWNSYmMxYXZ5UjE1Z2JRcVpKejBaYmVLSTVOVmlrc3ZRYlc0M3JXbllsOXA0Mnc5d29EYW1mUU9OTnJrUGxPbFFHNkg5TWNMX1FkWnM4WDZGa0psWUMxUlB6QjFuYXREMXhEZEtLS3VkZ3RvM2JseVJBdkQxOVlHQmNzT0pxZkhTVWc3YktyOGpxZ3FlOXJaeU9PYllSZzZIdGFSQjl1dUt1eXhHMm9PaTZIc3Fva0t6dmxXOWJI0gH8AUFVX3lxTE5BYVh4TWRhajNvTGlrRUtfSEVvUzFnYkV1U1dfX0htaE03cDdWTmZPTVpqai1nOXNSOUV5M1NfQ01nSk1MeHNuc0pmY0VSajZJeW1ndE9PcjlnanlORmc5R3FVVWNjQmNsb1JxXzRJYnFUcEo1ZTU3UmRCb2h1ZmhzcEdiLXZGUnpIMkNMLThWUXhHR2gwMWFoaURwOXEzVUVkUDdZSDEtUWJ3THlLWERBbEtzRkpmMUNwdEtSTFN4bUgxY3VYR080dVdvSUY5MDBaTXpSRGg4bzV2cVVQVWRJSHhpcHkxVjFJQ1JIcTRUd3A3WEVtaUdhOVVpVQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,11 +175,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
