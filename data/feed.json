@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:01:42+02:00",
+  "generated_at": "2026-10-19T21:47:51+02:00",
   "items": [
     {
       "id": "2fb6c3cc836b756046",
@@ -36,18 +36,6 @@
       "title": "Desaconsejan recoger setas en los montes afectados por el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3lhbkdsOUdnYnpJNWdwNDFxdDFLbjNKSExReGVybmJsbERjY2lYdU9jdE9mNXo0VS1UdXRrTjFRQVNSZWx1bGp3TThKSFhPcUN1dE1SNnZLTTJ1NVJYR1NzVEYtemNWYmtRUjVKNm04U2xpUE8waXNWZW9VQW54X0hqRTFoWlFYTk5Ha1lKRjZuLVlmdkdMYlo2Y25nb2FXeUJ1eS1PNmVteDRua0MwX0pQYnpBc2tQdHhqYTJWUXIwRVU?oc=5"
-    },
-    {
-      "id": "fa668ab2838e744790",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-18T12:29:54+02:00",
-      "source": "Europa Press",
-      "title": "Una exposición visita municipios de Ávila para mostrar el proceso de recuperación de los montes afectados por incendios",
-      "summary": "La Junta de Castilla y León, a través del Centro para la Defensa contra el Fuego, ha diseñado una...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-exposicion-visita-municipios-avila-mostrar-proceso-recuperacion-montes-afectados-incendios-20261018122954.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -159,7 +147,7 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 2
     },
     "official": {
       "ok": false,
@@ -167,7 +155,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
