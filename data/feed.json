@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:47:51+02:00",
+  "generated_at": "2026-10-20T01:08:16+02:00",
   "items": [
     {
       "id": "2fb6c3cc836b756046",
@@ -24,18 +24,6 @@
       "title": "Las lluvias reabren las heridas del incendio de Burgohondo y golpean a los pueblos del Tiétar: \"El agua de los grifos es inutilizable\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdUlrQUFscGwteVZkNG9mci0xQk5GbGFEbWFLcjVzZUl6Smg2WG15WFdVWWFOU1ZsdjRlbEN0QjhQU3BaS3QySGx5dTBEZHNqR3lKV0FhY3ZqTUEyTGdLTW5mWlB3T2NfOEtZQ0c1Z0lQQjNFQTBZbmQ5VFJKejlEaDhMcFFHd2wyMEFkY29yek40bEZKcTVjVml0WGVvYm5YWGF1anVRbWJvM1RXM2lxOXVVYXJKRWQ1T0RTZE5YVEx5cTZkS2xfZVBlemtWcTRRUENGdmFZR3Zac2hBX0NBWlZ0U1Rmb3d6UnhWZS01T0RoNy01bF9oNDlUVk1wSHRRc2c?oc=5"
-    },
-    {
-      "id": "d73b7cbcdca7ff1a67",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-18T21:51:00+02:00",
-      "source": "Tribuna de Ávila",
-      "title": "Desaconsejan recoger setas en los montes afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3lhbkdsOUdnYnpJNWdwNDFxdDFLbjNKSExReGVybmJsbERjY2lYdU9jdE9mNXo0VS1UdXRrTjFRQVNSZWx1bGp3TThKSFhPcUN1dE1SNnZLTTJ1NVJYR1NzVEYtemNWYmtRUjVKNm04U2xpUE8waXNWZW9VQW54X0hqRTFoWlFYTk5Ha1lKRjZuLVlmdkdMYlo2Y25nb2FXeUJ1eS1PNmVteDRua0MwX0pQYnpBc2tQdHhqYTJWUXIwRVU?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -145,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
