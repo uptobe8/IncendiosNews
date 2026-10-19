@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-19T08:44:45+02:00",
+  "generated_at": "2026-10-19T16:01:42+02:00",
   "items": [
+    {
+      "id": "2fb6c3cc836b756046",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-10-19T12:41:40+02:00",
+      "source": "Europa Press",
+      "title": "La carretera M-305 que conecta Aranjuez y Seseña (Toledo) reabrirá a principios de 2027 tras obras por socavón",
+      "summary": "El consejero de Vivienda, Transportes e Infraestructura, Jorge Rodrigo, ha avanzado este lunes que la...",
+      "url": "https://www.europapress.es/madrid/noticia-carretera-305-conecta-aranjuez-sesena-toledo-reabrira-principios-2027-obras-socavon-20261019124140.html"
+    },
     {
       "id": "c824cdb6e30d781724",
       "type": "news",
@@ -36,18 +48,6 @@
       "title": "Una exposición visita municipios de Ávila para mostrar el proceso de recuperación de los montes afectados por incendios",
       "summary": "La Junta de Castilla y León, a través del Centro para la Defensa contra el Fuego, ha diseñado una...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-exposicion-visita-municipios-avila-mostrar-proceso-recuperacion-montes-afectados-incendios-20261018122954.html"
-    },
-    {
-      "id": "ba2c1b057be17e4f40",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-18T09:05:50+02:00",
-      "source": "Europa Press",
-      "title": "Anillas, cuerdas y trapecios: la gimnasia que preparaba a los bomberos de Madrid para combatir el fuego en el siglo XIX",
-      "summary": "Las anillas, las barras y los trapecios formaron parte de la preparación de los bomberos de Madrid mucho...",
-      "url": "https://www.europapress.es/madrid/noticia-anillas-cuerdas-trapecios-gimnasia-preparaba-bomberos-madrid-combatir-fuego-siglo-xix-20261018090550.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -157,13 +157,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 3
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
