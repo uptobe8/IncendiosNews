@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-20T14:15:44+02:00",
+  "generated_at": "2026-10-20T19:17:53+02:00",
   "items": [
+    {
+      "id": "209bfa7341fe853de1",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-20T18:56:51+02:00",
+      "source": "Diario de Ávila",
+      "title": "El PSOE critica la falta de respuestas de la Junta ante un incendio «que les ha venido grande",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelZ1WDcyOEVvVUc2MUh5dW1jd0VwaVI4RHpwQTQ1dlpSQk4wOUl5WldVS2ZBd1RDb3htdHRUMkhYc294aFV6dEZGTlZuUEJBa2REbzdEODhvVW5wQU80NW5oUkZwOUJCR2dvRnBidGlseGsyOUJKbTRPNnpVbjA4U1B5Y3lmYS1lTzNWVk9sOEROTEc2MXZlZ3JkQUx1R00zN2pvbGlXMGVSaHA2N1k4eno5dVI4d3dRX3FEWTNTZjB2NjZJTWlLWg?oc=5"
+    },
+    {
+      "id": "4ff44896643925a648",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-10-20T18:33:47+02:00",
+      "source": "Europa Press",
+      "title": "El choque de dos coches en la A-42 en Illescas deja dos personas heridas y el corte de la calzada hacia Toledo",
+      "summary": "La colisión de dos turismos registrada en la A-42 a su paso por Illescas deja dos personas heridas y el...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-choque-dos-coches-42-illescas-deja-dos-personas-heridas-corte-calzada-toledo-20261020183347.html"
+    },
+    {
+      "id": "8cf079606f659a4375",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-20T14:15:09+02:00",
+      "source": "Diario de Ávila",
+      "title": "Pedro Muñoz ve \"abandono\" y \"discriminación\" tras el fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTNkaEJhalZGM3F5U21HMFhvSkl1WkZMUncxZ2htcHFhamdsazkySW1HQTVjNkRiOV9DdFhQZUxycGtyV0NYN0lVemlOQk00NlZfRWkwV1lXYjFodzRKLWN1UXBmWnFkQTFUNGxiZmdVRXV5VFRPMlRqS1ZTcUEzUlFteWt1RlZDaTI5bDg1Nkp4eU51OXU3Xzc2aVF4Wnh4cTVCMjJmbUV2eVVHQUdzNkozS0tRb0NibTZLdmFHYUMwdm91NWotNlk1aEpKdlpU?oc=5"
+    },
     {
       "id": "21373e5015549059ae",
       "type": "news",
@@ -12,18 +48,6 @@
       "title": "El TSJCyL aprueba instrumentos de coordinación judicial en Burgos y Ávila e impulsa nuevas medidas",
       "summary": "El Pleno de la Sala de Gobierno del Tribunal Superior de Justicia de Castilla y León (TSJCyL) ha tomado...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-tsjcyl-aprueba-instrumentos-coordinacion-judicial-burgos-avila-impulsa-nuevas-medidas-20261020140810.html"
-    },
-    {
-      "id": "2fb6c3cc836b756046",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-10-19T12:41:40+02:00",
-      "source": "Europa Press",
-      "title": "La carretera M-305 que conecta Aranjuez y Seseña (Toledo) reabrirá a principios de 2027 tras obras por socavón",
-      "summary": "El consejero de Vivienda, Transportes e Infraestructura, Jorge Rodrigo, ha avanzado este lunes que la...",
-      "url": "https://www.europapress.es/madrid/noticia-carretera-305-conecta-aranjuez-sesena-toledo-reabrira-principios-2027-obras-socavon-20261019124140.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,7 +163,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "direct_media": {
       "ok": true,
