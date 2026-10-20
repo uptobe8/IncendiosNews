@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:48:09+02:00",
+  "generated_at": "2026-10-20T08:43:18+02:00",
   "items": [
     {
       "id": "2fb6c3cc836b756046",
@@ -12,18 +12,6 @@
       "title": "La carretera M-305 que conecta Aranjuez y Seseña (Toledo) reabrirá a principios de 2027 tras obras por socavón",
       "summary": "El consejero de Vivienda, Transportes e Infraestructura, Jorge Rodrigo, ha avanzado este lunes que la...",
       "url": "https://www.europapress.es/madrid/noticia-carretera-305-conecta-aranjuez-sesena-toledo-reabrira-principios-2027-obras-socavon-20261019124140.html"
-    },
-    {
-      "id": "c824cdb6e30d781724",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-10-19T05:00:00+02:00",
-      "source": "20Minutos",
-      "title": "Las lluvias reabren las heridas del incendio de Burgohondo y golpean a los pueblos del Tiétar: \"El agua de los grifos es inutilizable\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdUlrQUFscGwteVZkNG9mci0xQk5GbGFEbWFLcjVzZUl6Smg2WG15WFdVWWFOU1ZsdjRlbEN0QjhQU3BaS3QySGx5dTBEZHNqR3lKV0FhY3ZqTUEyTGdLTW5mWlB3T2NfOEtZQ0c1Z0lQQjNFQTBZbmQ5VFJKejlEaDhMcFFHd2wyMEFkY29yek40bEZKcTVjVml0WGVvYm5YWGF1anVRbWJvM1RXM2lxOXVVYXJKRWQ1T0RTZE5YVEx5cTZkS2xfZVBlemtWcTRRUENGdmFZR3Zac2hBX0NBWlZ0U1Rmb3d6UnhWZS01T0RoNy01bF9oNDlUVk1wSHRRc2c?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 0
     },
     "direct_media": {
       "ok": true,
