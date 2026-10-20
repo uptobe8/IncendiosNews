@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-20T08:43:18+02:00",
+  "generated_at": "2026-10-20T14:15:44+02:00",
   "items": [
+    {
+      "id": "21373e5015549059ae",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-20T14:08:10+02:00",
+      "source": "Europa Press",
+      "title": "El TSJCyL aprueba instrumentos de coordinación judicial en Burgos y Ávila e impulsa nuevas medidas",
+      "summary": "El Pleno de la Sala de Gobierno del Tribunal Superior de Justicia de Castilla y León (TSJCyL) ha tomado...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-tsjcyl-aprueba-instrumentos-coordinacion-judicial-burgos-avila-impulsa-nuevas-medidas-20261020140810.html"
+    },
     {
       "id": "2fb6c3cc836b756046",
       "type": "news",
@@ -131,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
