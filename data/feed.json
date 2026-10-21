@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-21T08:39:23+02:00",
+  "generated_at": "2026-10-21T14:25:50+02:00",
   "items": [
+    {
+      "id": "ca7a6063068f61fcaf",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-21T12:46:37+02:00",
+      "source": "Madrid Actual",
+      "title": "Un fuego en Diagnóstico por Imagen obliga al desalojo preventivo en el Hospital Universitario Rey Juan Carlos de Móstoles",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmlDZmhaZVpfN1dBZFN6MDFiaElEbVFzWUhFN2h3dWw4NUVhcWdrZXJtMVJNNXJXUUs4OEZYa1BxQjl2VFgyMGJNS0pQZ1F4Z3o5UlRqeHRGMU54MDJ5U0VvQ3R5cEJpMkdZb29FODZqdlhlU3poYjcxSEU1dkFaUVNhMW5tWHNuRThYRUJaNFJXYXhBUGRuS2hBamxadkliVFBvQy1EZm1zZWQ5Zms3YUI5ZHhyMFNobWpsWFpSdVEyY1JEdDBld3dn?oc=5"
+    },
+    {
+      "id": "9553feb0cd84aa2a58",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-21T11:22:02+02:00",
+      "source": "Madrid Actual",
+      "title": "Tres Cantos homenajea a diez municipios por incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGtIWVc2UUFndVJ5NzNhbW9SMGo1QklqRGFpRnVGYUxjZE5OMFR2MEEyWlpESVVaN1h3YkgxQmJTZEtqanEtS2J4bXNCT3ZSdlo2a0hObjZUQXpwUnc0dnA4UXJEVEM4WUhQX1NkMDFiajdCQUJWcjJVNkNIWmJKQ18xM2l3TDFULUFpNFFURWNRM3ZWSFo5b2RLZjNWVWZ0OExZNVZzTjN5YmhUQ3d5aGc2d0dHaUZjZUV1Tk9paTdBUXFjMXc?oc=5"
+    },
+    {
+      "id": "0d78d232f594698ee6",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-21T11:11:52+02:00",
+      "source": "Madrid Actual",
+      "title": "Incendio de cocina con tres afectados en Collado Villalba",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2ZQb2tFTmF4TUQ0UjZLcVRBTl84R3dlSDdCWDExV0wxVGlRQVpEWmdWLXQ2d1RHa2UxRElPZ0g1U2N4dmhoLWlxWnlYcU42VFNZeE1BQzFFLUZCV1dwZWVUajdrSmVtYld0Wm5WV2hhSHp2UEkzOVE5TWdqeTAzOFRJOUgzUnR5eHBWdEJnZGhOYnY5ZTRuQTYwclZaQ04tWkRlSUhxTGFqNGpDeXdscmVxNmNVMHRFdnh3NlVoUk00VGFvbGIwUjlVQ3d5aE9q?oc=5"
+    },
     {
       "id": "d1513bb5f5450ab858",
       "type": "news",
@@ -12,42 +48,6 @@
       "title": "\"El fuego de Burgohondo le vino grande a la Junta\"",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelZ1WDcyOEVvVUc2MUh5dW1jd0VwaVI4RHpwQTQ1dlpSQk4wOUl5WldVS2ZBd1RDb3htdHRUMkhYc294aFV6dEZGTlZuUEJBa2REbzdEODhvVW5wQU80NW5oUkZwOUJCR2dvRnBidGlseGsyOUJKbTRPNnpVbjA4U1B5Y3lmYS1lTzNWVk9sOEROTEc2MXZlZ3JkQUx1R00zN2pvbGlXMGVSaHA2N1k4eno5dVI4d3dRX3FEWTNTZjB2NjZJTWlLWg?oc=5"
-    },
-    {
-      "id": "4ff44896643925a648",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-10-20T18:33:47+02:00",
-      "source": "Europa Press",
-      "title": "El choque de dos coches en la A-42 en Illescas deja dos personas heridas y el corte de la calzada hacia Toledo",
-      "summary": "La colisión de dos turismos registrada en la A-42 a su paso por Illescas deja dos personas heridas y el...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-choque-dos-coches-42-illescas-deja-dos-personas-heridas-corte-calzada-toledo-20261020183347.html"
-    },
-    {
-      "id": "76686b251176f7d423",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-20T14:15:00+02:00",
-      "source": "Diario de Ávila",
-      "title": "Pedro Muñoz ve \"abandono\" y \"discriminación\" tras el fuego",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTNkaEJhalZGM3F5U21HMFhvSkl1WkZMUncxZ2htcHFhamdsazkySW1HQTVjNkRiOV9DdFhQZUxycGtyV0NYN0lVemlOQk00NlZfRWkwV1lXYjFodzRKLWN1UXBmWnFkQTFUNGxiZmdVRXV5VFRPMlRqS1ZTcUEzUlFteWt1RlZDaTI5bDg1Nkp4eU51OXU3Xzc2aVF4Wnh4cTVCMjJmbUV2eVVHQUdzNkozS0tRb0NibTZLdmFHYUMwdm91NWotNlk1aEpKdlpU?oc=5"
-    },
-    {
-      "id": "21373e5015549059ae",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-20T14:08:10+02:00",
-      "source": "Europa Press",
-      "title": "El TSJCyL aprueba instrumentos de coordinación judicial en Burgos y Ávila e impulsa nuevas medidas",
-      "summary": "El Pleno de la Sala de Gobierno del Tribunal Superior de Justicia de Castilla y León (TSJCyL) ha tomado...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-tsjcyl-aprueba-instrumentos-coordinacion-judicial-burgos-avila-impulsa-nuevas-medidas-20261020140810.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -157,17 +157,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 4
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 0
     }
   },
   "refresh_seconds": 300
