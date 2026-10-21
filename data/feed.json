@@ -1,15 +1,27 @@
 {
-  "generated_at": "2026-10-21T22:51:23+02:00",
+  "generated_at": "2026-10-22T01:46:00+02:00",
   "items": [
     {
-      "id": "2bb374594f0a22b9fe",
+      "id": "c8e2ca0ba8b74179bb",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-21T12:46:37+02:00",
+      "source": "Madrid Actual",
+      "title": "Incendio en hospital Rey Juan Carlos obliga desalojo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmlDZmhaZVpfN1dBZFN6MDFiaElEbVFzWUhFN2h3dWw4NUVhcWdrZXJtMVJNNXJXUUs4OEZYa1BxQjl2VFgyMGJNS0pQZ1F4Z3o5UlRqeHRGMU54MDJ5U0VvQ3R5cEJpMkdZb29FODZqdlhlU3poYjcxSEU1dkFaUVNhMW5tWHNuRThYRUJaNFJXYXhBUGRuS2hBamxadkliVFBvQy1EZm1zZWQ5Zms3YUI5ZHhyMFNobWpsWFpSdVEyY1JEdDBld3dn?oc=5"
+    },
+    {
+      "id": "9bf22453358aaacf01",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-10-21T09:50:01+02:00",
       "source": "Madrid Actual",
-      "title": "Tres Cantos homenajea a los diez municipios de los incendios",
+      "title": "Tres Cantos homenajea a diez municipios por incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGtIWVc2UUFndVJ5NzNhbW9SMGo1QklqRGFpRnVGYUxjZE5OMFR2MEEyWlpESVVaN1h3YkgxQmJTZEtqanEtS2J4bXNCT3ZSdlo2a0hObjZUQXpwUnc0dnA4UXJEVEM4WUhQX1NkMDFiajdCQUJWcjJVNkNIWmJKQ18xM2l3TDFULUFpNFFURWNRM3ZWSFo5b2RLZjNWVWZ0OExZNVZzTjN5YmhUQ3d5aGc2d0dHaUZjZUV1Tk9paTdBUXFjMXc?oc=5"
     },
@@ -139,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 3
     },
     "direct_media": {
       "ok": true,
