@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-21T19:31:46+02:00",
+  "generated_at": "2026-10-21T22:51:23+02:00",
   "items": [
+    {
+      "id": "2bb374594f0a22b9fe",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-21T09:50:01+02:00",
+      "source": "Madrid Actual",
+      "title": "Tres Cantos homenajea a los diez municipios de los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGtIWVc2UUFndVJ5NzNhbW9SMGo1QklqRGFpRnVGYUxjZE5OMFR2MEEyWlpESVVaN1h3YkgxQmJTZEtqanEtS2J4bXNCT3ZSdlo2a0hObjZUQXpwUnc0dnA4UXJEVEM4WUhQX1NkMDFiajdCQUJWcjJVNkNIWmJKQ18xM2l3TDFULUFpNFFURWNRM3ZWSFo5b2RLZjNWVWZ0OExZNVZzTjN5YmhUQ3d5aGc2d0dHaUZjZUV1Tk9paTdBUXFjMXc?oc=5"
+    },
     {
       "id": "4f5f95f1e00481ab89",
       "type": "news",
@@ -127,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
