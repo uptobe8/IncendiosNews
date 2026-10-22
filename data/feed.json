@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-10-22T03:57:35+02:00",
+  "generated_at": "2026-10-22T09:20:38+02:00",
   "items": [
-    {
-      "id": "c8e2ca0ba8b74179bb",
-      "type": "news",
-      "severity": "critical",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-21T12:46:37+02:00",
-      "source": "Madrid Actual",
-      "title": "Incendio en hospital Rey Juan Carlos obliga desalojo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmlDZmhaZVpfN1dBZFN6MDFiaElEbVFzWUhFN2h3dWw4NUVhcWdrZXJtMVJNNXJXUUs4OEZYa1BxQjl2VFgyMGJNS0pQZ1F4Z3o5UlRqeHRGMU54MDJ5U0VvQ3R5cEJpMkdZb29FODZqdlhlU3poYjcxSEU1dkFaUVNhMW5tWHNuRThYRUJaNFJXYXhBUGRuS2hBamxadkliVFBvQy1EZm1zZWQ5Zms3YUI5ZHhyMFNobWpsWFpSdVEyY1JEdDBld3dn?oc=5"
-    },
-    {
-      "id": "9bf22453358aaacf01",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-21T09:50:01+02:00",
-      "source": "Madrid Actual",
-      "title": "Tres Cantos homenajea a diez municipios por incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGtIWVc2UUFndVJ5NzNhbW9SMGo1QklqRGFpRnVGYUxjZE5OMFR2MEEyWlpESVVaN1h3YkgxQmJTZEtqanEtS2J4bXNCT3ZSdlo2a0hObjZUQXpwUnc0dnA4UXJEVEM4WUhQX1NkMDFiajdCQUJWcjJVNkNIWmJKQ18xM2l3TDFULUFpNFFURWNRM3ZWSFo5b2RLZjNWVWZ0OExZNVZzTjN5YmhUQ3d5aGc2d0dHaUZjZUV1Tk9paTdBUXFjMXc?oc=5"
-    },
-    {
-      "id": "4f5f95f1e00481ab89",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-21T09:44:01+02:00",
-      "source": "Madrid Actual",
-      "title": "Incendio de cocina con tres afectados en Collado Villalba",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2ZQb2tFTmF4TUQ0UjZLcVRBTl84R3dlSDdCWDExV0wxVGlRQVpEWmdWLXQ2d1RHa2UxRElPZ0g1U2N4dmhoLWlxWnlYcU42VFNZeE1BQzFFLUZCV1dwZWVUajdrSmVtYld0Wm5WV2hhSHp2UEkzOVE5TWdqeTAzOFRJOUgzUnR5eHBWdEJnZGhOYnY5ZTRuQTYwclZaQ04tWkRlSUhxTGFqNGpDeXdscmVxNmNVMHRFdnh3NlVoUk00VGFvbGIwUjlVQ3d5aE9q?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -151,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 0
     },
     "direct_media": {
       "ok": true,
