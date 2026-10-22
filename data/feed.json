@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-22T19:56:17+02:00",
+  "generated_at": "2026-10-22T23:16:20+02:00",
   "items": [
+    {
+      "id": "260a83f7546abfd0fa",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-22T20:46:12+02:00",
+      "source": "Telemadrid",
+      "title": "Una diputada de Más Madrid ironiza con la \"vía francesa\" de \"prender fuego\" a la Real Casa de Correos",
+      "summary": "El PP de Madrid ha exigido una \"condena unánime\" a las palabras de la diputada de Más Madrid Jimena González que ha cuestionado si la presidenta...",
+      "url": "https://www.telemadrid.es/programas/telenoticias-1/Una-diputada-de-Mas-Madrid-ironiza-con-la-via-francesa-de-prender-fuego-a-la-Real-Casa-de-Correos-2-2937026331--20261022084611.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,17 +121,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 0
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
