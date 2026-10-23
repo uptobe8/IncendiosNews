@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-23T06:34:32+02:00",
+  "generated_at": "2026-10-23T11:32:02+02:00",
   "items": [
+    {
+      "id": "8df3746678649b212e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-23T10:46:05+02:00",
+      "source": "Europa Press",
+      "title": "Las denuncias por violencia de género en Madrid aumentan un 25% en el segundo trimestre, hasta casi 10.000",
+      "summary": "Los órganos judiciales especializados en violencia sobre la mujer de la Comunidad de Madrid registraron...",
+      "url": "https://www.europapress.es/madrid/noticia-denuncias-violencia-genero-madrid-aumentan-25-segundo-trimestre-casi-10000-20261023104605.html"
+    },
+    {
+      "id": "6bd668ea5510edfb93",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-23T08:23:17+02:00",
+      "source": "Madrid Actual",
+      "title": "Un incendio en un aparcamiento de Leganés afecta a cinco vehículos",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVlYbDZieU1reV9KQVU4cm9GeUN1Z01lZjV2eHRNNE9FazY4RmZZdDdWaXh4bVE3UFR0UVZhcUJXOGtKb0llOVBDSkVQVTdxTmNvVW1YbGNmZ184T0dEeE1FYVJteGNEdFM5ZjRyR1JjdjFEWjhIM0ozVWQ3dUFPbFh5eGdzLW1KbVFvT0pwWHA0ZV9DZFZaMHR2d3V0MHhnQTZOMVBiNkU4M1lZdWVqTzg2SGZNdw?oc=5"
+    },
     {
       "id": "015bf75a99b57443e7",
       "type": "news",
@@ -24,18 +48,6 @@
       "title": "Casarrubios invertirá 490.000 euros tras el incendio de 2025",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRFlweUVsMmZUZmlOOFY1ZVpVQXhOZ25KMFU0ekxocW1EOEE4a1pOOTEzQVYzSWFYWG1FaU9CVGpQREZYbk1UWHVVRkZ4aTFSZVlhdHdVVzZwb096Rngtc3YzVDlrdEtIZXZhTXJxdDVhcE9xajVpOC1tU05ZcS1rXzlFUlhfc0tLLWxkcXVwcXV5Mjd0ZUdIVzVoNXpNdWpRcDN6LTA0TkVsZjJ1U25TN0t5clZIVE83cXBHYjFfLVhfZEMwUnJaRURxMEdrd2hId3l5QUFqamp6dW1XR0E?oc=5"
-    },
-    {
-      "id": "260a83f7546abfd0fa",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-22T20:46:12+02:00",
-      "source": "Telemadrid",
-      "title": "Una diputada de Más Madrid ironiza con la \"vía francesa\" de \"prender fuego\" a la Real Casa de Correos",
-      "summary": "El PP de Madrid ha exigido una \"condena unánime\" a las palabras de la diputada de Más Madrid Jimena González que ha cuestionado si la presidenta...",
-      "url": "https://www.telemadrid.es/programas/telenoticias-1/Una-diputada-de-Mas-Madrid-ironiza-con-la-via-francesa-de-prender-fuego-a-la-Real-Casa-de-Correos-2-2937026331--20261022084611.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -145,13 +157,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 3
     },
     "direct_media": {
       "ok": true,
