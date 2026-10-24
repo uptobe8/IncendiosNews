@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-24T15:13:59+02:00",
+  "generated_at": "2026-10-24T18:38:43+02:00",
   "items": [
     {
-      "id": "2c305fb1521985312d",
+      "id": "5bb0d2b8f413e091fe",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-10-24T13:10:01+02:00",
       "source": "Madrid Actual",
-      "title": "Bomberos: consejos para Halloween sin incendios",
+      "title": "Los Bomberos dan claves para un Halloween sin incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0ROVnhaNl80MWdFa1ljdGxjelZqRXNnQ1RVa0R3dVRjTF9vR21ReXpNWm1OZ1BiUnZoQ0JXTmc5SmFQU1QtMG43bkJuMDR6T2lJMzZKWkJDMDRpZ0ctMTBQd0Fqa2I3Nk5xeHVGMjQ0ZlkydGZ5elV0bXJKcS14ZkVGeVM3V3JzNFpIcXdSbHJKMkR4MTNKUDhYaFM1aEJQbHZCVzl4QUNUZkk5WTFJcXBuSXhGXzlLNTdzN05LU09URHpncjhILXdTd2NwMTVCSmRHNA?oc=5"
     },
@@ -121,13 +121,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
