@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-24T06:22:48+02:00",
+  "generated_at": "2026-10-24T10:58:43+02:00",
   "items": [
-    {
-      "id": "8df3746678649b212e",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-23T10:46:05+02:00",
-      "source": "Europa Press",
-      "title": "Las denuncias por violencia de género en Madrid aumentan un 25% en el segundo trimestre, hasta casi 10.000",
-      "summary": "Los órganos judiciales especializados en violencia sobre la mujer de la Comunidad de Madrid registraron...",
-      "url": "https://www.europapress.es/madrid/noticia-denuncias-violencia-genero-madrid-aumentan-25-segundo-trimestre-casi-10000-20261023104605.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -131,7 +119,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
