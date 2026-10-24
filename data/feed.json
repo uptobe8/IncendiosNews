@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:59:07+02:00",
+  "generated_at": "2026-10-24T06:22:48+02:00",
   "items": [
     {
       "id": "8df3746678649b212e",
@@ -12,30 +12,6 @@
       "title": "Las denuncias por violencia de género en Madrid aumentan un 25% en el segundo trimestre, hasta casi 10.000",
       "summary": "Los órganos judiciales especializados en violencia sobre la mujer de la Comunidad de Madrid registraron...",
       "url": "https://www.europapress.es/madrid/noticia-denuncias-violencia-genero-madrid-aumentan-25-segundo-trimestre-casi-10000-20261023104605.html"
-    },
-    {
-      "id": "3a41547301a247e901",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-23T06:00:16+02:00",
-      "source": "Madrid Actual",
-      "title": "El fuego calcina cinco vehículos en un aparcamiento de Leganés",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLW9xcHkxRjZLblR4MGd2VnVRMWdPSDdmUG5KcW80a1c0aWY5RWQ3N0ZuZ0lJLTZxUmlWM3RRbEtFaTFELUlQdlFFcTk1amJZSVhrQllYX0RIV3R6aS1RWHlkYU5uRVFsakdzU2U4TXpvWnRSWVVqZWcxVHVpUVhhMGtiRDNXdFB3TWoyVFNhYnNvVEhVMkdkZXFoTGdLeS04UG5raGJQdXdObUJ0R1lVUlF4ZnVWbmJPRnJRSlF4U2NkQQ?oc=5"
-    },
-    {
-      "id": "a6fdf540455c1d641f",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-23T05:35:19+02:00",
-      "source": "Madrid Actual",
-      "title": "La Aemet prevé aumento de las mínimas y rachas muy fuertes de viento en la Sierra",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdndxbEVwSkMwVXIzWGg3ekFOcnU4NWN1aEw5eV82S3JTc2tFcm1fQkd2QnZ0a0lfQVo4RnhieGF0QWdlY0hDVW5vS2MzakgyZFlvRVVZcjFpRDVEamFVTWFSQU41b1EwanVhRS12alZ6T1dqOWgxZjB5QXgzWjJQdjUtM0RXTS0zelBld2llTWdSb05MQ3BBWFUxYlRyeGowZmpyOVd4eGV4TUlzQlJVTnBXcHJhX2ZIczlWN3drd2lfOUFiMFI0NkYwTXRhc0ZwbTVZajA2NjBDdlRV?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 0
     },
     "direct_media": {
       "ok": true,
