@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:06:40+01:00",
+  "generated_at": "2026-10-25T17:08:20+01:00",
   "items": [
     {
       "id": "1818f07a531d04fd27",
@@ -12,18 +12,6 @@
       "title": "Siete dotaciones de bomberos sofocan un fuego en Cincovillas",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTDVMU2pfcXAxeTBkYmJrcno4MnJBYzJmbmRqWUtpem5pUWtJY3p2U2todmpnOGk1YU5SZnEzQUtEZGVoVU1ZV3dLc2kzRmV3Q0g5OWRaM0d5UGUybEpJeWNxSFd6VkkyRDhENXFONEJjdnAxNEdXYmM1SFhpdGFXOVU3M2l3b3ZFMHpQbmU4V1hXay1QVG4tc21rRkhZelJCQ2tUMkpYaGpCQlNKb2U4RUk3WDduXy1qaGlBdy1JTnpyazJV?oc=5"
-    },
-    {
-      "id": "87274124f7c254ccef",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-25T10:32:37+01:00",
-      "source": "Telemadrid",
-      "title": "¿Vas a celebrar Halloween en Madrid? Los consejos de Emergencias 112 para evitar sustos",
-      "summary": "La noche más terrorífica del año no tiene por qué convertirse en una noche de emergencias. Ante la proximidad de las celebraciones de Halloween...",
-      "url": "https://www.telemadrid.es/noticias/madrid/Vas-a-celebrar-Halloween-en-Madrid-Los-consejos-de-Emergencias-112-para-evitar-sustos-2-2937926180--20261025103236.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -133,17 +121,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 1
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
