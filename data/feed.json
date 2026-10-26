@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-26T20:50:26+01:00",
+  "generated_at": "2026-10-27T00:24:13+01:00",
   "items": [
+    {
+      "id": "023162149a587443c5",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-27T00:04:00+01:00",
+      "source": "El Mundo",
+      "title": "Feijóo apunta a un 'súperdepartamento' que unifique Emergencias con Novillo, el bombero que gestionó el peor incendio de Madrid, Filomena y la dana de 2023",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DaEE1V2NKaUNISDhiYkZqTHRYMWJobEJKMDFXaTlEY1pMaHQzU1NieEcydVJ0Tk0yaTFTMDV2djhubEFENlVoMUhxWkFxSFdENUJDaHBDRHJxSzcxc0pyWG02aUZSRjlBYkUzSTl6TUpVQkVpam9Zc3VB0gF6QVVfeXFMTndMb0JHV2ZIckdxd2tLVDVsNExic0JBOHhvOHRQcl9ESW9NZTl3Zk1raHpaazZ6aFVkdnlTeGRsWEtzdDFiaEo5WEJUMHVuNV9pdEJ1bEljd2N1N01GYkRoRkc3NkVjLVRqQUZ1aVhfc1JiMVNJdDlKUEE?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
