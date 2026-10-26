@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-26T07:56:49+01:00",
+  "generated_at": "2026-10-26T14:59:29+01:00",
   "items": [
-    {
-      "id": "1818f07a531d04fd27",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-25T10:45:31+01:00",
-      "source": "Madrid Actual",
-      "title": "Siete dotaciones de bomberos sofocan un fuego en Cincovillas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTDVMU2pfcXAxeTBkYmJrcno4MnJBYzJmbmRqWUtpem5pUWtJY3p2U2todmpnOGk1YU5SZnEzQUtEZGVoVU1ZV3dLc2kzRmV3Q0g5OWRaM0d5UGUybEpJeWNxSFd6VkkyRDhENXFONEJjdnAxNEdXYmM1SFhpdGFXOVU3M2l3b3ZFMHpQbmU4V1hXay1QVG4tc21rRkhZelJCQ2tUMkpYaGpCQlNKb2U4RUk3WDduXy1qaGlBdy1JTnpyazJV?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -127,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
