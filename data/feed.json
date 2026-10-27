@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-27T15:20:04+01:00",
+  "generated_at": "2026-10-27T20:29:31+01:00",
   "items": [
-    {
-      "id": "e44b7a85c9d9b15d62",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-27T15:09:13+01:00",
-      "source": "Telemadrid",
-      "title": "El gobierno aumentará la capacidad eléctrica de la comunidad de Madrid en 6,5 gigavatios",
-      "summary": "El ejecutivo regional lo considera insuficiente",
-      "url": "https://www.telemadrid.es/noticias/madrid/gobierno-aumentara-capacidad-electrica-comunidad_1_2776197.html"
-    },
     {
       "id": "023162149a587443c5",
       "type": "news",
@@ -143,7 +131,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
