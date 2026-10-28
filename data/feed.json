@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-10-28T09:26:18+01:00",
+  "generated_at": "2026-10-28T16:19:44+01:00",
   "items": [
     {
-      "id": "03a3da3572a1339f3f",
+      "id": "821bcc4e117f7c6cae",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-28T12:14:01+01:00",
+      "source": "Europa Press",
+      "title": "Las Cortes de CyL expresan su profundo pesar por el siniestro ferroviario en la línea Madrid-Sevilla",
+      "summary": "La Mesa de las Cortes de Castilla y León y la Junta de Portavoces han expresado este miércoles su...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-cortes-cyl-expresan-profundo-pesar-siniestro-ferroviario-linea-madrid-sevilla-20261028121401.html"
+    },
+    {
+      "id": "0791ae8df40e0b4c52",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-28T10:56:49+01:00",
+      "source": "Diario de Ávila",
+      "title": "Medio Ambiente dedicará más de 200 millones a frenar los incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVU5CVVJ6V0F6c3FPU3NCbThpQWdBd3NveGJySzN2ak5SZXpaNUItU0JkQnNQS2JkRWJsVG0tcDZfSldyM09mSl9MTkhzcDA1cjhFcU8tYXk4T3pkM1VuWjdYSmd5cmpEaEVsR0F1WUlHaFNzRF9rRDNtWS1ycS1LbXJOVzQ0bDVhZXd2emVFWXM3M2xXeW12eHJKcHRYOEt2TGJWaU5DOTVtdktSal9OYmwzTTFJYW1tc2JsWENxOUhHNzNMRzBZWVk2RXViT1VrOHgtQ0dqaw?oc=5"
+    },
+    {
+      "id": "e0472b9d69483440a8",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
       "published": "2026-10-28T06:13:02+01:00",
       "source": "Madrid Actual",
-      "title": "La lucha contra incendios contará con 55,6 millones en Madrid",
+      "title": "La lucha contra incendios contará con 55,6 millones",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUHJQOG13U19BWjhrS2RISWpFWjJLczNSQnR6bjQxczVsdzZseGVyYlAtUy1NNmZ6czVvOG5YemRJV2VXNTV6ME8tR2xwQUVTTUxrUW4xenBFTDdZYnhrV2xwREZrMnJscEtVcGU3VVBjTU9fTlpfaTRtSDBPVXU4WWdLN1FFRjUxejRPWGZUVm9fRGVhZHd6UV9TTHU3Zzk1Skg1dE5WUVMyemtpWkVWTlc1T29kNmFQdFEtTk5CUDQ0aTEzajlFeGpEb2VBOXp0RVlWTXVMSVVGUUtP?oc=5"
-    },
-    {
-      "id": "08bfd40e07707405de",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-28T06:02:51+01:00",
-      "source": "Europa Press",
-      "title": "Cortes de tráfico este miércoles en Madrid por la llegada de cerca de 500 tractores y miles de agricultores",
-      "summary": "La ciudad de Madrid sufrirá cortes de tráfico en sus calles por la llegada de 500 tractores, acompañados...",
-      "url": "https://www.europapress.es/madrid/noticia-cortes-trafico-miercoles-madrid-llegada-cerca-500-tractores-miles-agricultores-20261028060251.html"
     },
     {
       "id": "485e9a8e25309fe4d9",
@@ -145,13 +157,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 3
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
