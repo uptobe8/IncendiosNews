@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-28T03:08:55+01:00",
+  "generated_at": "2026-10-28T09:26:18+01:00",
   "items": [
+    {
+      "id": "03a3da3572a1339f3f",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-28T06:13:02+01:00",
+      "source": "Madrid Actual",
+      "title": "La lucha contra incendios contará con 55,6 millones en Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUHJQOG13U19BWjhrS2RISWpFWjJLczNSQnR6bjQxczVsdzZseGVyYlAtUy1NNmZ6czVvOG5YemRJV2VXNTV6ME8tR2xwQUVTTUxrUW4xenBFTDdZYnhrV2xwREZrMnJscEtVcGU3VVBjTU9fTlpfaTRtSDBPVXU4WWdLN1FFRjUxejRPWGZUVm9fRGVhZHd6UV9TTHU3Zzk1Skg1dE5WUVMyemtpWkVWTlc1T29kNmFQdFEtTk5CUDQ0aTEzajlFeGpEb2VBOXp0RVlWTXVMSVVGUUtP?oc=5"
+    },
+    {
+      "id": "08bfd40e07707405de",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-10-28T06:02:51+01:00",
+      "source": "Europa Press",
+      "title": "Cortes de tráfico este miércoles en Madrid por la llegada de cerca de 500 tractores y miles de agricultores",
+      "summary": "La ciudad de Madrid sufrirá cortes de tráfico en sus calles por la llegada de 500 tractores, acompañados...",
+      "url": "https://www.europapress.es/madrid/noticia-cortes-trafico-miercoles-madrid-llegada-cerca-500-tractores-miles-agricultores-20261028060251.html"
+    },
+    {
+      "id": "485e9a8e25309fe4d9",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-28T05:00:00+01:00",
+      "source": "Diario de Ávila",
+      "title": "Pedro Muñoz presenta al Gobierno un plan para recuperar la zona afectada por el incendio",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkwySWlBajFWaDExNUROTVBSRnZJVV9PM0Rwc2F6anBmVlhlVlFoazFzM0twUzc5VEx5QzQ5bkdua2dublpXaTBGWmlUZDI5RG1uNHNkQ01MUFRUNXJrQlNCLU11eXRlNXY5Q0lTc1ZnMnlhZWs1NG1UcEwtYUFIR1pkeTR2dk1oNHdvMHN3MUI2bUx1czdhYmdSMlF5dDc3cUgtWjRPckkzMXd5c2hlOHNXelR2NVRpMUhkU0RZOXdJX1lZS3RncU5tdUJ4MFdtOGx0LUFR?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,11 +151,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 3
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
