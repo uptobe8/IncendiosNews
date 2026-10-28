@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:19:44+01:00",
+  "generated_at": "2026-10-28T21:23:21+01:00",
   "items": [
     {
       "id": "821bcc4e117f7c6cae",
@@ -157,13 +157,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 3
     },
     "direct_media": {
       "ok": true,
