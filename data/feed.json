@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:07:48+01:00",
+  "generated_at": "2026-10-29T06:41:22+01:00",
   "items": [
     {
       "id": "29d993181a7e69d51d",
@@ -36,30 +36,6 @@
       "title": "Medio Ambiente dedicará más de 200 millones a frenar los incendios",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVU5CVVJ6V0F6c3FPU3NCbThpQWdBd3NveGJySzN2ak5SZXpaNUItU0JkQnNQS2JkRWJsVG0tcDZfSldyM09mSl9MTkhzcDA1cjhFcU8tYXk4T3pkM1VuWjdYSmd5cmpEaEVsR0F1WUlHaFNzRF9rRDNtWS1ycS1LbXJOVzQ0bDVhZXd2emVFWXM3M2xXeW12eHJKcHRYOEt2TGJWaU5DOTVtdktSal9OYmwzTTFJYW1tc2JsWENxOUhHNzNMRzBZWVk2RXViT1VrOHgtQ0dqaw?oc=5"
-    },
-    {
-      "id": "e0472b9d69483440a8",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-28T06:13:02+01:00",
-      "source": "Madrid Actual",
-      "title": "La lucha contra incendios contará con 55,6 millones",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUHJQOG13U19BWjhrS2RISWpFWjJLczNSQnR6bjQxczVsdzZseGVyYlAtUy1NNmZ6czVvOG5YemRJV2VXNTV6ME8tR2xwQUVTTUxrUW4xenBFTDdZYnhrV2xwREZrMnJscEtVcGU3VVBjTU9fTlpfaTRtSDBPVXU4WWdLN1FFRjUxejRPWGZUVm9fRGVhZHd6UV9TTHU3Zzk1Skg1dE5WUVMyemtpWkVWTlc1T29kNmFQdFEtTk5CUDQ0aTEzajlFeGpEb2VBOXp0RVlWTXVMSVVGUUtP?oc=5"
-    },
-    {
-      "id": "485e9a8e25309fe4d9",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-28T05:00:00+01:00",
-      "source": "Diario de Ávila",
-      "title": "Pedro Muñoz presenta al Gobierno un plan para recuperar la zona afectada por el incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkwySWlBajFWaDExNUROTVBSRnZJVV9PM0Rwc2F6anBmVlhlVlFoazFzM0twUzc5VEx5QzQ5bkdua2dublpXaTBGWmlUZDI5RG1uNHNkQ01MUFRUNXJrQlNCLU11eXRlNXY5Q0lTc1ZnMnlhZWs1NG1UcEwtYUFIR1pkeTR2dk1oNHdvMHN3MUI2bUx1czdhYmdSMlF5dDc3cUgtWjRPckkzMXd5c2hlOHNXelR2NVRpMUhkU0RZOXdJX1lZS3RncU5tdUJ4MFdtOGx0LUFR?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -175,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 2
     },
     "direct_media": {
       "ok": true,
