@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-28T21:23:21+01:00",
+  "generated_at": "2026-10-29T01:07:48+01:00",
   "items": [
+    {
+      "id": "29d993181a7e69d51d",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-10-28T16:20:01+01:00",
+      "source": "Madrid Actual",
+      "title": "UME despliega 200 efectivos en Toledo tras choque de trenes",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMElKekdxLTdJTWlOWUpBZWxIbEhzSndfR2VKazNpR3ZTb21EUDlQSTRvenRBWjRCUmhTTWU2M284VEtQUloyWWhuWi11V1N2eUVxOVl5QnMwcEFtc3hhNUVobWVuM2h0TTAzZk9WY1pmMHljVDBkejEzdTNZbXRFNnY0X0dQT1M1c1pQRnotOHhmQ2U0MzFJVFdkRThBU2cyVUdGTDlaNzhzVDNxTmFYeDc3dXZyVWZ3bGFtXw?oc=5"
+    },
     {
       "id": "821bcc4e117f7c6cae",
       "type": "news",
@@ -163,7 +175,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 4
     },
     "direct_media": {
       "ok": true,
