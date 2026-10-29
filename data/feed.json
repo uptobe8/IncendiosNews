@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:46:54+01:00",
+  "generated_at": "2026-10-29T18:35:52+01:00",
   "items": [
     {
       "id": "1e8c851970e83bed40",
@@ -12,30 +12,6 @@
       "title": "La UME eleva a 250 los efectivos desplegados en Toledo para colaborar en los trabajos por el accidente",
       "summary": "La Unidad Militar de Emergencias (UME) ha elevado este jueves a 250 los efectivos desplegados por el...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-ume-eleva-250-efectivos-desplegados-toledo-colaborar-trabajos-accidente-20261029102308.html"
-    },
-    {
-      "id": "29d993181a7e69d51d",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-10-28T16:20:01+01:00",
-      "source": "Madrid Actual",
-      "title": "UME despliega 200 efectivos en Toledo tras choque de trenes",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMElKekdxLTdJTWlOWUpBZWxIbEhzSndfR2VKazNpR3ZTb21EUDlQSTRvenRBWjRCUmhTTWU2M284VEtQUloyWWhuWi11V1N2eUVxOVl5QnMwcEFtc3hhNUVobWVuM2h0TTAzZk9WY1pmMHljVDBkejEzdTNZbXRFNnY0X0dQT1M1c1pQRnotOHhmQ2U0MzFJVFdkRThBU2cyVUdGTDlaNzhzVDNxTmFYeDc3dXZyVWZ3bGFtXw?oc=5"
-    },
-    {
-      "id": "821bcc4e117f7c6cae",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-28T12:14:01+01:00",
-      "source": "Europa Press",
-      "title": "Las Cortes de CyL expresan su profundo pesar por el siniestro ferroviario en la línea Madrid-Sevilla",
-      "summary": "La Mesa de las Cortes de Castilla y León y la Junta de Portavoces han expresado este miércoles su...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-cortes-cyl-expresan-profundo-pesar-siniestro-ferroviario-linea-madrid-sevilla-20261028121401.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
