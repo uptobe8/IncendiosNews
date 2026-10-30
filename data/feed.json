@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-30T15:35:36+01:00",
+  "generated_at": "2026-10-30T20:40:46+01:00",
   "items": [
-    {
-      "id": "df3dc27a47fc6176ca",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-10-30T13:23:08+01:00",
-      "source": "Diario de Ávila",
-      "title": "UGT exige a la Junta un plan integral contra incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX3IzdFpfcjgtZWZzMjRRRjFwT3NnSHI3YTd5a0YtOGlHeDdrOXNHUVhwU3pQNnpVd0g3eWZYZVBDQWtKVXEzZ3pIRUVkczJFWVJaWFZkVzVFTEk3Yk8wWVhrT0FPUkE2VVNwYXFJdE9KSE5hRW9SNFlNbW1uY3M3cTd5U0RCX0c3TS1ydmswV2hpY0FUMjNXaWFKMzhtWGpmSjB2bzF3Qno5YWZ6MWpiZC00UWlCMzlrc2htSnd3cUZuRTMwOHA3Nkx2cTR5eElJ?oc=5"
-    },
     {
       "id": "cb1cd41458b77f3389",
       "type": "news",
@@ -139,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
