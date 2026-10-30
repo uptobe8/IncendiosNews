@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-10-30T08:46:09+01:00",
+  "generated_at": "2026-10-30T15:35:36+01:00",
   "items": [
     {
-      "id": "1e8c851970e83bed40",
+      "id": "df3dc27a47fc6176ca",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-10-30T13:23:08+01:00",
+      "source": "Diario de Ávila",
+      "title": "UGT exige a la Junta un plan integral contra incendios",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX3IzdFpfcjgtZWZzMjRRRjFwT3NnSHI3YTd5a0YtOGlHeDdrOXNHUVhwU3pQNnpVd0g3eWZYZVBDQWtKVXEzZ3pIRUVkczJFWVJaWFZkVzVFTEk3Yk8wWVhrT0FPUkE2VVNwYXFJdE9KSE5hRW9SNFlNbW1uY3M3cTd5U0RCX0c3TS1ydmswV2hpY0FUMjNXaWFKMzhtWGpmSjB2bzF3Qno5YWZ6MWpiZC00UWlCMzlrc2htSnd3cUZuRTMwOHA3Nkx2cTR5eElJ?oc=5"
+    },
+    {
+      "id": "cb1cd41458b77f3389",
       "type": "news",
       "severity": "info",
       "province": "Toledo",
       "town": "Provincia de Toledo",
-      "published": "2026-10-29T10:23:08+01:00",
+      "published": "2026-10-30T13:21:34+01:00",
       "source": "Europa Press",
-      "title": "La UME eleva a 250 los efectivos desplegados en Toledo para colaborar en los trabajos por el accidente",
-      "summary": "La Unidad Militar de Emergencias (UME) ha elevado este jueves a 250 los efectivos desplegados por el...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-ume-eleva-250-efectivos-desplegados-toledo-colaborar-trabajos-accidente-20261029102308.html"
+      "title": "Levantan el Puesto de Mando Avanzado de la zona cero en Urda y centralizan la emergencia en Toledo",
+      "summary": "El Puesto de Mando Avanzado (PMA) instalado en la zona cero del accidente ferroviario de Urda (Toledo) ha...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-levantan-puesto-mando-avanzado-zona-cero-urda-centralizan-emergencia-toledo-20261030131805.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -121,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
