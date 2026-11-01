@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T15:24:04+01:00",
+  "generated_at": "2026-11-01T20:01:42+01:00",
   "items": [
     {
-      "id": "3d099188b08241138b",
+      "id": "867a2d8809d0f64591",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-11-01T11:27:58+01:00",
+      "published": "2026-11-01T17:27:58+01:00",
       "source": "Tribuna de Ávila",
       "title": "Prohíben recoger setas en Valle de Iruelas tras el incendio forestal de este verano",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -125,13 +125,13 @@
       "ok": true,
       "items": 1
     },
-    "direct_media": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 0
     }
   },
   "refresh_seconds": 300
