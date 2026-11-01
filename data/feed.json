@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:00:58+01:00",
+  "generated_at": "2026-11-01T08:23:22+01:00",
   "items": [
     {
       "id": "b895a18c0194811653",
@@ -24,18 +24,6 @@
       "title": "El servicio Madrid-Ciudad Real-Puertollano se presta por carretera y se recupera la circulación Madrid-Levante",
       "summary": "Renfe ha informado este sábado de que el servicio para conectar Madrid, Ciudad Real y Puertollano --en el...",
       "url": "https://www.europapress.es/castilla-lamancha/noticia-servicio-madrid-ciudad-real-puertollano-presta-carretera-recupera-circulacion-madrid-levante-20261031100356.html"
-    },
-    {
-      "id": "126f09c7c80f278b7d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-31T08:03:28+01:00",
-      "source": "20Minutos",
-      "title": "Madrid busca reforzar la respuesta a grandes emergencias y el despliegue territorial de los bomberos para evitar otro gran incendio",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNanhCU0xDWXJLaThGRzNVRWZpNGpPamJGeUFHOTlXQV9vbE9tSzZtcFVLQWlQa0gtTVpjQVFSSkRGT0FNcFBycW1UTDRmZmNiZDFPZXMxM1l2NmZEN2dvS0JVU2g5ZS01RGNsc0xvdEkyYWhQcWxmaHhGR1B4X0VZWVQ0ZGUyZFBVOW91OXEwMDFGVkMzSERPUkdmMV9sYW9HVXVLRjc5b2hIcm1KMTMtWHdFcnhVXzh6c2JlT01CdFVJZWlQTVFLY2lGRUUzOXZZc1pDZTh4WmhDdkphaC1zd2hIcGtIb3pXbmJkSHhDS1RuS3phc2N4bQ?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -151,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
