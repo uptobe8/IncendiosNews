@@ -1,29 +1,17 @@
 {
-  "generated_at": "2026-11-01T08:23:22+01:00",
+  "generated_at": "2026-11-01T15:24:04+01:00",
   "items": [
     {
-      "id": "b895a18c0194811653",
+      "id": "3d099188b08241138b",
       "type": "news",
       "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-31T12:28:49+01:00",
-      "source": "Europa Press",
-      "title": "Sánchez participa en Madrid en la reunión de coordinación y seguimiento de la emergencia por el accidente",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, ha participado este sábado en la reunión de seguimiento y...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-sanchez-participa-madrid-reunion-coordinacion-seguimiento-emergencia-accidente-20261031122849.html"
-    },
-    {
-      "id": "541635408bcb6d1835",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-10-31T10:03:56+01:00",
-      "source": "Europa Press",
-      "title": "El servicio Madrid-Ciudad Real-Puertollano se presta por carretera y se recupera la circulación Madrid-Levante",
-      "summary": "Renfe ha informado este sábado de que el servicio para conectar Madrid, Ciudad Real y Puertollano --en el...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-servicio-madrid-ciudad-real-puertollano-presta-carretera-recupera-circulacion-madrid-levante-20261031100356.html"
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-01T11:27:58+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "Prohíben recoger setas en Valle de Iruelas tras el incendio forestal de este verano",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcElDazkxdUFJY3VsOU1kMi1NNXJ0MG9RTWhPUDlkRDNtalc4UXhncnV0c3k2SzdGZmxUZ3dYUmhTMWtCYTI3RHNab192Q19rRUlySFgzTGRFUk1VWlJtSmxJb2ZKMVRrNU5odS1ZcmpFWWNhSEJ3b1pmNl90WnMxMUNpRWV3d19QeHJrTC10YmhRc05YTVZSeU15RlhqWGVPbGlFcjh6VWN0eEEtUzRTVlJuckdkWUJtRjRZZUExbXpLUlRJNEMw?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -133,17 +121,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 0
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
