@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-02T09:28:45+01:00",
+  "generated_at": "2026-11-02T19:45:10+01:00",
   "items": [
+    {
+      "id": "7be84ca5d9e5b0d183",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-02T17:44:27+01:00",
+      "source": "Telemadrid",
+      "title": "Dificultades en carreteras de entrada a Madrid en el retorno del Puente de los Santos",
+      "summary": "La Dirección General de Tráfico informa de dificultades en algunas de las carreteras de entrada a Madrid en esta operación retorno del Puente de Todos los Santos.",
+      "url": "https://www.telemadrid.es/noticias/sociedad/dificultades-carreteras-entrada-madrid-retorno_1_2788025.html"
+    },
+    {
+      "id": "c4d2ff3725c020b104",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-02T01:25:20+01:00",
+      "source": "Europa Press",
+      "title": "Extinguido un incendio en una vivienda unifamiliar de La Hiruela, en Madrid, sin heridos",
+      "summary": "Nueve dotaciones de Bomberos de la Comunidad de Madrid han extinguido un incendio declarado en una...",
+      "url": "https://www.europapress.es/madrid/noticia-extinguido-incendio-vivienda-unifamiliar-hiruela-madrid-heridos-20261102012520.html"
+    },
     {
       "id": "4338491871bae8a183",
       "type": "news",
@@ -121,17 +145,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 2
     }
   },
   "refresh_seconds": 300
