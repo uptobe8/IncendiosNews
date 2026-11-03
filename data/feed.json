@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-03T08:59:53+01:00",
+  "generated_at": "2026-11-03T17:04:56+01:00",
   "items": [
     {
-      "id": "c4d2ff3725c020b104",
+      "id": "39985e262b230094d9",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-02T01:25:20+01:00",
-      "source": "Europa Press",
-      "title": "Extinguido un incendio en una vivienda unifamiliar de La Hiruela, en Madrid, sin heridos",
-      "summary": "Nueve dotaciones de Bomberos de la Comunidad de Madrid han extinguido un incendio declarado en una...",
-      "url": "https://www.europapress.es/madrid/noticia-extinguido-incendio-vivienda-unifamiliar-hiruela-madrid-heridos-20261102012520.html"
+      "published": "2026-11-03T14:43:00+01:00",
+      "source": "Telemadrid",
+      "title": "La Comunidad de Madrid destinará 8 millones de euros a los afectados por los incendios de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHBqQXhXNVRxMHFOVjBDbE1IaFRuY2tvVUxNMWo5ME5yM25QS1BtNzlNdzhEWFRDbUNoVzFnZ2JRcHJ0cGctNk52SEJ4Nk5hYWRzM0JBZ2h1RU0xZWI4R2JCaXZucFhlc1JNZFlUT3FENDdZNFA0eVZhRTZvQzBWOWdKVmZDbjZKbHdYaVVWbkVBaE1Udl85aHVCZDQ0OWJQLW1mV05jTmdLNknSAbABQVVfeXFMT2VGSzlIM3hwVnVuTS1xVkhyQ3J2RTEzc1BubEVzM2ZqNHJDcDJNMHVXZFFCMTBURk1tb2pzSDR0WTVOTDBsRXYwU0czSHZBc1kwUjI3Y0h1dGpyWnFoWjJKczlnZTNib1FzYlNtaVI0ZzY2YnJjZnpwSk5XZmFCSnRZLUNLSTRpVUZRWmpCN3RVczRUVFZIU2U0bmtiUlNnTFNHclhtM2RFZzhLdlF0SXo?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -121,17 +121,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
