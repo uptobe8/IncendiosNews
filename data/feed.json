@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-03T17:04:56+01:00",
+  "generated_at": "2026-11-03T22:42:50+01:00",
   "items": [
+    {
+      "id": "3923f823a317904030",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-03T19:59:57+01:00",
+      "source": "20Minutos",
+      "title": "Los restos retirados del incendio de Sierra Oeste llenan un Santiago Bernabéu y lanzan las ayudas para reconstruir casas afectadas",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc1YxX0JxbnVnV09mSWMxNW9ZVjFzR2dIVzFINWU5R09oWWVxdmlqZWpfeW54Z2xVTEwyN082aXV2cHU1TEtwMC1uZHptamh6N2dmN205R1NJX3VFbG42YzFiQ0JxSjc1U0xHOVVoSnlfaTVic3dIVHRuaGdBYTFod3JEeHBXdVBRX3RlNjJucnUxNjNUVzFiSWZEd0QxQmhFdkdhTVQ3cDdUeTRnODJ6RFZSSjg2MUVxV1c3T2kxUDZpTDZXeVp0R1lKVXRQNzNqRHliMmxIRGhla1RpY290T2dkc0RKMWZXMnk1WWU1T1kzcEsxUEdyVlQtZ0Q?oc=5"
+    },
+    {
+      "id": "5ccb323dc4cb7b17b8",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-03T18:25:00+01:00",
+      "source": "Europa Press",
+      "title": "El pleno de Albacete aprueba un nuevo desarrollo urbanístico a la entrada de la carretera de Madrid con 190 viviendas",
+      "summary": "El pleno del Ayuntamiento de Albacete ha aprobado en su sesión de este por unanimidad el Programa de...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-pleno-albacete-aprueba-nuevo-desarrollo-urbanistico-entrada-carretera-madrid-190-viviendas-20261103182500.html"
+    },
     {
       "id": "39985e262b230094d9",
       "type": "news",
@@ -123,15 +147,15 @@
   "checks": {
     "google_news": {
       "ok": true,
-      "items": 1
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 0
+      "items": 2
     },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 1
     }
   },
   "refresh_seconds": 300
