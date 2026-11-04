@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:10:54+01:00",
+  "generated_at": "2026-11-04T22:53:17+01:00",
   "items": [
     {
       "id": "d5ad1f80a64e248288",
@@ -36,18 +36,6 @@
       "title": "Madrid ofrecerá ayudas para reconstruir casas afectadas por el incendio de la Sierra Oeste",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fN09ac2R2NGNvNWVLWmJ3UDlKNVpUQ0V0OUFkY0ppcFpzVTdpbjZnOE55ZEE2eV95Q3NFRFdaOElORF9mVXc0Z3gxVGJFbll1QlY2ZW5UUUhIaFNLQUZ3T09lSXlNYVVyQkxrbXBKYWZ1MjVsRnh3Zkpn0gF6QVVfeXFMTjYzalI5QUl0bXhVRHJfSXlsaWZ6R3ZJelZpWk83UHA1RzFZajl5Ym5OVDFkZ0RoQm1DYWtOaDJiS1pJaFpCaUVtUXVQeEJPbzJGMGlqYVJMYVp6ZnV2cXlkNU5jWEw3dkw0a0JVRFlkTkdOSUJIU2dyY0E?oc=5"
-    },
-    {
-      "id": "3923f823a317904030",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-03T19:59:57+01:00",
-      "source": "20Minutos",
-      "title": "Los restos retirados del incendio de Sierra Oeste llenan un Santiago Bernabéu y lanzan las ayudas para reconstruir casas afectadas",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc1YxX0JxbnVnV09mSWMxNW9ZVjFzR2dIVzFINWU5R09oWWVxdmlqZWpfeW54Z2xVTEwyN082aXV2cHU1TEtwMC1uZHptamh6N2dmN205R1NJX3VFbG42YzFiQ0JxSjc1U0xHOVVoSnlfaTVic3dIVHRuaGdBYTFod3JEeHBXdVBRX3RlNjJucnUxNjNUVzFiSWZEd0QxQmhFdkdhTVQ3cDdUeTRnODJ6RFZSSjg2MUVxV1c3T2kxUDZpTDZXeVp0R1lKVXRQNzNqRHliMmxIRGhla1RpY290T2dkc0RKMWZXMnk1WWU1T1kzcEsxUEdyVlQtZ0Q?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
