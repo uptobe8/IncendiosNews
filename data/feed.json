@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-03T22:42:50+01:00",
+  "generated_at": "2026-11-04T02:41:05+01:00",
   "items": [
+    {
+      "id": "8bfe5c2fcf86d6c180",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-04T00:12:00+01:00",
+      "source": "El Mundo",
+      "title": "Madrid ofrecerá ayudas para reconstruir casas afectadas por el incendio de la Sierra Oeste",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fN09ac2R2NGNvNWVLWmJ3UDlKNVpUQ0V0OUFkY0ppcFpzVTdpbjZnOE55ZEE2eV95Q3NFRFdaOElORF9mVXc0Z3gxVGJFbll1QlY2ZW5UUUhIaFNLQUZ3T09lSXlNYVVyQkxrbXBKYWZ1MjVsRnh3Zkpn0gF6QVVfeXFMTjYzalI5QUl0bXhVRHJfSXlsaWZ6R3ZJelZpWk83UHA1RzFZajl5Ym5OVDFkZ0RoQm1DYWtOaDJiS1pJaFpCaUVtUXVQeEJPbzJGMGlqYVJMYVp6ZnV2cXlkNU5jWEw3dkw0a0JVRFlkTkdOSUJIU2dyY0E?oc=5"
+    },
     {
       "id": "3923f823a317904030",
       "type": "news",
@@ -145,13 +157,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 3
     },
     "direct_media": {
       "ok": true,
