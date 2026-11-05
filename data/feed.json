@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-11-05T02:55:44+01:00",
+  "generated_at": "2026-11-05T10:00:08+01:00",
   "items": [
-    {
-      "id": "d5ad1f80a64e248288",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-04T11:03:45+01:00",
-      "source": "Europa Press",
-      "title": "El paro aumenta un 1,44% en octubre en la Comunidad de Madrid, hasta los 287.356 desempleados",
-      "summary": "El número de parados registrados en las oficinas de los servicios públicos de empleo (antiguo Inem) en la...",
-      "url": "https://www.europapress.es/madrid/noticia-paro-aumenta-144-octubre-comunidad-madrid-287356-desempleados-20261104085951.html"
-    },
-    {
-      "id": "7665bb040805cdb1f2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-04T09:00:49+01:00",
-      "source": "Europa Press",
-      "title": "La afiliación a la Seguridad Social en la Comunidad de Madrid aumenta un 1,48% en octubre y gana 58.128 cotizantes",
-      "summary": "La afiliación a la Seguridad Social en la Comunidad de Madrid durante octubre aumentó un 1,48% en...",
-      "url": "https://www.europapress.es/madrid/noticia-afiliacion-seguridad-social-comunidad-madrid-aumenta-148-octubre-gana-58128-cotizantes-20261104090049.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -133,17 +109,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 0
     },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 0
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     }
   },
   "refresh_seconds": 300
