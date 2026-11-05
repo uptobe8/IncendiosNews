@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-05T10:00:08+01:00",
+  "generated_at": "2026-11-05T18:18:16+01:00",
   "items": [
+    {
+      "id": "45e6415f562f1334da",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-05T18:00:52+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "Inyección económica autonómica para paliar los efectos de los incendios en Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblpvdEMzenhCYXdHX2lRa1BoNXd6WXZLcy14cnh0X05vcElrNWVFU3JGRnUtTzV1Q0FJWVhMa3RVQ012MUZhX1VmeUp5NE9rb0tFMl8za3V6TGtZa0NpN0k0YmVHMGpzUENvM3ZDdmtXZWtKb2NzcDZmcTltU1g1OVMwZEpaaUxMYWxqMlRwNUpsZjdXdjY5Y1NGWE5uMlRBRDhKOHhQQTBWOEV6N2ZvbjRJQXdwWXI3bjNCNVNvb2VEMEk?oc=5"
+    },
+    {
+      "id": "a11c3f8851e51cfc1e",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-11-05T16:32:15+01:00",
+      "source": "RTVE.es",
+      "title": "El Valle de Iruelas retira los pinos quemados en Burgohondo para frenar plagas y recuperar el suelo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3F0VzMtc014R1djcnJtaTNBQ2c2Y3BfVDhuMGlaenA4QldXclpsc2toMWJma2FhODBuelZJWXdiUThqTENWUFVwb1dNVmxsREM5Y25LcFRUcFNWdnFoV1Nod2h6NS0tbUxYSHpzWWlNRzZ4RVFyQndaNEtwRVE1TVQzalJiOXlqakF3RjVWUGJOYXJwT1BETzRydW9zaF91TFdOSg?oc=5"
+    },
+    {
+      "id": "2d4438431e9191991c",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-05T13:04:15+01:00",
+      "source": "Europa Press",
+      "title": "La Junta destina más de 5,4 millones para actuaciones en zonas de Ávila, León y Zamora afectadas por incendios",
+      "summary": "Se dividen en tres millones para dinamización económica en Ávila, 1,5 para infraestructuras hidráulicas de...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-junta-destina-cerca-cuatro-millones-actuaciones-zonas-avila-zamora-afectadas-incendios-20261105124244.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,17 +145,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
+    "direct_media": {
+      "ok": true,
+      "items": 1
     }
   },
   "refresh_seconds": 300
