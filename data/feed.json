@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-07T09:29:00+01:00",
+  "generated_at": "2026-11-07T16:02:55+01:00",
   "items": [
     {
-      "id": "7ee105e4f674208be7",
+      "id": "f7dd0e01ce5c40b8f2",
       "type": "news",
       "severity": "info",
       "province": "Toledo",
       "town": "Provincia de Toledo",
-      "published": "2026-11-06T12:50:24+01:00",
-      "source": "La Tribuna de Toledo",
-      "title": "Intoxicado por humo un camionero en Villanueva de Alcardete",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGQ1dnpra2NkOUF4V1pWbEVRa19vWWs3TjhnZXFJZWpIeVJtdk1kRXo3S0YtbkZsNFV0d2Y5cm9kZ1Y4eF92Rk9Rb0V6dlNhRWp2SzUwMmkwUk1CVkRmekEtMEdMQTNkc0VhdGwzT00yVl92d2Q0cFlOVjFROWlyS2h3M1BDNjV0ZmxKeUJIdnFBSTJKUXk4d1NBRHd1SlU5bTVrVUV6NllrSkZ4UkdURWs3TjQ0M1BtTUxVT2ttbFE1Vy0yXzZHaXJMWnFQN0l2b2VXWTJZWkdxTXcz?oc=5"
+      "published": "2026-11-07T12:13:30+01:00",
+      "source": "Europa Press",
+      "title": "CCOO Toledo reclama el reconocimiento profesional de los técnicos en emergencias sanitarias",
+      "summary": "La sección sindical de Comisiones Obreras en el Transporte Sanitario de Toledo ha puesto en valor el...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-ccoo-toledo-reclama-reconocimiento-profesional-tecnicos-emergencias-sanitarias-20261107121330.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -127,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
