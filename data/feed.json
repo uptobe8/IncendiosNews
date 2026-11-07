@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-11-07T16:02:55+01:00",
+  "generated_at": "2026-11-07T20:21:46+01:00",
   "items": [
-    {
-      "id": "f7dd0e01ce5c40b8f2",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-11-07T12:13:30+01:00",
-      "source": "Europa Press",
-      "title": "CCOO Toledo reclama el reconocimiento profesional de los técnicos en emergencias sanitarias",
-      "summary": "La sección sindical de Comisiones Obreras en el Transporte Sanitario de Toledo ha puesto en valor el...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-ccoo-toledo-reclama-reconocimiento-profesional-tecnicos-emergencias-sanitarias-20261107121330.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -131,7 +119,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
