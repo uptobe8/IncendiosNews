@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-08T20:55:30+01:00",
+  "generated_at": "2026-11-09T00:26:01+01:00",
   "items": [
+    {
+      "id": "7c379ca4d1224ba92d",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-08T13:10:18+01:00",
+      "source": "Europa Press",
+      "title": "La XII Media Maratón Ávila Monumental reúne a más de 1.500 participantes",
+      "summary": "La XII Media Maratón Ávila Monumental, IV Carrera Popular 10K y II Media Maratón por Relevos ha reunido a...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-xii-media-maraton-avila-monumental-reune-mas-1500-participantes-20261108131018.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -119,7 +131,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
