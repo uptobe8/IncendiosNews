@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-11-10T04:30:22+01:00",
+  "generated_at": "2026-11-10T12:39:41+01:00",
   "items": [
     {
-      "id": "d94d395c1641fa9170",
+      "id": "ceb8ce017ca2c435fa",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Piedralaves",
+      "published": "2026-11-10T12:02:07+01:00",
+      "source": "EL PAÍS",
+      "title": "Ordenan la evacuación del municipio de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON19ucnpoc0hXdzVZVWhIWndkMDhNRC01ZG5zdmlzSk9VYVYwWTItRklfNnlrQkljZ3FFMloxckpDdExCcnNpNWVnSTFweVkyNU9RVXl6VGdjcGdLR3g0ZWtqRmtobHgxTjlBazhQb3d3SHNFQ0FFV256dXlWR2l4YzFGbE1RMVFMcHFERmdienU4OVV0UWZkeDBhTlh1TGIxdXBwOVRTQlRDaHRoUEszeGNvS0diTjVHZV9aZ0JoN0dsSDNmM1lfMTFqRE1LRkFCYzI5c3NNQUVGM2hLYUYtMUZ0by1PQdIB-gFBVV95cUxOenZ0WFJpTVRUaEVyN0E5Y2VYdWNPWFRHc0Q2Rl9Ja0dTelhOaWl4dUdIdFFqOXM5UXBGRGN0dDFzTm9pNEFjT185STE5eVd6UWlWYVNEQl9ETzI2RDFnVER5ejhNVmw4Z0FpSUtaQmNUTGI1M3B1RE1zUHZLNm16alN4RUtoYmNJLXZ2RjFJRTUzaHpNTFpJMTVvREt3NHNwRG96ZGt5UkUtSWh1U0l6Zjh6a0tmNU5jTGEzanVmTVB2S25MNE8wR1Z6cEhwb1pHUTRYM3FLUHVtM21UWGROS00zdjVCSEZTcDgzZzNsU3ZaNnZLZk9ZQy1R?oc=5"
+    },
+    {
+      "id": "157ee10259016437e1",
+      "type": "news",
+      "severity": "critical",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-10T12:01:37+01:00",
+      "source": "Telemadrid",
+      "title": "Así puedes solicitar las ayudas de Madrid al alquiler si tu vivienda sufrió daños por los incendios de la Sierra Oeste",
+      "summary": "El fuego afectó a 17 municipios y obligó a evacuar o confinar a más de 55.000 vecinos.",
+      "url": "https://www.telemadrid.es/noticias/madrid/si-vivienda-sufrio-danos-incendios_1_2804128.html"
+    },
+    {
+      "id": "b446b38ab16839b199",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-09T14:56:47+01:00",
-      "source": "Europa Press",
-      "title": "Bomberos de Madrid imparten formación para prevenir incendios domésticos a mayores de 65 años en 12 municipios rurales",
-      "summary": "La Comunidad de Madrid ha puesto en marcha durante noviembre una campaña de prevención de incendios en el...",
-      "url": "https://www.europapress.es/madrid/noticia-bomberos-madrid-imparten-formacion-prevenir-incendios-domesticos-mayores-65-anos-12-municipios-rurales-20261109145647.html"
+      "published": "2026-11-10T11:18:00+01:00",
+      "source": "Telemadrid",
+      "title": "Si tu vivienda sufrió daños por los incendios de la Sierra Oeste, así puedes solicitar las ayudas al alquiler de la Comunidad de Madrid",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT09oOEdRY25UZ1ROMGlTUHI5MlR0eWR2Ylh2T0Z4TEplUHBvalFQWnhQZ1FFa014TnVNV21nUHBkSGYzd01EcXJNb25fMFRtMFlEdklYNE95azB1b3pYR3M2a29JSExra1JxQnUyVGFwd01ta3o2V2QzT2hjTjBDWENmdmhiYUdPVE5LY0FqRzItSDZHQXfSAZsBQVVfeXFMUEhrbkxpTVJ1MFhkUjVmTkd0UDFPRTNrc1dzRU93bi15ekhvSldXSERYVzBCazMweHh2RFZ5SlBOeWh5NWpHc25Pd0VVbjRVTnBpVkdsbFlBU2Y1X25RYTN6X0NMcWhwV0owZ1ROR1JwRjNxY1ZxbmMwU3ptaDlDNy0zNmR4NDZ1azdQaVF4M0tWcFQ1OHFIRmt1WnM?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -127,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 2
     },
     "direct_media": {
       "ok": true,
