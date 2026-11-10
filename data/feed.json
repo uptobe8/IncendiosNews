@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-10T19:50:02+01:00",
+  "generated_at": "2026-11-11T00:46:53+01:00",
   "items": [
+    {
+      "id": "c900cc77baac334f7b",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Piedralaves",
+      "published": "2026-11-10T22:00:09+01:00",
+      "source": "Europa Press",
+      "title": "Se mantiene la evacuación en Piedralaves (Ávila) por la borrasca y no se descartan nuevos desalojos en la provincia",
+      "summary": "El delegado territorial de la Junta en Ávila y director del Cecopi provincial, José...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-mantiene-evacuacion-piedralaves-avila-borrasca-no-descartan-nuevos-desalojos-provincia-20261110220009.html"
+    },
     {
       "id": "e0e532e436c8eeb66b",
       "type": "news",
@@ -10,7 +22,7 @@
       "published": "2026-11-10T19:43:11+01:00",
       "source": "Europa Press",
       "title": "Un incendio afecta a un aerogenerador de un parque eólico en San Juan del Olmo (Ávila)",
-      "summary": "Un incendio ha afectado este martes a un aerogenerador de un parque eólico situado en el término municipal...",
+      "summary": "Un incendio ha afectado este martes a un aerogenerador de un parque eólico situado en el...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-afecta-aerogenerador-parque-eolico-san-juan-olmo-avila-20261110194311.html"
     },
     {
@@ -34,7 +46,7 @@
       "published": "2026-11-10T14:25:37+01:00",
       "source": "Europa Press",
       "title": "La presa del Horcajo (Ávila) corre riesgo de colapso, el aviso rojo se extenderá a mañana y se plantea recurrir a la UME",
-      "summary": "El delegado territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha advertido del \"riesgo...",
+      "summary": "El delegado territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha advertido del \"riesgo de...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-presa-horcajo-avila-corre-riesgo-colapso-aviso-rojo-extendera-manana-plantea-recurrir-ume-20261110131718.html"
     },
     {
@@ -169,17 +181,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 3
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 4
     }
   },
   "refresh_seconds": 300
