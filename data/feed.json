@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-09T22:07:15+01:00",
+  "generated_at": "2026-11-10T04:30:22+01:00",
   "items": [
+    {
+      "id": "d94d395c1641fa9170",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-09T14:56:47+01:00",
+      "source": "Europa Press",
+      "title": "Bomberos de Madrid imparten formación para prevenir incendios domésticos a mayores de 65 años en 12 municipios rurales",
+      "summary": "La Comunidad de Madrid ha puesto en marcha durante noviembre una campaña de prevención de incendios en el...",
+      "url": "https://www.europapress.es/madrid/noticia-bomberos-madrid-imparten-formacion-prevenir-incendios-domesticos-mayores-65-anos-12-municipios-rurales-20261109145647.html"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -119,7 +131,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
