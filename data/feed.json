@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-11-11T04:09:34+01:00",
+  "generated_at": "2026-11-11T11:54:39+01:00",
   "items": [
-    {
-      "id": "c900cc77baac334f7b",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-10T22:00:09+01:00",
-      "source": "Europa Press",
-      "title": "Se mantiene la evacuación en Piedralaves (Ávila) por la borrasca y no se descartan nuevos desalojos en la provincia",
-      "summary": "El delegado territorial de la Junta en Ávila y director del Cecopi provincial, José...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-mantiene-evacuacion-piedralaves-avila-borrasca-no-descartan-nuevos-desalojos-provincia-20261110220009.html"
-    },
-    {
-      "id": "e0e532e436c8eeb66b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-11-10T19:43:11+01:00",
-      "source": "Europa Press",
-      "title": "Un incendio afecta a un aerogenerador de un parque eólico en San Juan del Olmo (Ávila)",
-      "summary": "Un incendio ha afectado este martes a un aerogenerador de un parque eólico situado en el...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-incendio-afecta-aerogenerador-parque-eolico-san-juan-olmo-avila-20261110194311.html"
-    },
-    {
-      "id": "e8266afc5ebce16b02",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-10T17:48:05+01:00",
-      "source": "Europa Press",
-      "title": "Protección Civil envía un Es-Alert para evacuar Piedralaves ante el posible desborde de la presa de Horcajo (Ávila)",
-      "summary": "La Agencia de Protección Civil y Emergencias de la Junta de Castilla y León ha enviado un mensaje masivo...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-proteccion-civil-envia-alert-evacuar-piedralaves-posible-desborde-presa-horcajo-avila-20261110111108.html"
-    },
-    {
-      "id": "a3265c4fe1e8960b1b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-11-10T14:25:37+01:00",
-      "source": "Europa Press",
-      "title": "La presa del Horcajo (Ávila) corre riesgo de colapso, el aviso rojo se extenderá a mañana y se plantea recurrir a la UME",
-      "summary": "El delegado territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha advertido del \"riesgo...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-presa-horcajo-avila-corre-riesgo-colapso-aviso-rojo-extendera-manana-plantea-recurrir-ume-20261110131718.html"
-    },
     {
       "id": "f4386afb58ce94400d",
       "type": "news",
@@ -60,18 +12,6 @@
       "title": "Ordenada la evacuación de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON19ucnpoc0hXdzVZVWhIWndkMDhNRC01ZG5zdmlzSk9VYVYwWTItRklfNnlrQkljZ3FFMloxckpDdExCcnNpNWVnSTFweVkyNU9RVXl6VGdjcGdLR3g0ZWtqRmtobHgxTjlBazhQb3d3SHNFQ0FFV256dXlWR2l4YzFGbE1RMVFMcHFERmdienU4OVV0UWZkeDBhTlh1TGIxdXBwOVRTQlRDaHRoUEszeGNvS0diTjVHZV9aZ0JoN0dsSDNmM1lfMTFqRE1LRkFCYzI5c3NNQUVGM2hLYUYtMUZ0by1PQdIB-gFBVV95cUxOenZ0WFJpTVRUaEVyN0E5Y2VYdWNPWFRHc0Q2Rl9Ja0dTelhOaWl4dUdIdFFqOXM5UXBGRGN0dDFzTm9pNEFjT185STE5eVd6UWlWYVNEQl9ETzI2RDFnVER5ejhNVmw4Z0FpSUtaQmNUTGI1M3B1RE1zUHZLNm16alN4RUtoYmNJLXZ2RjFJRTUzaHpNTFpJMTVvREt3NHNwRG96ZGt5UkUtSWh1U0l6Zjh6a0tmNU5jTGEzanVmTVB2S25MNE8wR1Z6cEhwb1pHUTRYM3FLUHVtM21UWGROS00zdjVCSEZTcDgzZzNsU3ZaNnZLZk9ZQy1R?oc=5"
-    },
-    {
-      "id": "869d550c7434583c3d",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-10T11:18:00+01:00",
-      "source": "Telemadrid",
-      "title": "Así puedes solicitar las ayudas de Madrid al alquiler si tu vivienda sufrió daños por los incendios de la Sierra Oeste",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT09oOEdRY25UZ1ROMGlTUHI5MlR0eWR2Ylh2T0Z4TEplUHBvalFQWnhQZ1FFa014TnVNV21nUHBkSGYzd01EcXJNb25fMFRtMFlEdklYNE95azB1b3pYR3M2a29JSExra1JxQnUyVGFwd01ta3o2V2QzT2hjTjBDWENmdmhiYUdPVE5LY0FqRzItSDZHQXfSAZsBQVVfeXFMUEhrbkxpTVJ1MFhkUjVmTkd0UDFPRTNrc1dzRU93bi15ekhvSldXSERYVzBCazMweHh2RFZ5SlBOeWh5NWpHc25Pd0VVbjRVTnBpVkdsbFlBU2Y1X25RYTN6X0NMcWhwV0owZ1ROR1JwRjNxY1ZxbmMwU3ptaDlDNy0zNmR4NDZ1azdQaVF4M0tWcFQ1OHFIRmt1WnM?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -187,11 +127,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 0
     }
   },
   "refresh_seconds": 300
