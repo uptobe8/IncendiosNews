@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-12T08:51:01+01:00",
+  "generated_at": "2026-11-12T17:23:08+01:00",
   "items": [
+    {
+      "id": "8afa1b36cd7928ddea",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-12T15:44:00+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "4,25 millones de euros más para los terrenos afectados por el incendio en Alberche y Tiétar",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVI3ZmRORWhrQlJ4WU5telBLa3hwVV9UUU5FbGJoS3NyTVVja1NUZm5lRml1Q25sR0Vzam9qYmxSRXlFX05NRDdxWmhMRDhTS3Q3NTZtNEstUng0dUg1ZUdjN3Y2QlRfbzlqUndDZ3lla0NzWUI0Y0V0VTZvZ2pZYVlxbmhzazd3aWtlMDdsYkhReXgzWnZ3STl2dzJiS0Z3OTdKZHMyR3BSVXFhX3lPT0EwV3IyWWVsd2E4X0JCSkRfamNMVEczZGI5MlJ0YnZQM3c?oc=5"
+    },
+    {
+      "id": "e65aef48e9f78d12bc",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-12T11:03:14+01:00",
+      "source": "Cadena SER",
+      "title": "Cruz Roja lanza en Ávila un plan de respuesta ante incendios forestales",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTDY2eUUwTXdQeDRxdEVBSmladTBzUmlXazRWV3hrdjUyRVVuRzNxS2hwZXV6RWh1OW5MSFpVLVFwT1V1WDhNQnpENUI4TnlXNGVGUkFkMXFMYjZCYkhlbFNyTHBTS0YwMkoyTHNYczJUa1BtUy1VNktfX042T2ZpV2Y5VmFxWC1tS2U0OTNCNlhpUThxWmFHZV9Ra3BFeXVpb3dLR0c3dGU0MzNQaDVqYWM5anBKVl92dmxnTVNNS0laY0JlalZBcnEtaXBkdzVrckZ2UW0wQUt6UkhB0gHcAUFVX3lxTFBMNjZ5RTBNd1B4NHF0RUFKaVp1MHNSaVdrNFZXeGt2NTJFVW5HM3FLaHBldXpFaHU5bkxIWlUtUXBPVXVYOE1CekQ1QjhOeVc0ZUZSQWQxcUxiNkJiSGVsU3JMcFNLRjAySjJMc1hzMlRrUG1TLVU2S19fTjZPZmlXZjlWYXFYLW1LZTQ5M0I2WGlROHFaYUdlX1FrcEV5dWlvd0tHRzd0ZTQzM1BoNWphYzlqcEpWX3Z2bGdNU01LSVpjQmVqVkFycS1pcGR3NWtyRnZRbTBBS3pSSEE?oc=5"
+    },
     {
       "id": "2f7f8f45515adb9cd9",
       "type": "news",
@@ -12,66 +36,6 @@
       "title": "Resignación en Piedralaves por el desalojo debido al «riesgo» que presenta su presa: «Ya no sabes a qué más te vas a enfrentar»",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYThrWVp2bFRLT3MtQ21CRGczRGZRUk5ybHRwbjJwX0RlWFVXWHk3OGV5bkJuaUU3V3ltcGpoeGxBRzZjWG9vQnN1RGg3enNMWUFSNGFtbW5hVTV1dUZ6MmhTc0dtNXliaHI1OGxySjE5UnhKdmE3STNvQl9xQWZNU2NGSUNxVVV5WElJMkxqZWQwbldDemdRanJibmVnVXN0dGJNOEJMM0FtNXlaYjZVT09PalMwYjZyRHgxSHZaOEJod9IBxwFBVV95cUxPbkNqa1JYN0ZIbld3cEtOc0hrYUZXLXNiRVlVeUFuaWl3bXdZTnRDYU12N2RTd3lMZnpJcUkxWUcwbWx5ejd6c0h1TVR1TFpJNC1VOXBXMnkzWDJWTUFPRzF3aGJQYkpjUU0yb0wwQUpTSkdycEdsd0ZIa2liV2I2UGc1bDc5bDVEdURubGZySDlJdmxOa2xIOF9iWHJQSm80SW1XcnVkcG4tR2U5ei16bnNqV05oSlFzOHIxeWc3UmlReGx1cVdv?oc=5"
-    },
-    {
-      "id": "c04562de159085bde7",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-11T19:32:48+01:00",
-      "source": "ABC",
-      "title": "Levantan la suspensión de clases y consultas en 31 pueblos del sur de Ávila, pero Piedralaves sigue evacuado",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDRPZkpaWDg4SWs5aVVWa1BsOFJhWkcta0t3cWNDek1XUi1RM1lUazVESWxtNHVfZzFpZVhfYnpfU0RpbHF4clQtME8weWhaNTFTT2UwSHB4bEhjQkF4OVhjdkRmNUZ3XzBEZGxvREx5YldEWUI0eGNEbkVkWFdSWVJ5R2tjSEw2eVNSemFSV0tvNF93MGdZclN4WXBCaXhhT2h3Z2FxZUpEV2pPSDk4QV9HeTBBUGM40gG-AUFVX3lxTFA4VjRMQktCekRvcUdhMzFQRC1XSHhDaTlCa2pfd3dTaGczd1QzS0ZiTVR2emFmZjRUYXlIalQ4VEJsTHNUeDkza1NrS3ZmX1FrcXgtdWlrY1NndEUxblh1WFFWVDZlYWdqMmRQOGI5cl83VEFuWWdvU0FqemJic3A4bmVYTUxhV1NFVUJSNGVZZ21ZY3hXM3NtX09GanlXZ0lkZHlGSVE3OTJ0aGFoM2ZGWENzZXVzQnloLWo4a3c?oc=5"
-    },
-    {
-      "id": "1427d765f589296744",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-11T19:00:49+01:00",
-      "source": "Europa Press",
-      "title": "CyL mantiene las medidas de evacuación de Piedralaves, pero permite la actividad escolar y sanitaria en 31 municipios",
-      "summary": "El delegado Territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha anunciado que se...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-cyl-mantiene-medidas-evacuacion-piedralaves-permite-actividad-escolar-sanitaria-31-municipios-20261111190049.html"
-    },
-    {
-      "id": "fcf7d43806f3465b30",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-11-11T18:06:39+01:00",
-      "source": "Europa Press",
-      "title": "Extinguido el incendio en un taller de chapa y pintura en Yuncos (Toledo)",
-      "summary": "El incendio originado este miércoles en el interior de una nave de un taller de chapa y pintura en Yuncos...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-extinguido-incendio-taller-chapa-pintura-yuncos-toledo-20261111180639.html"
-    },
-    {
-      "id": "a5778f3bff655490c3",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-11-11T13:37:43+01:00",
-      "source": "Europa Press",
-      "title": "La huelga deja 24 contenedores quemados en Toledo y daños superiores a 50.000 euros, según el Ayuntamiento",
-      "summary": "TOLEDO 11 Nov. (EUROPA PRESS) - El portavoz municipal en el Ayuntamiento de Toledo, Juan José...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-huelga-deja-24-contenedores-quemados-toledo-danos-superiores-50000-euros-ayuntamiento-20261111133743.html"
-    },
-    {
-      "id": "0f60bbede42f540b37",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-11T13:19:42+01:00",
-      "source": "El Español",
-      "title": "Jorge, maestro salmantino de 35 años desalojado de Piedralaves : \"La gente cerraba los negocios y corría por la calle\"",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORkdELTJUaUgtZFVjN1pDR1BRU29wWEREMXU1VlBwM3dlNGRmUGNzSXRJNmlqVno3cDZmcWtEMWZmZks4d2V3dXY2Y3NxU0tuXzktRjdOZ3lybW85WFZTemlFSUlveXJlYlR2MHBLZktOTEtvNnpob3JoU3ZGNV9zX1k0Z2Z6UGc3di1uMnJONlBZczduRTE0V1ZkN3lrTWt5cUZZVVdCVTFxQVJWdjlRUGQ5c1hDWkNKOU1wTmM5aU11T3hFN1hfUkdlOE1WVnNFZFVHSkJ3b21KNHMtaVpnNWk3aHBEcWRWZ3VRUHZYRHhKb2xST1RIa1BjeHEzY1U0aE5uRUxLNGzSAYgCQVVfeXFMTkZHRC0yVGlILWRVYzdaQ0dQUVNvcFhERDF1NVZQcDN3ZTRkZlBjc0l0STZpalZ6N3A2ZnFrRDFmZmZLOHdld3V2NmNzcVNLbl85LUY3Tmd5cm1vOVhWU3ppRUlJb3lyZWJUdjBwS2ZLTkxLbzZ6aG9yaFN2RjVfc19ZNGdmelBnN3YtbjJyTjZQWXM3bkUxNFdWZDd5a01reXFGWVVXQlUxcUFSVnY5UVBkOXNYQ1pDSjlNcE5jOWlNdU94RTdYX1JHZThNVlZzRWRVR0pCd29tSjRzLWlaZzVpN2hwRHFkVmd1UVB2WER4Sm9sUk9USGtQY3hxM2NVNGhObkVMSzRs?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -191,7 +155,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 0
     }
   },
   "refresh_seconds": 300
