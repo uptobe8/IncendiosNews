@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-11T19:20:20+01:00",
+  "generated_at": "2026-11-12T01:52:05+01:00",
   "items": [
+    {
+      "id": "2f7f8f45515adb9cd9",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Piedralaves",
+      "published": "2026-11-11T21:07:25+01:00",
+      "source": "ABC",
+      "title": "Resignación en Piedralaves por el desalojo debido al «riesgo» que presenta su presa: «Ya no sabes a qué más te vas a enfrentar»",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYThrWVp2bFRLT3MtQ21CRGczRGZRUk5ybHRwbjJwX0RlWFVXWHk3OGV5bkJuaUU3V3ltcGpoeGxBRzZjWG9vQnN1RGg3enNMWUFSNGFtbW5hVTV1dUZ6MmhTc0dtNXliaHI1OGxySjE5UnhKdmE3STNvQl9xQWZNU2NGSUNxVVV5WElJMkxqZWQwbldDemdRanJibmVnVXN0dGJNOEJMM0FtNXlaYjZVT09PalMwYjZyRHgxSHZaOEJod9IBxwFBVV95cUxPbkNqa1JYN0ZIbld3cEtOc0hrYUZXLXNiRVlVeUFuaWl3bXdZTnRDYU12N2RTd3lMZnpJcUkxWUcwbWx5ejd6c0h1TVR1TFpJNC1VOXBXMnkzWDJWTUFPRzF3aGJQYkpjUU0yb0wwQUpTSkdycEdsd0ZIa2liV2I2UGc1bDc5bDVEdURubGZySDlJdmxOa2xIOF9iWHJQSm80SW1XcnVkcG4tR2U5ei16bnNqV05oSlFzOHIxeWc3UmlReGx1cVdv?oc=5"
+    },
+    {
+      "id": "c04562de159085bde7",
+      "type": "news",
+      "severity": "critical",
+      "province": "Ávila",
+      "town": "Piedralaves",
+      "published": "2026-11-11T19:32:48+01:00",
+      "source": "ABC",
+      "title": "Levantan la suspensión de clases y consultas en 31 pueblos del sur de Ávila, pero Piedralaves sigue evacuado",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDRPZkpaWDg4SWs5aVVWa1BsOFJhWkcta0t3cWNDek1XUi1RM1lUazVESWxtNHVfZzFpZVhfYnpfU0RpbHF4clQtME8weWhaNTFTT2UwSHB4bEhjQkF4OVhjdkRmNUZ3XzBEZGxvREx5YldEWUI0eGNEbkVkWFdSWVJ5R2tjSEw2eVNSemFSV0tvNF93MGdZclN4WXBCaXhhT2h3Z2FxZUpEV2pPSDk4QV9HeTBBUGM40gG-AUFVX3lxTFA4VjRMQktCekRvcUdhMzFQRC1XSHhDaTlCa2pfd3dTaGczd1QzS0ZiTVR2emFmZjRUYXlIalQ4VEJsTHNUeDkza1NrS3ZmX1FrcXgtdWlrY1NndEUxblh1WFFWVDZlYWdqMmRQOGI5cl83VEFuWWdvU0FqemJic3A4bmVYTUxhV1NFVUJSNGVZZ21ZY3hXM3NtX09GanlXZ0lkZHlGSVE3OTJ0aGFoM2ZGWENzZXVzQnloLWo4a3c?oc=5"
+    },
     {
       "id": "1427d765f589296744",
       "type": "news",
@@ -12,6 +36,18 @@
       "title": "CyL mantiene las medidas de evacuación de Piedralaves, pero permite la actividad escolar y sanitaria en 31 municipios",
       "summary": "El delegado Territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha anunciado que se...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-cyl-mantiene-medidas-evacuacion-piedralaves-permite-actividad-escolar-sanitaria-31-municipios-20261111190049.html"
+    },
+    {
+      "id": "fcf7d43806f3465b30",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-11-11T18:06:39+01:00",
+      "source": "Europa Press",
+      "title": "Extinguido el incendio en un taller de chapa y pintura en Yuncos (Toledo)",
+      "summary": "El incendio originado este miércoles en el interior de una nave de un taller de chapa y pintura en Yuncos...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-extinguido-incendio-taller-chapa-pintura-yuncos-toledo-20261111180639.html"
     },
     {
       "id": "a5778f3bff655490c3",
@@ -145,17 +181,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 3
+    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 3
     }
   },
   "refresh_seconds": 300
