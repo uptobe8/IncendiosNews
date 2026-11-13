@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:39:07+01:00",
+  "generated_at": "2026-11-13T23:52:38+01:00",
   "items": [
     {
       "id": "176c61339c78d6c2b1",
@@ -12,6 +12,18 @@
       "title": "4,25 millones de euros más para los terrenos afectados por el incendio en Alberche y Tiétar",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVI3ZmRORWhrQlJ4WU5telBLa3hwVV9UUU5FbGJoS3NyTVVja1NUZm5lRml1Q25sR0Vzam9qYmxSRXlFX05NRDdxWmhMRDhTS3Q3NTZtNEstUng0dUg1ZUdjN3Y2QlRfbzlqUndDZ3lla0NzWUI0Y0V0VTZvZ2pZYVlxbmhzazd3aWtlMDdsYkhReXgzWnZ3STl2dzJiS0Z3OTdKZHMyR3BSVXFhX3lPT0EwV3IyWWVsd2E4X0JCSkRfamNMVEczZGI5MlJ0YnZQM3c?oc=5"
+    },
+    {
+      "id": "8c36def452877c0f2f",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-12T13:39:33+01:00",
+      "source": "Europa Press",
+      "title": "La población de la Comunidad de Madrid aumenta en 33.246 personas en el tercer trimestre y supera los 7,23 millones",
+      "summary": "La población residente en la Comunidad de Madrid aumentó en 33.246 personas durante el tercer trimestre...",
+      "url": "https://www.europapress.es/madrid/noticia-poblacion-comunidad-madrid-aumenta-33246-personas-tercer-trimestre-supera-723-millones-20261112133933.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -121,17 +133,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
