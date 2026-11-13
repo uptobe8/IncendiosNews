@@ -1,41 +1,17 @@
 {
-  "generated_at": "2026-11-13T03:43:18+01:00",
+  "generated_at": "2026-11-13T11:02:49+01:00",
   "items": [
     {
-      "id": "2afe964070db9a1375",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-12T21:16:18+01:00",
-      "source": "Telemadrid",
-      "title": "El humorista Carlos Latre presentará el encendido de las luces de Navidad en Madrid",
-      "summary": "Será a las 7 de la tarde del sábado 21 de noviembre",
-      "url": "https://www.telemadrid.es/noticias/madrid/humorista-carlos-latre-presentara-encendido_1_2811763.html"
-    },
-    {
-      "id": "8afa1b36cd7928ddea",
+      "id": "176c61339c78d6c2b1",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Provincia de Ávila",
-      "published": "2026-11-12T15:44:00+01:00",
+      "published": "2026-11-13T00:44:00+01:00",
       "source": "Tribuna de Ávila",
       "title": "4,25 millones de euros más para los terrenos afectados por el incendio en Alberche y Tiétar",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVI3ZmRORWhrQlJ4WU5telBLa3hwVV9UUU5FbGJoS3NyTVVja1NUZm5lRml1Q25sR0Vzam9qYmxSRXlFX05NRDdxWmhMRDhTS3Q3NTZtNEstUng0dUg1ZUdjN3Y2QlRfbzlqUndDZ3lla0NzWUI0Y0V0VTZvZ2pZYVlxbmhzazd3aWtlMDdsYkhReXgzWnZ3STl2dzJiS0Z3OTdKZHMyR3BSVXFhX3lPT0EwV3IyWWVsd2E4X0JCSkRfamNMVEczZGI5MlJ0YnZQM3c?oc=5"
-    },
-    {
-      "id": "239b27e7b7c49dfb23",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-12T13:46:08+01:00",
-      "source": "Europa Press",
-      "title": "Se levantan las medidas restrictivas sobre Piedralaves y los 2.500 evacuados vuelven a sus casas",
-      "summary": "Los 2.500 vecinos del municipio abulense de Piedralaves (Ávila) podrán volver a sus casas...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-levantan-medidas-restrictivas-piedralaves-2500-evacuados-vuelven-casas-20261112120523.html"
     },
     {
       "id": "e65aef48e9f78d12bc",
@@ -48,18 +24,6 @@
       "title": "Cruz Roja lanza en Ávila un plan de respuesta ante incendios forestales",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTDY2eUUwTXdQeDRxdEVBSmladTBzUmlXazRWV3hrdjUyRVVuRzNxS2hwZXV6RWh1OW5MSFpVLVFwT1V1WDhNQnpENUI4TnlXNGVGUkFkMXFMYjZCYkhlbFNyTHBTS0YwMkoyTHNYczJUa1BtUy1VNktfX042T2ZpV2Y5VmFxWC1tS2U0OTNCNlhpUThxWmFHZV9Ra3BFeXVpb3dLR0c3dGU0MzNQaDVqYWM5anBKVl92dmxnTVNNS0laY0JlalZBcnEtaXBkdzVrckZ2UW0wQUt6UkhB0gHcAUFVX3lxTFBMNjZ5RTBNd1B4NHF0RUFKaVp1MHNSaVdrNFZXeGt2NTJFVW5HM3FLaHBldXpFaHU5bkxIWlUtUXBPVXVYOE1CekQ1QjhOeVc0ZUZSQWQxcUxiNkJiSGVsU3JMcFNLRjAySjJMc1hzMlRrUG1TLVU2S19fTjZPZmlXZjlWYXFYLW1LZTQ5M0I2WGlROHFaYUdlX1FrcEV5dWlvd0tHRzd0ZTQzM1BoNWphYzlqcEpWX3Z2bGdNU01LSVpjQmVqVkFycS1pcGR3NWtyRnZRbTBBS3pSSEE?oc=5"
-    },
-    {
-      "id": "1427d765f589296744",
-      "type": "news",
-      "severity": "critical",
-      "province": "Ávila",
-      "town": "Piedralaves",
-      "published": "2026-11-11T19:00:49+01:00",
-      "source": "Europa Press",
-      "title": "CyL mantiene las medidas de evacuación de Piedralaves, pero permite la actividad escolar y sanitaria en 31 municipios",
-      "summary": "El delegado Territorial de la Junta en Ávila, José Francisco Hernández Herrero, ha anunciado que se...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-cyl-mantiene-medidas-evacuacion-piedralaves-permite-actividad-escolar-sanitaria-31-municipios-20261111190049.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -169,17 +133,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 2
+    },
     "direct_media": {
       "ok": true,
-      "items": 3
+      "items": 0
     }
   },
   "refresh_seconds": 300
