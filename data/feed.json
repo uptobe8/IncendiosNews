@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:20:54+01:00",
+  "generated_at": "2026-11-13T03:43:18+01:00",
   "items": [
     {
       "id": "2afe964070db9a1375",
@@ -36,18 +36,6 @@
       "title": "Se levantan las medidas restrictivas sobre Piedralaves y los 2.500 evacuados vuelven a sus casas",
       "summary": "Los 2.500 vecinos del municipio abulense de Piedralaves (Ávila) podrán volver a sus casas...",
       "url": "https://www.europapress.es/castilla-y-leon/noticia-levantan-medidas-restrictivas-piedralaves-2500-evacuados-vuelven-casas-20261112120523.html"
-    },
-    {
-      "id": "8c36def452877c0f2f",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-12T13:39:33+01:00",
-      "source": "Europa Press",
-      "title": "La población de la Comunidad de Madrid aumenta en 33.246 personas en el tercer trimestre y supera los 7,23 millones",
-      "summary": "La población residente en la Comunidad de Madrid aumentó en 33.246 personas durante el tercer trimestre...",
-      "url": "https://www.europapress.es/madrid/noticia-poblacion-comunidad-madrid-aumenta-33246-personas-tercer-trimestre-supera-723-millones-20261112133933.html"
     },
     {
       "id": "e65aef48e9f78d12bc",
@@ -181,17 +169,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 2
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 4
+      "items": 3
     }
   },
   "refresh_seconds": 300
