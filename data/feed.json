@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-11-13T23:52:38+01:00",
+  "generated_at": "2026-11-14T03:48:38+01:00",
   "items": [
-    {
-      "id": "176c61339c78d6c2b1",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-11-13T00:44:00+01:00",
-      "source": "Tribuna de Ávila",
-      "title": "4,25 millones de euros más para los terrenos afectados por el incendio en Alberche y Tiétar",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVI3ZmRORWhrQlJ4WU5telBLa3hwVV9UUU5FbGJoS3NyTVVja1NUZm5lRml1Q25sR0Vzam9qYmxSRXlFX05NRDdxWmhMRDhTS3Q3NTZtNEstUng0dUg1ZUdjN3Y2QlRfbzlqUndDZ3lla0NzWUI0Y0V0VTZvZ2pZYVlxbmhzazd3aWtlMDdsYkhReXgzWnZ3STl2dzJiS0Z3OTdKZHMyR3BSVXFhX3lPT0EwV3IyWWVsd2E4X0JCSkRfamNMVEczZGI5MlJ0YnZQM3c?oc=5"
-    },
     {
       "id": "8c36def452877c0f2f",
       "type": "news",
@@ -139,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 0
     },
     "direct_media": {
       "ok": true,
