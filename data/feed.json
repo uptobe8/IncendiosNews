@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-11-14T10:31:43+01:00",
+  "generated_at": "2026-11-14T17:02:33+01:00",
   "items": [
     {
-      "id": "2afe964070db9a1375",
+      "id": "233f80d974dac86c42",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-12T21:16:18+01:00",
+      "published": "2026-11-14T15:44:07+01:00",
       "source": "Telemadrid",
-      "title": "El humorista Carlos Latre presentará el encendido de las luces de Navidad en Madrid",
-      "summary": "Será a las 7 de la tarde del sábado 21 de noviembre",
-      "url": "https://www.telemadrid.es/noticias/madrid/humorista-carlos-latre-presentara-encendido_1_2811763.html"
+      "title": "Así es el producto antiincendios de los Bomberos de Madrid para salvar obras de arte",
+      "summary": "Se trata de un producto creado por los bomberos madrileños pionero en el mundo",
+      "url": "https://www.telemadrid.es/noticias/madrid/producto-antiincendios-bomberos-madrid-salvar_1_2814934.html"
     },
     {
-      "id": "8c36def452877c0f2f",
+      "id": "5995e4245ec9601db4",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-12T13:39:33+01:00",
+      "published": "2026-11-14T12:19:02+01:00",
+      "source": "Madrid Actual",
+      "title": "Denuncian talas masivas en los montes quemados de Lozoyuela",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb21FeHdMNHRzT0tjcGJfNjY5T3JsOW80b1NlRHkzZ3BvZ3ctdGltYzVxUGkzSVFNMGg5LXRCemJUVWhsTEhSMkVXUGF2c3FTSVdfaDF4alNLaTNGSUNOODZyaFdncExQeXdhUWdfYTN0OVhsRWFSVThwQzVxZXdpYnEtYVRadWlvOU05MGlyZURhMlhkRGFmTy1xeE9vcFRuS0FvWWR2STF3Q051WkdIVm5OQmQ1TTc3c3pGQWpDOHl6azJZVUdnYVZzWkhzOGFTX3FIdGU1NC1Rejk5V0cwemln?oc=5"
+    },
+    {
+      "id": "6b5b33ef1b6e9a1ec0",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-14T09:38:50+01:00",
       "source": "Europa Press",
-      "title": "La población de la Comunidad de Madrid aumenta en 33.246 personas en el tercer trimestre y supera los 7,23 millones",
-      "summary": "La población residente en la Comunidad de Madrid aumentó en 33.246 personas durante el tercer trimestre...",
-      "url": "https://www.europapress.es/madrid/noticia-poblacion-comunidad-madrid-aumenta-33246-personas-tercer-trimestre-supera-723-millones-20261112133933.html"
+      "title": "Más Madrid pide que la Comunidad exprese su \"rechazo institucional\" al aumento del gasto militar",
+      "summary": "Más Madrid ha reclamado que la Asamblea exprese su \"rechazo institucional\" al aumento del gasto militar...",
+      "url": "https://www.europapress.es/madrid/noticia-mas-madrid-pide-comunidad-exprese-rechazo-institucional-aumento-gasto-militar-20261114093850.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -133,13 +145,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 0
     },
     "direct_media": {
       "ok": true,
