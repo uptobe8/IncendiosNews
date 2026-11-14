@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-14T17:02:33+01:00",
+  "generated_at": "2026-11-14T21:38:59+01:00",
   "items": [
     {
-      "id": "233f80d974dac86c42",
+      "id": "c12129a3b9fe1fc2fa",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-14T15:44:07+01:00",
+      "published": "2026-11-14T18:42:16+01:00",
       "source": "Telemadrid",
-      "title": "Así es el producto antiincendios de los Bomberos de Madrid para salvar obras de arte",
-      "summary": "Se trata de un producto creado por los bomberos madrileños pionero en el mundo",
-      "url": "https://www.telemadrid.es/noticias/madrid/producto-antiincendios-bomberos-madrid-salvar_1_2814934.html"
+      "title": "Cortes de tráfico en cinco distritos de Madrid por la carrea popular 'Ponle Freno' de este domingo",
+      "summary": "También 36 línea de autobús de la EMT van a sufrir modificaciones",
+      "url": "https://www.telemadrid.es/noticias/madrid/cortes-trafico-cinco-distritos-capital_1_2815160.html"
     },
     {
-      "id": "5995e4245ec9601db4",
+      "id": "afe103a2a27f8967a4",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-14T12:19:02+01:00",
+      "published": "2026-11-14T09:52:01+01:00",
       "source": "Madrid Actual",
       "title": "Denuncian talas masivas en los montes quemados de Lozoyuela",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -145,13 +145,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 1
     },
     "direct_media": {
       "ok": true,
