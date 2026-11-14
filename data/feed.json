@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-14T03:48:38+01:00",
+  "generated_at": "2026-11-14T10:31:43+01:00",
   "items": [
+    {
+      "id": "2afe964070db9a1375",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-12T21:16:18+01:00",
+      "source": "Telemadrid",
+      "title": "El humorista Carlos Latre presentará el encendido de las luces de Navidad en Madrid",
+      "summary": "Será a las 7 de la tarde del sábado 21 de noviembre",
+      "url": "https://www.telemadrid.es/noticias/madrid/humorista-carlos-latre-presentara-encendido_1_2811763.html"
+    },
     {
       "id": "8c36def452877c0f2f",
       "type": "news",
@@ -131,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
