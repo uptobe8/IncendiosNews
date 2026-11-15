@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-15T07:48:19+01:00",
+  "generated_at": "2026-11-15T15:21:54+01:00",
   "items": [
+    {
+      "id": "5e23616bf987a1f731",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Robledo de Chavela",
+      "published": "2026-11-15T14:23:03+01:00",
+      "source": "Telemadrid",
+      "title": "El descarrilamiento de un mercancías provoca el corte la línea de tren entre Madrid y Ávila",
+      "summary": "Se ha producido entre Zarzalejo y Robledo de Chavela. El maquinista ha resultado herido leve",
+      "url": "https://www.telemadrid.es/noticias/economia/descarrilamiento-mercancias-provoca-corte-linea_1_2815546.html"
+    },
     {
       "id": "6b5b33ef1b6e9a1ec0",
       "type": "news",
@@ -121,17 +133,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 0
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 0
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
