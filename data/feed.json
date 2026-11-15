@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-11-15T01:17:05+01:00",
+  "generated_at": "2026-11-15T07:48:19+01:00",
   "items": [
-    {
-      "id": "c12129a3b9fe1fc2fa",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-14T18:42:16+01:00",
-      "source": "Telemadrid",
-      "title": "Cortes de tráfico en cinco distritos de Madrid por la carrea popular 'Ponle Freno' de este domingo",
-      "summary": "También 36 línea de autobús de la EMT van a sufrir modificaciones",
-      "url": "https://www.telemadrid.es/noticias/madrid/cortes-trafico-cinco-distritos-capital_1_2815160.html"
-    },
-    {
-      "id": "afe103a2a27f8967a4",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-14T09:52:01+01:00",
-      "source": "Madrid Actual",
-      "title": "Denuncian talas masivas en los montes quemados de Lozoyuela",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb21FeHdMNHRzT0tjcGJfNjY5T3JsOW80b1NlRHkzZ3BvZ3ctdGltYzVxUGkzSVFNMGg5LXRCemJUVWhsTEhSMkVXUGF2c3FTSVdfaDF4alNLaTNGSUNOODZyaFdncExQeXdhUWdfYTN0OVhsRWFSVThwQzVxZXdpYnEtYVRadWlvOU05MGlyZURhMlhkRGFmTy1xeE9vcFRuS0FvWWR2STF3Q051WkdIVm5OQmQ1TTc3c3pGQWpDOHl6azJZVUdnYVZzWkhzOGFTX3FIdGU1NC1Rejk5V0cwemln?oc=5"
-    },
     {
       "id": "6b5b33ef1b6e9a1ec0",
       "type": "news",
@@ -145,17 +121,17 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 0
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "direct_media": {
       "ok": true,
-      "items": 2
+      "items": 1
     }
   },
   "refresh_seconds": 300
