@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-11-15T20:52:32+01:00",
+  "generated_at": "2026-11-16T00:39:25+01:00",
   "items": [
-    {
-      "id": "d1c6a2f48fd03fc3f2",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Zarzalejo",
-      "published": "2026-11-15T17:58:40+01:00",
-      "source": "Telemadrid",
-      "title": "El descarrilamiento de un mercancías entre Zarzalejo y Robledo provoca el corte la línea de tren entre Madrid y Ávila",
-      "summary": "La principal hipótesis apunta a un desprendimiento de tierra debido a las lluvias",
-      "url": "https://www.telemadrid.es/noticias/economia/descarrilamiento-mercancias-provoca-corte-linea_1_2815546.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -131,7 +119,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
