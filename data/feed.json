@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-16T12:06:09+01:00",
+  "generated_at": "2026-11-16T21:58:02+01:00",
   "items": [
+    {
+      "id": "8d25cf2ad2e9b3c10f",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-16T21:19:30+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "Fin de la emergencia ante el riesgo de inundaciones en Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnozQmVHWVdRa0lpNXMwcEZZeEtvdHNQV3JJcWVzSm1JZjlqeTFSaEFDWm9JbWxEWllFVV9UdU43RDltMVl1eC00LUJkVW1UV0ZMTklfeVZLM3oxM0x5bUMxUG85ek1mQ0M4S3poX3JYSk51NmFmLUJYQjRPQUpzTnBrX1JlR1NVRVM4ck51QUZrdHFReTBBbFFrSFNJVXdHWTlUWFZRY2Y?oc=5"
+    },
     {
       "id": "298c8b1a39a701c9bd",
       "type": "news",
@@ -121,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
