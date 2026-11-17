@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-17T04:35:38+01:00",
+  "generated_at": "2026-11-17T13:24:59+01:00",
   "items": [
+    {
+      "id": "011a3cc09f26f01f1d",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-17T13:02:29+01:00",
+      "source": "Telemadrid",
+      "title": "La huelga de Cercanías y el corte de la A-5 dejan un día de circulación \"difícil\" en Madrid con un 8% más de tráfico",
+      "summary": "\"800.000 personas que se desplazan todos los días en el servicio de Cercanías\" a buscar \"otras alternativas\", en sus vehículos privados, Metro y autobuses",
+      "url": "https://www.telemadrid.es/noticias/madrid/huelga-cercanias-corte-5-dejan_1_2819895.html"
+    },
+    {
+      "id": "1187e8d7c049877de8",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-17T02:42:32+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "Fin de la emergencia ante el riesgo de inundaciones en Ávila",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnozQmVHWVdRa0lpNXMwcEZZeEtvdHNQV3JJcWVzSm1JZjlqeTFSaEFDWm9JbWxEWllFVV9UdU43RDltMVl1eC00LUJkVW1UV0ZMTklfeVZLM3oxM0x5bUMxUG85ek1mQ0M4S3poX3JYSk51NmFmLUJYQjRPQUpzTnBrX1JlR1NVRVM4ck51QUZrdHFReTBBbFFrSFNJVXdHWTlUWFZRY2Y?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,11 +139,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
