@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-18T03:54:36+01:00",
+  "generated_at": "2026-11-18T12:01:43+01:00",
   "items": [
+    {
+      "id": "c2195345524a42723e",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-17T19:01:02+01:00",
+      "source": "Madrid Actual",
+      "title": "Rodrigo reivindica el refuerzo de la seguridad y emergencias en la región",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHZWenVaV2lRS3JuSGNNVlB2WDBjYVVtMWtySGoyblBIU0QtVUhIRTJKWEtkOXVNeGwtUEh6QzVZUU9LR1ZVSWl0ZE5VdWNSSTJjYm9jcm5kaGRLU3E3c2xRV2kzdlFRT2FwVkszbGZDUVFwMkNqa3MtSHQ5dEhjV3o5NW5jMnBud0ZUV0xENHJmaGpyWDZVMDNIMTUtUXJqempleVZndUpDQXFWSGJGbjdvZzhFcWdjOGdMb3ZhMC1FUnQwMTFCdWJ3WmsyMUJXdTNOX3hjV2JjbWo0Rm9uYW1Ib1RuZw?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
