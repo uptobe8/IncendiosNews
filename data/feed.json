@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-11-18T12:01:43+01:00",
+  "generated_at": "2026-11-18T20:21:38+01:00",
   "items": [
     {
-      "id": "c2195345524a42723e",
+      "id": "cc06c74f960a0237ea",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-11-18T18:04:00+01:00",
+      "source": "La Tribuna de Toledo",
+      "title": "El incendio de La Mierla tenía 100.000 hectáreas de potencial",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlgteGZCR2wxdzFTd2NuRXZrYWdxV2I5cGNIbzdZRUpicjd5czBLNlFLd3lFVjVDaGNwX2NKOFJEZkxrZEpBaDZUd0ROV0xtMzR6TkFqTzIxanZIZmt0bTIzbUprOHZtcW1WWEpMcERUWE1CSEc2ZkFGX2VaQV9KZlBOcUd1QXNZTjFUU3lVUFZYYzZvVVl3bkpVeU1GdEVpdTRIQ245VFFWV2YtTDI3Rjc0Z0stVzRlWHBHdG9Xdkwxb3ZXczhqU1VRdThCME9McnNUQzRpYmVRcWgweFR3?oc=5"
+    },
+    {
+      "id": "5e974e461c99f8ad03",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-17T19:01:02+01:00",
-      "source": "Madrid Actual",
-      "title": "Rodrigo reivindica el refuerzo de la seguridad y emergencias en la región",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHZWenVaV2lRS3JuSGNNVlB2WDBjYVVtMWtySGoyblBIU0QtVUhIRTJKWEtkOXVNeGwtUEh6QzVZUU9LR1ZVSWl0ZE5VdWNSSTJjYm9jcm5kaGRLU3E3c2xRV2kzdlFRT2FwVkszbGZDUVFwMkNqa3MtSHQ5dEhjV3o5NW5jMnBud0ZUV0xENHJmaGpyWDZVMDNIMTUtUXJqempleVZndUpDQXFWSGJGbjdvZzhFcWdjOGdMb3ZhMC1FUnQwMTFCdWJ3WmsyMUJXdTNOX3hjV2JjbWo0Rm9uYW1Ib1RuZw?oc=5"
+      "published": "2026-11-18T17:24:46+01:00",
+      "source": "Europa Press",
+      "title": "Susana Díaz replica a Ayuso que \"a Andalucía se la respeta\": No es \"un argumento para hacer campaña desde Madrid\"",
+      "summary": "La expresidenta de la Junta y exsecretaria general del PSOE andaluz Susana Díaz ha replicado este...",
+      "url": "https://www.europapress.es/andalucia/noticia-susana-diaz-replica-ayuso-andalucia-respeta-no-argumento-hacer-campana-madrid-20261118171917.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -131,7 +143,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
