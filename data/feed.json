@@ -1,41 +1,17 @@
 {
-  "generated_at": "2026-11-19T09:53:46+01:00",
+  "generated_at": "2026-11-19T18:54:30+01:00",
   "items": [
     {
-      "id": "fbcc4dfff40464ec01",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-11-19T08:48:53+01:00",
-      "source": "Europa Press",
-      "title": "Un incendio en una vivienda de Magán se salda con una mujer intoxicada por humo y hospitalizada en Toledo",
-      "summary": "Una mujer de 69 años ha sido ingresada en la madrugada de este jueves en el Hospital Universitario de...",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-incendio-vivienda-magan-salda-mujer-intoxicada-humo-hospitalizada-toledo-20261119084853.html"
-    },
-    {
-      "id": "cc06c74f960a0237ea",
-      "type": "news",
-      "severity": "info",
-      "province": "Toledo",
-      "town": "Provincia de Toledo",
-      "published": "2026-11-18T18:04:00+01:00",
-      "source": "La Tribuna de Toledo",
-      "title": "El incendio de La Mierla tenía 100.000 hectáreas de potencial",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlgteGZCR2wxdzFTd2NuRXZrYWdxV2I5cGNIbzdZRUpicjd5czBLNlFLd3lFVjVDaGNwX2NKOFJEZkxrZEpBaDZUd0ROV0xtMzR6TkFqTzIxanZIZmt0bTIzbUprOHZtcW1WWEpMcERUWE1CSEc2ZkFGX2VaQV9KZlBOcUd1QXNZTjFUU3lVUFZYYzZvVVl3bkpVeU1GdEVpdTRIQ245VFFWV2YtTDI3Rjc0Z0stVzRlWHBHdG9Xdkwxb3ZXczhqU1VRdThCME9McnNUQzRpYmVRcWgweFR3?oc=5"
-    },
-    {
-      "id": "5e974e461c99f8ad03",
+      "id": "c0448264d2f36e6721",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-18T17:24:46+01:00",
-      "source": "Europa Press",
-      "title": "Susana Díaz replica a Ayuso que \"a Andalucía se la respeta\": No es \"un argumento para hacer campaña desde Madrid\"",
-      "summary": "La expresidenta de la Junta y exsecretaria general del PSOE andaluz Susana Díaz ha replicado este...",
-      "url": "https://www.europapress.es/andalucia/noticia-susana-diaz-replica-ayuso-andalucia-respeta-no-argumento-hacer-campana-madrid-20261118171917.html"
+      "published": "2026-11-19T11:03:01+01:00",
+      "source": "Madrid Actual",
+      "title": "España suma 301.889 hectáreas quemadas en 2026",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -149,13 +125,13 @@
       "ok": true,
       "items": 1
     },
+    "direct_media": {
+      "ok": true,
+      "items": 0
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "direct_media": {
-      "ok": true,
-      "items": 2
     }
   },
   "refresh_seconds": 300
