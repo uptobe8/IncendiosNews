@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-19T02:18:10+01:00",
+  "generated_at": "2026-11-19T09:53:46+01:00",
   "items": [
+    {
+      "id": "fbcc4dfff40464ec01",
+      "type": "news",
+      "severity": "info",
+      "province": "Toledo",
+      "town": "Provincia de Toledo",
+      "published": "2026-11-19T08:48:53+01:00",
+      "source": "Europa Press",
+      "title": "Un incendio en una vivienda de Magán se salda con una mujer intoxicada por humo y hospitalizada en Toledo",
+      "summary": "Una mujer de 69 años ha sido ingresada en la madrugada de este jueves en el Hospital Universitario de...",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-incendio-vivienda-magan-salda-mujer-intoxicada-humo-hospitalizada-toledo-20261119084853.html"
+    },
     {
       "id": "cc06c74f960a0237ea",
       "type": "news",
@@ -133,17 +145,17 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 1
     },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
+    },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 2
     }
   },
   "refresh_seconds": 300
