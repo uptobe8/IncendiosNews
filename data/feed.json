@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-11-20T08:26:42+01:00",
+  "generated_at": "2026-11-20T17:17:35+01:00",
   "items": [
     {
-      "id": "c0448264d2f36e6721",
+      "id": "0a8e8f08b856f8a697",
       "type": "news",
       "severity": "info",
       "province": "Madrid",
       "town": "Comunidad de Madrid",
-      "published": "2026-11-19T11:03:01+01:00",
-      "source": "Madrid Actual",
-      "title": "España suma 301.889 hectáreas quemadas en 2026",
+      "published": "2026-11-20T16:01:37+01:00",
+      "source": "La Razón",
+      "title": "Madrid recupera los montes afectados por el incendio forestal de la Sierra Norte",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFd1a1hZUldmaWlad19sYmNlTWNOTXdyeV9nRmh3bllXTjhoZDM0YnVJcDdwZ0REelBtbjVQUi0yc0tUdTc4dHpVa3FHVG9mOUItU0ktUEZDQjNTWjRDSGF4VXZQVS1jc3VIdmRRNUxGQ0lXV2tNNlFfVXZ5OUQxWFU0UFdWZVdwcDMwV0VHTUR2RVZFNWVMVFpZT1NGTGtvcklhMGVDcS0yRFhyYVkwR2pYU0kwdXpfQ3dENVRGSU9jckZXMWg4N1lWb9IB3wFBVV95cUxOVUc5bzVNWE5kWDBEUXlkQ0VjRXhSNUZiR2NULURfZEkzVGtNYkRzS193TEhDamlZTHZ5MW9PWTJUaWJVS052UmRJdUt4LWRWZ05GOERjSkZmLXpueDYwOEFMZmxHS0FfVi1SZkkwM0Y0SkxHQkhNUk9PLURySnhFaWpqNEFndVhGUjZDZUNEMXV0bEZzNUw5Nm1EMlBBbjN5b1EtcWVvNzNVMl9SZEg0cDNlUjdlUnF6cVRwNE4yOC1NZkhPUXZYQWdqOTdoN3JWVWRwcWVZQVAxaDR5NVRn?oc=5"
+    },
+    {
+      "id": "3324c5aaf03f06aa23",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Mijares",
+      "published": "2026-11-20T14:23:00+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "Mijares recupera la luz tras más de diez horas de corte y denuncia la falta de información",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3p5N1R2am5BQ19CNTZuSDRxbkVUS1J1NVpCQVJKaUxsLVhnVlhpelB5ZUZYU3cxWUk4ZndXRnY1MGZtUlA5QXRHSmdUcllEWktIdkxJVlRRQmF0enloVmFYbGpKeU5PNEVCeEtlRTBUb2hBLTBGTVRPcGdGX0MwY1dHVlhmRE5hU05zSzZOWVpBejRjajBnWmhDZkQxejVyMDYtbVFzaUwwTHNIenN0MzlJeGRad3AweE1ZSzJDRENsMDF2a3gzQUtMQWxyUU85?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -121,13 +133,13 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 1
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
+    },
+    "google_news": {
+      "ok": true,
+      "items": 2
     },
     "direct_media": {
       "ok": true,
