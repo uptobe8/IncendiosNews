@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-21T19:13:02+01:00",
+  "generated_at": "2026-11-22T00:21:54+01:00",
   "items": [
     {
-      "id": "0a93d99a1d65909baa",
+      "id": "9cafab8783d7b76954",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-21T20:29:41+01:00",
+      "source": "Europa Press",
+      "title": "La Navidad cae \"del cielo a Madrid\" entre 500 drones, fuegos artificiales y la voz de Pastora Soler",
+      "summary": "Carlos Latre ha sido el maestro de la ceremonia que ha comenzado con una coreografía sobre patines alrededor...",
+      "url": "https://www.europapress.es/madrid/noticia-navidad-cae-cielo-madrid-500-drones-fuegos-artificiales-voz-pastora-soler-20261121202941.html"
+    },
+    {
+      "id": "607a7c96de637bc3b7",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-11-21T18:07:42+01:00",
+      "published": "2026-11-21T13:58:00+01:00",
       "source": "Tribuna de Ávila",
       "title": "Varios testigos prestan declaración sobre el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0pDMVA5MW0wam5wYU9qQkF2N1k2S3B6ckRDcDNNTXRVVmtQdWlaelVqbDhHXzVIVWgxOVR1UmdMVUNWVE1USXFrWWJhdFZtYnZUNTc1enhlNzJYMGg3aEhhVlotdDNIaF9MRFlWT2UyMFd3X29HazlBX1g4NjU3Q2x4dEQ4NzgzS3dyYjlGemdDSnp1dDRaUmVLLUhnN0xXN1pYWFpOZWdGdExyUV9rT3Fn?oc=5"
-    },
-    {
-      "id": "060b39dbf4b00935d0",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Mijares",
-      "published": "2026-11-20T23:23:00+01:00",
-      "source": "Tribuna de Ávila",
-      "title": "Mijares recupera la luz tras más de diez horas de corte y denuncia la falta de información",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3p5N1R2am5BQ19CNTZuSDRxbkVUS1J1NVpCQVJKaUxsLVhnVlhpelB5ZUZYU3cxWUk4ZndXRnY1MGZtUlA5QXRHSmdUcllEWktIdkxJVlRRQmF0enloVmFYbGpKeU5PNEVCeEtlRTBUb2hBLTBGTVRPcGdGX0MwY1dHVlhmRE5hU05zSzZOWVpBejRjajBnWmhDZkQxejVyMDYtbVFzaUwwTHNIenN0MzlJeGRad3AweE1ZSzJDRENsMDF2a3gzQUtMQWxyUU85?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -133,17 +133,17 @@
     }
   ],
   "checks": {
-    "google_news": {
-      "ok": true,
-      "items": 2
-    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
     },
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
