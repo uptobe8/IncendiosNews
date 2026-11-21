@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T23:42:29+01:00",
+  "generated_at": "2026-11-21T04:31:00+01:00",
   "items": [
     {
-      "id": "9cd16f715ede34500b",
+      "id": "060b39dbf4b00935d0",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Mijares",
-      "published": "2026-11-20T20:31:28+01:00",
+      "published": "2026-11-20T23:23:00+01:00",
       "source": "Tribuna de Ávila",
       "title": "Mijares recupera la luz tras más de diez horas de corte y denuncia la falta de información",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
@@ -133,13 +133,13 @@
     }
   ],
   "checks": {
-    "official": {
-      "ok": false,
-      "error": "RuntimeError"
-    },
     "google_news": {
       "ok": true,
       "items": 2
+    },
+    "official": {
+      "ok": false,
+      "error": "RuntimeError"
     },
     "direct_media": {
       "ok": true,
