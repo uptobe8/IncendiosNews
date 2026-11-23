@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-11-23T05:06:22+01:00",
+  "generated_at": "2026-11-23T15:29:58+01:00",
   "items": [
-    {
-      "id": "9cafab8783d7b76954",
-      "type": "news",
-      "severity": "info",
-      "province": "Madrid",
-      "town": "Comunidad de Madrid",
-      "published": "2026-11-21T20:29:41+01:00",
-      "source": "Europa Press",
-      "title": "La Navidad cae \"del cielo a Madrid\" entre 500 drones, fuegos artificiales y la voz de Pastora Soler",
-      "summary": "Carlos Latre ha sido el maestro de la ceremonia que ha comenzado con una coreografía sobre patines alrededor...",
-      "url": "https://www.europapress.es/madrid/noticia-navidad-cae-cielo-madrid-500-drones-fuegos-artificiales-voz-pastora-soler-20261121202941.html"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -131,7 +119,7 @@
     },
     "direct_media": {
       "ok": true,
-      "items": 1
+      "items": 0
     }
   },
   "refresh_seconds": 300
