@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-11-24T12:41:48+01:00",
+  "generated_at": "2026-11-24T22:31:33+01:00",
   "items": [
     {
-      "id": "898a65738a47bbbb13",
+      "id": "77bd1ba6e15405a8bc",
       "type": "news",
       "severity": "info",
       "province": "Ávila",
       "town": "Burgohondo",
-      "published": "2026-11-23T16:51:02+01:00",
+      "published": "2026-11-24T18:55:00+01:00",
       "source": "Diario de Ávila",
-      "title": "El delegado confía en que se haga justicia por el fuego de Burgohondo",
+      "title": "VOX propone un plan estatal específico tras el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEdhYnVlQlJua1lqa0I1ZFgxbFFDYWR6bE5mTFlHZTRtQ0tDQTZEOG1MX1pha2NEczM1SkxBWnVGUS1GZHhHcjZaREJES0JDSE45bHlVNTltUG9wZVVTd2ZOeWZTN1k4R3FHTkNaS3FPNHhvYmxRWTFFdXUwMG1VTFRkMEo3MlZqdFFsYXpzZkRhNVJrbFBxV0M1R3BOaEtMRUxrUURiR013alFvc2gzZTVaNVlIcHV6VV9NaUdjVEtYRUs2MHVNWTYtRlM0alFERlkwQw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOand2ODdvRllMenRLVjZnSUIyS3RtbDBWOE1YVS0zNzZCTXRkd1Iyc1F3NXNTOE13Y0pOT3NhTEFKNC1RQU01dDhMbVpyU05kVnFuRllWbVJZWnQyVUcxZ3Z5YndNUXpJSFBTSW50cUFzdnM5b1M5d2duc3Y5bUMyb1pjQXkwLVlkVHBPTFR6Z0c0aGJzcVV4MzlJNGtWZTJlMGJyR2dwVDRNYnltNGV0NEEybVo0eExlLUdVLV9DTm5Rc0VpX0NHUjEwNUhrTTVQSFE?oc=5"
+    },
+    {
+      "id": "e700a79508f1610f69",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-24T14:55:11+01:00",
+      "source": "Europa Press",
+      "title": "El Gobierno declara zonas afectadas por emergencia de protección civil en la provincia de Ávila",
+      "summary": "El Consejo de Ministros ha declarado este martes zonas afectadas gravemente por una emergencia de...",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-gobierno-declara-zonas-afectadas-emergencia-proteccion-civil-provincia-avila-20261124145511.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -127,11 +139,11 @@
     },
     "google_news": {
       "ok": true,
-      "items": 1
+      "items": 2
     },
     "direct_media": {
       "ok": true,
-      "items": 0
+      "items": 1
     }
   },
   "refresh_seconds": 300
