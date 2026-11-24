@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-23T15:29:58+01:00",
+  "generated_at": "2026-11-24T02:50:57+01:00",
   "items": [
+    {
+      "id": "898a65738a47bbbb13",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Burgohondo",
+      "published": "2026-11-23T16:51:02+01:00",
+      "source": "Diario de Ávila",
+      "title": "El delegado confía en que se haga justicia por el fuego de Burgohondo",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEdhYnVlQlJua1lqa0I1ZFgxbFFDYWR6bE5mTFlHZTRtQ0tDQTZEOG1MX1pha2NEczM1SkxBWnVGUS1GZHhHcjZaREJES0JDSE45bHlVNTltUG9wZVVTd2ZOeWZTN1k4R3FHTkNaS3FPNHhvYmxRWTFFdXUwMG1VTFRkMEo3MlZqdFFsYXpzZkRhNVJrbFBxV0M1R3BOaEtMRUxrUURiR013alFvc2gzZTVaNVlIcHV6VV9NaUdjVEtYRUs2MHVNWTYtRlM0alFERlkwQw?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -109,13 +121,13 @@
     }
   ],
   "checks": {
+    "google_news": {
+      "ok": true,
+      "items": 1
+    },
     "official": {
       "ok": false,
       "error": "RuntimeError"
-    },
-    "google_news": {
-      "ok": true,
-      "items": 0
     },
     "direct_media": {
       "ok": true,
