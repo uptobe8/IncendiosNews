@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-25T05:31:53+01:00",
+  "generated_at": "2026-11-25T15:51:47+01:00",
   "items": [
+    {
+      "id": "5ab9359d432ac3e764",
+      "type": "news",
+      "severity": "info",
+      "province": "Madrid",
+      "town": "Comunidad de Madrid",
+      "published": "2026-11-25T10:48:09+01:00",
+      "source": "Europa Press",
+      "title": "Solo dos de las siete mujeres asesinadas en Madrid en 2026 habían denunciado y aumentan un 9,3% los delitos sexuales",
+      "summary": "Un informe de Comisiones Obreras (CC.OO.) con motivo del Día Internacional de la Eliminación de la...",
+      "url": "https://www.europapress.es/madrid/noticia-solo-dos-siete-mujeres-asesinadas-madrid-2026-denunciado-aumentan-93-delitos-sexuales-20261125104809.html"
+    },
     {
       "id": "77bd1ba6e15405a8bc",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "VOX propone un plan estatal específico tras el incendio de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOand2ODdvRllMenRLVjZnSUIyS3RtbDBWOE1YVS0zNzZCTXRkd1Iyc1F3NXNTOE13Y0pOT3NhTEFKNC1RQU01dDhMbVpyU05kVnFuRllWbVJZWnQyVUcxZ3Z5YndNUXpJSFBTSW50cUFzdnM5b1M5d2duc3Y5bUMyb1pjQXkwLVlkVHBPTFR6Z0c0aGJzcVV4MzlJNGtWZTJlMGJyR2dwVDRNYnltNGV0NEEybVo0eExlLUdVLV9DTm5Rc0VpX0NHUjEwNUhrTTVQSFE?oc=5"
-    },
-    {
-      "id": "e700a79508f1610f69",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-11-24T14:55:11+01:00",
-      "source": "Europa Press",
-      "title": "El Gobierno declara zonas afectadas por emergencia de protección civil en la provincia de Ávila",
-      "summary": "El Consejo de Ministros ha declarado este martes zonas afectadas gravemente por una emergencia de...",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-gobierno-declara-zonas-afectadas-emergencia-proteccion-civil-provincia-avila-20261124145511.html"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
