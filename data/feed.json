@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-25T15:51:47+01:00",
+  "generated_at": "2026-11-26T00:24:25+01:00",
   "items": [
+    {
+      "id": "88b6a981f9ac69b0ff",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-25T20:42:13+01:00",
+      "source": "Tribuna de Ávila",
+      "title": "Los aviones 'botijos' de la lucha contra incendios: 1.923 horas de vuelo y 5.293 descargas de agua",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFdmN0dNY0FuY2t1SHVJbUlLSlZod0NRV25lUzNGMVV0Z3lfX3hnWjlNcWFfY0dRM1Nfb2c4aGxCNnBKTkktSWJlNDhEZl9kcHRYTU8yZV9oY3pUTWpnNFVCUk5wVXh1WWZsNWpEVkc4RktsSkRmMTRrdjZyT2xtTW54djY2T0xKYkhRd1dCZUNaaVd3a1VpZWtuQ1BzYkZqcW5va2xLYzdnSEozcXYzS3ltOFFFX2lVRV9wVHhnbzBxcm5CWm9JVGNzWERVRWtKR3N5SjktMA?oc=5"
+    },
     {
       "id": "5ab9359d432ac3e764",
       "type": "news",
@@ -12,18 +24,6 @@
       "title": "Solo dos de las siete mujeres asesinadas en Madrid en 2026 habían denunciado y aumentan un 9,3% los delitos sexuales",
       "summary": "Un informe de Comisiones Obreras (CC.OO.) con motivo del Día Internacional de la Eliminación de la...",
       "url": "https://www.europapress.es/madrid/noticia-solo-dos-siete-mujeres-asesinadas-madrid-2026-denunciado-aumentan-93-delitos-sexuales-20261125104809.html"
-    },
-    {
-      "id": "77bd1ba6e15405a8bc",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-11-24T18:55:00+01:00",
-      "source": "Diario de Ávila",
-      "title": "VOX propone un plan estatal específico tras el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOand2ODdvRllMenRLVjZnSUIyS3RtbDBWOE1YVS0zNzZCTXRkd1Iyc1F3NXNTOE13Y0pOT3NhTEFKNC1RQU01dDhMbVpyU05kVnFuRllWbVJZWnQyVUcxZ3Z5YndNUXpJSFBTSW50cUFzdnM5b1M5d2duc3Y5bUMyb1pjQXkwLVlkVHBPTFR6Z0c0aGJzcVV4MzlJNGtWZTJlMGJyR2dwVDRNYnltNGV0NEEybVo0eExlLUdVLV9DTm5Rc0VpX0NHUjEwNUhrTTVQSFE?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -139,7 +139,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 2
+      "items": 1
     },
     "direct_media": {
       "ok": true,
