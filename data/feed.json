@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:39:52+01:00",
+  "generated_at": "2026-11-27T18:39:15+01:00",
   "items": [
     {
       "id": "402943086b73244628",
@@ -36,18 +36,6 @@
       "title": "Piden una reforma del sistema de prevención y extinción de incendios forestales tras el desastre de Burgohondo",
       "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLTdpNzN0d01oaUpNUldJTzkxUVNNbVJvdnl5N1ZfT1RxeWFPY2xrZ3ZkUUR6WnNrNTAySHhZR09iX2NBQzZybFU3YUtfZUg0aFZ2blI1ZEhyYkFnN2FQWU5QZXBOeTQ0c3NaODB2T0NJRXgxQ1dLRHhoNGFUTldjbGc4dE9vOVNpT1FERWU4NnlCaXJId1QwaXZ5QW5KMjNKdlVaUlZaZVFpcXFoNmY4bWlyZWVmRUxlWEY3d3lMNjlyY2hMbDB4SGxPRk9DdWtLbG04T256S0pBUk1BdEFaSXUyc2s3VG1UMjJN?oc=5"
-    },
-    {
-      "id": "2064aa4d198753321d",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-11-26T13:19:29+01:00",
-      "source": "Diario de Ávila",
-      "title": "Diez colectivos piden cambios en la lucha contra los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDhxQUlvRVVod1NNb2tXa2U1ZEtfc0ttckx4M29PTGVyS1QzRVF3MGZNWUZYZ1Rvb0ktNF9NLUN1LXlNZ0dMdXRaaDZtTW1HY09FZ0QwbzZXWl9LRDFGR28tS1VxQ0dNUzVqNnJfSlBrWkNqTkdkbjV2b0dMdVVzMnV3MHY5eGo1b2llX3B2Y2lWNWtqRWhGWE1lQ2t4MkFGcktLd2poS19Ydkl5YXFJVzBsNXIzMm83Vzd4X09Gbkt1X1JIWXhSeU5BblViM1VPVFlxcWphQ3ZoZ1U?oc=5"
     },
     {
       "id": "tm-valdemaqueda-2707-1633",
@@ -163,7 +151,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 4
+      "items": 3
     },
     "direct_media": {
       "ok": true,
