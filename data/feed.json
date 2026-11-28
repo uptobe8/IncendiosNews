@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-11-27T18:39:15+01:00",
+  "generated_at": "2026-11-28T01:41:39+01:00",
   "items": [
-    {
-      "id": "402943086b73244628",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-11-26T21:55:08+01:00",
-      "source": "Tribuna de Ávila",
-      "title": "1,5 millones para restaurar los montes afectados por el incendio de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWG1RY0tRSnJaR250enpMN3J2ekMwUTRuWURoY0NwRlBNRmJKRVgwOFE2OE1BNDAta2hFNGhBcDVLNzlIVUtsRnhuWFFRN0puaW1aVXJRTVZqZV9vVGctWTlWNEJEa2l2elNVbjNJWDBLUjRBSlYydGNpX1IzTS1BRGdqb2ItS0hQcVoxSmQtZjByODV1VC1rVlF0Wll3ZUYzMzBfRjZJTVhEZ3RPc28xaFJZZ1RPbDFsMTgwUnlqZ00?oc=5"
-    },
-    {
-      "id": "4da49bb39ff20e0f48",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Provincia de Ávila",
-      "published": "2026-11-26T19:32:49+01:00",
-      "source": "Tribuna de Ávila",
-      "title": "600.000 euros para recuperar espacios turísticos afectados por los incendios",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnZnMDAwSkp4WDkwSTdTRzBENE5uLWNfdC1lMnNKMUFvWFBoYmdKblNDM19DWkUtaGpQR1c0aUZ5dGlGa09FaXRtTHRobGsyQldDVDQ4MDc2WktFd2lRbzZVV0tyZEVvcGRYTVZIVXI3dm9RZWtLVG5iN2dlU2RmSUdRcm80NFpjRTJ3X2NZd0V6eHVQc0pHU25RY2hZSGFJX1ItSDRUc3J0Ymt0blFmd3VhNUtqMU55QmNzdDl3?oc=5"
-    },
-    {
-      "id": "325d8af19d70e6c71b",
-      "type": "news",
-      "severity": "info",
-      "province": "Ávila",
-      "town": "Burgohondo",
-      "published": "2026-11-26T19:00:00+01:00",
-      "source": "Tribuna de Ávila",
-      "title": "Piden una reforma del sistema de prevención y extinción de incendios forestales tras el desastre de Burgohondo",
-      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLTdpNzN0d01oaUpNUldJTzkxUVNNbVJvdnl5N1ZfT1RxeWFPY2xrZ3ZkUUR6WnNrNTAySHhZR09iX2NBQzZybFU3YUtfZUg0aFZ2blI1ZEhyYkFnN2FQWU5QZXBOeTQ0c3NaODB2T0NJRXgxQ1dLRHhoNGFUTldjbGc4dE9vOVNpT1FERWU4NnlCaXJId1QwaXZ5QW5KMjNKdlVaUlZaZVFpcXFoNmY4bWlyZWVmRUxlWEY3d3lMNjlyY2hMbDB4SGxPRk9DdWtLbG04T256S0pBUk1BdEFaSXUyc2s3VG1UMjJN?oc=5"
-    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -151,7 +115,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 3
+      "items": 0
     },
     "direct_media": {
       "ok": true,
