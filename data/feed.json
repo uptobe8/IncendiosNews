@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-28T01:41:39+01:00",
+  "generated_at": "2026-11-28T09:28:28+01:00",
   "items": [
+    {
+      "id": "416efd3f4dbfd33f24",
+      "type": "news",
+      "severity": "info",
+      "province": "Ávila",
+      "town": "Provincia de Ávila",
+      "published": "2026-11-28T05:00:00+01:00",
+      "source": "Diario de Ávila",
+      "title": "Piden a los ayuntamientos una lista de afectados por el fuego",
+      "summary": "Abre la fuente para consultar el contenido completo y la actualización publicada por el medio.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUTVSaENJZmhOQy1ZdTBJNHoxSWJzQVhERjN3azRfRldpWlJrYkctQ3huUFd4Um1QNWFrcWZvZ0wwMFdlaFRkYVVmZGNHQldyZGJnRkh4UGs1OUU2RHc2czZTV1FlUG01RWg0bFV0OHktenVPMXNERGN4M2tpaEhsa0E4MkRYT2dUUjB6bU1tNnNEM1BFaVc4b25YNXl2OC1ZWVU4VGxBbkR6c3FSNlZnZ1BQT3ZXdG90d1FPVm1aMWViMnZaMncyRzV6dVpEUVptV05mOWVrUEw0UQ?oc=5"
+    },
     {
       "id": "tm-valdemaqueda-2707-1633",
       "type": "news",
@@ -115,7 +127,7 @@
     },
     "google_news": {
       "ok": true,
-      "items": 0
+      "items": 1
     },
     "direct_media": {
       "ok": true,
